@@ -1,0 +1,80 @@
+# .github/workflows/publish.yml
+name: Publish packs
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tests
+        run: python -m pytest -v
+
+      - name: Validate packs
+        run: python -m scripts.cli validate-all
+
+      - name: Recompute checksums
+        run: python -m scripts.cli checksums
+
+      - name: Regenerate registry
+        run: python -m scripts.cli registry
+
+      - name: Commit regenerated artifacts (main only)
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet jurisdictions.json jurisdictions/; then
+            git add jurisdictions.json jurisdictions/*/manifest.json
+            git commit -m "chore(ci): regenerate checksums and registry [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Stage artifacts for Pages
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        run: |
+          mkdir -p _site
+          cp jurisdictions.json _site/
+          cp -R jurisdictions _site/
+
+      - name: Upload Pages artifact
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: validate-and-publish
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
