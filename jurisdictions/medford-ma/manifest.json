@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "medford-ma",
+  "display_name": "Medford",
+  "state": "MA",
+  "last_updated": "2026-04-19T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.397181,
+    -71.1454097,
+    42.4490417,
+    -71.0738106
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": false,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    }
+  }
+}

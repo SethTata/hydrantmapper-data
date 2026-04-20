@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "peabody-ma",
+  "display_name": "Peabody",
+  "state": "MA",
+  "last_updated": "2026-04-19T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.4958048,
+    -71.043016,
+    42.5696517,
+    -70.912695
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": false,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    }
+  }
+}

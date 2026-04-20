@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "chelsea-ma",
+  "display_name": "Chelsea",
+  "state": "MA",
+  "last_updated": "2026-04-19T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.385731,
+    -71.0505485,
+    42.4130614,
+    -71.0132127
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": false,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    }
+  }
+}

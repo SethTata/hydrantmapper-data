@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "saugus-ma",
+  "display_name": "Saugus",
+  "state": "MA",
+  "last_updated": "2026-04-19T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.442031,
+    -71.052909,
+    42.503722,
+    -70.9805177
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": false,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    }
+  }
+}

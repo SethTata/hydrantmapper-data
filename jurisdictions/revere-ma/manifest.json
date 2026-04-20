@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "revere-ma",
+  "display_name": "Revere",
+  "state": "MA",
+  "last_updated": "2026-04-19T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3906721,
+    -71.0325089,
+    42.4485557,
+    -70.961192
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    },
+    "hydrants.csv": {
+      "size_bytes": 0,
+      "sha256": ""
+    }
+  }
+}

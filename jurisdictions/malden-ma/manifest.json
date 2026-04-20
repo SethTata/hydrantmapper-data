@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "malden-ma",
+  "display_name": "Malden",
+  "state": "MA",
+  "last_updated": "2026-04-19T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.4150388,
+    -71.088537,
+    42.443999,
+    -71.0215577
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": false,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    }
+  }
+}

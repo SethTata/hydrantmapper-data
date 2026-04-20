@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "winthrop-ma",
+  "display_name": "Winthrop",
+  "state": "MA",
+  "last_updated": "2026-04-19T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.356978,
+    -70.9958457,
+    42.3906721,
+    -70.9676191
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": false,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    }
+  }
+}

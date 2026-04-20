@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "everett-ma",
+  "display_name": "Everett",
+  "state": "MA",
+  "last_updated": "2026-04-19T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3922377,
+    -71.0703508,
+    42.4233042,
+    -71.03138
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": false,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    }
+  }
+}
