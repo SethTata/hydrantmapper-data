@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-04-20T02:28:44Z",
+  "jurisdictions": [
+    {
+      "slug": "chelsea-ma",
+      "display_name": "Chelsea",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.385731,
+        -71.0505485,
+        42.4130614,
+        -71.0132127
+      ],
+      "has_hydrants": false
+    },
+    {
+      "slug": "everett-ma",
+      "display_name": "Everett",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3922377,
+        -71.0703508,
+        42.4233042,
+        -71.03138
+      ],
+      "has_hydrants": false
+    },
+    {
+      "slug": "lynn-ma",
+      "display_name": "Lynn",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.443645,
+        -70.9959489,
+        42.511513,
+        -70.9222133
+      ],
+      "has_hydrants": false
+    },
+    {
+      "slug": "malden-ma",
+      "display_name": "Malden",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.4150388,
+        -71.088537,
+        42.443999,
+        -71.0215577
+      ],
+      "has_hydrants": false
+    },
+    {
+      "slug": "medford-ma",
+      "display_name": "Medford",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.397181,
+        -71.1454097,
+        42.4490417,
+        -71.0738106
+      ],
+      "has_hydrants": false
+    },
+    {
+      "slug": "melrose-ma",
+      "display_name": "Melrose",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.4397604,
+        -71.0809242,
+        42.4748123,
+        -71.0287586
+      ],
+      "has_hydrants": false
+    },
+    {
+      "slug": "peabody-ma",
+      "display_name": "Peabody",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.4958048,
+        -71.043016,
+        42.5696517,
+        -70.912695
+      ],
+      "has_hydrants": false
+    },
+    {
+      "slug": "revere-ma",
+      "display_name": "Revere",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3906721,
+        -71.0325089,
+        42.4485557,
+        -70.961192
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "saugus-ma",
+      "display_name": "Saugus",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.442031,
+        -71.052909,
+        42.503722,
+        -70.9805177
+      ],
+      "has_hydrants": false
+    },
+    {
+      "slug": "winthrop-ma",
+      "display_name": "Winthrop",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.356978,
+        -70.9958457,
+        42.3906721,
+        -70.9676191
+      ],
+      "has_hydrants": false
+    }
+  ]
+}

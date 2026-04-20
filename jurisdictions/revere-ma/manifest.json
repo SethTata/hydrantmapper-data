@@ -15,12 +15,12 @@
   "has_hydrants": true,
   "files": {
     "intersections.json": {
-      "size_bytes": 0,
-      "sha256": ""
+      "size_bytes": 344514,
+      "sha256": "5c71580b8ec093bcd7b676b159675b70577f80fffa6a5e021b47b26d6ced21c7"
     },
     "hydrants.csv": {
-      "size_bytes": 0,
-      "sha256": ""
+      "size_bytes": 198297,
+      "sha256": "5f0f122ba707985edb91348e55067d7551358f9189087884d9f4408931bfea13"
     }
   }
 }

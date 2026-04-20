@@ -15,8 +15,8 @@
   "has_hydrants": false,
   "files": {
     "intersections.json": {
-      "size_bytes": 0,
-      "sha256": ""
+      "size_bytes": 413960,
+      "sha256": "e5ca6eea043fa9d70df17388c94478a8d3d56114377b8238c65708b0440f5425"
     }
   }
 }
