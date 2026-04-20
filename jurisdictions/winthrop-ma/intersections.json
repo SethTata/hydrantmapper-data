@@ -1,0 +1,7433 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "winthrop-ma",
+  "generated_at": "2026-04-19T03:39:42Z",
+  "streets": {
+    "adams street": [
+      {
+        "name": "Bartlett Road",
+        "class": "residential",
+        "coord": [
+          42.3736216,
+          -70.9870619
+        ]
+      },
+      {
+        "name": "Williams Street",
+        "class": "residential",
+        "coord": [
+          42.3736816,
+          -70.9875967
+        ]
+      },
+      {
+        "name": "Woodside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3734829,
+          -70.985857
+        ]
+      }
+    ],
+    "albert avenue": [
+      {
+        "name": "Court Road",
+        "class": "tertiary",
+        "coord": [
+          42.3720069,
+          -70.9958457
+        ]
+      },
+      {
+        "name": "Elmer Avenue",
+        "class": "residential",
+        "coord": [
+          42.372169,
+          -70.9955035
+        ]
+      }
+    ],
+    "almont street": [
+      {
+        "name": "Crescent Street",
+        "class": "residential",
+        "coord": [
+          42.3823101,
+          -70.9751859
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "residential",
+        "coord": [
+          42.3826198,
+          -70.9763101
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3834186,
+          -70.9792022
+        ]
+      },
+      {
+        "name": "Veterans Road",
+        "class": "secondary",
+        "coord": [
+          42.3821549,
+          -70.9746226
+        ]
+      }
+    ],
+    "amelia avenue": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3822979,
+          -70.9898567
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "tertiary",
+        "coord": [
+          42.38397,
+          -70.9898987
+        ]
+      }
+    ],
+    "andrew street": [
+      {
+        "name": "Tafts Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3580783,
+          -70.9701107
+        ]
+      }
+    ],
+    "argyle street": [
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3860898,
+          -70.9762974
+        ]
+      }
+    ],
+    "atkinson circle": [
+      {
+        "name": "Highland Avenue",
+        "class": "residential",
+        "coord": [
+          42.3866081,
+          -70.9742634
+        ]
+      }
+    ],
+    "atlantic street": [
+      {
+        "name": "Hermon Street",
+        "class": "tertiary",
+        "coord": [
+          42.3810963,
+          -70.9859727
+        ]
+      },
+      {
+        "name": "Linden Street",
+        "class": "residential",
+        "coord": [
+          42.3809187,
+          -70.9839603
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3807843,
+          -70.9824368
+        ]
+      }
+    ],
+    "banks street": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3818739,
+          -70.9851404
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "tertiary",
+        "coord": [
+          42.3837822,
+          -70.9852366
+        ]
+      },
+      {
+        "name": "Wilshire Street",
+        "class": "residential",
+        "coord": [
+          42.3841836,
+          -70.984195
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "tertiary",
+        "coord": [
+          42.3848018,
+          -70.983404
+        ]
+      }
+    ],
+    "bartlett parkway": [
+      {
+        "name": "Bartlett Road",
+        "class": "residential",
+        "coord": [
+          42.3690047,
+          -70.9882471
+        ]
+      },
+      {
+        "name": "Cottage Park Road",
+        "class": "residential",
+        "coord": [
+          42.3693412,
+          -70.9892449
+        ]
+      },
+      {
+        "name": "Orlando Avenue",
+        "class": "residential",
+        "coord": [
+          42.3689383,
+          -70.9871965
+        ]
+      }
+    ],
+    "bartlett road": [
+      {
+        "name": "Adams Street",
+        "class": "residential",
+        "coord": [
+          42.3736216,
+          -70.9870619
+        ]
+      },
+      {
+        "name": "Bartlett Parkway",
+        "class": "residential",
+        "coord": [
+          42.3690047,
+          -70.9882471
+        ]
+      },
+      {
+        "name": "Egleton Park",
+        "class": "residential",
+        "coord": [
+          42.3717266,
+          -70.9874599
+        ]
+      },
+      {
+        "name": "Orlando Avenue",
+        "class": "residential",
+        "coord": [
+          42.3706571,
+          -70.987682
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.372976,
+          -70.9872005
+        ]
+      },
+      {
+        "name": "Seymour Street",
+        "class": "residential",
+        "coord": [
+          42.3713899,
+          -70.9875298
+        ]
+      },
+      {
+        "name": "Sheryl Lane",
+        "class": "residential",
+        "coord": [
+          42.3703801,
+          -70.9880163
+        ]
+      },
+      {
+        "name": "Woodside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3746232,
+          -70.9866832
+        ]
+      }
+    ],
+    "bates avenue": [
+      {
+        "name": "Bowdoin Street",
+        "class": "residential",
+        "coord": [
+          42.3736863,
+          -70.9774533
+        ]
+      },
+      {
+        "name": "River Road",
+        "class": "tertiary",
+        "coord": [
+          42.374467,
+          -70.9772488
+        ]
+      },
+      {
+        "name": "Washington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3722102,
+          -70.9778293
+        ]
+      }
+    ],
+    "bayou street": [
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.387755,
+          -70.9776078
+        ]
+      }
+    ],
+    "bayview avenue": [
+      {
+        "name": "Brewster Avenue",
+        "class": "residential",
+        "coord": [
+          42.3608464,
+          -70.9704453
+        ]
+      },
+      {
+        "name": "Grandview Avenue",
+        "class": "residential",
+        "coord": [
+          42.3620226,
+          -70.975122
+        ]
+      },
+      {
+        "name": "Hale Avenue",
+        "class": "residential",
+        "coord": [
+          42.3609792,
+          -70.9713483
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3609056,
+          -70.9708275
+        ]
+      },
+      {
+        "name": "Triton Avenue",
+        "class": "residential",
+        "coord": [
+          42.3615042,
+          -70.9735031
+        ]
+      }
+    ],
+    "beach road": [
+      {
+        "name": "Hawthorn Avenue",
+        "class": "residential",
+        "coord": [
+          42.3809282,
+          -70.9748593
+        ]
+      },
+      {
+        "name": "Locust Street",
+        "class": "tertiary",
+        "coord": [
+          42.3826415,
+          -70.9736184
+        ]
+      },
+      {
+        "name": "Locust Street",
+        "class": "tertiary",
+        "coord": [
+          42.3826839,
+          -70.9737726
+        ]
+      },
+      {
+        "name": "Myrtle Avenue",
+        "class": "residential",
+        "coord": [
+          42.3816477,
+          -70.9745979
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3808543,
+          -70.9749118
+        ]
+      },
+      {
+        "name": "Veterans Road",
+        "class": "secondary",
+        "coord": [
+          42.3826839,
+          -70.9737726
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.383127,
+          -70.9729088
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3834929,
+          -70.9726174
+        ]
+      }
+    ],
+    "beacon street": [
+      {
+        "name": "Faun Bar Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3696518,
+          -70.9681634
+        ]
+      },
+      {
+        "name": "Hillside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3700198,
+          -70.9700739
+        ]
+      },
+      {
+        "name": "Park Avenue",
+        "class": "residential",
+        "coord": [
+          42.3697853,
+          -70.9693418
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3702831,
+          -70.9706649
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3696518,
+          -70.9681634
+        ]
+      }
+    ],
+    "beal street": [
+      {
+        "name": "Brookfield Road",
+        "class": "residential",
+        "coord": [
+          42.3793639,
+          -70.9884412
+        ]
+      },
+      {
+        "name": "Jerald Street",
+        "class": "residential",
+        "coord": [
+          42.3806174,
+          -70.9886118
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "residential",
+        "coord": [
+          42.3793639,
+          -70.9884412
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3822067,
+          -70.9888434
+        ]
+      }
+    ],
+    "belcher street": [
+      {
+        "name": "Cora Street",
+        "class": "residential",
+        "coord": [
+          42.378459,
+          -70.9845617
+        ]
+      },
+      {
+        "name": "Hermon Street",
+        "class": "tertiary",
+        "coord": [
+          42.3783311,
+          -70.9856933
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3785721,
+          -70.9832212
+        ]
+      }
+    ],
+    "belle isle terrace": [
+      {
+        "name": "Pleasant Street",
+        "class": "tertiary",
+        "coord": [
+          42.383874,
+          -70.9914623
+        ]
+      },
+      {
+        "name": "Willis Avenue",
+        "class": "residential",
+        "coord": [
+          42.38391,
+          -70.9923261
+        ]
+      }
+    ],
+    "bellevue avenue": [
+      {
+        "name": "Eleanor Court",
+        "class": "residential",
+        "coord": [
+          42.3707233,
+          -70.9900286
+        ]
+      },
+      {
+        "name": "Johnson Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3700533,
+          -70.9902715
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3731992,
+          -70.9891375
+        ]
+      },
+      {
+        "name": "Prescott Street",
+        "class": "residential",
+        "coord": [
+          42.3712551,
+          -70.9898369
+        ]
+      }
+    ],
+    "bellevue terrace": [
+      {
+        "name": "Johnson Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3700504,
+          -70.9902651
+        ]
+      }
+    ],
+    "billows street": [
+      {
+        "name": "Grandview Avenue",
+        "class": "residential",
+        "coord": [
+          42.3588042,
+          -70.9738931
+        ]
+      },
+      {
+        "name": "Triton Avenue",
+        "class": "residential",
+        "coord": [
+          42.3594606,
+          -70.9734231
+        ]
+      }
+    ],
+    "birch road": [
+      {
+        "name": "Circuit Road",
+        "class": "residential",
+        "coord": [
+          42.3753577,
+          -70.9928317
+        ]
+      },
+      {
+        "name": "Loring Road",
+        "class": "residential",
+        "coord": [
+          42.374626,
+          -70.9947523
+        ]
+      },
+      {
+        "name": "Loring Road",
+        "class": "residential",
+        "coord": [
+          42.3748699,
+          -70.9947659
+        ]
+      }
+    ],
+    "bowdoin street": [
+      {
+        "name": "Bates Avenue",
+        "class": "residential",
+        "coord": [
+          42.3736863,
+          -70.9774533
+        ]
+      },
+      {
+        "name": "Buchanan Street",
+        "class": "tertiary",
+        "coord": [
+          42.3752561,
+          -70.9810908
+        ]
+      },
+      {
+        "name": "Centre Street",
+        "class": "residential",
+        "coord": [
+          42.3801983,
+          -70.9814498
+        ]
+      },
+      {
+        "name": "Chester Avenue",
+        "class": "residential",
+        "coord": [
+          42.3745106,
+          -70.980345
+        ]
+      },
+      {
+        "name": "Chester Avenue",
+        "class": "residential",
+        "coord": [
+          42.3745405,
+          -70.9804178
+        ]
+      },
+      {
+        "name": "George Street",
+        "class": "residential",
+        "coord": [
+          42.3779737,
+          -70.9816522
+        ]
+      },
+      {
+        "name": "Madison Avenue",
+        "class": "residential",
+        "coord": [
+          42.376716,
+          -70.9819287
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "residential",
+        "coord": [
+          42.3810077,
+          -70.9813724
+        ]
+      },
+      {
+        "name": "Ocean View Street",
+        "class": "residential",
+        "coord": [
+          42.3791801,
+          -70.9815471
+        ]
+      },
+      {
+        "name": "River Road",
+        "class": "tertiary",
+        "coord": [
+          42.3775867,
+          -70.9815805
+        ]
+      },
+      {
+        "name": "Thornton Park",
+        "class": "residential",
+        "coord": [
+          42.3741277,
+          -70.9794129
+        ]
+      },
+      {
+        "name": "Thornton Street",
+        "class": "residential",
+        "coord": [
+          42.3741277,
+          -70.9794129
+        ]
+      },
+      {
+        "name": "Wadsworth Avenue",
+        "class": "residential",
+        "coord": [
+          42.3774805,
+          -70.981726
+        ]
+      },
+      {
+        "name": "Willow Avenue",
+        "class": "residential",
+        "coord": [
+          42.3737889,
+          -70.9780634
+        ]
+      }
+    ],
+    "brewster avenue": [
+      {
+        "name": "Bayview Avenue",
+        "class": "residential",
+        "coord": [
+          42.3608464,
+          -70.9704453
+        ]
+      }
+    ],
+    "brookfield road": [
+      {
+        "name": "Beal Street",
+        "class": "residential",
+        "coord": [
+          42.3793639,
+          -70.9884412
+        ]
+      },
+      {
+        "name": "Edgehill Road",
+        "class": "residential",
+        "coord": [
+          42.3769933,
+          -70.9893958
+        ]
+      },
+      {
+        "name": "Enfield Road",
+        "class": "residential",
+        "coord": [
+          42.3786922,
+          -70.9883416
+        ]
+      },
+      {
+        "name": "Ingleside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3775059,
+          -70.9887653
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "residential",
+        "coord": [
+          42.3793639,
+          -70.9884412
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3770333,
+          -70.9921537
+        ]
+      },
+      {
+        "name": "Wheelock Street",
+        "class": "residential",
+        "coord": [
+          42.3767799,
+          -70.9897949
+        ]
+      }
+    ],
+    "buchanan street": [
+      {
+        "name": "Bowdoin Street",
+        "class": "residential",
+        "coord": [
+          42.3752561,
+          -70.9810908
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "tertiary",
+        "coord": [
+          42.3757461,
+          -70.9799243
+        ]
+      },
+      {
+        "name": "Fremont Street",
+        "class": "residential",
+        "coord": [
+          42.3742405,
+          -70.9833582
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3726693,
+          -70.9845392
+        ]
+      },
+      {
+        "name": "Putnam Street",
+        "class": "residential",
+        "coord": [
+          42.3737249,
+          -70.9842014
+        ]
+      },
+      {
+        "name": "River Road",
+        "class": "tertiary",
+        "coord": [
+          42.3757461,
+          -70.9799243
+        ]
+      },
+      {
+        "name": "Sunnyside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3726693,
+          -70.9845392
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3746229,
+          -70.9825981
+        ]
+      }
+    ],
+    "buckthorn terrace": [
+      {
+        "name": "Villa Avenue",
+        "class": "residential",
+        "coord": [
+          42.3730502,
+          -70.983574
+        ]
+      },
+      {
+        "name": "Villa Avenue",
+        "class": "residential",
+        "coord": [
+          42.3731173,
+          -70.9833997
+        ]
+      },
+      {
+        "name": "Villa Avenue",
+        "class": "residential",
+        "coord": [
+          42.3733375,
+          -70.9827462
+        ]
+      }
+    ],
+    "burrill terrace": [
+      {
+        "name": "Fremont Street",
+        "class": "residential",
+        "coord": [
+          42.376085,
+          -70.985342
+        ]
+      }
+    ],
+    "central street": [
+      {
+        "name": "Payson Street",
+        "class": "residential",
+        "coord": [
+          42.3809385,
+          -70.9799445
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3819581,
+          -70.981465
+        ]
+      }
+    ],
+    "centre street": [
+      {
+        "name": "Bowdoin Street",
+        "class": "tertiary",
+        "coord": [
+          42.3801983,
+          -70.9814498
+        ]
+      },
+      {
+        "name": "Hermon Street",
+        "class": "tertiary",
+        "coord": [
+          42.3803164,
+          -70.9858746
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3802828,
+          -70.9825137
+        ]
+      }
+    ],
+    "chamberlain avenue": [
+      {
+        "name": "Crest Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3851811,
+          -70.9741044
+        ]
+      },
+      {
+        "name": "Hutchinson Street",
+        "class": "residential",
+        "coord": [
+          42.3851811,
+          -70.9741044
+        ]
+      }
+    ],
+    "charles street": [
+      {
+        "name": "Moore Street",
+        "class": "residential",
+        "coord": [
+          42.3703119,
+          -70.9696184
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3706644,
+          -70.9680229
+        ]
+      }
+    ],
+    "chester avenue": [
+      {
+        "name": "Bowdoin Street",
+        "class": "residential",
+        "coord": [
+          42.3745106,
+          -70.980345
+        ]
+      },
+      {
+        "name": "Bowdoin Street",
+        "class": "residential",
+        "coord": [
+          42.3745405,
+          -70.9804178
+        ]
+      },
+      {
+        "name": "River Road",
+        "class": "tertiary",
+        "coord": [
+          42.3755842,
+          -70.9795382
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3736995,
+          -70.9819151
+        ]
+      }
+    ],
+    "circuit road": [
+      {
+        "name": "Birch Road",
+        "class": "residential",
+        "coord": [
+          42.3753577,
+          -70.9928317
+        ]
+      },
+      {
+        "name": "Court Road",
+        "class": "tertiary",
+        "coord": [
+          42.3714632,
+          -70.9943349
+        ]
+      },
+      {
+        "name": "Court Road",
+        "class": "tertiary",
+        "coord": [
+          42.3759087,
+          -70.9935857
+        ]
+      },
+      {
+        "name": "Emerson Road",
+        "class": "residential",
+        "coord": [
+          42.3745035,
+          -70.9924484
+        ]
+      },
+      {
+        "name": "Loring Road",
+        "class": "residential",
+        "coord": [
+          42.3721214,
+          -70.9938109
+        ]
+      },
+      {
+        "name": "Lowell Road",
+        "class": "residential",
+        "coord": [
+          42.3741057,
+          -70.992192
+        ]
+      },
+      {
+        "name": "Maple Road",
+        "class": "residential",
+        "coord": [
+          42.3721214,
+          -70.9938109
+        ]
+      },
+      {
+        "name": "Waldemar Avenue",
+        "class": "residential",
+        "coord": [
+          42.3749804,
+          -70.9925274
+        ]
+      }
+    ],
+    "cliff avenue": [
+      {
+        "name": "Grovers Avenue",
+        "class": "residential",
+        "coord": [
+          42.387057,
+          -70.9714191
+        ]
+      },
+      {
+        "name": "Highland Avenue",
+        "class": "residential",
+        "coord": [
+          42.3873481,
+          -70.9730972
+        ]
+      },
+      {
+        "name": "Nahant Avenue",
+        "class": "residential",
+        "coord": [
+          42.388251,
+          -70.9765663
+        ]
+      },
+      {
+        "name": "Pond Street",
+        "class": "residential",
+        "coord": [
+          42.387756,
+          -70.969652
+        ]
+      },
+      {
+        "name": "Quincy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3882046,
+          -70.9767079
+        ]
+      },
+      {
+        "name": "Quincy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3882531,
+          -70.97445
+        ]
+      },
+      {
+        "name": "Seal Harbor Road",
+        "class": "residential",
+        "coord": [
+          42.387756,
+          -70.969652
+        ]
+      },
+      {
+        "name": "Sewall Avenue",
+        "class": "residential",
+        "coord": [
+          42.3875113,
+          -70.9704127
+        ]
+      }
+    ],
+    "cora street": [
+      {
+        "name": "Belcher Street",
+        "class": "residential",
+        "coord": [
+          42.378459,
+          -70.9845617
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "tertiary",
+        "coord": [
+          42.3796372,
+          -70.9846404
+        ]
+      },
+      {
+        "name": "Ocean View Street",
+        "class": "residential",
+        "coord": [
+          42.3790541,
+          -70.9846014
+        ]
+      }
+    ],
+    "coral avenue": [
+      {
+        "name": "Hadassah Way",
+        "class": "residential",
+        "coord": [
+          42.3789947,
+          -70.974935
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3789947,
+          -70.974935
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3793035,
+          -70.9725177
+        ]
+      }
+    ],
+    "corinha beach road": [
+      {
+        "name": "Sunnyside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3706453,
+          -70.9846805
+        ]
+      }
+    ],
+    "cottage avenue": [
+      {
+        "name": "Crystal Cove Avenue",
+        "class": "residential",
+        "coord": [
+          42.3690137,
+          -70.9676853
+        ]
+      },
+      {
+        "name": "Faun Bar Avenue",
+        "class": "residential",
+        "coord": [
+          42.3690523,
+          -70.9676191
+        ]
+      },
+      {
+        "name": "Hillside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3686519,
+          -70.9700892
+        ]
+      },
+      {
+        "name": "Terrace Avenue",
+        "class": "residential",
+        "coord": [
+          42.3679831,
+          -70.9710704
+        ]
+      }
+    ],
+    "cottage park road": [
+      {
+        "name": "Bartlett Parkway",
+        "class": "residential",
+        "coord": [
+          42.3693412,
+          -70.9892449
+        ]
+      },
+      {
+        "name": "Johnson Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3697525,
+          -70.9891524
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3731138,
+          -70.9883964
+        ]
+      },
+      {
+        "name": "Somerset Avenue",
+        "class": "residential",
+        "coord": [
+          42.3748973,
+          -70.9876128
+        ]
+      }
+    ],
+    "court road": [
+      {
+        "name": "Albert Avenue",
+        "class": "residential",
+        "coord": [
+          42.3720069,
+          -70.9958457
+        ]
+      },
+      {
+        "name": "Circuit Road",
+        "class": "residential",
+        "coord": [
+          42.3714632,
+          -70.9943349
+        ]
+      },
+      {
+        "name": "Circuit Road",
+        "class": "residential",
+        "coord": [
+          42.3759087,
+          -70.9935857
+        ]
+      },
+      {
+        "name": "Elmer Avenue",
+        "class": "residential",
+        "coord": [
+          42.371769,
+          -70.9955595
+        ]
+      },
+      {
+        "name": "Johnson Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3710968,
+          -70.9931324
+        ]
+      },
+      {
+        "name": "Loring Road",
+        "class": "residential",
+        "coord": [
+          42.3755533,
+          -70.995025
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3762813,
+          -70.9922025
+        ]
+      },
+      {
+        "name": "Sargent Street",
+        "class": "residential",
+        "coord": [
+          42.3710968,
+          -70.9931324
+        ]
+      }
+    ],
+    "crescent street": [
+      {
+        "name": "Almont Street",
+        "class": "residential",
+        "coord": [
+          42.3823101,
+          -70.9751859
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3815432,
+          -70.9759415
+        ]
+      }
+    ],
+    "crest avenue": [
+      {
+        "name": "Chamberlain Avenue",
+        "class": "residential",
+        "coord": [
+          42.3851811,
+          -70.9741044
+        ]
+      },
+      {
+        "name": "Grovers Avenue",
+        "class": "residential",
+        "coord": [
+          42.38442,
+          -70.9730971
+        ]
+      },
+      {
+        "name": "Highland Avenue",
+        "class": "residential",
+        "coord": [
+          42.3865357,
+          -70.9758943
+        ]
+      },
+      {
+        "name": "Hutchinson Street",
+        "class": "residential",
+        "coord": [
+          42.3851811,
+          -70.9741044
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3865357,
+          -70.9758943
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "secondary",
+        "coord": [
+          42.3840752,
+          -70.9727958
+        ]
+      }
+    ],
+    "cross street": [
+      {
+        "name": "Almont Street",
+        "class": "residential",
+        "coord": [
+          42.3826198,
+          -70.9763101
+        ]
+      },
+      {
+        "name": "Buchanan Street",
+        "class": "tertiary",
+        "coord": [
+          42.3757461,
+          -70.9799243
+        ]
+      },
+      {
+        "name": "Franklin Street",
+        "class": "residential",
+        "coord": [
+          42.381599,
+          -70.976898
+        ]
+      },
+      {
+        "name": "Locust Street",
+        "class": "tertiary",
+        "coord": [
+          42.3832889,
+          -70.9759755
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "residential",
+        "coord": [
+          42.3795043,
+          -70.9791014
+        ]
+      },
+      {
+        "name": "Ocean View Street",
+        "class": "residential",
+        "coord": [
+          42.379168,
+          -70.9795084
+        ]
+      },
+      {
+        "name": "River Road",
+        "class": "tertiary",
+        "coord": [
+          42.3757461,
+          -70.9799243
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3819381,
+          -70.976651
+        ]
+      }
+    ],
+    "crystal cove avenue": [
+      {
+        "name": "Cottage Avenue",
+        "class": "residential",
+        "coord": [
+          42.3690137,
+          -70.9676853
+        ]
+      },
+      {
+        "name": "Hillside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3692535,
+          -70.970294
+        ]
+      },
+      {
+        "name": "Park Avenue",
+        "class": "residential",
+        "coord": [
+          42.3692168,
+          -70.9698944
+        ]
+      },
+      {
+        "name": "Park Avenue",
+        "class": "residential",
+        "coord": [
+          42.3692535,
+          -70.970294
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3694353,
+          -70.9712267
+        ]
+      }
+    ],
+    "cutler street": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3745338,
+          -70.9724268
+        ]
+      },
+      {
+        "name": "Veterans Road",
+        "class": "secondary",
+        "coord": [
+          42.3743562,
+          -70.9729412
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3751709,
+          -70.970578
+        ]
+      }
+    ],
+    "deane avenue": [
+      {
+        "name": "Quincy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3882547,
+          -70.9771349
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3883485,
+          -70.9788382
+        ]
+      }
+    ],
+    "deepwater street": [
+      {
+        "name": "Grandview Avenue",
+        "class": "residential",
+        "coord": [
+          42.3591927,
+          -70.9743951
+        ]
+      },
+      {
+        "name": "Triton Avenue",
+        "class": "residential",
+        "coord": [
+          42.3597648,
+          -70.9738484
+        ]
+      }
+    ],
+    "dix street": [
+      {
+        "name": "Plummer Avenue",
+        "class": "residential",
+        "coord": [
+          42.3697895,
+          -70.9852375
+        ]
+      },
+      {
+        "name": "Woodside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3697165,
+          -70.9861754
+        ]
+      },
+      {
+        "name": "Woodside Park",
+        "class": "residential",
+        "coord": [
+          42.3697165,
+          -70.9861754
+        ]
+      },
+      {
+        "name": "Woodside Park",
+        "class": "residential",
+        "coord": [
+          42.3697302,
+          -70.986
+        ]
+      }
+    ],
+    "dolphin avenue": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3757481,
+          -70.9735285
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3764545,
+          -70.9713603
+        ]
+      }
+    ],
+    "douglas street": [
+      {
+        "name": "Edward Street",
+        "class": "residential",
+        "coord": [
+          42.3828964,
+          -70.9862205
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3819736,
+          -70.9862551
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "tertiary",
+        "coord": [
+          42.3837952,
+          -70.9862626
+        ]
+      }
+    ],
+    "edgar terrace": [
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3741862,
+          -70.9822751
+        ]
+      }
+    ],
+    "edgehill road": [
+      {
+        "name": "Brookfield Road",
+        "class": "residential",
+        "coord": [
+          42.3769933,
+          -70.9893958
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3778094,
+          -70.9920756
+        ]
+      }
+    ],
+    "edward street": [
+      {
+        "name": "Douglas Street",
+        "class": "residential",
+        "coord": [
+          42.3828964,
+          -70.9862205
+        ]
+      },
+      {
+        "name": "Read Street",
+        "class": "residential",
+        "coord": [
+          42.3830065,
+          -70.9879588
+        ]
+      },
+      {
+        "name": "Russell Street",
+        "class": "residential",
+        "coord": [
+          42.3829515,
+          -70.9870903
+        ]
+      }
+    ],
+    "egleton park": [
+      {
+        "name": "Bartlett Road",
+        "class": "residential",
+        "coord": [
+          42.3717266,
+          -70.9874599
+        ]
+      }
+    ],
+    "eleanor court": [
+      {
+        "name": "Bellevue Avenue",
+        "class": "residential",
+        "coord": [
+          42.3707233,
+          -70.9900286
+        ]
+      }
+    ],
+    "elliot street": [
+      {
+        "name": "Otis Street",
+        "class": "residential",
+        "coord": [
+          42.3589826,
+          -70.9706433
+        ]
+      },
+      {
+        "name": "Pebble Avenue",
+        "class": "residential",
+        "coord": [
+          42.3595968,
+          -70.9716302
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "residential",
+        "coord": [
+          42.3595968,
+          -70.9716302
+        ]
+      }
+    ],
+    "elmer avenue": [
+      {
+        "name": "Albert Avenue",
+        "class": "residential",
+        "coord": [
+          42.372169,
+          -70.9955035
+        ]
+      },
+      {
+        "name": "Court Road",
+        "class": "tertiary",
+        "coord": [
+          42.371769,
+          -70.9955595
+        ]
+      }
+    ],
+    "elmwood avenue": [
+      {
+        "name": "River Road",
+        "class": "tertiary",
+        "coord": [
+          42.3733401,
+          -70.9753079
+        ]
+      },
+      {
+        "name": "Washington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.37196,
+          -70.9755705
+        ]
+      }
+    ],
+    "elmwood court": [
+      {
+        "name": "Washington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3719184,
+          -70.9752082
+        ]
+      }
+    ],
+    "emerson road": [
+      {
+        "name": "Circuit Road",
+        "class": "residential",
+        "coord": [
+          42.3745035,
+          -70.9924484
+        ]
+      },
+      {
+        "name": "Lowell Road",
+        "class": "residential",
+        "coord": [
+          42.3732017,
+          -70.9943323
+        ]
+      }
+    ],
+    "enfield road": [
+      {
+        "name": "Brookfield Road",
+        "class": "residential",
+        "coord": [
+          42.3786922,
+          -70.9883416
+        ]
+      },
+      {
+        "name": "Ingleside Avenue",
+        "class": "residential",
+        "coord": [
+          42.378055,
+          -70.9906341
+        ]
+      }
+    ],
+    "fairview street": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3822268,
+          -70.9890676
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "tertiary",
+        "coord": [
+          42.3839355,
+          -70.9889802
+        ]
+      }
+    ],
+    "faun bar avenue": [
+      {
+        "name": "Beacon Street",
+        "class": "residential",
+        "coord": [
+          42.3696518,
+          -70.9681634
+        ]
+      },
+      {
+        "name": "Cottage Avenue",
+        "class": "residential",
+        "coord": [
+          42.3690523,
+          -70.9676191
+        ]
+      },
+      {
+        "name": "Harbor View Avenue",
+        "class": "residential",
+        "coord": [
+          42.3674353,
+          -70.9682766
+        ]
+      },
+      {
+        "name": "Prospect Avenue",
+        "class": "residential",
+        "coord": [
+          42.3679584,
+          -70.9678529
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3694818,
+          -70.9680319
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3696518,
+          -70.9681634
+        ]
+      }
+    ],
+    "floyd street": [
+      {
+        "name": "Highland Avenue",
+        "class": "residential",
+        "coord": [
+          42.3878047,
+          -70.9724719
+        ]
+      },
+      {
+        "name": "Sewall Avenue",
+        "class": "residential",
+        "coord": [
+          42.389227,
+          -70.9742943
+        ]
+      }
+    ],
+    "foam street": [
+      {
+        "name": "Grandview Avenue",
+        "class": "residential",
+        "coord": [
+          42.3605001,
+          -70.9750845
+        ]
+      },
+      {
+        "name": "Siren Street",
+        "class": "residential",
+        "coord": [
+          42.3605702,
+          -70.9742086
+        ]
+      },
+      {
+        "name": "Triton Avenue",
+        "class": "residential",
+        "coord": [
+          42.3605702,
+          -70.9742086
+        ]
+      }
+    ],
+    "forrest street": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3753353,
+          -70.9731877
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3760162,
+          -70.9711019
+        ]
+      }
+    ],
+    "frances street": [
+      {
+        "name": "Pico Avenue",
+        "class": "residential",
+        "coord": [
+          42.369407,
+          -70.9838004
+        ]
+      },
+      {
+        "name": "Plummer Avenue",
+        "class": "residential",
+        "coord": [
+          42.3691761,
+          -70.9851724
+        ]
+      },
+      {
+        "name": "Sunnyside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3692428,
+          -70.984663
+        ]
+      }
+    ],
+    "franklin street": [
+      {
+        "name": "Cross Street",
+        "class": "tertiary",
+        "coord": [
+          42.381599,
+          -70.976898
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.381732,
+          -70.9793719
+        ]
+      },
+      {
+        "name": "Payson Street",
+        "class": "residential",
+        "coord": [
+          42.381732,
+          -70.9793719
+        ]
+      }
+    ],
+    "fremont street": [
+      {
+        "name": "Buchanan Street",
+        "class": "tertiary",
+        "coord": [
+          42.3742405,
+          -70.9833582
+        ]
+      },
+      {
+        "name": "Burrill Terrace",
+        "class": "residential",
+        "coord": [
+          42.376085,
+          -70.985342
+        ]
+      },
+      {
+        "name": "Jefferson Street",
+        "class": "residential",
+        "coord": [
+          42.37544,
+          -70.9846524
+        ]
+      },
+      {
+        "name": "Pauline Street",
+        "class": "secondary",
+        "coord": [
+          42.3765205,
+          -70.9858068
+        ]
+      }
+    ],
+    "french square": [
+      {
+        "name": "Hagman Road",
+        "class": "residential",
+        "coord": [
+          42.374709,
+          -70.9861966
+        ]
+      },
+      {
+        "name": "Woodside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3745214,
+          -70.9866018
+        ]
+      }
+    ],
+    "george street": [
+      {
+        "name": "Bowdoin Street",
+        "class": "tertiary",
+        "coord": [
+          42.3779737,
+          -70.9816522
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3780696,
+          -70.9834753
+        ]
+      }
+    ],
+    "girdlestone road": [
+      {
+        "name": "Marshall Street",
+        "class": "residential",
+        "coord": [
+          42.3812288,
+          -70.9895772
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3810598,
+          -70.9917483
+        ]
+      }
+    ],
+    "golden drive": [
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3855801,
+          -70.9766749
+        ]
+      }
+    ],
+    "governor's drive": [
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.382436,
+          -70.9804006
+        ]
+      }
+    ],
+    "grandview avenue": [
+      {
+        "name": "Bayview Avenue",
+        "class": "residential",
+        "coord": [
+          42.3620226,
+          -70.975122
+        ]
+      },
+      {
+        "name": "Billows Street",
+        "class": "residential",
+        "coord": [
+          42.3588042,
+          -70.9738931
+        ]
+      },
+      {
+        "name": "Deepwater Street",
+        "class": "residential",
+        "coord": [
+          42.3591927,
+          -70.9743951
+        ]
+      },
+      {
+        "name": "Foam Street",
+        "class": "residential",
+        "coord": [
+          42.3605001,
+          -70.9750845
+        ]
+      },
+      {
+        "name": "Otis Street",
+        "class": "residential",
+        "coord": [
+          42.3575075,
+          -70.9721459
+        ]
+      },
+      {
+        "name": "Undine Avenue",
+        "class": "residential",
+        "coord": [
+          42.3616607,
+          -70.9751964
+        ]
+      }
+    ],
+    "grovers avenue": [
+      {
+        "name": "Cliff Avenue",
+        "class": "residential",
+        "coord": [
+          42.387057,
+          -70.9714191
+        ]
+      },
+      {
+        "name": "Crest Avenue",
+        "class": "secondary",
+        "coord": [
+          42.38442,
+          -70.9730971
+        ]
+      },
+      {
+        "name": "Highland Avenue",
+        "class": "residential",
+        "coord": [
+          42.3882195,
+          -70.9719038
+        ]
+      },
+      {
+        "name": "Nahant Avenue",
+        "class": "residential",
+        "coord": [
+          42.389764,
+          -70.9728205
+        ]
+      },
+      {
+        "name": "Sagamore Avenue",
+        "class": "residential",
+        "coord": [
+          42.3842258,
+          -70.973203
+        ]
+      },
+      {
+        "name": "Sewall Avenue",
+        "class": "residential",
+        "coord": [
+          42.389148,
+          -70.9728902
+        ]
+      },
+      {
+        "name": "Summit Avenue",
+        "class": "residential",
+        "coord": [
+          42.3836539,
+          -70.9735147
+        ]
+      },
+      {
+        "name": "Temple Avenue",
+        "class": "residential",
+        "coord": [
+          42.3857303,
+          -70.9723801
+        ]
+      }
+    ],
+    "hadassah way": [
+      {
+        "name": "Coral Avenue",
+        "class": "residential",
+        "coord": [
+          42.3789947,
+          -70.974935
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3789947,
+          -70.974935
+        ]
+      },
+      {
+        "name": "Veterans Road",
+        "class": "secondary",
+        "coord": [
+          42.3790126,
+          -70.9758922
+        ]
+      }
+    ],
+    "hagman road": [
+      {
+        "name": "French Square",
+        "class": "residential",
+        "coord": [
+          42.374709,
+          -70.9861966
+        ]
+      },
+      {
+        "name": "Jefferson Street",
+        "class": "residential",
+        "coord": [
+          42.3747923,
+          -70.9862626
+        ]
+      },
+      {
+        "name": "Pauline Street",
+        "class": "secondary",
+        "coord": [
+          42.3761121,
+          -70.9870085
+        ]
+      },
+      {
+        "name": "Walden Street",
+        "class": "residential",
+        "coord": [
+          42.3761121,
+          -70.9870085
+        ]
+      }
+    ],
+    "hale avenue": [
+      {
+        "name": "Bayview Avenue",
+        "class": "residential",
+        "coord": [
+          42.3609792,
+          -70.9713483
+        ]
+      },
+      {
+        "name": "Undine Avenue",
+        "class": "residential",
+        "coord": [
+          42.3603505,
+          -70.9720691
+        ]
+      }
+    ],
+    "harbor view avenue": [
+      {
+        "name": "Faun Bar Avenue",
+        "class": "residential",
+        "coord": [
+          42.3674353,
+          -70.9682766
+        ]
+      },
+      {
+        "name": "Prospect Avenue",
+        "class": "residential",
+        "coord": [
+          42.367703,
+          -70.9703514
+        ]
+      },
+      {
+        "name": "Terrace Avenue",
+        "class": "residential",
+        "coord": [
+          42.3678206,
+          -70.9708624
+        ]
+      }
+    ],
+    "harvard street": [
+      {
+        "name": "Franklin Street",
+        "class": "residential",
+        "coord": [
+          42.381732,
+          -70.9793719
+        ]
+      },
+      {
+        "name": "Payson Street",
+        "class": "residential",
+        "coord": [
+          42.381732,
+          -70.9793719
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3822831,
+          -70.9807395
+        ]
+      }
+    ],
+    "hawthorn avenue": [
+      {
+        "name": "Beach Road",
+        "class": "tertiary",
+        "coord": [
+          42.3809282,
+          -70.9748593
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3811994,
+          -70.9727037
+        ]
+      }
+    ],
+    "hermon street": [
+      {
+        "name": "Atlantic Street",
+        "class": "residential",
+        "coord": [
+          42.3810963,
+          -70.9859727
+        ]
+      },
+      {
+        "name": "Belcher Street",
+        "class": "residential",
+        "coord": [
+          42.3783311,
+          -70.9856933
+        ]
+      },
+      {
+        "name": "Centre Street",
+        "class": "residential",
+        "coord": [
+          42.3803164,
+          -70.9858746
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "tertiary",
+        "coord": [
+          42.3795578,
+          -70.9857792
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.381948,
+          -70.9859705
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3819574,
+          -70.9860746
+        ]
+      },
+      {
+        "name": "Pauline Street",
+        "class": "secondary",
+        "coord": [
+          42.3770051,
+          -70.9843729
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3770051,
+          -70.9843729
+        ]
+      }
+    ],
+    "highland avenue": [
+      {
+        "name": "Atkinson Circle",
+        "class": "residential",
+        "coord": [
+          42.3866081,
+          -70.9742634
+        ]
+      },
+      {
+        "name": "Cliff Avenue",
+        "class": "residential",
+        "coord": [
+          42.3873481,
+          -70.9730972
+        ]
+      },
+      {
+        "name": "Crest Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3865357,
+          -70.9758943
+        ]
+      },
+      {
+        "name": "Floyd Street",
+        "class": "residential",
+        "coord": [
+          42.3878047,
+          -70.9724719
+        ]
+      },
+      {
+        "name": "Grovers Avenue",
+        "class": "residential",
+        "coord": [
+          42.3882195,
+          -70.9719038
+        ]
+      },
+      {
+        "name": "Nahant Avenue",
+        "class": "residential",
+        "coord": [
+          42.3893842,
+          -70.9704324
+        ]
+      },
+      {
+        "name": "Pond Street",
+        "class": "residential",
+        "coord": [
+          42.3890807,
+          -70.9707243
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3865357,
+          -70.9758943
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.386624,
+          -70.9760069
+        ]
+      },
+      {
+        "name": "Sewall Avenue",
+        "class": "residential",
+        "coord": [
+          42.3886153,
+          -70.9713618
+        ]
+      },
+      {
+        "name": "Temple Avenue",
+        "class": "residential",
+        "coord": [
+          42.3868148,
+          -70.9738275
+        ]
+      }
+    ],
+    "hillside avenue": [
+      {
+        "name": "Beacon Street",
+        "class": "residential",
+        "coord": [
+          42.3700198,
+          -70.9700739
+        ]
+      },
+      {
+        "name": "Cottage Avenue",
+        "class": "residential",
+        "coord": [
+          42.3686519,
+          -70.9700892
+        ]
+      },
+      {
+        "name": "Crystal Cove Avenue",
+        "class": "residential",
+        "coord": [
+          42.3692535,
+          -70.970294
+        ]
+      },
+      {
+        "name": "Park Avenue",
+        "class": "residential",
+        "coord": [
+          42.3692535,
+          -70.970294
+        ]
+      },
+      {
+        "name": "Prospect Avenue",
+        "class": "residential",
+        "coord": [
+          42.3681476,
+          -70.9699175
+        ]
+      }
+    ],
+    "hutchinson street": [
+      {
+        "name": "Chamberlain Avenue",
+        "class": "residential",
+        "coord": [
+          42.3851811,
+          -70.9741044
+        ]
+      },
+      {
+        "name": "Crest Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3851811,
+          -70.9741044
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3857227,
+          -70.976516
+        ]
+      }
+    ],
+    "ingleside avenue": [
+      {
+        "name": "Brookfield Road",
+        "class": "residential",
+        "coord": [
+          42.3775059,
+          -70.9887653
+        ]
+      },
+      {
+        "name": "Enfield Road",
+        "class": "residential",
+        "coord": [
+          42.378055,
+          -70.9906341
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "residential",
+        "coord": [
+          42.3787879,
+          -70.9919771
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3787879,
+          -70.9919771
+        ]
+      }
+    ],
+    "irwin street": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3733011,
+          -70.9715623
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3735718,
+          -70.9694662
+        ]
+      }
+    ],
+    "james avenue": [
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.374173,
+          -70.9822653
+        ]
+      }
+    ],
+    "jefferson street": [
+      {
+        "name": "Fremont Street",
+        "class": "residential",
+        "coord": [
+          42.37544,
+          -70.9846524
+        ]
+      },
+      {
+        "name": "Hagman Road",
+        "class": "residential",
+        "coord": [
+          42.3747923,
+          -70.9862626
+        ]
+      },
+      {
+        "name": "Putnam Street",
+        "class": "residential",
+        "coord": [
+          42.3749548,
+          -70.9858714
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3758885,
+          -70.9835387
+        ]
+      }
+    ],
+    "jerald street": [
+      {
+        "name": "Beal Street",
+        "class": "residential",
+        "coord": [
+          42.3806174,
+          -70.9886118
+        ]
+      },
+      {
+        "name": "Read Street",
+        "class": "residential",
+        "coord": [
+          42.3806723,
+          -70.9877552
+        ]
+      }
+    ],
+    "johnson avenue": [
+      {
+        "name": "Bellevue Avenue",
+        "class": "residential",
+        "coord": [
+          42.3700533,
+          -70.9902715
+        ]
+      },
+      {
+        "name": "Bellevue Terrace",
+        "class": "residential",
+        "coord": [
+          42.3700504,
+          -70.9902651
+        ]
+      },
+      {
+        "name": "Cottage Park Road",
+        "class": "residential",
+        "coord": [
+          42.3697525,
+          -70.9891524
+        ]
+      },
+      {
+        "name": "Court Road",
+        "class": "tertiary",
+        "coord": [
+          42.3710968,
+          -70.9931324
+        ]
+      },
+      {
+        "name": "Johnson Terrace",
+        "class": "residential",
+        "coord": [
+          42.3698732,
+          -70.9898707
+        ]
+      },
+      {
+        "name": "Lorean Terrace",
+        "class": "residential",
+        "coord": [
+          42.3708507,
+          -70.9922184
+        ]
+      },
+      {
+        "name": "Sargent Street",
+        "class": "residential",
+        "coord": [
+          42.3710968,
+          -70.9931324
+        ]
+      },
+      {
+        "name": "Sargent Terrace",
+        "class": "residential",
+        "coord": [
+          42.3709854,
+          -70.9927097
+        ]
+      },
+      {
+        "name": "Somerset Avenue",
+        "class": "residential",
+        "coord": [
+          42.3706213,
+          -70.9916317
+        ]
+      }
+    ],
+    "johnson terrace": [
+      {
+        "name": "Johnson Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3698732,
+          -70.9898707
+        ]
+      }
+    ],
+    "kay street": [
+      {
+        "name": "Wilshire Street",
+        "class": "residential",
+        "coord": [
+          42.3835864,
+          -70.9841133
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "tertiary",
+        "coord": [
+          42.3836204,
+          -70.9828895
+        ]
+      }
+    ],
+    "kennedy drive": [
+      {
+        "name": "Kennedy Road",
+        "class": "residential",
+        "coord": [
+          42.3839423,
+          -70.979299
+        ]
+      },
+      {
+        "name": "Overlook Drive",
+        "class": "residential",
+        "coord": [
+          42.384107,
+          -70.9795114
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3836799,
+          -70.9789606
+        ]
+      }
+    ],
+    "kennedy road": [
+      {
+        "name": "Kennedy Drive",
+        "class": "residential",
+        "coord": [
+          42.3839423,
+          -70.979299
+        ]
+      }
+    ],
+    "levy bramson way": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.376104,
+          -70.973787
+        ]
+      },
+      {
+        "name": "Veterans Road",
+        "class": "secondary",
+        "coord": [
+          42.3759587,
+          -70.9741623
+        ]
+      }
+    ],
+    "lewis avenue": [
+      {
+        "name": "Lewis Terrace",
+        "class": "residential",
+        "coord": [
+          42.3727808,
+          -70.9765961
+        ]
+      },
+      {
+        "name": "Lewis Terrace",
+        "class": "residential",
+        "coord": [
+          42.3728658,
+          -70.9765841
+        ]
+      },
+      {
+        "name": "River Road",
+        "class": "tertiary",
+        "coord": [
+          42.3739884,
+          -70.9764145
+        ]
+      },
+      {
+        "name": "Washington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.372089,
+          -70.9766938
+        ]
+      }
+    ],
+    "lewis terrace": [
+      {
+        "name": "Lewis Avenue",
+        "class": "residential",
+        "coord": [
+          42.3727808,
+          -70.9765961
+        ]
+      },
+      {
+        "name": "Lewis Avenue",
+        "class": "residential",
+        "coord": [
+          42.3728658,
+          -70.9765841
+        ]
+      }
+    ],
+    "lincoln street": [
+      {
+        "name": "Beal Street",
+        "class": "residential",
+        "coord": [
+          42.3793639,
+          -70.9884412
+        ]
+      },
+      {
+        "name": "Brookfield Road",
+        "class": "residential",
+        "coord": [
+          42.3793639,
+          -70.9884412
+        ]
+      },
+      {
+        "name": "Cora Street",
+        "class": "residential",
+        "coord": [
+          42.3796372,
+          -70.9846404
+        ]
+      },
+      {
+        "name": "Hermon Street",
+        "class": "tertiary",
+        "coord": [
+          42.3795578,
+          -70.9857792
+        ]
+      },
+      {
+        "name": "Ingleside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3787879,
+          -70.9919771
+        ]
+      },
+      {
+        "name": "Lincoln Terrace",
+        "class": "residential",
+        "coord": [
+          42.3791747,
+          -70.9899045
+        ]
+      },
+      {
+        "name": "Marshall Street",
+        "class": "residential",
+        "coord": [
+          42.3792876,
+          -70.9893012
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3787879,
+          -70.9919771
+        ]
+      },
+      {
+        "name": "Read Street",
+        "class": "residential",
+        "coord": [
+          42.3794261,
+          -70.9875898
+        ]
+      },
+      {
+        "name": "Walden Street",
+        "class": "residential",
+        "coord": [
+          42.3794594,
+          -70.9871327
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3797788,
+          -70.9826109
+        ]
+      }
+    ],
+    "lincoln terrace": [
+      {
+        "name": "Lincoln Street",
+        "class": "residential",
+        "coord": [
+          42.3791747,
+          -70.9899045
+        ]
+      }
+    ],
+    "linden street": [
+      {
+        "name": "Atlantic Street",
+        "class": "residential",
+        "coord": [
+          42.3809187,
+          -70.9839603
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3817575,
+          -70.9838374
+        ]
+      }
+    ],
+    "locust street": [
+      {
+        "name": "Beach Road",
+        "class": "secondary",
+        "coord": [
+          42.3826839,
+          -70.9737726
+        ]
+      },
+      {
+        "name": "Beach Road",
+        "class": "tertiary",
+        "coord": [
+          42.3826415,
+          -70.9736184
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "residential",
+        "coord": [
+          42.3832889,
+          -70.9759755
+        ]
+      },
+      {
+        "name": "Locust Way",
+        "class": "residential",
+        "coord": [
+          42.3828361,
+          -70.9743269
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3840234,
+          -70.978643
+        ]
+      },
+      {
+        "name": "Veterans Road",
+        "class": "secondary",
+        "coord": [
+          42.3826839,
+          -70.9737726
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3823697,
+          -70.9726333
+        ]
+      }
+    ],
+    "locust way": [
+      {
+        "name": "Locust Street",
+        "class": "tertiary",
+        "coord": [
+          42.3828361,
+          -70.9743269
+        ]
+      }
+    ],
+    "lorean terrace": [
+      {
+        "name": "Johnson Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3708507,
+          -70.9922184
+        ]
+      }
+    ],
+    "loring road": [
+      {
+        "name": "Birch Road",
+        "class": "residential",
+        "coord": [
+          42.374626,
+          -70.9947523
+        ]
+      },
+      {
+        "name": "Birch Road",
+        "class": "residential",
+        "coord": [
+          42.3748699,
+          -70.9947659
+        ]
+      },
+      {
+        "name": "Circuit Road",
+        "class": "residential",
+        "coord": [
+          42.3721214,
+          -70.9938109
+        ]
+      },
+      {
+        "name": "Court Road",
+        "class": "tertiary",
+        "coord": [
+          42.3755533,
+          -70.995025
+        ]
+      },
+      {
+        "name": "Loring Terrace",
+        "class": "residential",
+        "coord": [
+          42.3725741,
+          -70.9951582
+        ]
+      },
+      {
+        "name": "Lowell Road",
+        "class": "residential",
+        "coord": [
+          42.373465,
+          -70.9948985
+        ]
+      },
+      {
+        "name": "Maple Road",
+        "class": "residential",
+        "coord": [
+          42.3721214,
+          -70.9938109
+        ]
+      }
+    ],
+    "loring terrace": [
+      {
+        "name": "Loring Road",
+        "class": "residential",
+        "coord": [
+          42.3725741,
+          -70.9951582
+        ]
+      }
+    ],
+    "lowell road": [
+      {
+        "name": "Circuit Road",
+        "class": "residential",
+        "coord": [
+          42.3741057,
+          -70.992192
+        ]
+      },
+      {
+        "name": "Emerson Road",
+        "class": "residential",
+        "coord": [
+          42.3732017,
+          -70.9943323
+        ]
+      },
+      {
+        "name": "Loring Road",
+        "class": "residential",
+        "coord": [
+          42.373465,
+          -70.9948985
+        ]
+      },
+      {
+        "name": "Maple Road",
+        "class": "residential",
+        "coord": [
+          42.3729584,
+          -70.9937487
+        ]
+      },
+      {
+        "name": "Pauline Street",
+        "class": "secondary",
+        "coord": [
+          42.3743821,
+          -70.9913082
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3743821,
+          -70.9913082
+        ]
+      }
+    ],
+    "madison avenue": [
+      {
+        "name": "Bowdoin Street",
+        "class": "residential",
+        "coord": [
+          42.376716,
+          -70.9819287
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.376074,
+          -70.9836742
+        ]
+      }
+    ],
+    "main street": [
+      {
+        "name": "Amelia Avenue",
+        "class": "residential",
+        "coord": [
+          42.3822979,
+          -70.9898567
+        ]
+      },
+      {
+        "name": "Banks Street",
+        "class": "residential",
+        "coord": [
+          42.3818739,
+          -70.9851404
+        ]
+      },
+      {
+        "name": "Beal Street",
+        "class": "residential",
+        "coord": [
+          42.3822067,
+          -70.9888434
+        ]
+      },
+      {
+        "name": "Bowdoin Street",
+        "class": "tertiary",
+        "coord": [
+          42.3810077,
+          -70.9813724
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "tertiary",
+        "coord": [
+          42.3795043,
+          -70.9791014
+        ]
+      },
+      {
+        "name": "Douglas Street",
+        "class": "residential",
+        "coord": [
+          42.3819736,
+          -70.9862551
+        ]
+      },
+      {
+        "name": "Fairview Street",
+        "class": "residential",
+        "coord": [
+          42.3822268,
+          -70.9890676
+        ]
+      },
+      {
+        "name": "Hermon Street",
+        "class": "tertiary",
+        "coord": [
+          42.381948,
+          -70.9859705
+        ]
+      },
+      {
+        "name": "Hermon Street",
+        "class": "tertiary",
+        "coord": [
+          42.3819574,
+          -70.9860746
+        ]
+      },
+      {
+        "name": "Linden Street",
+        "class": "residential",
+        "coord": [
+          42.3817575,
+          -70.9838374
+        ]
+      },
+      {
+        "name": "Marshall Street",
+        "class": "residential",
+        "coord": [
+          42.3822794,
+          -70.9896512
+        ]
+      },
+      {
+        "name": "Paine Street",
+        "class": "residential",
+        "coord": [
+          42.3817008,
+          -70.9832021
+        ]
+      },
+      {
+        "name": "Payson Street",
+        "class": "residential",
+        "coord": [
+          42.3804639,
+          -70.9805277
+        ]
+      },
+      {
+        "name": "Pleasant Park Road",
+        "class": "residential",
+        "coord": [
+          42.3823567,
+          -70.99051
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "tertiary",
+        "coord": [
+          42.3824508,
+          -70.9916077
+        ]
+      },
+      {
+        "name": "Read Street",
+        "class": "residential",
+        "coord": [
+          42.3821257,
+          -70.9879442
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3815972,
+          -70.9822709
+        ]
+      },
+      {
+        "name": "South Main Street",
+        "class": "residential",
+        "coord": [
+          42.3804639,
+          -70.9805277
+        ]
+      },
+      {
+        "name": "Sunset Road",
+        "class": "residential",
+        "coord": [
+          42.3823784,
+          -70.9907635
+        ]
+      },
+      {
+        "name": "Walden Street",
+        "class": "residential",
+        "coord": [
+          42.3820648,
+          -70.9872673
+        ]
+      },
+      {
+        "name": "Wilshire Street",
+        "class": "residential",
+        "coord": [
+          42.3817717,
+          -70.9839965
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3815972,
+          -70.9822709
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "tertiary",
+        "coord": [
+          42.381623,
+          -70.9823611
+        ]
+      }
+    ],
+    "maple road": [
+      {
+        "name": "Circuit Road",
+        "class": "residential",
+        "coord": [
+          42.3721214,
+          -70.9938109
+        ]
+      },
+      {
+        "name": "Loring Road",
+        "class": "residential",
+        "coord": [
+          42.3721214,
+          -70.9938109
+        ]
+      },
+      {
+        "name": "Lowell Road",
+        "class": "residential",
+        "coord": [
+          42.3729584,
+          -70.9937487
+        ]
+      }
+    ],
+    "marshall street": [
+      {
+        "name": "Girdlestone Road",
+        "class": "residential",
+        "coord": [
+          42.3812288,
+          -70.9895772
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "residential",
+        "coord": [
+          42.3792876,
+          -70.9893012
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3822794,
+          -70.9896512
+        ]
+      },
+      {
+        "name": "Tileston Road",
+        "class": "residential",
+        "coord": [
+          42.3805095,
+          -70.9895381
+        ]
+      }
+    ],
+    "maryland avenue": [
+      {
+        "name": "Tafts Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3578527,
+          -70.9700064
+        ]
+      }
+    ],
+    "mermaid avenue": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3796455,
+          -70.9748672
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3799272,
+          -70.9726406
+        ]
+      }
+    ],
+    "moore street": [
+      {
+        "name": "Charles Street",
+        "class": "residential",
+        "coord": [
+          42.3703119,
+          -70.9696184
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.370697,
+          -70.9703698
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3699351,
+          -70.96778
+        ]
+      }
+    ],
+    "morton street": [
+      {
+        "name": "Amelia Avenue",
+        "class": "residential",
+        "coord": [
+          42.38397,
+          -70.9898987
+        ]
+      },
+      {
+        "name": "Banks Street",
+        "class": "residential",
+        "coord": [
+          42.3837822,
+          -70.9852366
+        ]
+      },
+      {
+        "name": "Douglas Street",
+        "class": "residential",
+        "coord": [
+          42.3837952,
+          -70.9862626
+        ]
+      },
+      {
+        "name": "Fairview Street",
+        "class": "residential",
+        "coord": [
+          42.3839355,
+          -70.9889802
+        ]
+      },
+      {
+        "name": "Pleasant Park Road",
+        "class": "residential",
+        "coord": [
+          42.3839728,
+          -70.9906317
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "tertiary",
+        "coord": [
+          42.3839378,
+          -70.9914317
+        ]
+      },
+      {
+        "name": "Read Street",
+        "class": "residential",
+        "coord": [
+          42.3838939,
+          -70.9879724
+        ]
+      },
+      {
+        "name": "Russell Street",
+        "class": "residential",
+        "coord": [
+          42.3838436,
+          -70.9871004
+        ]
+      }
+    ],
+    "mugford street": [
+      {
+        "name": "Tafts Avenue",
+        "class": "secondary",
+        "coord": [
+          42.356978,
+          -70.9696018
+        ]
+      },
+      {
+        "name": "Tafts Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3569847,
+          -70.9696049
+        ]
+      }
+    ],
+    "myrtle avenue": [
+      {
+        "name": "Beach Road",
+        "class": "tertiary",
+        "coord": [
+          42.3816477,
+          -70.9745979
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3818492,
+          -70.9726646
+        ]
+      }
+    ],
+    "nahant avenue": [
+      {
+        "name": "Cliff Avenue",
+        "class": "residential",
+        "coord": [
+          42.388251,
+          -70.9765663
+        ]
+      },
+      {
+        "name": "Grovers Avenue",
+        "class": "residential",
+        "coord": [
+          42.389764,
+          -70.9728205
+        ]
+      },
+      {
+        "name": "Highland Avenue",
+        "class": "residential",
+        "coord": [
+          42.3893842,
+          -70.9704324
+        ]
+      },
+      {
+        "name": "Sewall Avenue",
+        "class": "residential",
+        "coord": [
+          42.3892465,
+          -70.9759168
+        ]
+      },
+      {
+        "name": "Upland Road",
+        "class": "residential",
+        "coord": [
+          42.3884956,
+          -70.9766348
+        ]
+      }
+    ],
+    "neptune avenue": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3802932,
+          -70.9747949
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3805617,
+          -70.9727036
+        ]
+      }
+    ],
+    "nerious street": [
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3620742,
+          -70.970536
+        ]
+      }
+    ],
+    "nevada street": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3749706,
+          -70.9728287
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3756497,
+          -70.9708777
+        ]
+      }
+    ],
+    "north avenue": [
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3731641,
+          -70.9815191
+        ]
+      }
+    ],
+    "ocean avenue": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3739058,
+          -70.9719884
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3741646,
+          -70.9698921
+        ]
+      }
+    ],
+    "ocean view street": [
+      {
+        "name": "Bowdoin Street",
+        "class": "tertiary",
+        "coord": [
+          42.3791801,
+          -70.9815471
+        ]
+      },
+      {
+        "name": "Cora Street",
+        "class": "residential",
+        "coord": [
+          42.3790541,
+          -70.9846014
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "tertiary",
+        "coord": [
+          42.379168,
+          -70.9795084
+        ]
+      },
+      {
+        "name": "Ocean View Way",
+        "class": "residential",
+        "coord": [
+          42.3791708,
+          -70.9825493
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3791674,
+          -70.9829201
+        ]
+      }
+    ],
+    "ocean view way": [
+      {
+        "name": "Ocean View Street",
+        "class": "residential",
+        "coord": [
+          42.3791708,
+          -70.9825493
+        ]
+      }
+    ],
+    "orlando avenue": [
+      {
+        "name": "Bartlett Parkway",
+        "class": "residential",
+        "coord": [
+          42.3689383,
+          -70.9871965
+        ]
+      },
+      {
+        "name": "Bartlett Road",
+        "class": "residential",
+        "coord": [
+          42.3706571,
+          -70.987682
+        ]
+      }
+    ],
+    "otis street": [
+      {
+        "name": "Elliot Street",
+        "class": "residential",
+        "coord": [
+          42.3589826,
+          -70.9706433
+        ]
+      },
+      {
+        "name": "Grandview Avenue",
+        "class": "residential",
+        "coord": [
+          42.3575075,
+          -70.9721459
+        ]
+      },
+      {
+        "name": "Strand Way",
+        "class": "residential",
+        "coord": [
+          42.3596006,
+          -70.9699839
+        ]
+      },
+      {
+        "name": "Tafts Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3590047,
+          -70.970531
+        ]
+      },
+      {
+        "name": "Tafts Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3590656,
+          -70.9705579
+        ]
+      },
+      {
+        "name": "Whittier Street",
+        "class": "residential",
+        "coord": [
+          42.3583946,
+          -70.9712423
+        ]
+      }
+    ],
+    "overlook drive": [
+      {
+        "name": "Kennedy Drive",
+        "class": "residential",
+        "coord": [
+          42.384107,
+          -70.9795114
+        ]
+      }
+    ],
+    "paine street": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3817008,
+          -70.9832021
+        ]
+      },
+      {
+        "name": "Wilshire Street",
+        "class": "residential",
+        "coord": [
+          42.3831473,
+          -70.9840849
+        ]
+      }
+    ],
+    "palmyra street": [
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3758055,
+          -70.9919855
+        ]
+      },
+      {
+        "name": "Wheelock Street",
+        "class": "residential",
+        "coord": [
+          42.3764135,
+          -70.9896231
+        ]
+      }
+    ],
+    "park avenue": [
+      {
+        "name": "Beacon Street",
+        "class": "residential",
+        "coord": [
+          42.3697853,
+          -70.9693418
+        ]
+      },
+      {
+        "name": "Crystal Cove Avenue",
+        "class": "residential",
+        "coord": [
+          42.3692168,
+          -70.9698944
+        ]
+      },
+      {
+        "name": "Crystal Cove Avenue",
+        "class": "residential",
+        "coord": [
+          42.3692535,
+          -70.970294
+        ]
+      },
+      {
+        "name": "Hillside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3692535,
+          -70.970294
+        ]
+      },
+      {
+        "name": "Terrace Avenue",
+        "class": "residential",
+        "coord": [
+          42.3685932,
+          -70.9714486
+        ]
+      }
+    ],
+    "pauline street": [
+      {
+        "name": "Fremont Street",
+        "class": "residential",
+        "coord": [
+          42.3765205,
+          -70.9858068
+        ]
+      },
+      {
+        "name": "Hagman Road",
+        "class": "residential",
+        "coord": [
+          42.3761121,
+          -70.9870085
+        ]
+      },
+      {
+        "name": "Hermon Street",
+        "class": "tertiary",
+        "coord": [
+          42.3770051,
+          -70.9843729
+        ]
+      },
+      {
+        "name": "Lowell Road",
+        "class": "residential",
+        "coord": [
+          42.3743821,
+          -70.9913082
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3743821,
+          -70.9913082
+        ]
+      },
+      {
+        "name": "Putnam Street",
+        "class": "residential",
+        "coord": [
+          42.3762467,
+          -70.9866126
+        ]
+      },
+      {
+        "name": "Waldemar Avenue",
+        "class": "residential",
+        "coord": [
+          42.3753887,
+          -70.9888994
+        ]
+      },
+      {
+        "name": "Walden Street",
+        "class": "residential",
+        "coord": [
+          42.3761121,
+          -70.9870085
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3770051,
+          -70.9843729
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3772223,
+          -70.9839038
+        ]
+      },
+      {
+        "name": "Woodside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3759144,
+          -70.9875906
+        ]
+      }
+    ],
+    "payson street": [
+      {
+        "name": "Central Street",
+        "class": "residential",
+        "coord": [
+          42.3809385,
+          -70.9799445
+        ]
+      },
+      {
+        "name": "Franklin Street",
+        "class": "residential",
+        "coord": [
+          42.381732,
+          -70.9793719
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.381732,
+          -70.9793719
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "residential",
+        "coord": [
+          42.3804639,
+          -70.9805277
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3826372,
+          -70.979173
+        ]
+      },
+      {
+        "name": "South Main Street",
+        "class": "residential",
+        "coord": [
+          42.3804639,
+          -70.9805277
+        ]
+      }
+    ],
+    "pearl avenue": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3763072,
+          -70.9739343
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3770384,
+          -70.9716914
+        ]
+      }
+    ],
+    "pebble avenue": [
+      {
+        "name": "Elliot Street",
+        "class": "residential",
+        "coord": [
+          42.3595968,
+          -70.9716302
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "residential",
+        "coord": [
+          42.3595968,
+          -70.9716302
+        ]
+      },
+      {
+        "name": "Whittier Street",
+        "class": "residential",
+        "coord": [
+          42.3587653,
+          -70.9721645
+        ]
+      }
+    ],
+    "perkins street": [
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3714916,
+          -70.9702387
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3718875,
+          -70.9684612
+        ]
+      }
+    ],
+    "petrel street": [
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3636702,
+          -70.970103
+        ]
+      }
+    ],
+    "pico avenue": [
+      {
+        "name": "Frances Street",
+        "class": "residential",
+        "coord": [
+          42.369407,
+          -70.9838004
+        ]
+      },
+      {
+        "name": "Sunnyside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3701845,
+          -70.9846459
+        ]
+      }
+    ],
+    "pleasant court": [
+      {
+        "name": "Pleasant Street",
+        "class": "tertiary",
+        "coord": [
+          42.3831667,
+          -70.9915314
+        ]
+      },
+      {
+        "name": "Willis Avenue",
+        "class": "residential",
+        "coord": [
+          42.3832363,
+          -70.9923909
+        ]
+      }
+    ],
+    "pleasant park road": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3823567,
+          -70.99051
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "tertiary",
+        "coord": [
+          42.3839728,
+          -70.9906317
+        ]
+      }
+    ],
+    "pleasant street": [
+      {
+        "name": "Bartlett Road",
+        "class": "residential",
+        "coord": [
+          42.372976,
+          -70.9872005
+        ]
+      },
+      {
+        "name": "Belle Isle Terrace",
+        "class": "residential",
+        "coord": [
+          42.383874,
+          -70.9914623
+        ]
+      },
+      {
+        "name": "Bellevue Avenue",
+        "class": "residential",
+        "coord": [
+          42.3731992,
+          -70.9891375
+        ]
+      },
+      {
+        "name": "Brookfield Road",
+        "class": "residential",
+        "coord": [
+          42.3770333,
+          -70.9921537
+        ]
+      },
+      {
+        "name": "Buchanan Street",
+        "class": "tertiary",
+        "coord": [
+          42.3726693,
+          -70.9845392
+        ]
+      },
+      {
+        "name": "Cottage Park Road",
+        "class": "tertiary",
+        "coord": [
+          42.3731138,
+          -70.9883964
+        ]
+      },
+      {
+        "name": "Court Road",
+        "class": "tertiary",
+        "coord": [
+          42.3762813,
+          -70.9922025
+        ]
+      },
+      {
+        "name": "Edgehill Road",
+        "class": "residential",
+        "coord": [
+          42.3778094,
+          -70.9920756
+        ]
+      },
+      {
+        "name": "Girdlestone Road",
+        "class": "residential",
+        "coord": [
+          42.3810598,
+          -70.9917483
+        ]
+      },
+      {
+        "name": "Ingleside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3787879,
+          -70.9919771
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "residential",
+        "coord": [
+          42.3787879,
+          -70.9919771
+        ]
+      },
+      {
+        "name": "Lowell Road",
+        "class": "residential",
+        "coord": [
+          42.3743821,
+          -70.9913082
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3824508,
+          -70.9916077
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "tertiary",
+        "coord": [
+          42.3839378,
+          -70.9914317
+        ]
+      },
+      {
+        "name": "Palmyra Street",
+        "class": "residential",
+        "coord": [
+          42.3758055,
+          -70.9919855
+        ]
+      },
+      {
+        "name": "Pauline Street",
+        "class": "secondary",
+        "coord": [
+          42.3743821,
+          -70.9913082
+        ]
+      },
+      {
+        "name": "Pleasant Court",
+        "class": "residential",
+        "coord": [
+          42.3831667,
+          -70.9915314
+        ]
+      },
+      {
+        "name": "Plummer Avenue",
+        "class": "residential",
+        "coord": [
+          42.372808,
+          -70.9857425
+        ]
+      },
+      {
+        "name": "Sargent Street",
+        "class": "residential",
+        "coord": [
+          42.3733595,
+          -70.9905291
+        ]
+      },
+      {
+        "name": "Seaview Avenue",
+        "class": "residential",
+        "coord": [
+          42.37246,
+          -70.9827226
+        ]
+      },
+      {
+        "name": "Somerset Avenue",
+        "class": "residential",
+        "coord": [
+          42.3732801,
+          -70.9898397
+        ]
+      },
+      {
+        "name": "Somerset Avenue",
+        "class": "residential",
+        "coord": [
+          42.3732841,
+          -70.9898748
+        ]
+      },
+      {
+        "name": "Sunnyside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3726693,
+          -70.9845392
+        ]
+      },
+      {
+        "name": "Tileston Road",
+        "class": "residential",
+        "coord": [
+          42.3804092,
+          -70.9918138
+        ]
+      },
+      {
+        "name": "Villa Avenue",
+        "class": "residential",
+        "coord": [
+          42.3725541,
+          -70.9835397
+        ]
+      },
+      {
+        "name": "Vine Avenue",
+        "class": "residential",
+        "coord": [
+          42.3724705,
+          -70.9828137
+        ]
+      },
+      {
+        "name": "Waldemar Avenue",
+        "class": "residential",
+        "coord": [
+          42.3751675,
+          -70.9916819
+        ]
+      },
+      {
+        "name": "Washington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3722633,
+          -70.980976
+        ]
+      },
+      {
+        "name": "Williams Street",
+        "class": "residential",
+        "coord": [
+          42.37304,
+          -70.9877559
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3722633,
+          -70.980976
+        ]
+      },
+      {
+        "name": "Woodside Avenue",
+        "class": "residential",
+        "coord": [
+          42.372808,
+          -70.9857425
+        ]
+      }
+    ],
+    "plummer avenue": [
+      {
+        "name": "Dix Street",
+        "class": "residential",
+        "coord": [
+          42.3697895,
+          -70.9852375
+        ]
+      },
+      {
+        "name": "Frances Street",
+        "class": "residential",
+        "coord": [
+          42.3691761,
+          -70.9851724
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.372808,
+          -70.9857425
+        ]
+      },
+      {
+        "name": "Seymour Street",
+        "class": "residential",
+        "coord": [
+          42.3713992,
+          -70.9854778
+        ]
+      },
+      {
+        "name": "Woodside Avenue",
+        "class": "residential",
+        "coord": [
+          42.372808,
+          -70.9857425
+        ]
+      }
+    ],
+    "pond street": [
+      {
+        "name": "Cliff Avenue",
+        "class": "residential",
+        "coord": [
+          42.387756,
+          -70.969652
+        ]
+      },
+      {
+        "name": "Highland Avenue",
+        "class": "residential",
+        "coord": [
+          42.3890807,
+          -70.9707243
+        ]
+      },
+      {
+        "name": "Seal Harbor Road",
+        "class": "residential",
+        "coord": [
+          42.387756,
+          -70.969652
+        ]
+      },
+      {
+        "name": "Seal Harbor Road",
+        "class": "residential",
+        "coord": [
+          42.3884757,
+          -70.970084
+        ]
+      }
+    ],
+    "pratt street": [
+      {
+        "name": "Strand Way",
+        "class": "residential",
+        "coord": [
+          42.3588084,
+          -70.9695925
+        ]
+      },
+      {
+        "name": "Tafts Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3586183,
+          -70.9703605
+        ]
+      }
+    ],
+    "prescott street": [
+      {
+        "name": "Bellevue Avenue",
+        "class": "residential",
+        "coord": [
+          42.3712551,
+          -70.9898369
+        ]
+      },
+      {
+        "name": "Somerset Avenue",
+        "class": "residential",
+        "coord": [
+          42.3715858,
+          -70.9909816
+        ]
+      }
+    ],
+    "prospect avenue": [
+      {
+        "name": "Faun Bar Avenue",
+        "class": "residential",
+        "coord": [
+          42.3679584,
+          -70.9678529
+        ]
+      },
+      {
+        "name": "Harbor View Avenue",
+        "class": "residential",
+        "coord": [
+          42.367703,
+          -70.9703514
+        ]
+      },
+      {
+        "name": "Hillside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3681476,
+          -70.9699175
+        ]
+      }
+    ],
+    "putnam place": [
+      {
+        "name": "Putnam Street",
+        "class": "residential",
+        "coord": [
+          42.3740329,
+          -70.9848488
+        ]
+      },
+      {
+        "name": "Putnam Street",
+        "class": "residential",
+        "coord": [
+          42.3746552,
+          -70.9856283
+        ]
+      }
+    ],
+    "putnam street": [
+      {
+        "name": "Buchanan Street",
+        "class": "tertiary",
+        "coord": [
+          42.3737249,
+          -70.9842014
+        ]
+      },
+      {
+        "name": "Jefferson Street",
+        "class": "residential",
+        "coord": [
+          42.3749548,
+          -70.9858714
+        ]
+      },
+      {
+        "name": "Pauline Street",
+        "class": "secondary",
+        "coord": [
+          42.3762467,
+          -70.9866126
+        ]
+      },
+      {
+        "name": "Putnam Place",
+        "class": "residential",
+        "coord": [
+          42.3740329,
+          -70.9848488
+        ]
+      },
+      {
+        "name": "Putnam Place",
+        "class": "residential",
+        "coord": [
+          42.3746552,
+          -70.9856283
+        ]
+      },
+      {
+        "name": "Viking Gardens Drive",
+        "class": "residential",
+        "coord": [
+          42.373898,
+          -70.9845786
+        ]
+      }
+    ],
+    "quincy avenue": [
+      {
+        "name": "Cliff Avenue",
+        "class": "residential",
+        "coord": [
+          42.3882046,
+          -70.9767079
+        ]
+      },
+      {
+        "name": "Cliff Avenue",
+        "class": "residential",
+        "coord": [
+          42.3882531,
+          -70.97445
+        ]
+      },
+      {
+        "name": "Deane Avenue",
+        "class": "residential",
+        "coord": [
+          42.3882547,
+          -70.9771349
+        ]
+      },
+      {
+        "name": "Temple Avenue",
+        "class": "residential",
+        "coord": [
+          42.3874282,
+          -70.9746461
+        ]
+      },
+      {
+        "name": "Upland Road",
+        "class": "residential",
+        "coord": [
+          42.389212,
+          -70.978413
+        ]
+      }
+    ],
+    "quincy path": [
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3867285,
+          -70.9761413
+        ]
+      }
+    ],
+    "read street": [
+      {
+        "name": "Edward Street",
+        "class": "residential",
+        "coord": [
+          42.3830065,
+          -70.9879588
+        ]
+      },
+      {
+        "name": "Jerald Street",
+        "class": "residential",
+        "coord": [
+          42.3806723,
+          -70.9877552
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "residential",
+        "coord": [
+          42.3794261,
+          -70.9875898
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3821257,
+          -70.9879442
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "tertiary",
+        "coord": [
+          42.3838939,
+          -70.9879724
+        ]
+      }
+    ],
+    "revere street": [
+      {
+        "name": "Almont Street",
+        "class": "residential",
+        "coord": [
+          42.3834186,
+          -70.9792022
+        ]
+      },
+      {
+        "name": "Argyle Street",
+        "class": "residential",
+        "coord": [
+          42.3860898,
+          -70.9762974
+        ]
+      },
+      {
+        "name": "Bayou Street",
+        "class": "residential",
+        "coord": [
+          42.387755,
+          -70.9776078
+        ]
+      },
+      {
+        "name": "Central Street",
+        "class": "residential",
+        "coord": [
+          42.3819581,
+          -70.981465
+        ]
+      },
+      {
+        "name": "Crest Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3865357,
+          -70.9758943
+        ]
+      },
+      {
+        "name": "Deane Avenue",
+        "class": "residential",
+        "coord": [
+          42.3883485,
+          -70.9788382
+        ]
+      },
+      {
+        "name": "Golden Drive",
+        "class": "residential",
+        "coord": [
+          42.3855801,
+          -70.9766749
+        ]
+      },
+      {
+        "name": "Governor's Drive",
+        "class": "residential",
+        "coord": [
+          42.382436,
+          -70.9804006
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.3822831,
+          -70.9807395
+        ]
+      },
+      {
+        "name": "Highland Avenue",
+        "class": "residential",
+        "coord": [
+          42.3865357,
+          -70.9758943
+        ]
+      },
+      {
+        "name": "Highland Avenue",
+        "class": "residential",
+        "coord": [
+          42.386624,
+          -70.9760069
+        ]
+      },
+      {
+        "name": "Hutchinson Street",
+        "class": "residential",
+        "coord": [
+          42.3857227,
+          -70.976516
+        ]
+      },
+      {
+        "name": "Kennedy Drive",
+        "class": "residential",
+        "coord": [
+          42.3836799,
+          -70.9789606
+        ]
+      },
+      {
+        "name": "Locust Street",
+        "class": "tertiary",
+        "coord": [
+          42.3840234,
+          -70.978643
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "tertiary",
+        "coord": [
+          42.3815972,
+          -70.9822709
+        ]
+      },
+      {
+        "name": "Quincy Path",
+        "class": "residential",
+        "coord": [
+          42.3867285,
+          -70.9761413
+        ]
+      },
+      {
+        "name": "Sagamore Avenue",
+        "class": "residential",
+        "coord": [
+          42.3851422,
+          -70.9775576
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3828031,
+          -70.9797713
+        ]
+      },
+      {
+        "name": "Summit Avenue",
+        "class": "residential",
+        "coord": [
+          42.3846818,
+          -70.9780342
+        ]
+      },
+      {
+        "name": "Taylor Street",
+        "class": "residential",
+        "coord": [
+          42.3821066,
+          -70.9811336
+        ]
+      },
+      {
+        "name": "Upland Road",
+        "class": "residential",
+        "coord": [
+          42.3900984,
+          -70.980126
+        ]
+      },
+      {
+        "name": "Winthrop Parkway",
+        "class": "secondary",
+        "coord": [
+          42.3906721,
+          -70.9803841
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3815972,
+          -70.9822709
+        ]
+      }
+    ],
+    "river road": [
+      {
+        "name": "Bates Avenue",
+        "class": "residential",
+        "coord": [
+          42.374467,
+          -70.9772488
+        ]
+      },
+      {
+        "name": "Bowdoin Street",
+        "class": "residential",
+        "coord": [
+          42.3775867,
+          -70.9815805
+        ]
+      },
+      {
+        "name": "Buchanan Street",
+        "class": "tertiary",
+        "coord": [
+          42.3757461,
+          -70.9799243
+        ]
+      },
+      {
+        "name": "Chester Avenue",
+        "class": "residential",
+        "coord": [
+          42.3755842,
+          -70.9795382
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "tertiary",
+        "coord": [
+          42.3757461,
+          -70.9799243
+        ]
+      },
+      {
+        "name": "Elmwood Avenue",
+        "class": "residential",
+        "coord": [
+          42.3733401,
+          -70.9753079
+        ]
+      },
+      {
+        "name": "Lewis Avenue",
+        "class": "residential",
+        "coord": [
+          42.3739884,
+          -70.9764145
+        ]
+      },
+      {
+        "name": "Thornton Street",
+        "class": "residential",
+        "coord": [
+          42.3751959,
+          -70.9786126
+        ]
+      },
+      {
+        "name": "Washington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3720009,
+          -70.9743162
+        ]
+      },
+      {
+        "name": "Willow Avenue",
+        "class": "residential",
+        "coord": [
+          42.3749162,
+          -70.9780318
+        ]
+      }
+    ],
+    "russell street": [
+      {
+        "name": "Edward Street",
+        "class": "residential",
+        "coord": [
+          42.3829515,
+          -70.9870903
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "tertiary",
+        "coord": [
+          42.3838436,
+          -70.9871004
+        ]
+      }
+    ],
+    "sagamore avenue": [
+      {
+        "name": "Grovers Avenue",
+        "class": "residential",
+        "coord": [
+          42.3842258,
+          -70.973203
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3851422,
+          -70.9775576
+        ]
+      }
+    ],
+    "sargent street": [
+      {
+        "name": "Court Road",
+        "class": "tertiary",
+        "coord": [
+          42.3710968,
+          -70.9931324
+        ]
+      },
+      {
+        "name": "Johnson Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3710968,
+          -70.9931324
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3733595,
+          -70.9905291
+        ]
+      }
+    ],
+    "sargent terrace": [
+      {
+        "name": "Johnson Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3709854,
+          -70.9927097
+        ]
+      }
+    ],
+    "sea foam avenue": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3774754,
+          -70.9745779
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3782422,
+          -70.9722202
+        ]
+      }
+    ],
+    "seal harbor road": [
+      {
+        "name": "Cliff Avenue",
+        "class": "residential",
+        "coord": [
+          42.387756,
+          -70.969652
+        ]
+      },
+      {
+        "name": "Pond Street",
+        "class": "residential",
+        "coord": [
+          42.387756,
+          -70.969652
+        ]
+      },
+      {
+        "name": "Pond Street",
+        "class": "residential",
+        "coord": [
+          42.3884757,
+          -70.970084
+        ]
+      }
+    ],
+    "seaview avenue": [
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.37246,
+          -70.9827226
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "residential",
+        "coord": [
+          42.3716388,
+          -70.981053
+        ]
+      }
+    ],
+    "sewall avenue": [
+      {
+        "name": "Cliff Avenue",
+        "class": "residential",
+        "coord": [
+          42.3875113,
+          -70.9704127
+        ]
+      },
+      {
+        "name": "Floyd Street",
+        "class": "residential",
+        "coord": [
+          42.389227,
+          -70.9742943
+        ]
+      },
+      {
+        "name": "Grovers Avenue",
+        "class": "residential",
+        "coord": [
+          42.389148,
+          -70.9728902
+        ]
+      },
+      {
+        "name": "Highland Avenue",
+        "class": "residential",
+        "coord": [
+          42.3886153,
+          -70.9713618
+        ]
+      },
+      {
+        "name": "Nahant Avenue",
+        "class": "residential",
+        "coord": [
+          42.3892465,
+          -70.9759168
+        ]
+      }
+    ],
+    "seymour street": [
+      {
+        "name": "Bartlett Road",
+        "class": "residential",
+        "coord": [
+          42.3713899,
+          -70.9875298
+        ]
+      },
+      {
+        "name": "Plummer Avenue",
+        "class": "residential",
+        "coord": [
+          42.3713992,
+          -70.9854778
+        ]
+      },
+      {
+        "name": "Woodside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3713664,
+          -70.9860957
+        ]
+      },
+      {
+        "name": "Woodside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3713946,
+          -70.9860941
+        ]
+      }
+    ],
+    "sheryl lane": [
+      {
+        "name": "Bartlett Road",
+        "class": "residential",
+        "coord": [
+          42.3703801,
+          -70.9880163
+        ]
+      }
+    ],
+    "shirley avenue": [
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.366644,
+          -70.9693639
+        ]
+      },
+      {
+        "name": "Terrace Avenue",
+        "class": "residential",
+        "coord": [
+          42.3670789,
+          -70.9694964
+        ]
+      }
+    ],
+    "shirley park": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3801663,
+          -70.9748091
+        ]
+      }
+    ],
+    "shirley street": [
+      {
+        "name": "Bayview Avenue",
+        "class": "residential",
+        "coord": [
+          42.3609056,
+          -70.9708275
+        ]
+      },
+      {
+        "name": "Beach Road",
+        "class": "tertiary",
+        "coord": [
+          42.3808543,
+          -70.9749118
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "residential",
+        "coord": [
+          42.3702831,
+          -70.9706649
+        ]
+      },
+      {
+        "name": "Coral Avenue",
+        "class": "residential",
+        "coord": [
+          42.3789947,
+          -70.974935
+        ]
+      },
+      {
+        "name": "Crescent Street",
+        "class": "residential",
+        "coord": [
+          42.3815432,
+          -70.9759415
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "tertiary",
+        "coord": [
+          42.3819381,
+          -70.976651
+        ]
+      },
+      {
+        "name": "Crystal Cove Avenue",
+        "class": "residential",
+        "coord": [
+          42.3694353,
+          -70.9712267
+        ]
+      },
+      {
+        "name": "Cutler Street",
+        "class": "residential",
+        "coord": [
+          42.3745338,
+          -70.9724268
+        ]
+      },
+      {
+        "name": "Dolphin Avenue",
+        "class": "residential",
+        "coord": [
+          42.3757481,
+          -70.9735285
+        ]
+      },
+      {
+        "name": "Elliot Street",
+        "class": "residential",
+        "coord": [
+          42.3595968,
+          -70.9716302
+        ]
+      },
+      {
+        "name": "Forrest Street",
+        "class": "residential",
+        "coord": [
+          42.3753353,
+          -70.9731877
+        ]
+      },
+      {
+        "name": "Hadassah Way",
+        "class": "residential",
+        "coord": [
+          42.3789947,
+          -70.974935
+        ]
+      },
+      {
+        "name": "Irwin Street",
+        "class": "residential",
+        "coord": [
+          42.3733011,
+          -70.9715623
+        ]
+      },
+      {
+        "name": "Levy Bramson Way",
+        "class": "residential",
+        "coord": [
+          42.376104,
+          -70.973787
+        ]
+      },
+      {
+        "name": "Mermaid Avenue",
+        "class": "residential",
+        "coord": [
+          42.3796455,
+          -70.9748672
+        ]
+      },
+      {
+        "name": "Moore Street",
+        "class": "residential",
+        "coord": [
+          42.370697,
+          -70.9703698
+        ]
+      },
+      {
+        "name": "Neptune Avenue",
+        "class": "residential",
+        "coord": [
+          42.3802932,
+          -70.9747949
+        ]
+      },
+      {
+        "name": "Nerious Street",
+        "class": "residential",
+        "coord": [
+          42.3620742,
+          -70.970536
+        ]
+      },
+      {
+        "name": "Nevada Street",
+        "class": "residential",
+        "coord": [
+          42.3749706,
+          -70.9728287
+        ]
+      },
+      {
+        "name": "Ocean Avenue",
+        "class": "residential",
+        "coord": [
+          42.3739058,
+          -70.9719884
+        ]
+      },
+      {
+        "name": "Payson Street",
+        "class": "residential",
+        "coord": [
+          42.3826372,
+          -70.979173
+        ]
+      },
+      {
+        "name": "Pearl Avenue",
+        "class": "residential",
+        "coord": [
+          42.3763072,
+          -70.9739343
+        ]
+      },
+      {
+        "name": "Pebble Avenue",
+        "class": "residential",
+        "coord": [
+          42.3595968,
+          -70.9716302
+        ]
+      },
+      {
+        "name": "Perkins Street",
+        "class": "residential",
+        "coord": [
+          42.3714916,
+          -70.9702387
+        ]
+      },
+      {
+        "name": "Petrel Street",
+        "class": "residential",
+        "coord": [
+          42.3636702,
+          -70.970103
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3828031,
+          -70.9797713
+        ]
+      },
+      {
+        "name": "Sea Foam Avenue",
+        "class": "residential",
+        "coord": [
+          42.3774754,
+          -70.9745779
+        ]
+      },
+      {
+        "name": "Shirley Avenue",
+        "class": "residential",
+        "coord": [
+          42.366644,
+          -70.9693639
+        ]
+      },
+      {
+        "name": "Shirley Park",
+        "class": "residential",
+        "coord": [
+          42.3801663,
+          -70.9748091
+        ]
+      },
+      {
+        "name": "Siren Street",
+        "class": "residential",
+        "coord": [
+          42.3595434,
+          -70.9722843
+        ]
+      },
+      {
+        "name": "Sturgis Street",
+        "class": "residential",
+        "coord": [
+          42.372712,
+          -70.9711339
+        ]
+      },
+      {
+        "name": "Tafts Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3603737,
+          -70.9711273
+        ]
+      },
+      {
+        "name": "Terrace Avenue",
+        "class": "residential",
+        "coord": [
+          42.3689031,
+          -70.9715279
+        ]
+      },
+      {
+        "name": "Tewksbury Street",
+        "class": "residential",
+        "coord": [
+          42.3709096,
+          -70.97022
+        ]
+      },
+      {
+        "name": "Trident Avenue",
+        "class": "residential",
+        "coord": [
+          42.3783616,
+          -70.9748763
+        ]
+      },
+      {
+        "name": "Triton Avenue",
+        "class": "residential",
+        "coord": [
+          42.3592153,
+          -70.9727661
+        ]
+      },
+      {
+        "name": "Underhill Street",
+        "class": "residential",
+        "coord": [
+          42.3720715,
+          -70.9705918
+        ]
+      },
+      {
+        "name": "Veterans Road",
+        "class": "secondary",
+        "coord": [
+          42.381271,
+          -70.9755231
+        ]
+      },
+      {
+        "name": "Washington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.372712,
+          -70.9711339
+        ]
+      },
+      {
+        "name": "Wave Way",
+        "class": "residential",
+        "coord": [
+          42.3768774,
+          -70.9742929
+        ]
+      }
+    ],
+    "short street": [
+      {
+        "name": "Walden Street",
+        "class": "residential",
+        "coord": [
+          42.3803404,
+          -70.9871681
+        ]
+      }
+    ],
+    "siren street": [
+      {
+        "name": "Foam Street",
+        "class": "residential",
+        "coord": [
+          42.3605702,
+          -70.9742086
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "residential",
+        "coord": [
+          42.3595434,
+          -70.9722843
+        ]
+      },
+      {
+        "name": "Triton Avenue",
+        "class": "residential",
+        "coord": [
+          42.3605702,
+          -70.9742086
+        ]
+      }
+    ],
+    "somerset avenue": [
+      {
+        "name": "Cottage Park Road",
+        "class": "residential",
+        "coord": [
+          42.3748973,
+          -70.9876128
+        ]
+      },
+      {
+        "name": "Johnson Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3706213,
+          -70.9916317
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3732801,
+          -70.9898397
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3732841,
+          -70.9898748
+        ]
+      },
+      {
+        "name": "Prescott Street",
+        "class": "residential",
+        "coord": [
+          42.3715858,
+          -70.9909816
+        ]
+      },
+      {
+        "name": "Somerset Terrace",
+        "class": "residential",
+        "coord": [
+          42.3713331,
+          -70.9911519
+        ]
+      },
+      {
+        "name": "Woodside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3747939,
+          -70.9868268
+        ]
+      }
+    ],
+    "somerset terrace": [
+      {
+        "name": "Somerset Avenue",
+        "class": "residential",
+        "coord": [
+          42.3713331,
+          -70.9911519
+        ]
+      }
+    ],
+    "south avenue": [
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3729582,
+          -70.9813668
+        ]
+      }
+    ],
+    "south main street": [
+      {
+        "name": "Main Street",
+        "class": "residential",
+        "coord": [
+          42.3804639,
+          -70.9805277
+        ]
+      },
+      {
+        "name": "Payson Street",
+        "class": "residential",
+        "coord": [
+          42.3804639,
+          -70.9805277
+        ]
+      }
+    ],
+    "strand way": [
+      {
+        "name": "Otis Street",
+        "class": "residential",
+        "coord": [
+          42.3596006,
+          -70.9699839
+        ]
+      },
+      {
+        "name": "Pratt Street",
+        "class": "residential",
+        "coord": [
+          42.3588084,
+          -70.9695925
+        ]
+      }
+    ],
+    "sturgis street": [
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.372712,
+          -70.9711339
+        ]
+      },
+      {
+        "name": "Washington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.372712,
+          -70.9711339
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3729787,
+          -70.9690511
+        ]
+      }
+    ],
+    "summit avenue": [
+      {
+        "name": "Grovers Avenue",
+        "class": "residential",
+        "coord": [
+          42.3836539,
+          -70.9735147
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3846818,
+          -70.9780342
+        ]
+      }
+    ],
+    "sunnyside avenue": [
+      {
+        "name": "Buchanan Street",
+        "class": "tertiary",
+        "coord": [
+          42.3726693,
+          -70.9845392
+        ]
+      },
+      {
+        "name": "Corinha Beach Road",
+        "class": "residential",
+        "coord": [
+          42.3706453,
+          -70.9846805
+        ]
+      },
+      {
+        "name": "Frances Street",
+        "class": "residential",
+        "coord": [
+          42.3692428,
+          -70.984663
+        ]
+      },
+      {
+        "name": "Pico Avenue",
+        "class": "residential",
+        "coord": [
+          42.3701845,
+          -70.9846459
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3726693,
+          -70.9845392
+        ]
+      }
+    ],
+    "sunset road": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3823784,
+          -70.9907635
+        ]
+      }
+    ],
+    "tafts avenue": [
+      {
+        "name": "Andrew Street",
+        "class": "residential",
+        "coord": [
+          42.3580783,
+          -70.9701107
+        ]
+      },
+      {
+        "name": "Maryland Avenue",
+        "class": "residential",
+        "coord": [
+          42.3578527,
+          -70.9700064
+        ]
+      },
+      {
+        "name": "Mugford Street",
+        "class": "residential",
+        "coord": [
+          42.356978,
+          -70.9696018
+        ]
+      },
+      {
+        "name": "Mugford Street",
+        "class": "residential",
+        "coord": [
+          42.3569847,
+          -70.9696049
+        ]
+      },
+      {
+        "name": "Otis Street",
+        "class": "residential",
+        "coord": [
+          42.3590047,
+          -70.970531
+        ]
+      },
+      {
+        "name": "Otis Street",
+        "class": "residential",
+        "coord": [
+          42.3590656,
+          -70.9705579
+        ]
+      },
+      {
+        "name": "Pratt Street",
+        "class": "residential",
+        "coord": [
+          42.3586183,
+          -70.9703605
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3603737,
+          -70.9711273
+        ]
+      },
+      {
+        "name": "Townsend Street",
+        "class": "residential",
+        "coord": [
+          42.3584308,
+          -70.9702738
+        ]
+      },
+      {
+        "name": "Wyman Street",
+        "class": "residential",
+        "coord": [
+          42.3575286,
+          -70.9698565
+        ]
+      }
+    ],
+    "taylor street": [
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3821066,
+          -70.9811336
+        ]
+      }
+    ],
+    "temple avenue": [
+      {
+        "name": "Grovers Avenue",
+        "class": "residential",
+        "coord": [
+          42.3857303,
+          -70.9723801
+        ]
+      },
+      {
+        "name": "Highland Avenue",
+        "class": "residential",
+        "coord": [
+          42.3868148,
+          -70.9738275
+        ]
+      },
+      {
+        "name": "Quincy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3874282,
+          -70.9746461
+        ]
+      }
+    ],
+    "terrace avenue": [
+      {
+        "name": "Cottage Avenue",
+        "class": "residential",
+        "coord": [
+          42.3679831,
+          -70.9710704
+        ]
+      },
+      {
+        "name": "Harbor View Avenue",
+        "class": "residential",
+        "coord": [
+          42.3678206,
+          -70.9708624
+        ]
+      },
+      {
+        "name": "Park Avenue",
+        "class": "residential",
+        "coord": [
+          42.3685932,
+          -70.9714486
+        ]
+      },
+      {
+        "name": "Shirley Avenue",
+        "class": "residential",
+        "coord": [
+          42.3670789,
+          -70.9694964
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3689031,
+          -70.9715279
+        ]
+      }
+    ],
+    "tewksbury street": [
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3709096,
+          -70.97022
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3712773,
+          -70.9682271
+        ]
+      }
+    ],
+    "thornton park": [
+      {
+        "name": "Bowdoin Street",
+        "class": "residential",
+        "coord": [
+          42.3741277,
+          -70.9794129
+        ]
+      },
+      {
+        "name": "Thornton Street",
+        "class": "residential",
+        "coord": [
+          42.3741277,
+          -70.9794129
+        ]
+      },
+      {
+        "name": "Washington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3722587,
+          -70.979762
+        ]
+      }
+    ],
+    "thornton street": [
+      {
+        "name": "Bowdoin Street",
+        "class": "residential",
+        "coord": [
+          42.3741277,
+          -70.9794129
+        ]
+      },
+      {
+        "name": "River Road",
+        "class": "tertiary",
+        "coord": [
+          42.3751959,
+          -70.9786126
+        ]
+      },
+      {
+        "name": "Thornton Park",
+        "class": "residential",
+        "coord": [
+          42.3741277,
+          -70.9794129
+        ]
+      }
+    ],
+    "tileston road": [
+      {
+        "name": "Marshall Street",
+        "class": "residential",
+        "coord": [
+          42.3805095,
+          -70.9895381
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3804092,
+          -70.9918138
+        ]
+      }
+    ],
+    "townsend street": [
+      {
+        "name": "Tafts Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3584308,
+          -70.9702738
+        ]
+      }
+    ],
+    "trident avenue": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3783616,
+          -70.9748763
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3786837,
+          -70.9723568
+        ]
+      }
+    ],
+    "triton avenue": [
+      {
+        "name": "Bayview Avenue",
+        "class": "residential",
+        "coord": [
+          42.3615042,
+          -70.9735031
+        ]
+      },
+      {
+        "name": "Billows Street",
+        "class": "residential",
+        "coord": [
+          42.3594606,
+          -70.9734231
+        ]
+      },
+      {
+        "name": "Deepwater Street",
+        "class": "residential",
+        "coord": [
+          42.3597648,
+          -70.9738484
+        ]
+      },
+      {
+        "name": "Foam Street",
+        "class": "residential",
+        "coord": [
+          42.3605702,
+          -70.9742086
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "residential",
+        "coord": [
+          42.3592153,
+          -70.9727661
+        ]
+      },
+      {
+        "name": "Siren Street",
+        "class": "residential",
+        "coord": [
+          42.3605702,
+          -70.9742086
+        ]
+      },
+      {
+        "name": "Undine Avenue",
+        "class": "residential",
+        "coord": [
+          42.3610887,
+          -70.9741041
+        ]
+      }
+    ],
+    "underhill street": [
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.3720715,
+          -70.9705918
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.372478,
+          -70.9687548
+        ]
+      }
+    ],
+    "undine avenue": [
+      {
+        "name": "Grandview Avenue",
+        "class": "residential",
+        "coord": [
+          42.3616607,
+          -70.9751964
+        ]
+      },
+      {
+        "name": "Hale Avenue",
+        "class": "residential",
+        "coord": [
+          42.3603505,
+          -70.9720691
+        ]
+      },
+      {
+        "name": "Triton Avenue",
+        "class": "residential",
+        "coord": [
+          42.3610887,
+          -70.9741041
+        ]
+      }
+    ],
+    "upland road": [
+      {
+        "name": "Nahant Avenue",
+        "class": "residential",
+        "coord": [
+          42.3884956,
+          -70.9766348
+        ]
+      },
+      {
+        "name": "Quincy Avenue",
+        "class": "residential",
+        "coord": [
+          42.389212,
+          -70.978413
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3900984,
+          -70.980126
+        ]
+      }
+    ],
+    "veterans road": [
+      {
+        "name": "Almont Street",
+        "class": "residential",
+        "coord": [
+          42.3821549,
+          -70.9746226
+        ]
+      },
+      {
+        "name": "Beach Road",
+        "class": "secondary",
+        "coord": [
+          42.3826839,
+          -70.9737726
+        ]
+      },
+      {
+        "name": "Cutler Street",
+        "class": "residential",
+        "coord": [
+          42.3743562,
+          -70.9729412
+        ]
+      },
+      {
+        "name": "Hadassah Way",
+        "class": "residential",
+        "coord": [
+          42.3790126,
+          -70.9758922
+        ]
+      },
+      {
+        "name": "Levy Bramson Way",
+        "class": "residential",
+        "coord": [
+          42.3759587,
+          -70.9741623
+        ]
+      },
+      {
+        "name": "Locust Street",
+        "class": "tertiary",
+        "coord": [
+          42.3826839,
+          -70.9737726
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.381271,
+          -70.9755231
+        ]
+      },
+      {
+        "name": "Washington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3726042,
+          -70.9716125
+        ]
+      }
+    ],
+    "viking gardens drive": [
+      {
+        "name": "Putnam Street",
+        "class": "residential",
+        "coord": [
+          42.373898,
+          -70.9845786
+        ]
+      }
+    ],
+    "villa avenue": [
+      {
+        "name": "Buckthorn Terrace",
+        "class": "residential",
+        "coord": [
+          42.3730502,
+          -70.983574
+        ]
+      },
+      {
+        "name": "Buckthorn Terrace",
+        "class": "residential",
+        "coord": [
+          42.3731173,
+          -70.9833997
+        ]
+      },
+      {
+        "name": "Buckthorn Terrace",
+        "class": "residential",
+        "coord": [
+          42.3733375,
+          -70.9827462
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3725541,
+          -70.9835397
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3738143,
+          -70.982
+        ]
+      }
+    ],
+    "vine avenue": [
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3724705,
+          -70.9828137
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3734127,
+          -70.9817029
+        ]
+      }
+    ],
+    "wadsworth avenue": [
+      {
+        "name": "Bowdoin Street",
+        "class": "residential",
+        "coord": [
+          42.3774805,
+          -70.981726
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3775574,
+          -70.9837343
+        ]
+      }
+    ],
+    "waldemar avenue": [
+      {
+        "name": "Circuit Road",
+        "class": "residential",
+        "coord": [
+          42.3749804,
+          -70.9925274
+        ]
+      },
+      {
+        "name": "Pauline Street",
+        "class": "secondary",
+        "coord": [
+          42.3753887,
+          -70.9888994
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3751675,
+          -70.9916819
+        ]
+      },
+      {
+        "name": "Wheelock Street",
+        "class": "residential",
+        "coord": [
+          42.3757716,
+          -70.9893225
+        ]
+      }
+    ],
+    "walden place": [
+      {
+        "name": "Walden Street",
+        "class": "residential",
+        "coord": [
+          42.3809032,
+          -70.9872005
+        ]
+      }
+    ],
+    "walden street": [
+      {
+        "name": "Hagman Road",
+        "class": "residential",
+        "coord": [
+          42.3761121,
+          -70.9870085
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "residential",
+        "coord": [
+          42.3794594,
+          -70.9871327
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3820648,
+          -70.9872673
+        ]
+      },
+      {
+        "name": "Pauline Street",
+        "class": "secondary",
+        "coord": [
+          42.3761121,
+          -70.9870085
+        ]
+      },
+      {
+        "name": "Short Street",
+        "class": "residential",
+        "coord": [
+          42.3803404,
+          -70.9871681
+        ]
+      },
+      {
+        "name": "Walden Place",
+        "class": "residential",
+        "coord": [
+          42.3809032,
+          -70.9872005
+        ]
+      }
+    ],
+    "washington avenue": [
+      {
+        "name": "Bates Avenue",
+        "class": "residential",
+        "coord": [
+          42.3722102,
+          -70.9778293
+        ]
+      },
+      {
+        "name": "Elmwood Avenue",
+        "class": "residential",
+        "coord": [
+          42.37196,
+          -70.9755705
+        ]
+      },
+      {
+        "name": "Elmwood Court",
+        "class": "residential",
+        "coord": [
+          42.3719184,
+          -70.9752082
+        ]
+      },
+      {
+        "name": "Lewis Avenue",
+        "class": "residential",
+        "coord": [
+          42.372089,
+          -70.9766938
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3722633,
+          -70.980976
+        ]
+      },
+      {
+        "name": "River Road",
+        "class": "tertiary",
+        "coord": [
+          42.3720009,
+          -70.9743162
+        ]
+      },
+      {
+        "name": "Shirley Street",
+        "class": "secondary",
+        "coord": [
+          42.372712,
+          -70.9711339
+        ]
+      },
+      {
+        "name": "Sturgis Street",
+        "class": "residential",
+        "coord": [
+          42.372712,
+          -70.9711339
+        ]
+      },
+      {
+        "name": "Thornton Park",
+        "class": "residential",
+        "coord": [
+          42.3722587,
+          -70.979762
+        ]
+      },
+      {
+        "name": "Veterans Road",
+        "class": "secondary",
+        "coord": [
+          42.3726042,
+          -70.9716125
+        ]
+      },
+      {
+        "name": "Willow Avenue",
+        "class": "residential",
+        "coord": [
+          42.372246,
+          -70.9783976
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "secondary",
+        "coord": [
+          42.3722633,
+          -70.980976
+        ]
+      }
+    ],
+    "wave way": [
+      {
+        "name": "Shirley Street",
+        "class": "tertiary",
+        "coord": [
+          42.3768774,
+          -70.9742929
+        ]
+      },
+      {
+        "name": "Winthrop Shore Drive",
+        "class": "tertiary",
+        "coord": [
+          42.3776288,
+          -70.9719816
+        ]
+      }
+    ],
+    "wheelock street": [
+      {
+        "name": "Brookfield Road",
+        "class": "residential",
+        "coord": [
+          42.3767799,
+          -70.9897949
+        ]
+      },
+      {
+        "name": "Palmyra Street",
+        "class": "residential",
+        "coord": [
+          42.3764135,
+          -70.9896231
+        ]
+      },
+      {
+        "name": "Waldemar Avenue",
+        "class": "residential",
+        "coord": [
+          42.3757716,
+          -70.9893225
+        ]
+      }
+    ],
+    "whittier street": [
+      {
+        "name": "Otis Street",
+        "class": "residential",
+        "coord": [
+          42.3583946,
+          -70.9712423
+        ]
+      },
+      {
+        "name": "Pebble Avenue",
+        "class": "residential",
+        "coord": [
+          42.3587653,
+          -70.9721645
+        ]
+      }
+    ],
+    "williams street": [
+      {
+        "name": "Adams Street",
+        "class": "residential",
+        "coord": [
+          42.3736816,
+          -70.9875967
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.37304,
+          -70.9877559
+        ]
+      }
+    ],
+    "willis avenue": [
+      {
+        "name": "Belle Isle Terrace",
+        "class": "residential",
+        "coord": [
+          42.38391,
+          -70.9923261
+        ]
+      },
+      {
+        "name": "Pleasant Court",
+        "class": "residential",
+        "coord": [
+          42.3832363,
+          -70.9923909
+        ]
+      }
+    ],
+    "willow avenue": [
+      {
+        "name": "Bowdoin Street",
+        "class": "residential",
+        "coord": [
+          42.3737889,
+          -70.9780634
+        ]
+      },
+      {
+        "name": "River Road",
+        "class": "tertiary",
+        "coord": [
+          42.3749162,
+          -70.9780318
+        ]
+      },
+      {
+        "name": "Washington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.372246,
+          -70.9783976
+        ]
+      },
+      {
+        "name": "Willow Terrace",
+        "class": "residential",
+        "coord": [
+          42.372924,
+          -70.9782508
+        ]
+      }
+    ],
+    "willow terrace": [
+      {
+        "name": "Willow Avenue",
+        "class": "residential",
+        "coord": [
+          42.372924,
+          -70.9782508
+        ]
+      }
+    ],
+    "wilshire street": [
+      {
+        "name": "Banks Street",
+        "class": "tertiary",
+        "coord": [
+          42.3841836,
+          -70.984195
+        ]
+      },
+      {
+        "name": "Kay Street",
+        "class": "residential",
+        "coord": [
+          42.3835864,
+          -70.9841133
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3817717,
+          -70.9839965
+        ]
+      },
+      {
+        "name": "Paine Street",
+        "class": "residential",
+        "coord": [
+          42.3831473,
+          -70.9840849
+        ]
+      }
+    ],
+    "winthrop parkway": [
+      {
+        "name": "Revere Street",
+        "class": "residential",
+        "coord": [
+          42.3906721,
+          -70.9803841
+        ]
+      }
+    ],
+    "winthrop shore drive": [
+      {
+        "name": "Beach Road",
+        "class": "secondary",
+        "coord": [
+          42.383127,
+          -70.9729088
+        ]
+      },
+      {
+        "name": "Beach Road",
+        "class": "secondary",
+        "coord": [
+          42.3834929,
+          -70.9726174
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "residential",
+        "coord": [
+          42.3696518,
+          -70.9681634
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "residential",
+        "coord": [
+          42.3706644,
+          -70.9680229
+        ]
+      },
+      {
+        "name": "Coral Avenue",
+        "class": "residential",
+        "coord": [
+          42.3793035,
+          -70.9725177
+        ]
+      },
+      {
+        "name": "Crest Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3840752,
+          -70.9727958
+        ]
+      },
+      {
+        "name": "Cutler Street",
+        "class": "residential",
+        "coord": [
+          42.3751709,
+          -70.970578
+        ]
+      },
+      {
+        "name": "Dolphin Avenue",
+        "class": "residential",
+        "coord": [
+          42.3764545,
+          -70.9713603
+        ]
+      },
+      {
+        "name": "Faun Bar Avenue",
+        "class": "residential",
+        "coord": [
+          42.3694818,
+          -70.9680319
+        ]
+      },
+      {
+        "name": "Faun Bar Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3696518,
+          -70.9681634
+        ]
+      },
+      {
+        "name": "Forrest Street",
+        "class": "residential",
+        "coord": [
+          42.3760162,
+          -70.9711019
+        ]
+      },
+      {
+        "name": "Hawthorn Avenue",
+        "class": "residential",
+        "coord": [
+          42.3811994,
+          -70.9727037
+        ]
+      },
+      {
+        "name": "Irwin Street",
+        "class": "residential",
+        "coord": [
+          42.3735718,
+          -70.9694662
+        ]
+      },
+      {
+        "name": "Locust Street",
+        "class": "tertiary",
+        "coord": [
+          42.3823697,
+          -70.9726333
+        ]
+      },
+      {
+        "name": "Mermaid Avenue",
+        "class": "residential",
+        "coord": [
+          42.3799272,
+          -70.9726406
+        ]
+      },
+      {
+        "name": "Moore Street",
+        "class": "residential",
+        "coord": [
+          42.3699351,
+          -70.96778
+        ]
+      },
+      {
+        "name": "Myrtle Avenue",
+        "class": "residential",
+        "coord": [
+          42.3818492,
+          -70.9726646
+        ]
+      },
+      {
+        "name": "Neptune Avenue",
+        "class": "residential",
+        "coord": [
+          42.3805617,
+          -70.9727036
+        ]
+      },
+      {
+        "name": "Nevada Street",
+        "class": "residential",
+        "coord": [
+          42.3756497,
+          -70.9708777
+        ]
+      },
+      {
+        "name": "Ocean Avenue",
+        "class": "residential",
+        "coord": [
+          42.3741646,
+          -70.9698921
+        ]
+      },
+      {
+        "name": "Pearl Avenue",
+        "class": "residential",
+        "coord": [
+          42.3770384,
+          -70.9716914
+        ]
+      },
+      {
+        "name": "Perkins Street",
+        "class": "residential",
+        "coord": [
+          42.3718875,
+          -70.9684612
+        ]
+      },
+      {
+        "name": "Sea Foam Avenue",
+        "class": "residential",
+        "coord": [
+          42.3782422,
+          -70.9722202
+        ]
+      },
+      {
+        "name": "Sturgis Street",
+        "class": "residential",
+        "coord": [
+          42.3729787,
+          -70.9690511
+        ]
+      },
+      {
+        "name": "Tewksbury Street",
+        "class": "residential",
+        "coord": [
+          42.3712773,
+          -70.9682271
+        ]
+      },
+      {
+        "name": "Trident Avenue",
+        "class": "residential",
+        "coord": [
+          42.3786837,
+          -70.9723568
+        ]
+      },
+      {
+        "name": "Underhill Street",
+        "class": "residential",
+        "coord": [
+          42.372478,
+          -70.9687548
+        ]
+      },
+      {
+        "name": "Wave Way",
+        "class": "residential",
+        "coord": [
+          42.3776288,
+          -70.9719816
+        ]
+      }
+    ],
+    "winthrop street": [
+      {
+        "name": "Atlantic Street",
+        "class": "residential",
+        "coord": [
+          42.3807843,
+          -70.9824368
+        ]
+      },
+      {
+        "name": "Banks Street",
+        "class": "tertiary",
+        "coord": [
+          42.3848018,
+          -70.983404
+        ]
+      },
+      {
+        "name": "Belcher Street",
+        "class": "residential",
+        "coord": [
+          42.3785721,
+          -70.9832212
+        ]
+      },
+      {
+        "name": "Buchanan Street",
+        "class": "tertiary",
+        "coord": [
+          42.3746229,
+          -70.9825981
+        ]
+      },
+      {
+        "name": "Centre Street",
+        "class": "residential",
+        "coord": [
+          42.3802828,
+          -70.9825137
+        ]
+      },
+      {
+        "name": "Chester Avenue",
+        "class": "residential",
+        "coord": [
+          42.3736995,
+          -70.9819151
+        ]
+      },
+      {
+        "name": "Edgar Terrace",
+        "class": "residential",
+        "coord": [
+          42.3741862,
+          -70.9822751
+        ]
+      },
+      {
+        "name": "George Street",
+        "class": "residential",
+        "coord": [
+          42.3780696,
+          -70.9834753
+        ]
+      },
+      {
+        "name": "Hermon Street",
+        "class": "tertiary",
+        "coord": [
+          42.3770051,
+          -70.9843729
+        ]
+      },
+      {
+        "name": "James Avenue",
+        "class": "residential",
+        "coord": [
+          42.374173,
+          -70.9822653
+        ]
+      },
+      {
+        "name": "Jefferson Street",
+        "class": "residential",
+        "coord": [
+          42.3758885,
+          -70.9835387
+        ]
+      },
+      {
+        "name": "Kay Street",
+        "class": "residential",
+        "coord": [
+          42.3836204,
+          -70.9828895
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "tertiary",
+        "coord": [
+          42.3797788,
+          -70.9826109
+        ]
+      },
+      {
+        "name": "Madison Avenue",
+        "class": "residential",
+        "coord": [
+          42.376074,
+          -70.9836742
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.381623,
+          -70.9823611
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "tertiary",
+        "coord": [
+          42.3815972,
+          -70.9822709
+        ]
+      },
+      {
+        "name": "North Avenue",
+        "class": "residential",
+        "coord": [
+          42.3731641,
+          -70.9815191
+        ]
+      },
+      {
+        "name": "Ocean View Street",
+        "class": "residential",
+        "coord": [
+          42.3791674,
+          -70.9829201
+        ]
+      },
+      {
+        "name": "Pauline Street",
+        "class": "secondary",
+        "coord": [
+          42.3770051,
+          -70.9843729
+        ]
+      },
+      {
+        "name": "Pauline Street",
+        "class": "secondary",
+        "coord": [
+          42.3772223,
+          -70.9839038
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.3722633,
+          -70.980976
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "secondary",
+        "coord": [
+          42.3815972,
+          -70.9822709
+        ]
+      },
+      {
+        "name": "Seaview Avenue",
+        "class": "residential",
+        "coord": [
+          42.3716388,
+          -70.981053
+        ]
+      },
+      {
+        "name": "South Avenue",
+        "class": "residential",
+        "coord": [
+          42.3729582,
+          -70.9813668
+        ]
+      },
+      {
+        "name": "Villa Avenue",
+        "class": "residential",
+        "coord": [
+          42.3738143,
+          -70.982
+        ]
+      },
+      {
+        "name": "Vine Avenue",
+        "class": "residential",
+        "coord": [
+          42.3734127,
+          -70.9817029
+        ]
+      },
+      {
+        "name": "Wadsworth Avenue",
+        "class": "residential",
+        "coord": [
+          42.3775574,
+          -70.9837343
+        ]
+      },
+      {
+        "name": "Washington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3722633,
+          -70.980976
+        ]
+      }
+    ],
+    "woodside avenue": [
+      {
+        "name": "Adams Street",
+        "class": "residential",
+        "coord": [
+          42.3734829,
+          -70.985857
+        ]
+      },
+      {
+        "name": "Bartlett Road",
+        "class": "residential",
+        "coord": [
+          42.3746232,
+          -70.9866832
+        ]
+      },
+      {
+        "name": "Dix Street",
+        "class": "residential",
+        "coord": [
+          42.3697165,
+          -70.9861754
+        ]
+      },
+      {
+        "name": "French Square",
+        "class": "residential",
+        "coord": [
+          42.3745214,
+          -70.9866018
+        ]
+      },
+      {
+        "name": "Pauline Street",
+        "class": "secondary",
+        "coord": [
+          42.3759144,
+          -70.9875906
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "secondary",
+        "coord": [
+          42.372808,
+          -70.9857425
+        ]
+      },
+      {
+        "name": "Plummer Avenue",
+        "class": "residential",
+        "coord": [
+          42.372808,
+          -70.9857425
+        ]
+      },
+      {
+        "name": "Seymour Street",
+        "class": "residential",
+        "coord": [
+          42.3713664,
+          -70.9860957
+        ]
+      },
+      {
+        "name": "Seymour Street",
+        "class": "residential",
+        "coord": [
+          42.3713946,
+          -70.9860941
+        ]
+      },
+      {
+        "name": "Somerset Avenue",
+        "class": "residential",
+        "coord": [
+          42.3747939,
+          -70.9868268
+        ]
+      },
+      {
+        "name": "Woodside Park",
+        "class": "residential",
+        "coord": [
+          42.3697165,
+          -70.9861754
+        ]
+      }
+    ],
+    "woodside park": [
+      {
+        "name": "Dix Street",
+        "class": "residential",
+        "coord": [
+          42.3697165,
+          -70.9861754
+        ]
+      },
+      {
+        "name": "Dix Street",
+        "class": "residential",
+        "coord": [
+          42.3697302,
+          -70.986
+        ]
+      },
+      {
+        "name": "Woodside Avenue",
+        "class": "residential",
+        "coord": [
+          42.3697165,
+          -70.9861754
+        ]
+      }
+    ],
+    "wyman street": [
+      {
+        "name": "Tafts Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3575286,
+          -70.9698565
+        ]
+      }
+    ]
+  }
+}
