@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Generated
+# NOTE: jurisdictions.json IS committed — the CI regenerates it and commits the update.
+# Do NOT ignore it here.
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
