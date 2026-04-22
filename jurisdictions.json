@@ -1,7 +1,72 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-22T05:14:18Z",
+  "generated_at": "2026-04-22T05:29:39Z",
   "jurisdictions": [
+    {
+      "slug": "boston-allston",
+      "display_name": "Allston",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.34606098100005,
+        -71.147079,
+        42.3730443,
+        -71.1109194
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-back-bay",
+      "display_name": "Back Bay",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.34217649300007,
+        -71.0916291,
+        42.35610219900008,
+        -71.069926
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-bay-village",
+      "display_name": "Bay Village",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3479991,
+        -71.07231049699993,
+        42.35075734800006,
+        -71.0665066
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-beacon-hill",
+      "display_name": "Beacon Hill",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3522061,
+        -71.07545816099997,
+        42.3611913,
+        -71.061982
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-brighton",
+      "display_name": "Brighton",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.33098467800005,
+        -71.17483120799994,
+        42.3648359,
+        -71.13533
+      ],
+      "has_hydrants": true
+    },
     {
       "slug": "boston-charlestown",
       "display_name": "Charlestown",
@@ -12,6 +77,45 @@
         -71.0808776,
         42.39482925300007,
         -71.04948895299998
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-chinatown",
+      "display_name": "Chinatown",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.34682145600004,
+        -71.0680171,
+        42.352486793000026,
+        -71.0579993
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-dorchester",
+      "display_name": "Dorchester",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.2702803,
+        -71.0945835,
+        42.330408867000074,
+        -71.03395489899998
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-downtown",
+      "display_name": "Downtown",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.34572632900006,
+        -71.0706987,
+        42.3638122,
+        -71.04834615199997
       ],
       "has_hydrants": true
     },
@@ -29,15 +133,210 @@
       "has_hydrants": true
     },
     {
-      "slug": "boston-ma",
-      "display_name": "Boston",
+      "slug": "boston-fenway",
+      "display_name": "Fenway",
       "state": "MA",
       "version": 1,
       "bbox": [
-        42.2322283,
-        -71.1800026,
-        42.3948293,
-        -70.9575638
+        42.3351533,
+        -71.1105723,
+        42.3519044,
+        -71.08353239199994
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-government-center-faneuil-hall",
+      "display_name": "Government Center/Faneuil Hall",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.358275,
+        -71.0628639,
+        42.3638122,
+        -71.0524257
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-hyde-park",
+      "display_name": "Hyde Park",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.23222828000007,
+        -71.1461315,
+        42.27720130800003,
+        -71.0980804
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-jamaica-plain",
+      "display_name": "Jamaica Plain",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.284526,
+        -71.14006217399998,
+        42.3300757,
+        -71.095064
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-leather-district",
+      "display_name": "Leather District",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3495494,
+        -71.0593659,
+        42.3523844,
+        -71.05616538299995
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-longwood",
+      "display_name": "Longwood",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3341716,
+        -71.1107093,
+        42.34323770700007,
+        -71.09767685999998
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-mattapan",
+      "display_name": "Mattapan",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.2631938,
+        -71.1091908,
+        42.29296935800005,
+        -71.0659366
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-mission-hill",
+      "display_name": "Mission Hill",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3260976,
+        -71.1130873,
+        42.33750560900006,
+        -71.09158345099996
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-north-end",
+      "display_name": "North End",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3609336,
+        -71.059458,
+        42.368765162000045,
+        -71.04930441599998
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-roslindale",
+      "display_name": "Roslindale",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.2683563,
+        -71.1477793,
+        42.2981169,
+        -71.099632
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-roxbury",
+      "display_name": "Roxbury",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.2928758,
+        -71.1065742,
+        42.34106566000003,
+        -71.06585
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-seaport",
+      "display_name": "Seaport",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3372851,
+        -71.0572292,
+        42.35489774100006,
+        -71.02199741399994
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-south-boston",
+      "display_name": "South Boston",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3218501,
+        -71.07183498699999,
+        42.345287693000046,
+        -71.01134043199994
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-south-end",
+      "display_name": "South End",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3326562,
+        -71.08284438399994,
+        42.3474901,
+        -71.06110940699995
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-west-end",
+      "display_name": "West End",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3611956,
+        -71.0715491,
+        42.36796153800003,
+        -71.058391
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-west-roxbury",
+      "display_name": "West Roxbury",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.2534053,
+        -71.18000262299995,
+        42.303018344000066,
+        -71.12876
       ],
       "has_hydrants": true
     },

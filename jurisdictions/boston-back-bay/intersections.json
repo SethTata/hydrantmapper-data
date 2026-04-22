@@ -1,0 +1,2213 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-back-bay",
+  "generated_at": "2026-04-22T05:26:14Z",
+  "streets": {
+    "albemarle court": [
+      {
+        "name": "Albemarle Street",
+        "class": "residential",
+        "coord": [
+          42.3423163,
+          -71.0828958
+        ]
+      }
+    ],
+    "albemarle street": [
+      {
+        "name": "Albemarle Court",
+        "class": "residential",
+        "coord": [
+          42.3423163,
+          -71.0828958
+        ]
+      },
+      {
+        "name": "Saint Botolph Street",
+        "class": "residential",
+        "coord": [
+          42.3426789,
+          -71.0834777
+        ]
+      }
+    ],
+    "arlington street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3553881,
+          -71.0727117
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3519017,
+          -71.0706987
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3501478,
+          -71.069926
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3535026,
+          -71.0714947
+        ]
+      },
+      {
+        "name": "David G. Mugar Way",
+        "class": "primary",
+        "coord": [
+          42.3553881,
+          -71.0727117
+        ]
+      },
+      {
+        "name": "Newbury Street",
+        "class": "secondary",
+        "coord": [
+          42.3526902,
+          -71.0711009
+        ]
+      },
+      {
+        "name": "Providence Street",
+        "class": "residential",
+        "coord": [
+          42.3514111,
+          -71.0704492
+        ]
+      },
+      {
+        "name": "Saint James Avenue",
+        "class": "primary",
+        "coord": [
+          42.3510683,
+          -71.0702917
+        ]
+      },
+      {
+        "name": "Stuart Street",
+        "class": "primary",
+        "coord": [
+          42.3501478,
+          -71.069926
+        ]
+      }
+    ],
+    "beacon street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3553881,
+          -71.0727117
+        ]
+      },
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3548121,
+          -71.0747923
+        ]
+      },
+      {
+        "name": "Charlesgate East",
+        "class": "primary",
+        "coord": [
+          42.3502651,
+          -71.0916291
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.354224,
+          -71.0769453
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3536377,
+          -71.07912
+        ]
+      },
+      {
+        "name": "David G. Mugar Way",
+        "class": "primary",
+        "coord": [
+          42.3553881,
+          -71.0727117
+        ]
+      },
+      {
+        "name": "Exeter Street",
+        "class": "secondary",
+        "coord": [
+          42.3530596,
+          -71.0812627
+        ]
+      },
+      {
+        "name": "Fairfield Street",
+        "class": "residential",
+        "coord": [
+          42.3524479,
+          -71.0835361
+        ]
+      },
+      {
+        "name": "Gloucester Street",
+        "class": "residential",
+        "coord": [
+          42.3519191,
+          -71.0854923
+        ]
+      },
+      {
+        "name": "Hereford Street",
+        "class": "secondary",
+        "coord": [
+          42.3515134,
+          -71.0869952
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3508438,
+          -71.0894765
+        ]
+      }
+    ],
+    "belvidere street": [
+      {
+        "name": "Dalton Street",
+        "class": "residential",
+        "coord": [
+          42.3460538,
+          -71.0843531
+        ]
+      },
+      {
+        "name": "Dalton Street",
+        "class": "secondary",
+        "coord": [
+          42.3461983,
+          -71.0847422
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3453377,
+          -71.0816947
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3454203,
+          -71.0818136
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3464978,
+          -71.0873487
+        ]
+      },
+      {
+        "name": "Saint Cecilia Street",
+        "class": "residential",
+        "coord": [
+          42.3463976,
+          -71.0866876
+        ]
+      },
+      {
+        "name": "West Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.3453377,
+          -71.0816947
+        ]
+      }
+    ],
+    "berkeley street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3548121,
+          -71.0747923
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3512497,
+          -71.0730624
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3486588,
+          -71.0717915
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3528677,
+          -71.073844
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3532141,
+          -71.0740146
+        ]
+      },
+      {
+        "name": "Marlborough Street",
+        "class": "residential",
+        "coord": [
+          42.3540267,
+          -71.0744118
+        ]
+      },
+      {
+        "name": "Newbury Street",
+        "class": "secondary",
+        "coord": [
+          42.35206,
+          -71.0734488
+        ]
+      },
+      {
+        "name": "Providence Street",
+        "class": "residential",
+        "coord": [
+          42.3507719,
+          -71.0728208
+        ]
+      },
+      {
+        "name": "Saint James Avenue",
+        "class": "primary",
+        "coord": [
+          42.3504312,
+          -71.0726609
+        ]
+      },
+      {
+        "name": "Stanhope Street",
+        "class": "residential",
+        "coord": [
+          42.3490915,
+          -71.0719968
+        ]
+      },
+      {
+        "name": "Stuart Street",
+        "class": "primary",
+        "coord": [
+          42.3495298,
+          -71.0722126
+        ]
+      }
+    ],
+    "blackwood street": [
+      {
+        "name": "Saint Botolph Street",
+        "class": "residential",
+        "coord": [
+          42.343225,
+          -71.0828333
+        ]
+      }
+    ],
+    "blagden street": [
+      {
+        "name": "Exeter Street",
+        "class": "secondary",
+        "coord": [
+          42.3487037,
+          -71.0791097
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.349076,
+          -71.0771481
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "residential",
+        "coord": [
+          42.3491396,
+          -71.0773122
+        ]
+      }
+    ],
+    "boylston street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3519017,
+          -71.0706987
+        ]
+      },
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3512497,
+          -71.0730624
+        ]
+      },
+      {
+        "name": "Cambria Street",
+        "class": "residential",
+        "coord": [
+          42.3473598,
+          -71.0873622
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3506693,
+          -71.0752018
+        ]
+      },
+      {
+        "name": "Dalton Street",
+        "class": "secondary",
+        "coord": [
+          42.3478794,
+          -71.0855842
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3500907,
+          -71.077345
+        ]
+      },
+      {
+        "name": "Exeter Street",
+        "class": "secondary",
+        "coord": [
+          42.3495151,
+          -71.0795006
+        ]
+      },
+      {
+        "name": "Fairfield Street",
+        "class": "residential",
+        "coord": [
+          42.3488963,
+          -71.0817887
+        ]
+      },
+      {
+        "name": "Gloucester Street",
+        "class": "residential",
+        "coord": [
+          42.3483726,
+          -71.0837487
+        ]
+      },
+      {
+        "name": "Hereford Street",
+        "class": "secondary",
+        "coord": [
+          42.3479665,
+          -71.085256
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3472988,
+          -71.0877436
+        ]
+      },
+      {
+        "name": "Ring Road",
+        "class": "residential",
+        "coord": [
+          42.3491705,
+          -71.080775
+        ]
+      },
+      {
+        "name": "Saint Cecilia Street",
+        "class": "residential",
+        "coord": [
+          42.3475293,
+          -71.0867446
+        ]
+      },
+      {
+        "name": "Saint Cecilia Street",
+        "class": "residential",
+        "coord": [
+          42.3476004,
+          -71.0867789
+        ]
+      }
+    ],
+    "cahners place": [
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.34795,
+          -71.0726656
+        ]
+      },
+      {
+        "name": "Stanhope Street",
+        "class": "residential",
+        "coord": [
+          42.3482581,
+          -71.0731115
+        ]
+      }
+    ],
+    "cambria street": [
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3473598,
+          -71.0873622
+        ]
+      },
+      {
+        "name": "Saint Cecilia Street",
+        "class": "residential",
+        "coord": [
+          42.3473298,
+          -71.0866482
+        ]
+      }
+    ],
+    "charlesgate": [
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.3521646,
+          -71.0872557
+        ]
+      }
+    ],
+    "charlesgate east": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3502651,
+          -71.0916291
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3488426,
+          -71.0915775
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3492036,
+          -71.0915946
+        ]
+      },
+      {
+        "name": "Marlborough Street",
+        "class": "residential",
+        "coord": [
+          42.3497089,
+          -71.0916153
+        ]
+      },
+      {
+        "name": "Newbury Street",
+        "class": "tertiary",
+        "coord": [
+          42.3480536,
+          -71.0915653
+        ]
+      }
+    ],
+    "clarendon street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.354224,
+          -71.0769453
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3506693,
+          -71.0752018
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.347251,
+          -71.0735381
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3522852,
+          -71.0759979
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3526346,
+          -71.0761697
+        ]
+      },
+      {
+        "name": "Marlborough Street",
+        "class": "residential",
+        "coord": [
+          42.3534421,
+          -71.0765683
+        ]
+      },
+      {
+        "name": "Newbury Street",
+        "class": "secondary",
+        "coord": [
+          42.3514778,
+          -71.0755997
+        ]
+      },
+      {
+        "name": "Saint James Avenue",
+        "class": "primary",
+        "coord": [
+          42.349859,
+          -71.0748082
+        ]
+      },
+      {
+        "name": "Stuart Street",
+        "class": "primary",
+        "coord": [
+          42.3489614,
+          -71.0743726
+        ]
+      }
+    ],
+    "clearway street": [
+      {
+        "name": "Dalton Street",
+        "class": "residential",
+        "coord": [
+          42.3453096,
+          -71.0840828
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.345463,
+          -71.0868369
+        ]
+      }
+    ],
+    "columbus avenue": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3501478,
+          -71.069926
+        ]
+      },
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3486588,
+          -71.0717915
+        ]
+      },
+      {
+        "name": "Cahners Place",
+        "class": "residential",
+        "coord": [
+          42.34795,
+          -71.0726656
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.347251,
+          -71.0735381
+        ]
+      },
+      {
+        "name": "Isabella Street",
+        "class": "residential",
+        "coord": [
+          42.3488239,
+          -71.0715805
+        ]
+      },
+      {
+        "name": "Stuart Street",
+        "class": "primary",
+        "coord": [
+          42.3501478,
+          -71.069926
+        ]
+      }
+    ],
+    "commonwealth avenue": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3535026,
+          -71.0714947
+        ]
+      },
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3528677,
+          -71.073844
+        ]
+      },
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3532141,
+          -71.0740146
+        ]
+      },
+      {
+        "name": "Charlesgate East",
+        "class": "primary",
+        "coord": [
+          42.3492036,
+          -71.0915946
+        ]
+      },
+      {
+        "name": "Charlesgate East",
+        "class": "tertiary",
+        "coord": [
+          42.3488426,
+          -71.0915775
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3522852,
+          -71.0759979
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3526346,
+          -71.0761697
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3517073,
+          -71.0781405
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.352057,
+          -71.0783103
+        ]
+      },
+      {
+        "name": "Exeter Street",
+        "class": "secondary",
+        "coord": [
+          42.3511299,
+          -71.0802923
+        ]
+      },
+      {
+        "name": "Exeter Street",
+        "class": "secondary",
+        "coord": [
+          42.3514736,
+          -71.0804638
+        ]
+      },
+      {
+        "name": "Fairfield Street",
+        "class": "residential",
+        "coord": [
+          42.3505089,
+          -71.0825908
+        ]
+      },
+      {
+        "name": "Fairfield Street",
+        "class": "residential",
+        "coord": [
+          42.3508551,
+          -71.0827558
+        ]
+      },
+      {
+        "name": "Gloucester Street",
+        "class": "residential",
+        "coord": [
+          42.3499816,
+          -71.0845374
+        ]
+      },
+      {
+        "name": "Gloucester Street",
+        "class": "residential",
+        "coord": [
+          42.3503329,
+          -71.0847083
+        ]
+      },
+      {
+        "name": "Hereford Street",
+        "class": "secondary",
+        "coord": [
+          42.3495769,
+          -71.0860519
+        ]
+      },
+      {
+        "name": "Hereford Street",
+        "class": "secondary",
+        "coord": [
+          42.3499194,
+          -71.0862186
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3489067,
+          -71.088524
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3492706,
+          -71.0887028
+        ]
+      }
+    ],
+    "cumberland street": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3442914,
+          -71.082988
+        ]
+      },
+      {
+        "name": "Saint Botolph Street",
+        "class": "residential",
+        "coord": [
+          42.3437628,
+          -71.0821882
+        ]
+      }
+    ],
+    "dalton street": [
+      {
+        "name": "Belvidere Street",
+        "class": "secondary",
+        "coord": [
+          42.3460538,
+          -71.0843531
+        ]
+      },
+      {
+        "name": "Belvidere Street",
+        "class": "secondary",
+        "coord": [
+          42.3461983,
+          -71.0847422
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3478794,
+          -71.0855842
+        ]
+      },
+      {
+        "name": "Clearway Street",
+        "class": "residential",
+        "coord": [
+          42.3453096,
+          -71.0840828
+        ]
+      },
+      {
+        "name": "Saint Germain Street",
+        "class": "residential",
+        "coord": [
+          42.3455702,
+          -71.084222
+        ]
+      },
+      {
+        "name": "Scotia Street",
+        "class": "residential",
+        "coord": [
+          42.3468192,
+          -71.0850648
+        ]
+      }
+    ],
+    "dartmouth street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3536377,
+          -71.07912
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3500907,
+          -71.077345
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3517073,
+          -71.0781405
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.352057,
+          -71.0783103
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "residential",
+        "coord": [
+          42.3492626,
+          -71.076931
+        ]
+      },
+      {
+        "name": "Marlborough Street",
+        "class": "residential",
+        "coord": [
+          42.3528633,
+          -71.0787292
+        ]
+      },
+      {
+        "name": "Newbury Street",
+        "class": "secondary",
+        "coord": [
+          42.350899,
+          -71.0777369
+        ]
+      },
+      {
+        "name": "Saint James Avenue",
+        "class": "primary",
+        "coord": [
+          42.3492626,
+          -71.076931
+        ]
+      },
+      {
+        "name": "Stuart Street",
+        "class": "primary",
+        "coord": [
+          42.3482085,
+          -71.0768521
+        ]
+      },
+      {
+        "name": "Stuart Street",
+        "class": "primary",
+        "coord": [
+          42.3483129,
+          -71.0764202
+        ]
+      }
+    ],
+    "david g. mugar way": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3553881,
+          -71.0727117
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3553881,
+          -71.0727117
+        ]
+      }
+    ],
+    "durham street": [
+      {
+        "name": "Saint Botolph Street",
+        "class": "residential",
+        "coord": [
+          42.3442813,
+          -71.0815468
+        ]
+      }
+    ],
+    "exeter street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3530596,
+          -71.0812627
+        ]
+      },
+      {
+        "name": "Blagden Street",
+        "class": "residential",
+        "coord": [
+          42.3487037,
+          -71.0791097
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3495151,
+          -71.0795006
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3511299,
+          -71.0802923
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3514736,
+          -71.0804638
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3476956,
+          -71.0786692
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "residential",
+        "coord": [
+          42.3478524,
+          -71.0786996
+        ]
+      },
+      {
+        "name": "Marlborough Street",
+        "class": "residential",
+        "coord": [
+          42.352282,
+          -71.0808635
+        ]
+      },
+      {
+        "name": "Newbury Street",
+        "class": "secondary",
+        "coord": [
+          42.3503114,
+          -71.0798941
+        ]
+      },
+      {
+        "name": "Stuart Street",
+        "class": "primary",
+        "coord": [
+          42.3476956,
+          -71.0786692
+        ]
+      }
+    ],
+    "fairfield street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3524479,
+          -71.0835361
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3488963,
+          -71.0817887
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3505089,
+          -71.0825908
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3508551,
+          -71.0827558
+        ]
+      },
+      {
+        "name": "Marlborough Street",
+        "class": "residential",
+        "coord": [
+          42.351664,
+          -71.0831529
+        ]
+      },
+      {
+        "name": "Newbury Street",
+        "class": "secondary",
+        "coord": [
+          42.3496965,
+          -71.0821867
+        ]
+      }
+    ],
+    "follen street": [
+      {
+        "name": "Saint Botolph Street",
+        "class": "residential",
+        "coord": [
+          42.3453486,
+          -71.0802521
+        ]
+      },
+      {
+        "name": "Studio Place",
+        "class": "residential",
+        "coord": [
+          42.3451309,
+          -71.0799322
+        ]
+      }
+    ],
+    "garrison street": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.346394,
+          -71.080312
+        ]
+      },
+      {
+        "name": "Saint Botolph Street",
+        "class": "residential",
+        "coord": [
+          42.345909,
+          -71.079593
+        ]
+      },
+      {
+        "name": "Studio Place",
+        "class": "residential",
+        "coord": [
+          42.3456898,
+          -71.0792521
+        ]
+      }
+    ],
+    "gloucester street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3519191,
+          -71.0854923
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3483726,
+          -71.0837487
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3499816,
+          -71.0845374
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3503329,
+          -71.0847083
+        ]
+      },
+      {
+        "name": "Marlborough Street",
+        "class": "residential",
+        "coord": [
+          42.3511474,
+          -71.0851094
+        ]
+      },
+      {
+        "name": "Newbury Street",
+        "class": "secondary",
+        "coord": [
+          42.3491666,
+          -71.0841334
+        ]
+      }
+    ],
+    "harcourt street": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3469422,
+          -71.0796131
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3470556,
+          -71.0797183
+        ]
+      },
+      {
+        "name": "Ring Road",
+        "class": "residential",
+        "coord": [
+          42.3470556,
+          -71.0797183
+        ]
+      },
+      {
+        "name": "Saint Botolph Street",
+        "class": "residential",
+        "coord": [
+          42.3464058,
+          -71.0789901
+        ]
+      },
+      {
+        "name": "Studio Place",
+        "class": "residential",
+        "coord": [
+          42.3462333,
+          -71.078573
+        ]
+      }
+    ],
+    "hereford street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3515134,
+          -71.0869952
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3479665,
+          -71.085256
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3495769,
+          -71.0860519
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3499194,
+          -71.0862186
+        ]
+      },
+      {
+        "name": "Marlborough Street",
+        "class": "residential",
+        "coord": [
+          42.350728,
+          -71.0866185
+        ]
+      },
+      {
+        "name": "Newbury Street",
+        "class": "secondary",
+        "coord": [
+          42.3487503,
+          -71.0856545
+        ]
+      }
+    ],
+    "huntington avenue": [
+      {
+        "name": "Belvidere Street",
+        "class": "secondary",
+        "coord": [
+          42.3453377,
+          -71.0816947
+        ]
+      },
+      {
+        "name": "Belvidere Street",
+        "class": "secondary",
+        "coord": [
+          42.3454203,
+          -71.0818136
+        ]
+      },
+      {
+        "name": "Blagden Street",
+        "class": "residential",
+        "coord": [
+          42.349076,
+          -71.0771481
+        ]
+      },
+      {
+        "name": "Blagden Street",
+        "class": "residential",
+        "coord": [
+          42.3491396,
+          -71.0773122
+        ]
+      },
+      {
+        "name": "Cumberland Street",
+        "class": "residential",
+        "coord": [
+          42.3442914,
+          -71.082988
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3492626,
+          -71.076931
+        ]
+      },
+      {
+        "name": "Exeter Street",
+        "class": "secondary",
+        "coord": [
+          42.3476956,
+          -71.0786692
+        ]
+      },
+      {
+        "name": "Exeter Street",
+        "class": "secondary",
+        "coord": [
+          42.3478524,
+          -71.0786996
+        ]
+      },
+      {
+        "name": "Garrison Street",
+        "class": "residential",
+        "coord": [
+          42.346394,
+          -71.080312
+        ]
+      },
+      {
+        "name": "Harcourt Street",
+        "class": "residential",
+        "coord": [
+          42.3469422,
+          -71.0796131
+        ]
+      },
+      {
+        "name": "Harcourt Street",
+        "class": "residential",
+        "coord": [
+          42.3470556,
+          -71.0797183
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3427081,
+          -71.0848337
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3428369,
+          -71.085026
+        ]
+      },
+      {
+        "name": "Ring Road",
+        "class": "residential",
+        "coord": [
+          42.3470556,
+          -71.0797183
+        ]
+      },
+      {
+        "name": "Ring Road",
+        "class": "residential",
+        "coord": [
+          42.3472714,
+          -71.0794297
+        ]
+      },
+      {
+        "name": "Saint James Avenue",
+        "class": "primary",
+        "coord": [
+          42.3492626,
+          -71.076931
+        ]
+      },
+      {
+        "name": "Stuart Street",
+        "class": "primary",
+        "coord": [
+          42.3476956,
+          -71.0786692
+        ]
+      },
+      {
+        "name": "West Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.3453377,
+          -71.0816947
+        ]
+      }
+    ],
+    "isabella street": [
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3488239,
+          -71.0715805
+        ]
+      }
+    ],
+    "marlborough street": [
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3540267,
+          -71.0744118
+        ]
+      },
+      {
+        "name": "Charlesgate East",
+        "class": "primary",
+        "coord": [
+          42.3497089,
+          -71.0916153
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3534421,
+          -71.0765683
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3528633,
+          -71.0787292
+        ]
+      },
+      {
+        "name": "Exeter Street",
+        "class": "secondary",
+        "coord": [
+          42.352282,
+          -71.0808635
+        ]
+      },
+      {
+        "name": "Fairfield Street",
+        "class": "residential",
+        "coord": [
+          42.351664,
+          -71.0831529
+        ]
+      },
+      {
+        "name": "Gloucester Street",
+        "class": "residential",
+        "coord": [
+          42.3511474,
+          -71.0851094
+        ]
+      },
+      {
+        "name": "Hereford Street",
+        "class": "secondary",
+        "coord": [
+          42.350728,
+          -71.0866185
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3500667,
+          -71.0890896
+        ]
+      }
+    ],
+    "massachusetts avenue": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3508438,
+          -71.0894765
+        ]
+      },
+      {
+        "name": "Belvidere Street",
+        "class": "secondary",
+        "coord": [
+          42.3464978,
+          -71.0873487
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3472988,
+          -71.0877436
+        ]
+      },
+      {
+        "name": "Clearway Street",
+        "class": "residential",
+        "coord": [
+          42.345463,
+          -71.0868369
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3489067,
+          -71.088524
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3492706,
+          -71.0887028
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary_link",
+        "coord": [
+          42.3427081,
+          -71.0848337
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary_link",
+        "coord": [
+          42.3428369,
+          -71.085026
+        ]
+      },
+      {
+        "name": "Marlborough Street",
+        "class": "residential",
+        "coord": [
+          42.3500667,
+          -71.0890896
+        ]
+      },
+      {
+        "name": "Newbury Street",
+        "class": "tertiary",
+        "coord": [
+          42.348141,
+          -71.0881537
+        ]
+      },
+      {
+        "name": "Saint Botolph Street",
+        "class": "residential",
+        "coord": [
+          42.342197,
+          -71.0840715
+        ]
+      },
+      {
+        "name": "Saint Germain Street",
+        "class": "residential",
+        "coord": [
+          42.3459397,
+          -71.0870714
+        ]
+      }
+    ],
+    "newbury street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3526902,
+          -71.0711009
+        ]
+      },
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.35206,
+          -71.0734488
+        ]
+      },
+      {
+        "name": "Charlesgate East",
+        "class": "tertiary",
+        "coord": [
+          42.3480536,
+          -71.0915653
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3514778,
+          -71.0755997
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.350899,
+          -71.0777369
+        ]
+      },
+      {
+        "name": "Exeter Street",
+        "class": "secondary",
+        "coord": [
+          42.3503114,
+          -71.0798941
+        ]
+      },
+      {
+        "name": "Fairfield Street",
+        "class": "residential",
+        "coord": [
+          42.3496965,
+          -71.0821867
+        ]
+      },
+      {
+        "name": "Gloucester Street",
+        "class": "residential",
+        "coord": [
+          42.3491666,
+          -71.0841334
+        ]
+      },
+      {
+        "name": "Hereford Street",
+        "class": "secondary",
+        "coord": [
+          42.3487503,
+          -71.0856545
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.348141,
+          -71.0881537
+        ]
+      }
+    ],
+    "providence street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3514111,
+          -71.0704492
+        ]
+      },
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3507719,
+          -71.0728208
+        ]
+      }
+    ],
+    "ring road": [
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3491705,
+          -71.080775
+        ]
+      },
+      {
+        "name": "Harcourt Street",
+        "class": "residential",
+        "coord": [
+          42.3470556,
+          -71.0797183
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3470556,
+          -71.0797183
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3472714,
+          -71.0794297
+        ]
+      }
+    ],
+    "saint botolph street": [
+      {
+        "name": "Albemarle Street",
+        "class": "residential",
+        "coord": [
+          42.3426789,
+          -71.0834777
+        ]
+      },
+      {
+        "name": "Blackwood Street",
+        "class": "residential",
+        "coord": [
+          42.343225,
+          -71.0828333
+        ]
+      },
+      {
+        "name": "Cumberland Street",
+        "class": "residential",
+        "coord": [
+          42.3437628,
+          -71.0821882
+        ]
+      },
+      {
+        "name": "Durham Street",
+        "class": "residential",
+        "coord": [
+          42.3442813,
+          -71.0815468
+        ]
+      },
+      {
+        "name": "Follen Street",
+        "class": "residential",
+        "coord": [
+          42.3453486,
+          -71.0802521
+        ]
+      },
+      {
+        "name": "Garrison Street",
+        "class": "residential",
+        "coord": [
+          42.345909,
+          -71.079593
+        ]
+      },
+      {
+        "name": "Harcourt Street",
+        "class": "residential",
+        "coord": [
+          42.3464058,
+          -71.0789901
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.342197,
+          -71.0840715
+        ]
+      },
+      {
+        "name": "West Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.3448098,
+          -71.0809158
+        ]
+      }
+    ],
+    "saint cecilia street": [
+      {
+        "name": "Belvidere Street",
+        "class": "secondary",
+        "coord": [
+          42.3463976,
+          -71.0866876
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3475293,
+          -71.0867446
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3476004,
+          -71.0867789
+        ]
+      },
+      {
+        "name": "Cambria Street",
+        "class": "residential",
+        "coord": [
+          42.3473298,
+          -71.0866482
+        ]
+      },
+      {
+        "name": "Scotia Street",
+        "class": "residential",
+        "coord": [
+          42.3470018,
+          -71.0864897
+        ]
+      }
+    ],
+    "saint germain street": [
+      {
+        "name": "Dalton Street",
+        "class": "residential",
+        "coord": [
+          42.3455702,
+          -71.084222
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3459397,
+          -71.0870714
+        ]
+      }
+    ],
+    "saint james avenue": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3510683,
+          -71.0702917
+        ]
+      },
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3504312,
+          -71.0726609
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.349859,
+          -71.0748082
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3492626,
+          -71.076931
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "residential",
+        "coord": [
+          42.3492626,
+          -71.076931
+        ]
+      },
+      {
+        "name": "Trinity Place",
+        "class": "residential",
+        "coord": [
+          42.3495972,
+          -71.0758712
+        ]
+      }
+    ],
+    "scotia street": [
+      {
+        "name": "Dalton Street",
+        "class": "secondary",
+        "coord": [
+          42.3468192,
+          -71.0850648
+        ]
+      },
+      {
+        "name": "Saint Cecilia Street",
+        "class": "residential",
+        "coord": [
+          42.3470018,
+          -71.0864897
+        ]
+      }
+    ],
+    "stanhope street": [
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3490915,
+          -71.0719968
+        ]
+      },
+      {
+        "name": "Cahners Place",
+        "class": "residential",
+        "coord": [
+          42.3482581,
+          -71.0731115
+        ]
+      }
+    ],
+    "storrow drive": [
+      {
+        "name": "Charlesgate",
+        "class": "trunk",
+        "coord": [
+          42.3521646,
+          -71.0872557
+        ]
+      }
+    ],
+    "stuart street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3501478,
+          -71.069926
+        ]
+      },
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3495298,
+          -71.0722126
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3489614,
+          -71.0743726
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3501478,
+          -71.069926
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3482085,
+          -71.0768521
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3483129,
+          -71.0764202
+        ]
+      },
+      {
+        "name": "Exeter Street",
+        "class": "secondary",
+        "coord": [
+          42.3476956,
+          -71.0786692
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3476956,
+          -71.0786692
+        ]
+      },
+      {
+        "name": "Trinity Place",
+        "class": "residential",
+        "coord": [
+          42.3486057,
+          -71.0753866
+        ]
+      }
+    ],
+    "studio place": [
+      {
+        "name": "Follen Street",
+        "class": "residential",
+        "coord": [
+          42.3451309,
+          -71.0799322
+        ]
+      },
+      {
+        "name": "Garrison Street",
+        "class": "residential",
+        "coord": [
+          42.3456898,
+          -71.0792521
+        ]
+      },
+      {
+        "name": "Harcourt Street",
+        "class": "residential",
+        "coord": [
+          42.3462333,
+          -71.078573
+        ]
+      }
+    ],
+    "trinity place": [
+      {
+        "name": "Saint James Avenue",
+        "class": "primary",
+        "coord": [
+          42.3495972,
+          -71.0758712
+        ]
+      },
+      {
+        "name": "Stuart Street",
+        "class": "primary",
+        "coord": [
+          42.3486057,
+          -71.0753866
+        ]
+      }
+    ],
+    "west newton street": [
+      {
+        "name": "Belvidere Street",
+        "class": "secondary",
+        "coord": [
+          42.3453377,
+          -71.0816947
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3453377,
+          -71.0816947
+        ]
+      },
+      {
+        "name": "Saint Botolph Street",
+        "class": "residential",
+        "coord": [
+          42.3448098,
+          -71.0809158
+        ]
+      }
+    ]
+  }
+}

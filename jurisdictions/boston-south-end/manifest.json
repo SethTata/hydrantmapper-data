@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-south-end",
+  "display_name": "South End",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3326562,
+    -71.08284438399994,
+    42.3474901,
+    -71.06110940699995
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 86754,
+      "sha256": "09b1a48bbab8b440f04247022c631302c4dc7872990918f7bf10ac269bc5b127"
+    },
+    "hydrants.csv": {
+      "size_bytes": 110608,
+      "sha256": "87a2ba836118bf41ea84ba3a1000af9862e8f5b2940bb8c1cc33bbaa5d397d47"
+    }
+  }
+}

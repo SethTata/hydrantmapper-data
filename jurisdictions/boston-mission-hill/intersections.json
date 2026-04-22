@@ -1,0 +1,2853 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-mission-hill",
+  "generated_at": "2026-04-22T05:26:58Z",
+  "streets": {
+    "albert street": [
+      {
+        "name": "Prentiss Street",
+        "class": "residential",
+        "coord": [
+          42.3336124,
+          -71.0932353
+        ]
+      }
+    ],
+    "alleghany street": [
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3300773,
+          -71.0984827
+        ]
+      },
+      {
+        "name": "Pontiac Street",
+        "class": "residential",
+        "coord": [
+          42.331403,
+          -71.1014219
+        ]
+      },
+      {
+        "name": "Saint Alphonsus Street",
+        "class": "residential",
+        "coord": [
+          42.331693,
+          -71.1021491
+        ]
+      },
+      {
+        "name": "Terrace Street",
+        "class": "residential",
+        "coord": [
+          42.3296564,
+          -71.0974782
+        ]
+      }
+    ],
+    "annunciation road": [
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3351533,
+          -71.0947738
+        ]
+      }
+    ],
+    "bickford avenue": [
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.326356,
+          -71.1022834
+        ]
+      },
+      {
+        "name": "Wensley Street",
+        "class": "residential",
+        "coord": [
+          42.3273078,
+          -71.1025801
+        ]
+      }
+    ],
+    "bickford street": [
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.326423,
+          -71.1013445
+        ]
+      }
+    ],
+    "bromley street": [
+      {
+        "name": "New Heath Street",
+        "class": "residential",
+        "coord": [
+          42.3263656,
+          -71.0992909
+        ]
+      }
+    ],
+    "bucknam street": [
+      {
+        "name": "Fisher Avenue",
+        "class": "residential",
+        "coord": [
+          42.3278784,
+          -71.104035
+        ]
+      },
+      {
+        "name": "Lawn Street",
+        "class": "residential",
+        "coord": [
+          42.326769,
+          -71.104171
+        ]
+      },
+      {
+        "name": "Wensley Street",
+        "class": "residential",
+        "coord": [
+          42.327438,
+          -71.1041792
+        ]
+      }
+    ],
+    "burney street": [
+      {
+        "name": "Delle Avenue",
+        "class": "residential",
+        "coord": [
+          42.3315029,
+          -71.0997978
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.332276,
+          -71.099319
+        ]
+      }
+    ],
+    "calumet street": [
+      {
+        "name": "Darling Street",
+        "class": "residential",
+        "coord": [
+          42.332406,
+          -71.105605
+        ]
+      },
+      {
+        "name": "Harleston Street",
+        "class": "residential",
+        "coord": [
+          42.329588,
+          -71.102005
+        ]
+      },
+      {
+        "name": "Hillside Street",
+        "class": "residential",
+        "coord": [
+          42.3305346,
+          -71.1030703
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3340821,
+          -71.1048414
+        ]
+      },
+      {
+        "name": "Iroquois Street",
+        "class": "residential",
+        "coord": [
+          42.3297434,
+          -71.1026606
+        ]
+      },
+      {
+        "name": "Judge Street",
+        "class": "residential",
+        "coord": [
+          42.3297434,
+          -71.1026606
+        ]
+      },
+      {
+        "name": "Oswald Street",
+        "class": "residential",
+        "coord": [
+          42.3316659,
+          -71.1039085
+        ]
+      },
+      {
+        "name": "Parker Hill Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.328206,
+          -71.100101
+        ]
+      },
+      {
+        "name": "Pequot Street",
+        "class": "residential",
+        "coord": [
+          42.332406,
+          -71.105605
+        ]
+      },
+      {
+        "name": "Sachem Street",
+        "class": "residential",
+        "coord": [
+          42.3320407,
+          -71.1047675
+        ]
+      },
+      {
+        "name": "Saint Alphonsus Street",
+        "class": "residential",
+        "coord": [
+          42.3311287,
+          -71.1026962
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3340821,
+          -71.1048414
+        ]
+      }
+    ],
+    "carmel street": [
+      {
+        "name": "Delle Avenue",
+        "class": "residential",
+        "coord": [
+          42.3317608,
+          -71.1004698
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3324859,
+          -71.1000407
+        ]
+      }
+    ],
+    "cherokee street": [
+      {
+        "name": "Hillside Street",
+        "class": "residential",
+        "coord": [
+          42.329861,
+          -71.100504
+        ]
+      },
+      {
+        "name": "Pontiac Street",
+        "class": "residential",
+        "coord": [
+          42.3309842,
+          -71.1017369
+        ]
+      }
+    ],
+    "colburn street": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3325473,
+          -71.1111824
+        ]
+      },
+      {
+        "name": "South Huntington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3307906,
+          -71.1115961
+        ]
+      }
+    ],
+    "copenger street": [
+      {
+        "name": "Parker Hill Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.332006,
+          -71.109577
+        ]
+      }
+    ],
+    "cornelia court": [
+      {
+        "name": "Horadan Way",
+        "class": "residential",
+        "coord": [
+          42.3344964,
+          -71.0987096
+        ]
+      },
+      {
+        "name": "McGreevey Way",
+        "class": "residential",
+        "coord": [
+          42.3351396,
+          -71.0982968
+        ]
+      },
+      {
+        "name": "Smith Street",
+        "class": "residential",
+        "coord": [
+          42.333813,
+          -71.099149
+        ]
+      },
+      {
+        "name": "Smith Street",
+        "class": "residential",
+        "coord": [
+          42.3338972,
+          -71.0990931
+        ]
+      }
+    ],
+    "craftson way": [
+      {
+        "name": "Jamaicaway",
+        "class": "trunk",
+        "coord": [
+          42.3298525,
+          -71.1122135
+        ]
+      },
+      {
+        "name": "South Huntington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3300757,
+          -71.111291
+        ]
+      }
+    ],
+    "darling street": [
+      {
+        "name": "Calumet Street",
+        "class": "residential",
+        "coord": [
+          42.332406,
+          -71.105605
+        ]
+      },
+      {
+        "name": "Hillside Street",
+        "class": "residential",
+        "coord": [
+          42.3311921,
+          -71.105887
+        ]
+      },
+      {
+        "name": "Pequot Street",
+        "class": "residential",
+        "coord": [
+          42.332406,
+          -71.105605
+        ]
+      }
+    ],
+    "delle avenue": [
+      {
+        "name": "Burney Street",
+        "class": "residential",
+        "coord": [
+          42.3315029,
+          -71.0997978
+        ]
+      },
+      {
+        "name": "Carmel Street",
+        "class": "residential",
+        "coord": [
+          42.3317608,
+          -71.1004698
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3307015,
+          -71.0976522
+        ]
+      },
+      {
+        "name": "Sewall Street",
+        "class": "residential",
+        "coord": [
+          42.3309671,
+          -71.0983509
+        ]
+      }
+    ],
+    "eileen circle": [
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.3283943,
+          -71.1099245
+        ]
+      },
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.3284482,
+          -71.110005
+        ]
+      }
+    ],
+    "eldora street": [
+      {
+        "name": "Hillside Street",
+        "class": "residential",
+        "coord": [
+          42.331539,
+          -71.107199
+        ]
+      },
+      {
+        "name": "Sunset Street",
+        "class": "residential",
+        "coord": [
+          42.3315126,
+          -71.1085136
+        ]
+      }
+    ],
+    "ellingwood street": [
+      {
+        "name": "Estey Street",
+        "class": "residential",
+        "coord": [
+          42.32801,
+          -71.1076187
+        ]
+      },
+      {
+        "name": "Estey Street",
+        "class": "residential",
+        "coord": [
+          42.328134,
+          -71.1075274
+        ]
+      }
+    ],
+    "estey street": [
+      {
+        "name": "Ellingwood Street",
+        "class": "residential",
+        "coord": [
+          42.32801,
+          -71.1076187
+        ]
+      },
+      {
+        "name": "Ellingwood Street",
+        "class": "residential",
+        "coord": [
+          42.328134,
+          -71.1075274
+        ]
+      },
+      {
+        "name": "Fisher Avenue",
+        "class": "residential",
+        "coord": [
+          42.3284607,
+          -71.1073312
+        ]
+      },
+      {
+        "name": "Lawn Street",
+        "class": "residential",
+        "coord": [
+          42.32773,
+          -71.107903
+        ]
+      }
+    ],
+    "eugene circle": [
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.3279658,
+          -71.1093082
+        ]
+      },
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.3280167,
+          -71.1093833
+        ]
+      }
+    ],
+    "evans way": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3366309,
+          -71.0980681
+        ]
+      }
+    ],
+    "faxon street": [
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3318812,
+          -71.0977288
+        ]
+      }
+    ],
+    "fenwood road": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3337762,
+          -71.1056194
+        ]
+      },
+      {
+        "name": "Kempton Street",
+        "class": "residential",
+        "coord": [
+          42.3348992,
+          -71.1073296
+        ]
+      },
+      {
+        "name": "Saint Albans Road",
+        "class": "residential",
+        "coord": [
+          42.3344696,
+          -71.1066559
+        ]
+      }
+    ],
+    "fisher avenue": [
+      {
+        "name": "Bucknam Street",
+        "class": "residential",
+        "coord": [
+          42.3278784,
+          -71.104035
+        ]
+      },
+      {
+        "name": "Estey Street",
+        "class": "residential",
+        "coord": [
+          42.3284607,
+          -71.1073312
+        ]
+      },
+      {
+        "name": "Hayden Street",
+        "class": "residential",
+        "coord": [
+          42.328171,
+          -71.106463
+        ]
+      },
+      {
+        "name": "Parker Hill Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3306073,
+          -71.1084958
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3270882,
+          -71.0996559
+        ]
+      },
+      {
+        "name": "Sachem Street",
+        "class": "residential",
+        "coord": [
+          42.3306073,
+          -71.1084958
+        ]
+      }
+    ],
+    "folsom avenue": [
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3296778,
+          -71.0987752
+        ]
+      }
+    ],
+    "francis street": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3341716,
+          -71.1049623
+        ]
+      }
+    ],
+    "frawley street": [
+      {
+        "name": "Hillside Street",
+        "class": "residential",
+        "coord": [
+          42.331774,
+          -71.108032
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3332579,
+          -71.1079038
+        ]
+      },
+      {
+        "name": "Stockwell Street",
+        "class": "residential",
+        "coord": [
+          42.332424,
+          -71.10794
+        ]
+      }
+    ],
+    "french terrace": [
+      {
+        "name": "Gore Street",
+        "class": "residential",
+        "coord": [
+          42.330894,
+          -71.097063
+        ]
+      }
+    ],
+    "gore street": [
+      {
+        "name": "French Terrace",
+        "class": "residential",
+        "coord": [
+          42.330894,
+          -71.097063
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.330979,
+          -71.097501
+        ]
+      },
+      {
+        "name": "Terrace Street",
+        "class": "residential",
+        "coord": [
+          42.330779,
+          -71.096564
+        ]
+      }
+    ],
+    "gurney street": [
+      {
+        "name": "Halleck Street",
+        "class": "residential",
+        "coord": [
+          42.3327978,
+          -71.0950816
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3327761,
+          -71.0964253
+        ]
+      },
+      {
+        "name": "Smith Street",
+        "class": "residential",
+        "coord": [
+          42.3327761,
+          -71.0964253
+        ]
+      },
+      {
+        "name": "Station Street",
+        "class": "residential",
+        "coord": [
+          42.3327978,
+          -71.0950816
+        ]
+      },
+      {
+        "name": "Terrace Street",
+        "class": "residential",
+        "coord": [
+          42.3316519,
+          -71.0961378
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3316519,
+          -71.0961378
+        ]
+      }
+    ],
+    "halleck street": [
+      {
+        "name": "Gurney Street",
+        "class": "residential",
+        "coord": [
+          42.3327978,
+          -71.0950816
+        ]
+      },
+      {
+        "name": "Prentiss Street",
+        "class": "residential",
+        "coord": [
+          42.3339335,
+          -71.0940964
+        ]
+      },
+      {
+        "name": "Station Street",
+        "class": "residential",
+        "coord": [
+          42.3327978,
+          -71.0950816
+        ]
+      }
+    ],
+    "harleston street": [
+      {
+        "name": "Calumet Street",
+        "class": "residential",
+        "coord": [
+          42.329588,
+          -71.102005
+        ]
+      },
+      {
+        "name": "Parker Hill Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.328857,
+          -71.10229
+        ]
+      }
+    ],
+    "hayden street": [
+      {
+        "name": "Fisher Avenue",
+        "class": "residential",
+        "coord": [
+          42.328171,
+          -71.106463
+        ]
+      },
+      {
+        "name": "Lawn Street",
+        "class": "residential",
+        "coord": [
+          42.3274249,
+          -71.1068766
+        ]
+      }
+    ],
+    "heath street": [
+      {
+        "name": "Bickford Avenue",
+        "class": "residential",
+        "coord": [
+          42.326356,
+          -71.1022834
+        ]
+      },
+      {
+        "name": "Bickford Street",
+        "class": "residential",
+        "coord": [
+          42.326423,
+          -71.1013445
+        ]
+      },
+      {
+        "name": "Eileen Circle",
+        "class": "residential",
+        "coord": [
+          42.3283943,
+          -71.1099245
+        ]
+      },
+      {
+        "name": "Eileen Circle",
+        "class": "residential",
+        "coord": [
+          42.3284482,
+          -71.110005
+        ]
+      },
+      {
+        "name": "Eugene Circle",
+        "class": "residential",
+        "coord": [
+          42.3279658,
+          -71.1093082
+        ]
+      },
+      {
+        "name": "Eugene Circle",
+        "class": "residential",
+        "coord": [
+          42.3280167,
+          -71.1093833
+        ]
+      },
+      {
+        "name": "Heath Street Rotary",
+        "class": "secondary",
+        "coord": [
+          42.3262669,
+          -71.1005236
+        ]
+      },
+      {
+        "name": "Heath Street Rotary",
+        "class": "secondary",
+        "coord": [
+          42.3264305,
+          -71.1004608
+        ]
+      },
+      {
+        "name": "Lawn Street",
+        "class": "residential",
+        "coord": [
+          42.3261419,
+          -71.1040589
+        ]
+      },
+      {
+        "name": "Lawn Street",
+        "class": "residential",
+        "coord": [
+          42.327318,
+          -71.108333
+        ]
+      },
+      {
+        "name": "Pine Grove Terrace",
+        "class": "residential",
+        "coord": [
+          42.3281972,
+          -71.109642
+        ]
+      },
+      {
+        "name": "Schiller Street",
+        "class": "residential",
+        "coord": [
+          42.3261083,
+          -71.105211
+        ]
+      },
+      {
+        "name": "Walden Street",
+        "class": "residential",
+        "coord": [
+          42.3260976,
+          -71.1046187
+        ]
+      }
+    ],
+    "heath street rotary": [
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.3262669,
+          -71.1005236
+        ]
+      },
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.3264305,
+          -71.1004608
+        ]
+      },
+      {
+        "name": "New Heath Street",
+        "class": "residential",
+        "coord": [
+          42.3263863,
+          -71.1002
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3264023,
+          -71.1002098
+        ]
+      },
+      {
+        "name": "Wensley Street",
+        "class": "residential",
+        "coord": [
+          42.3264537,
+          -71.1003624
+        ]
+      }
+    ],
+    "hillside street": [
+      {
+        "name": "Calumet Street",
+        "class": "residential",
+        "coord": [
+          42.3305346,
+          -71.1030703
+        ]
+      },
+      {
+        "name": "Cherokee Street",
+        "class": "residential",
+        "coord": [
+          42.329861,
+          -71.100504
+        ]
+      },
+      {
+        "name": "Darling Street",
+        "class": "residential",
+        "coord": [
+          42.3311921,
+          -71.105887
+        ]
+      },
+      {
+        "name": "Eldora Street",
+        "class": "residential",
+        "coord": [
+          42.331539,
+          -71.107199
+        ]
+      },
+      {
+        "name": "Frawley Street",
+        "class": "residential",
+        "coord": [
+          42.331774,
+          -71.108032
+        ]
+      },
+      {
+        "name": "Oswald Street",
+        "class": "residential",
+        "coord": [
+          42.3308427,
+          -71.1043803
+        ]
+      },
+      {
+        "name": "Parker Hill Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3321594,
+          -71.1095705
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3291506,
+          -71.098946
+        ]
+      },
+      {
+        "name": "Pontiac Street",
+        "class": "residential",
+        "coord": [
+          42.330354,
+          -71.102293
+        ]
+      },
+      {
+        "name": "Sachem Street",
+        "class": "residential",
+        "coord": [
+          42.3310158,
+          -71.1051501
+        ]
+      },
+      {
+        "name": "Sunset Street",
+        "class": "residential",
+        "coord": [
+          42.331855,
+          -71.1083524
+        ]
+      },
+      {
+        "name": "Wait Street",
+        "class": "residential",
+        "coord": [
+          42.3314243,
+          -71.106712
+        ]
+      }
+    ],
+    "horadan way": [
+      {
+        "name": "Cornelia Court",
+        "class": "residential",
+        "coord": [
+          42.3344964,
+          -71.0987096
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.333465,
+          -71.0959478
+        ]
+      },
+      {
+        "name": "Saint Alphonsus Street",
+        "class": "secondary",
+        "coord": [
+          42.3349599,
+          -71.1000575
+        ]
+      },
+      {
+        "name": "Turquoise Way",
+        "class": "residential",
+        "coord": [
+          42.3339913,
+          -71.0973446
+        ]
+      },
+      {
+        "name": "Turquoise Way",
+        "class": "residential",
+        "coord": [
+          42.3339994,
+          -71.0973662
+        ]
+      }
+    ],
+    "huntington avenue": [
+      {
+        "name": "Calumet Street",
+        "class": "residential",
+        "coord": [
+          42.3340821,
+          -71.1048414
+        ]
+      },
+      {
+        "name": "Colburn Street",
+        "class": "residential",
+        "coord": [
+          42.3325473,
+          -71.1111824
+        ]
+      },
+      {
+        "name": "Evans Way",
+        "class": "secondary",
+        "coord": [
+          42.3366309,
+          -71.0980681
+        ]
+      },
+      {
+        "name": "Fenwood Road",
+        "class": "residential",
+        "coord": [
+          42.3337762,
+          -71.1056194
+        ]
+      },
+      {
+        "name": "Francis Street",
+        "class": "secondary",
+        "coord": [
+          42.3341716,
+          -71.1049623
+        ]
+      },
+      {
+        "name": "Frawley Street",
+        "class": "residential",
+        "coord": [
+          42.3332579,
+          -71.1079038
+        ]
+      },
+      {
+        "name": "Jamaicaway",
+        "class": "trunk",
+        "coord": [
+          42.3318495,
+          -71.1126731
+        ]
+      },
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3358301,
+          -71.1000797
+        ]
+      },
+      {
+        "name": "Mission Park Drive",
+        "class": "residential",
+        "coord": [
+          42.3332129,
+          -71.1093244
+        ]
+      },
+      {
+        "name": "Mission Street",
+        "class": "residential",
+        "coord": [
+          42.3332557,
+          -71.1070744
+        ]
+      },
+      {
+        "name": "Parker Hill Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3331913,
+          -71.109587
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.331955,
+          -71.1127091
+        ]
+      },
+      {
+        "name": "Saint Albans Road",
+        "class": "residential",
+        "coord": [
+          42.3332557,
+          -71.1070744
+        ]
+      },
+      {
+        "name": "Saint Alphonsus Street",
+        "class": "secondary",
+        "coord": [
+          42.3361623,
+          -71.0993127
+        ]
+      },
+      {
+        "name": "Shepherd Avenue",
+        "class": "residential",
+        "coord": [
+          42.3332337,
+          -71.1090719
+        ]
+      },
+      {
+        "name": "Smith Street",
+        "class": "residential",
+        "coord": [
+          42.334969,
+          -71.1024821
+        ]
+      },
+      {
+        "name": "South Huntington Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3319539,
+          -71.1120787
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3340821,
+          -71.1048414
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3341392,
+          -71.1046536
+        ]
+      },
+      {
+        "name": "Vancouver Street",
+        "class": "residential",
+        "coord": [
+          42.33702,
+          -71.097117
+        ]
+      },
+      {
+        "name": "Wait Street",
+        "class": "residential",
+        "coord": [
+          42.3334514,
+          -71.106223
+        ]
+      },
+      {
+        "name": "Wigglesworth Street",
+        "class": "residential",
+        "coord": [
+          42.3349424,
+          -71.1025581
+        ]
+      },
+      {
+        "name": "Worthington Street",
+        "class": "tertiary",
+        "coord": [
+          42.3352966,
+          -71.1015374
+        ]
+      }
+    ],
+    "iroquois street": [
+      {
+        "name": "Calumet Street",
+        "class": "residential",
+        "coord": [
+          42.3297434,
+          -71.1026606
+        ]
+      },
+      {
+        "name": "Judge Street",
+        "class": "residential",
+        "coord": [
+          42.3297434,
+          -71.1026606
+        ]
+      },
+      {
+        "name": "Sachem Street",
+        "class": "residential",
+        "coord": [
+          42.330873,
+          -71.107315
+        ]
+      }
+    ],
+    "jamaicaway": [
+      {
+        "name": "Craftson Way",
+        "class": "residential",
+        "coord": [
+          42.3298525,
+          -71.1122135
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3318495,
+          -71.1126731
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3316808,
+          -71.1129696
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3316963,
+          -71.1130873
+        ]
+      }
+    ],
+    "judge street": [
+      {
+        "name": "Calumet Street",
+        "class": "residential",
+        "coord": [
+          42.3297434,
+          -71.1026606
+        ]
+      },
+      {
+        "name": "Iroquois Street",
+        "class": "residential",
+        "coord": [
+          42.3297434,
+          -71.1026606
+        ]
+      }
+    ],
+    "kempton street": [
+      {
+        "name": "Fenwood Road",
+        "class": "residential",
+        "coord": [
+          42.3348992,
+          -71.1073296
+        ]
+      },
+      {
+        "name": "Mission Park Drive",
+        "class": "residential",
+        "coord": [
+          42.334077,
+          -71.107896
+        ]
+      }
+    ],
+    "lawn street": [
+      {
+        "name": "Bucknam Street",
+        "class": "residential",
+        "coord": [
+          42.326769,
+          -71.104171
+        ]
+      },
+      {
+        "name": "Estey Street",
+        "class": "residential",
+        "coord": [
+          42.32773,
+          -71.107903
+        ]
+      },
+      {
+        "name": "Hayden Street",
+        "class": "residential",
+        "coord": [
+          42.3274249,
+          -71.1068766
+        ]
+      },
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.3261419,
+          -71.1040589
+        ]
+      },
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.327318,
+          -71.108333
+        ]
+      }
+    ],
+    "longwood avenue": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3358301,
+          -71.1000797
+        ]
+      },
+      {
+        "name": "Saint Alphonsus Street",
+        "class": "secondary",
+        "coord": [
+          42.3356035,
+          -71.0995572
+        ]
+      }
+    ],
+    "mcgreevey way": [
+      {
+        "name": "Cornelia Court",
+        "class": "residential",
+        "coord": [
+          42.3351396,
+          -71.0982968
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.334084,
+          -71.095519
+        ]
+      },
+      {
+        "name": "Ponce Way",
+        "class": "residential",
+        "coord": [
+          42.3348815,
+          -71.0975968
+        ]
+      },
+      {
+        "name": "Turquoise Way",
+        "class": "residential",
+        "coord": [
+          42.3346095,
+          -71.0969167
+        ]
+      }
+    ],
+    "mindoro street": [
+      {
+        "name": "Prentiss Street",
+        "class": "residential",
+        "coord": [
+          42.3336864,
+          -71.0934428
+        ]
+      },
+      {
+        "name": "Station Street",
+        "class": "residential",
+        "coord": [
+          42.332606,
+          -71.0946433
+        ]
+      }
+    ],
+    "mission park drive": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3332129,
+          -71.1093244
+        ]
+      },
+      {
+        "name": "Kempton Street",
+        "class": "residential",
+        "coord": [
+          42.334077,
+          -71.107896
+        ]
+      },
+      {
+        "name": "New Whitney Street",
+        "class": "residential",
+        "coord": [
+          42.3340821,
+          -71.1089518
+        ]
+      },
+      {
+        "name": "Saint Albans Road",
+        "class": "residential",
+        "coord": [
+          42.334065,
+          -71.107044
+        ]
+      }
+    ],
+    "mission street": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3332557,
+          -71.1070744
+        ]
+      },
+      {
+        "name": "Saint Albans Road",
+        "class": "residential",
+        "coord": [
+          42.3332557,
+          -71.1070744
+        ]
+      },
+      {
+        "name": "Stockwell Street",
+        "class": "residential",
+        "coord": [
+          42.332139,
+          -71.107253
+        ]
+      }
+    ],
+    "new cedar street": [
+      {
+        "name": "Terrace Street",
+        "class": "residential",
+        "coord": [
+          42.3285955,
+          -71.0981376
+        ]
+      }
+    ],
+    "new heath street": [
+      {
+        "name": "Bromley Street",
+        "class": "residential",
+        "coord": [
+          42.3263656,
+          -71.0992909
+        ]
+      },
+      {
+        "name": "Heath Street Rotary",
+        "class": "secondary",
+        "coord": [
+          42.3263863,
+          -71.1002
+        ]
+      },
+      {
+        "name": "Terrace Street",
+        "class": "residential",
+        "coord": [
+          42.3263585,
+          -71.0989074
+        ]
+      }
+    ],
+    "new whitney street": [
+      {
+        "name": "Mission Park Drive",
+        "class": "residential",
+        "coord": [
+          42.3340821,
+          -71.1089518
+        ]
+      }
+    ],
+    "oscar street": [
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3305067,
+          -71.0979713
+        ]
+      },
+      {
+        "name": "Terrace Street",
+        "class": "residential",
+        "coord": [
+          42.3301292,
+          -71.097081
+        ]
+      }
+    ],
+    "oswald street": [
+      {
+        "name": "Calumet Street",
+        "class": "residential",
+        "coord": [
+          42.3316659,
+          -71.1039085
+        ]
+      },
+      {
+        "name": "Hillside Street",
+        "class": "residential",
+        "coord": [
+          42.3308427,
+          -71.1043803
+        ]
+      }
+    ],
+    "parker hill avenue": [
+      {
+        "name": "Calumet Street",
+        "class": "residential",
+        "coord": [
+          42.328206,
+          -71.100101
+        ]
+      },
+      {
+        "name": "Copenger Street",
+        "class": "residential",
+        "coord": [
+          42.332006,
+          -71.109577
+        ]
+      },
+      {
+        "name": "Fisher Avenue",
+        "class": "residential",
+        "coord": [
+          42.3306073,
+          -71.1084958
+        ]
+      },
+      {
+        "name": "Harleston Street",
+        "class": "residential",
+        "coord": [
+          42.328857,
+          -71.10229
+        ]
+      },
+      {
+        "name": "Hillside Street",
+        "class": "residential",
+        "coord": [
+          42.3321594,
+          -71.1095705
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3331913,
+          -71.109587
+        ]
+      },
+      {
+        "name": "Parker Hill Terrace",
+        "class": "residential",
+        "coord": [
+          42.3315074,
+          -71.1095967
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.327995,
+          -71.099368
+        ]
+      },
+      {
+        "name": "Sachem Street",
+        "class": "residential",
+        "coord": [
+          42.3306073,
+          -71.1084958
+        ]
+      },
+      {
+        "name": "Sunset Street",
+        "class": "residential",
+        "coord": [
+          42.330715,
+          -71.108901
+        ]
+      }
+    ],
+    "parker hill terrace": [
+      {
+        "name": "Parker Hill Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3315074,
+          -71.1095967
+        ]
+      }
+    ],
+    "parker street": [
+      {
+        "name": "Alleghany Street",
+        "class": "residential",
+        "coord": [
+          42.3300773,
+          -71.0984827
+        ]
+      },
+      {
+        "name": "Annunciation Road",
+        "class": "residential",
+        "coord": [
+          42.3351533,
+          -71.0947738
+        ]
+      },
+      {
+        "name": "Delle Avenue",
+        "class": "residential",
+        "coord": [
+          42.3307015,
+          -71.0976522
+        ]
+      },
+      {
+        "name": "Fisher Avenue",
+        "class": "residential",
+        "coord": [
+          42.3270882,
+          -71.0996559
+        ]
+      },
+      {
+        "name": "Folsom Avenue",
+        "class": "residential",
+        "coord": [
+          42.3296778,
+          -71.0987752
+        ]
+      },
+      {
+        "name": "Gore Street",
+        "class": "residential",
+        "coord": [
+          42.330979,
+          -71.097501
+        ]
+      },
+      {
+        "name": "Gurney Street",
+        "class": "residential",
+        "coord": [
+          42.3327761,
+          -71.0964253
+        ]
+      },
+      {
+        "name": "Heath Street Rotary",
+        "class": "secondary",
+        "coord": [
+          42.3264023,
+          -71.1002098
+        ]
+      },
+      {
+        "name": "Hillside Street",
+        "class": "residential",
+        "coord": [
+          42.3291506,
+          -71.098946
+        ]
+      },
+      {
+        "name": "Horadan Way",
+        "class": "residential",
+        "coord": [
+          42.333465,
+          -71.0959478
+        ]
+      },
+      {
+        "name": "McGreevey Way",
+        "class": "residential",
+        "coord": [
+          42.334084,
+          -71.095519
+        ]
+      },
+      {
+        "name": "Oscar Street",
+        "class": "residential",
+        "coord": [
+          42.3305067,
+          -71.0979713
+        ]
+      },
+      {
+        "name": "Parker Hill Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.327995,
+          -71.099368
+        ]
+      },
+      {
+        "name": "Prentiss Street",
+        "class": "residential",
+        "coord": [
+          42.334385,
+          -71.095301
+        ]
+      },
+      {
+        "name": "Smith Street",
+        "class": "residential",
+        "coord": [
+          42.3327761,
+          -71.0964253
+        ]
+      },
+      {
+        "name": "Smith Street",
+        "class": "residential",
+        "coord": [
+          42.3328644,
+          -71.0963634
+        ]
+      },
+      {
+        "name": "Station Street",
+        "class": "residential",
+        "coord": [
+          42.3332331,
+          -71.0961036
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3317848,
+          -71.0971502
+        ]
+      },
+      {
+        "name": "Ward Street",
+        "class": "residential",
+        "coord": [
+          42.334786,
+          -71.095028
+        ]
+      }
+    ],
+    "pequot street": [
+      {
+        "name": "Calumet Street",
+        "class": "residential",
+        "coord": [
+          42.332406,
+          -71.105605
+        ]
+      },
+      {
+        "name": "Darling Street",
+        "class": "residential",
+        "coord": [
+          42.332406,
+          -71.105605
+        ]
+      },
+      {
+        "name": "Wait Street",
+        "class": "residential",
+        "coord": [
+          42.332568,
+          -71.106323
+        ]
+      }
+    ],
+    "pine grove terrace": [
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.3281972,
+          -71.109642
+        ]
+      }
+    ],
+    "ponce way": [
+      {
+        "name": "McGreevey Way",
+        "class": "residential",
+        "coord": [
+          42.3348815,
+          -71.0975968
+        ]
+      },
+      {
+        "name": "Ward Street",
+        "class": "residential",
+        "coord": [
+          42.335503,
+          -71.097175
+        ]
+      }
+    ],
+    "pontiac street": [
+      {
+        "name": "Alleghany Street",
+        "class": "unclassified",
+        "coord": [
+          42.331403,
+          -71.1014219
+        ]
+      },
+      {
+        "name": "Cherokee Street",
+        "class": "residential",
+        "coord": [
+          42.3309842,
+          -71.1017369
+        ]
+      },
+      {
+        "name": "Hillside Street",
+        "class": "residential",
+        "coord": [
+          42.330354,
+          -71.102293
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3326889,
+          -71.1005832
+        ]
+      }
+    ],
+    "prentiss street": [
+      {
+        "name": "Albert Street",
+        "class": "residential",
+        "coord": [
+          42.3336124,
+          -71.0932353
+        ]
+      },
+      {
+        "name": "Halleck Street",
+        "class": "residential",
+        "coord": [
+          42.3339335,
+          -71.0940964
+        ]
+      },
+      {
+        "name": "Mindoro Street",
+        "class": "residential",
+        "coord": [
+          42.3336864,
+          -71.0934428
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.334385,
+          -71.095301
+        ]
+      }
+    ],
+    "riverway": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.331955,
+          -71.1127091
+        ]
+      },
+      {
+        "name": "Jamaicaway",
+        "class": "trunk",
+        "coord": [
+          42.3316808,
+          -71.1129696
+        ]
+      },
+      {
+        "name": "Jamaicaway",
+        "class": "trunk",
+        "coord": [
+          42.3316963,
+          -71.1130873
+        ]
+      }
+    ],
+    "sachem street": [
+      {
+        "name": "Calumet Street",
+        "class": "residential",
+        "coord": [
+          42.3320407,
+          -71.1047675
+        ]
+      },
+      {
+        "name": "Fisher Avenue",
+        "class": "residential",
+        "coord": [
+          42.3306073,
+          -71.1084958
+        ]
+      },
+      {
+        "name": "Hillside Street",
+        "class": "residential",
+        "coord": [
+          42.3310158,
+          -71.1051501
+        ]
+      },
+      {
+        "name": "Iroquois Street",
+        "class": "residential",
+        "coord": [
+          42.330873,
+          -71.107315
+        ]
+      },
+      {
+        "name": "Parker Hill Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3306073,
+          -71.1084958
+        ]
+      }
+    ],
+    "saint albans road": [
+      {
+        "name": "Fenwood Road",
+        "class": "residential",
+        "coord": [
+          42.3344696,
+          -71.1066559
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3332557,
+          -71.1070744
+        ]
+      },
+      {
+        "name": "Mission Park Drive",
+        "class": "residential",
+        "coord": [
+          42.334065,
+          -71.107044
+        ]
+      },
+      {
+        "name": "Mission Street",
+        "class": "residential",
+        "coord": [
+          42.3332557,
+          -71.1070744
+        ]
+      }
+    ],
+    "saint alphonsus street": [
+      {
+        "name": "Alleghany Street",
+        "class": "unclassified",
+        "coord": [
+          42.331693,
+          -71.1021491
+        ]
+      },
+      {
+        "name": "Calumet Street",
+        "class": "residential",
+        "coord": [
+          42.3311287,
+          -71.1026962
+        ]
+      },
+      {
+        "name": "Horadan Way",
+        "class": "residential",
+        "coord": [
+          42.3349599,
+          -71.1000575
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3361623,
+          -71.0993127
+        ]
+      },
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3356035,
+          -71.0995572
+        ]
+      },
+      {
+        "name": "Smith Street",
+        "class": "residential",
+        "coord": [
+          42.3342825,
+          -71.1004855
+        ]
+      },
+      {
+        "name": "Smith Street",
+        "class": "residential",
+        "coord": [
+          42.3343746,
+          -71.1004273
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3329762,
+          -71.1013195
+        ]
+      },
+      {
+        "name": "Ward Street",
+        "class": "residential",
+        "coord": [
+          42.3360068,
+          -71.0992711
+        ]
+      }
+    ],
+    "schiller street": [
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.3261083,
+          -71.105211
+        ]
+      }
+    ],
+    "sewall street": [
+      {
+        "name": "Delle Avenue",
+        "class": "residential",
+        "coord": [
+          42.3309671,
+          -71.0983509
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3319148,
+          -71.097892
+        ]
+      }
+    ],
+    "shepherd avenue": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3332337,
+          -71.1090719
+        ]
+      }
+    ],
+    "smith street": [
+      {
+        "name": "Cornelia Court",
+        "class": "residential",
+        "coord": [
+          42.333813,
+          -71.099149
+        ]
+      },
+      {
+        "name": "Cornelia Court",
+        "class": "residential",
+        "coord": [
+          42.3338972,
+          -71.0990931
+        ]
+      },
+      {
+        "name": "Gurney Street",
+        "class": "residential",
+        "coord": [
+          42.3327761,
+          -71.0964253
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.334969,
+          -71.1024821
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3327761,
+          -71.0964253
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3328644,
+          -71.0963634
+        ]
+      },
+      {
+        "name": "Saint Alphonsus Street",
+        "class": "secondary",
+        "coord": [
+          42.3342825,
+          -71.1004855
+        ]
+      },
+      {
+        "name": "Saint Alphonsus Street",
+        "class": "secondary",
+        "coord": [
+          42.3343746,
+          -71.1004273
+        ]
+      },
+      {
+        "name": "Turquoise Way",
+        "class": "residential",
+        "coord": [
+          42.3333187,
+          -71.0978336
+        ]
+      },
+      {
+        "name": "Turquoise Way",
+        "class": "residential",
+        "coord": [
+          42.3333985,
+          -71.0977789
+        ]
+      },
+      {
+        "name": "Worthington Street",
+        "class": "tertiary",
+        "coord": [
+          42.3347576,
+          -71.1018622
+        ]
+      }
+    ],
+    "south huntington avenue": [
+      {
+        "name": "Colburn Street",
+        "class": "residential",
+        "coord": [
+          42.3307906,
+          -71.1115961
+        ]
+      },
+      {
+        "name": "Craftson Way",
+        "class": "residential",
+        "coord": [
+          42.3300757,
+          -71.111291
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3319539,
+          -71.1120787
+        ]
+      }
+    ],
+    "south whitney street": [
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3332075,
+          -71.1019736
+        ]
+      }
+    ],
+    "station street": [
+      {
+        "name": "Gurney Street",
+        "class": "residential",
+        "coord": [
+          42.3327978,
+          -71.0950816
+        ]
+      },
+      {
+        "name": "Halleck Street",
+        "class": "residential",
+        "coord": [
+          42.3327978,
+          -71.0950816
+        ]
+      },
+      {
+        "name": "Mindoro Street",
+        "class": "residential",
+        "coord": [
+          42.332606,
+          -71.0946433
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3332331,
+          -71.0961036
+        ]
+      }
+    ],
+    "stockwell street": [
+      {
+        "name": "Frawley Street",
+        "class": "residential",
+        "coord": [
+          42.332424,
+          -71.10794
+        ]
+      },
+      {
+        "name": "Mission Street",
+        "class": "residential",
+        "coord": [
+          42.332139,
+          -71.107253
+        ]
+      },
+      {
+        "name": "Wait Street",
+        "class": "residential",
+        "coord": [
+          42.331942,
+          -71.106503
+        ]
+      }
+    ],
+    "sunset street": [
+      {
+        "name": "Eldora Street",
+        "class": "residential",
+        "coord": [
+          42.3315126,
+          -71.1085136
+        ]
+      },
+      {
+        "name": "Hillside Street",
+        "class": "residential",
+        "coord": [
+          42.331855,
+          -71.1083524
+        ]
+      },
+      {
+        "name": "Parker Hill Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.330715,
+          -71.108901
+        ]
+      }
+    ],
+    "terrace street": [
+      {
+        "name": "Alleghany Street",
+        "class": "residential",
+        "coord": [
+          42.3296564,
+          -71.0974782
+        ]
+      },
+      {
+        "name": "Gore Street",
+        "class": "residential",
+        "coord": [
+          42.330779,
+          -71.096564
+        ]
+      },
+      {
+        "name": "Gurney Street",
+        "class": "residential",
+        "coord": [
+          42.3316519,
+          -71.0961378
+        ]
+      },
+      {
+        "name": "New Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.3285955,
+          -71.0981376
+        ]
+      },
+      {
+        "name": "New Heath Street",
+        "class": "residential",
+        "coord": [
+          42.3263585,
+          -71.0989074
+        ]
+      },
+      {
+        "name": "Oscar Street",
+        "class": "residential",
+        "coord": [
+          42.3301292,
+          -71.097081
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3316519,
+          -71.0961378
+        ]
+      }
+    ],
+    "torpie street": [
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3334575,
+          -71.1026688
+        ]
+      },
+      {
+        "name": "Worthington Street",
+        "class": "tertiary",
+        "coord": [
+          42.3334575,
+          -71.1026688
+        ]
+      }
+    ],
+    "tremont street": [
+      {
+        "name": "Burney Street",
+        "class": "residential",
+        "coord": [
+          42.332276,
+          -71.099319
+        ]
+      },
+      {
+        "name": "Calumet Street",
+        "class": "residential",
+        "coord": [
+          42.3340821,
+          -71.1048414
+        ]
+      },
+      {
+        "name": "Carmel Street",
+        "class": "residential",
+        "coord": [
+          42.3324859,
+          -71.1000407
+        ]
+      },
+      {
+        "name": "Faxon Street",
+        "class": "residential",
+        "coord": [
+          42.3318812,
+          -71.0977288
+        ]
+      },
+      {
+        "name": "Gurney Street",
+        "class": "residential",
+        "coord": [
+          42.3316519,
+          -71.0961378
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3340821,
+          -71.1048414
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3341392,
+          -71.1046536
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3317848,
+          -71.0971502
+        ]
+      },
+      {
+        "name": "Pontiac Street",
+        "class": "residential",
+        "coord": [
+          42.3326889,
+          -71.1005832
+        ]
+      },
+      {
+        "name": "Saint Alphonsus Street",
+        "class": "secondary",
+        "coord": [
+          42.3329762,
+          -71.1013195
+        ]
+      },
+      {
+        "name": "Sewall Street",
+        "class": "residential",
+        "coord": [
+          42.3319148,
+          -71.097892
+        ]
+      },
+      {
+        "name": "South Whitney Street",
+        "class": "residential",
+        "coord": [
+          42.3332075,
+          -71.1019736
+        ]
+      },
+      {
+        "name": "Terrace Street",
+        "class": "residential",
+        "coord": [
+          42.3316519,
+          -71.0961378
+        ]
+      },
+      {
+        "name": "Torpie Street",
+        "class": "residential",
+        "coord": [
+          42.3334575,
+          -71.1026688
+        ]
+      },
+      {
+        "name": "Wigglesworth Street",
+        "class": "residential",
+        "coord": [
+          42.333676,
+          -71.103327
+        ]
+      },
+      {
+        "name": "Worthington Street",
+        "class": "tertiary",
+        "coord": [
+          42.3334575,
+          -71.1026688
+        ]
+      }
+    ],
+    "turquoise way": [
+      {
+        "name": "Horadan Way",
+        "class": "residential",
+        "coord": [
+          42.3339913,
+          -71.0973446
+        ]
+      },
+      {
+        "name": "Horadan Way",
+        "class": "residential",
+        "coord": [
+          42.3339994,
+          -71.0973662
+        ]
+      },
+      {
+        "name": "McGreevey Way",
+        "class": "residential",
+        "coord": [
+          42.3346095,
+          -71.0969167
+        ]
+      },
+      {
+        "name": "Smith Street",
+        "class": "residential",
+        "coord": [
+          42.3333187,
+          -71.0978336
+        ]
+      },
+      {
+        "name": "Smith Street",
+        "class": "residential",
+        "coord": [
+          42.3333985,
+          -71.0977789
+        ]
+      }
+    ],
+    "vancouver street": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.33702,
+          -71.097117
+        ]
+      },
+      {
+        "name": "Ward Street",
+        "class": "residential",
+        "coord": [
+          42.3356948,
+          -71.0979459
+        ]
+      }
+    ],
+    "wait street": [
+      {
+        "name": "Hillside Street",
+        "class": "residential",
+        "coord": [
+          42.3314243,
+          -71.106712
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3334514,
+          -71.106223
+        ]
+      },
+      {
+        "name": "Pequot Street",
+        "class": "residential",
+        "coord": [
+          42.332568,
+          -71.106323
+        ]
+      },
+      {
+        "name": "Stockwell Street",
+        "class": "residential",
+        "coord": [
+          42.331942,
+          -71.106503
+        ]
+      }
+    ],
+    "walden street": [
+      {
+        "name": "Heath Street",
+        "class": "secondary",
+        "coord": [
+          42.3260976,
+          -71.1046187
+        ]
+      }
+    ],
+    "ward street": [
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.334786,
+          -71.095028
+        ]
+      },
+      {
+        "name": "Ponce Way",
+        "class": "residential",
+        "coord": [
+          42.335503,
+          -71.097175
+        ]
+      },
+      {
+        "name": "Saint Alphonsus Street",
+        "class": "secondary",
+        "coord": [
+          42.3360068,
+          -71.0992711
+        ]
+      },
+      {
+        "name": "Vancouver Street",
+        "class": "residential",
+        "coord": [
+          42.3356948,
+          -71.0979459
+        ]
+      }
+    ],
+    "wensley street": [
+      {
+        "name": "Bickford Avenue",
+        "class": "residential",
+        "coord": [
+          42.3273078,
+          -71.1025801
+        ]
+      },
+      {
+        "name": "Bucknam Street",
+        "class": "residential",
+        "coord": [
+          42.327438,
+          -71.1041792
+        ]
+      },
+      {
+        "name": "Heath Street Rotary",
+        "class": "secondary",
+        "coord": [
+          42.3264537,
+          -71.1003624
+        ]
+      }
+    ],
+    "wigglesworth street": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3349424,
+          -71.1025581
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.333676,
+          -71.103327
+        ]
+      }
+    ],
+    "worthington street": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3352966,
+          -71.1015374
+        ]
+      },
+      {
+        "name": "Smith Street",
+        "class": "residential",
+        "coord": [
+          42.3347576,
+          -71.1018622
+        ]
+      },
+      {
+        "name": "Torpie Street",
+        "class": "residential",
+        "coord": [
+          42.3334575,
+          -71.1026688
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "secondary",
+        "coord": [
+          42.3334575,
+          -71.1026688
+        ]
+      }
+    ]
+  }
+}

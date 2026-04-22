@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-roslindale",
+  "display_name": "Roslindale",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.2683563,
+    -71.1477793,
+    42.2981169,
+    -71.099632
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 177607,
+      "sha256": "1f597edaab56e66b366d2eb68d921ec3013fc9d38c4c9ad2fd71eb594ac069f4"
+    },
+    "hydrants.csv": {
+      "size_bytes": 228410,
+      "sha256": "79dd468f3cda816f9e282a3cb4d29ce8f8b3ff16e67ad37d9c32e0153ed2bfeb"
+    }
+  }
+}

@@ -1,0 +1,7667 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-mattapan",
+  "generated_at": "2026-04-22T05:26:56Z",
+  "streets": {
+    "adams street": [
+      {
+        "name": "Dorchester Avenue",
+        "class": "primary",
+        "coord": [
+          42.2722605,
+          -71.0680553
+        ]
+      },
+      {
+        "name": "Dorchester Avenue",
+        "class": "primary",
+        "coord": [
+          42.2722633,
+          -71.0679446
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.2721785,
+          -71.0680518
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.2722605,
+          -71.0680553
+        ]
+      }
+    ],
+    "adirondack place": [
+      {
+        "name": "Dorchester Avenue",
+        "class": "primary",
+        "coord": [
+          42.2728988,
+          -71.0678856
+        ]
+      }
+    ],
+    "alabama street": [
+      {
+        "name": "Almont Street",
+        "class": "tertiary",
+        "coord": [
+          42.2792204,
+          -71.0983483
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2717983,
+          -71.1064252
+        ]
+      },
+      {
+        "name": "Currier Street",
+        "class": "residential",
+        "coord": [
+          42.277472,
+          -71.10063
+        ]
+      },
+      {
+        "name": "Elene Street",
+        "class": "residential",
+        "coord": [
+          42.278784,
+          -71.099072
+        ]
+      },
+      {
+        "name": "Messinger Street",
+        "class": "residential",
+        "coord": [
+          42.2753103,
+          -71.1028652
+        ]
+      }
+    ],
+    "almont street": [
+      {
+        "name": "Alabama Street",
+        "class": "residential",
+        "coord": [
+          42.2792204,
+          -71.0983483
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2743315,
+          -71.0936482
+        ]
+      },
+      {
+        "name": "Colorado Street",
+        "class": "residential",
+        "coord": [
+          42.2783709,
+          -71.0982858
+        ]
+      },
+      {
+        "name": "Colorado Street",
+        "class": "residential",
+        "coord": [
+          42.2785336,
+          -71.0982995
+        ]
+      },
+      {
+        "name": "Itasca Street",
+        "class": "residential",
+        "coord": [
+          42.277644,
+          -71.098124
+        ]
+      },
+      {
+        "name": "Mattapan Street",
+        "class": "residential",
+        "coord": [
+          42.280246,
+          -71.098228
+        ]
+      },
+      {
+        "name": "Orlando Street",
+        "class": "residential",
+        "coord": [
+          42.276332,
+          -71.097277
+        ]
+      },
+      {
+        "name": "Prairie Street",
+        "class": "residential",
+        "coord": [
+          42.2808735,
+          -71.0980848
+        ]
+      },
+      {
+        "name": "Savannah Avenue",
+        "class": "residential",
+        "coord": [
+          42.276951,
+          -71.097799
+        ]
+      },
+      {
+        "name": "Walk Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.2812414,
+          -71.0979125
+        ]
+      }
+    ],
+    "american legion highway": [
+      {
+        "name": "Walk Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.2876665,
+          -71.1066654
+        ]
+      },
+      {
+        "name": "Walk Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.2877486,
+          -71.1067741
+        ]
+      }
+    ],
+    "arborcrest terrace": [
+      {
+        "name": "Gladeside Avenue",
+        "class": "residential",
+        "coord": [
+          42.272775,
+          -71.087054
+        ]
+      },
+      {
+        "name": "Ridgeview Avenue",
+        "class": "residential",
+        "coord": [
+          42.272137,
+          -71.085538
+        ]
+      }
+    ],
+    "astoria street": [
+      {
+        "name": "Elizabeth Street",
+        "class": "residential",
+        "coord": [
+          42.2796302,
+          -71.0874786
+        ]
+      },
+      {
+        "name": "Flint Street",
+        "class": "residential",
+        "coord": [
+          42.280771,
+          -71.086337
+        ]
+      }
+    ],
+    "avondale street": [
+      {
+        "name": "Mother Julia Road",
+        "class": "residential",
+        "coord": [
+          42.274827,
+          -71.068854
+        ]
+      },
+      {
+        "name": "Richmond Street",
+        "class": "residential",
+        "coord": [
+          42.273692,
+          -71.069147
+        ]
+      },
+      {
+        "name": "Saint Gregory Street",
+        "class": "residential",
+        "coord": [
+          42.275735,
+          -71.068568
+        ]
+      }
+    ],
+    "babson street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2700796,
+          -71.0936042
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2701249,
+          -71.0937635
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.270167,
+          -71.0936012
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2769947,
+          -71.0933969
+        ]
+      },
+      {
+        "name": "Cookson Terrace",
+        "class": "residential",
+        "coord": [
+          42.272702,
+          -71.09193
+        ]
+      },
+      {
+        "name": "Crossman Street",
+        "class": "residential",
+        "coord": [
+          42.274056,
+          -71.092036
+        ]
+      },
+      {
+        "name": "Delhi Street",
+        "class": "residential",
+        "coord": [
+          42.274056,
+          -71.092036
+        ]
+      },
+      {
+        "name": "Fremont Street",
+        "class": "residential",
+        "coord": [
+          42.2712133,
+          -71.0924105
+        ]
+      },
+      {
+        "name": "Mildred Avenue",
+        "class": "residential",
+        "coord": [
+          42.275527,
+          -71.092366
+        ]
+      },
+      {
+        "name": "Norfolk Street",
+        "class": "secondary",
+        "coord": [
+          42.2765006,
+          -71.0926671
+        ]
+      }
+    ],
+    "baird street": [
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2859197,
+          -71.0933054
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2859427,
+          -71.0931944
+        ]
+      }
+    ],
+    "banfield avenue": [
+      {
+        "name": "Wooddale Avenue",
+        "class": "residential",
+        "coord": [
+          42.276341,
+          -71.088082
+        ]
+      }
+    ],
+    "bismarck street": [
+      {
+        "name": "Brockton Street",
+        "class": "residential",
+        "coord": [
+          42.2703414,
+          -71.0995596
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2703414,
+          -71.0995596
+        ]
+      },
+      {
+        "name": "Fairlawn Avenue",
+        "class": "residential",
+        "coord": [
+          42.2693422,
+          -71.0992756
+        ]
+      }
+    ],
+    "blake street": [
+      {
+        "name": "Greenfield Road",
+        "class": "residential",
+        "coord": [
+          42.2695399,
+          -71.104375
+        ]
+      },
+      {
+        "name": "Ridlon Road",
+        "class": "residential",
+        "coord": [
+          42.268424,
+          -71.105321
+        ]
+      },
+      {
+        "name": "Rugby Road",
+        "class": "residential",
+        "coord": [
+          42.2695399,
+          -71.104375
+        ]
+      }
+    ],
+    "blue hill avenue": [
+      {
+        "name": "Almont Street",
+        "class": "tertiary",
+        "coord": [
+          42.2743315,
+          -71.0936482
+        ]
+      },
+      {
+        "name": "Babson Street",
+        "class": "secondary",
+        "coord": [
+          42.2700796,
+          -71.0936042
+        ]
+      },
+      {
+        "name": "Babson Street",
+        "class": "secondary",
+        "coord": [
+          42.2701249,
+          -71.0937635
+        ]
+      },
+      {
+        "name": "Babson Street",
+        "class": "secondary",
+        "coord": [
+          42.270167,
+          -71.0936012
+        ]
+      },
+      {
+        "name": "Babson Street",
+        "class": "secondary",
+        "coord": [
+          42.2769947,
+          -71.0933969
+        ]
+      },
+      {
+        "name": "Blue Hills Parkway",
+        "class": "trunk",
+        "coord": [
+          42.2672259,
+          -71.0939322
+        ]
+      },
+      {
+        "name": "Blue Hills Parkway",
+        "class": "trunk",
+        "coord": [
+          42.2672502,
+          -71.0937453
+        ]
+      },
+      {
+        "name": "Clarkwood Street",
+        "class": "residential",
+        "coord": [
+          42.2808967,
+          -71.0924894
+        ]
+      },
+      {
+        "name": "Clarkwood Street",
+        "class": "residential",
+        "coord": [
+          42.2809333,
+          -71.0926479
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2672259,
+          -71.0939322
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2672502,
+          -71.0937453
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2674078,
+          -71.0939126
+        ]
+      },
+      {
+        "name": "Deering Road",
+        "class": "residential",
+        "coord": [
+          42.2835589,
+          -71.0917745
+        ]
+      },
+      {
+        "name": "Evelyn Street",
+        "class": "residential",
+        "coord": [
+          42.280127,
+          -71.0927458
+        ]
+      },
+      {
+        "name": "Fairway Street",
+        "class": "residential",
+        "coord": [
+          42.2686875,
+          -71.0936701
+        ]
+      },
+      {
+        "name": "Fairway Street",
+        "class": "residential",
+        "coord": [
+          42.2686904,
+          -71.0938228
+        ]
+      },
+      {
+        "name": "Fessenden Street",
+        "class": "residential",
+        "coord": [
+          42.2792956,
+          -71.0930221
+        ]
+      },
+      {
+        "name": "Fremont Street",
+        "class": "residential",
+        "coord": [
+          42.2718567,
+          -71.0935555
+        ]
+      },
+      {
+        "name": "Goodale Road",
+        "class": "residential",
+        "coord": [
+          42.2825786,
+          -71.0921028
+        ]
+      },
+      {
+        "name": "Hazleton Street",
+        "class": "residential",
+        "coord": [
+          42.2784204,
+          -71.0934651
+        ]
+      },
+      {
+        "name": "Hiawatha Road",
+        "class": "residential",
+        "coord": [
+          42.2764068,
+          -71.0935911
+        ]
+      },
+      {
+        "name": "Hosmer Street",
+        "class": "residential",
+        "coord": [
+          42.2816591,
+          -71.0922345
+        ]
+      },
+      {
+        "name": "Landor Road",
+        "class": "residential",
+        "coord": [
+          42.2832699,
+          -71.0917059
+        ]
+      },
+      {
+        "name": "Mattapan Street",
+        "class": "residential",
+        "coord": [
+          42.2765204,
+          -71.0935881
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2842415,
+          -71.0913875
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2842897,
+          -71.0915305
+        ]
+      },
+      {
+        "name": "Norfolk Street",
+        "class": "secondary",
+        "coord": [
+          42.2761012,
+          -71.0935992
+        ]
+      },
+      {
+        "name": "Norfolk Street",
+        "class": "secondary",
+        "coord": [
+          42.2761176,
+          -71.0934239
+        ]
+      },
+      {
+        "name": "Regis Road",
+        "class": "residential",
+        "coord": [
+          42.271695,
+          -71.0937427
+        ]
+      },
+      {
+        "name": "Rexford Street",
+        "class": "residential",
+        "coord": [
+          42.2711686,
+          -71.0937581
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2672502,
+          -71.0937453
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2676257,
+          -71.0938892
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2676884,
+          -71.0937268
+        ]
+      },
+      {
+        "name": "Tennis Road",
+        "class": "residential",
+        "coord": [
+          42.2752273,
+          -71.0936234
+        ]
+      },
+      {
+        "name": "Walk Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.2771066,
+          -71.0933944
+        ]
+      },
+      {
+        "name": "Walk Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.277234,
+          -71.0935692
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.2792956,
+          -71.0930221
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.2794245,
+          -71.0931485
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.2796053,
+          -71.0930897
+        ]
+      },
+      {
+        "name": "Wilmore Street",
+        "class": "residential",
+        "coord": [
+          42.2784687,
+          -71.093286
+        ]
+      },
+      {
+        "name": "Woodhaven Street",
+        "class": "tertiary",
+        "coord": [
+          42.2732625,
+          -71.093688
+        ]
+      },
+      {
+        "name": "Woodhaven Street",
+        "class": "tertiary",
+        "coord": [
+          42.273307,
+          -71.093509
+        ]
+      },
+      {
+        "name": "Woodhaven Street",
+        "class": "tertiary",
+        "coord": [
+          42.2733801,
+          -71.0936792
+        ]
+      },
+      {
+        "name": "Woolson Street",
+        "class": "residential",
+        "coord": [
+          42.2824066,
+          -71.0919879
+        ]
+      }
+    ],
+    "blue hills parkway": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2672259,
+          -71.0939322
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2672502,
+          -71.0937453
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2672259,
+          -71.0939322
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2672502,
+          -71.0937453
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2672502,
+          -71.0937453
+        ]
+      }
+    ],
+    "blue jay circle": [
+      {
+        "name": "Catbird Court",
+        "class": "residential",
+        "coord": [
+          42.2886038,
+          -71.0952301
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2881511,
+          -71.0952346
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2886038,
+          -71.0952301
+        ]
+      }
+    ],
+    "bluefield terrace": [
+      {
+        "name": "Gladeside Avenue",
+        "class": "residential",
+        "coord": [
+          42.273563,
+          -71.086666
+        ]
+      },
+      {
+        "name": "Ridgeview Avenue",
+        "class": "residential",
+        "coord": [
+          42.272675,
+          -71.084774
+        ]
+      }
+    ],
+    "bradford road": [
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2716552,
+          -71.0778893
+        ]
+      }
+    ],
+    "briarcliff terrace": [
+      {
+        "name": "Gladeside Avenue",
+        "class": "residential",
+        "coord": [
+          42.271054,
+          -71.0873619
+        ]
+      },
+      {
+        "name": "Ridgeview Avenue",
+        "class": "residential",
+        "coord": [
+          42.2715109,
+          -71.0856783
+        ]
+      }
+    ],
+    "brockton street": [
+      {
+        "name": "Bismarck Street",
+        "class": "residential",
+        "coord": [
+          42.2703414,
+          -71.0995596
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2703414,
+          -71.0995596
+        ]
+      },
+      {
+        "name": "Messinger Street",
+        "class": "residential",
+        "coord": [
+          42.2723664,
+          -71.0976492
+        ]
+      }
+    ],
+    "burmah street": [
+      {
+        "name": "Edgewater Drive",
+        "class": "residential",
+        "coord": [
+          42.2639069,
+          -71.0973962
+        ]
+      }
+    ],
+    "caddy road": [
+      {
+        "name": "Monson Street",
+        "class": "residential",
+        "coord": [
+          42.272492,
+          -71.073586
+        ]
+      },
+      {
+        "name": "Sanford Street",
+        "class": "residential",
+        "coord": [
+          42.273592,
+          -71.073995
+        ]
+      }
+    ],
+    "canaan street": [
+      {
+        "name": "Hebron Street",
+        "class": "residential",
+        "coord": [
+          42.274554,
+          -71.105805
+        ]
+      },
+      {
+        "name": "Itasca Street",
+        "class": "residential",
+        "coord": [
+          42.2730759,
+          -71.1029001
+        ]
+      },
+      {
+        "name": "Livermore Street",
+        "class": "residential",
+        "coord": [
+          42.274949,
+          -71.106531
+        ]
+      },
+      {
+        "name": "Savannah Avenue",
+        "class": "residential",
+        "coord": [
+          42.2726685,
+          -71.1021523
+        ]
+      }
+    ],
+    "canterbury street": [
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2928441,
+          -71.0963068
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2928758,
+          -71.0961738
+        ]
+      },
+      {
+        "name": "Walk Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.288616,
+          -71.107947
+        ]
+      }
+    ],
+    "caryll street": [
+      {
+        "name": "Maryknoll Street",
+        "class": "tertiary",
+        "coord": [
+          42.27516,
+          -71.078163
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.276856,
+          -71.07646
+        ]
+      }
+    ],
+    "catbird court": [
+      {
+        "name": "Blue Jay Circle",
+        "class": "residential",
+        "coord": [
+          42.2886038,
+          -71.0952301
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2876197,
+          -71.0949274
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2886038,
+          -71.0952301
+        ]
+      }
+    ],
+    "cedar street": [
+      {
+        "name": "Manchester Street",
+        "class": "residential",
+        "coord": [
+          42.274119,
+          -71.075856
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.27138,
+          -71.075006
+        ]
+      },
+      {
+        "name": "Sanford Street",
+        "class": "residential",
+        "coord": [
+          42.273342,
+          -71.075587
+        ]
+      }
+    ],
+    "central avenue": [
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2713654,
+          -71.0735969
+        ]
+      }
+    ],
+    "charlotte web way": [
+      {
+        "name": "Manchester Street",
+        "class": "residential",
+        "coord": [
+          42.2744364,
+          -71.0742755
+        ]
+      }
+    ],
+    "chester park": [
+      {
+        "name": "Regis Road",
+        "class": "residential",
+        "coord": [
+          42.2716987,
+          -71.0946358
+        ]
+      }
+    ],
+    "clancy road": [
+      {
+        "name": "Pleasant Hill Avenue",
+        "class": "residential",
+        "coord": [
+          42.277364,
+          -71.072533
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.277984,
+          -71.069494
+        ]
+      }
+    ],
+    "clarkwood street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2808967,
+          -71.0924894
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2809333,
+          -71.0926479
+        ]
+      },
+      {
+        "name": "Norfolk Street",
+        "class": "secondary",
+        "coord": [
+          42.279375,
+          -71.089163
+        ]
+      }
+    ],
+    "clearwater drive": [
+      {
+        "name": "Maryknoll Street",
+        "class": "tertiary",
+        "coord": [
+          42.274471,
+          -71.077886
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.276264,
+          -71.074946
+        ]
+      },
+      {
+        "name": "Paula Road",
+        "class": "residential",
+        "coord": [
+          42.2748,
+          -71.076169
+        ]
+      }
+    ],
+    "colorado street": [
+      {
+        "name": "Almont Street",
+        "class": "tertiary",
+        "coord": [
+          42.2783709,
+          -71.0982858
+        ]
+      },
+      {
+        "name": "Almont Street",
+        "class": "tertiary",
+        "coord": [
+          42.2785336,
+          -71.0982995
+        ]
+      },
+      {
+        "name": "Currier Street",
+        "class": "residential",
+        "coord": [
+          42.2770812,
+          -71.0999199
+        ]
+      },
+      {
+        "name": "Mattapan Street",
+        "class": "residential",
+        "coord": [
+          42.279179,
+          -71.097241
+        ]
+      },
+      {
+        "name": "Messinger Street",
+        "class": "residential",
+        "coord": [
+          42.2749408,
+          -71.1021118
+        ]
+      }
+    ],
+    "constitution road": [
+      {
+        "name": "Dania Street",
+        "class": "residential",
+        "coord": [
+          42.272124,
+          -71.088888
+        ]
+      },
+      {
+        "name": "Faunce Road",
+        "class": "residential",
+        "coord": [
+          42.272345,
+          -71.08937
+        ]
+      }
+    ],
+    "cookson terrace": [
+      {
+        "name": "Babson Street",
+        "class": "secondary",
+        "coord": [
+          42.272702,
+          -71.09193
+        ]
+      },
+      {
+        "name": "Faunce Road",
+        "class": "residential",
+        "coord": [
+          42.2718548,
+          -71.0901608
+        ]
+      },
+      {
+        "name": "Merola Park",
+        "class": "residential",
+        "coord": [
+          42.2721529,
+          -71.0907362
+        ]
+      }
+    ],
+    "corman road": [
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2708143,
+          -71.1024634
+        ]
+      },
+      {
+        "name": "Hallowell Street",
+        "class": "residential",
+        "coord": [
+          42.271841,
+          -71.100565
+        ]
+      },
+      {
+        "name": "Pitts Way",
+        "class": "residential",
+        "coord": [
+          42.2713011,
+          -71.1022014
+        ]
+      }
+    ],
+    "countryside drive": [
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.277027,
+          -71.076872
+        ]
+      }
+    ],
+    "courtland road": [
+      {
+        "name": "Greendale Road",
+        "class": "residential",
+        "coord": [
+          42.286159,
+          -71.095391
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.2861748,
+          -71.0959823
+        ]
+      },
+      {
+        "name": "Havelock Street",
+        "class": "residential",
+        "coord": [
+          42.2865078,
+          -71.0934222
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2864869,
+          -71.0935305
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2865078,
+          -71.0934222
+        ]
+      }
+    ],
+    "cragmere terrace": [
+      {
+        "name": "Gladeside Avenue",
+        "class": "residential",
+        "coord": [
+          42.274086,
+          -71.086217
+        ]
+      },
+      {
+        "name": "Ridgeview Avenue",
+        "class": "residential",
+        "coord": [
+          42.273464,
+          -71.084881
+        ]
+      }
+    ],
+    "crossman street": [
+      {
+        "name": "Babson Street",
+        "class": "secondary",
+        "coord": [
+          42.274056,
+          -71.092036
+        ]
+      },
+      {
+        "name": "Delhi Street",
+        "class": "residential",
+        "coord": [
+          42.274056,
+          -71.092036
+        ]
+      },
+      {
+        "name": "Faunce Road",
+        "class": "residential",
+        "coord": [
+          42.273006,
+          -71.089885
+        ]
+      },
+      {
+        "name": "Merola Park",
+        "class": "residential",
+        "coord": [
+          42.273006,
+          -71.089885
+        ]
+      },
+      {
+        "name": "Violet Street",
+        "class": "residential",
+        "coord": [
+          42.273524,
+          -71.090521
+        ]
+      },
+      {
+        "name": "West Selden Street",
+        "class": "residential",
+        "coord": [
+          42.273006,
+          -71.089885
+        ]
+      }
+    ],
+    "croydon street": [
+      {
+        "name": "Itasca Street",
+        "class": "residential",
+        "coord": [
+          42.271842,
+          -71.104174
+        ]
+      },
+      {
+        "name": "Kennebec Street",
+        "class": "residential",
+        "coord": [
+          42.2729796,
+          -71.1063449
+        ]
+      }
+    ],
+    "culbert street": [
+      {
+        "name": "Woodhaven Street",
+        "class": "tertiary",
+        "coord": [
+          42.273288,
+          -71.09395
+        ]
+      }
+    ],
+    "cummins highway": [
+      {
+        "name": "Alabama Street",
+        "class": "residential",
+        "coord": [
+          42.2717983,
+          -71.1064252
+        ]
+      },
+      {
+        "name": "Bismarck Street",
+        "class": "residential",
+        "coord": [
+          42.2703414,
+          -71.0995596
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2672259,
+          -71.0939322
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2672502,
+          -71.0937453
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2674078,
+          -71.0939126
+        ]
+      },
+      {
+        "name": "Blue Hills Parkway",
+        "class": "trunk",
+        "coord": [
+          42.2672259,
+          -71.0939322
+        ]
+      },
+      {
+        "name": "Blue Hills Parkway",
+        "class": "trunk",
+        "coord": [
+          42.2672502,
+          -71.0937453
+        ]
+      },
+      {
+        "name": "Brockton Street",
+        "class": "residential",
+        "coord": [
+          42.2703414,
+          -71.0995596
+        ]
+      },
+      {
+        "name": "Corman Road",
+        "class": "residential",
+        "coord": [
+          42.2708143,
+          -71.1024634
+        ]
+      },
+      {
+        "name": "Fairway Street",
+        "class": "residential",
+        "coord": [
+          42.2683644,
+          -71.0953702
+        ]
+      },
+      {
+        "name": "Favre Street",
+        "class": "residential",
+        "coord": [
+          42.2704755,
+          -71.1006544
+        ]
+      },
+      {
+        "name": "Greenfield Road",
+        "class": "residential",
+        "coord": [
+          42.2716248,
+          -71.1065277
+        ]
+      },
+      {
+        "name": "Hallowell Street",
+        "class": "residential",
+        "coord": [
+          42.2705998,
+          -71.1014723
+        ]
+      },
+      {
+        "name": "Harmon Street",
+        "class": "residential",
+        "coord": [
+          42.2705998,
+          -71.1014723
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.2743425,
+          -71.1091908
+        ]
+      },
+      {
+        "name": "Hebron Street",
+        "class": "residential",
+        "coord": [
+          42.2727787,
+          -71.1076969
+        ]
+      },
+      {
+        "name": "Hollingsworth Street",
+        "class": "residential",
+        "coord": [
+          42.2697787,
+          -71.097298
+        ]
+      },
+      {
+        "name": "Itasca Street",
+        "class": "residential",
+        "coord": [
+          42.2713363,
+          -71.104752
+        ]
+      },
+      {
+        "name": "Kennebec Street",
+        "class": "residential",
+        "coord": [
+          42.2722005,
+          -71.1071323
+        ]
+      },
+      {
+        "name": "Livermore Street",
+        "class": "residential",
+        "coord": [
+          42.2735321,
+          -71.1084236
+        ]
+      },
+      {
+        "name": "Oakland Court",
+        "class": "residential",
+        "coord": [
+          42.2677215,
+          -71.0944116
+        ]
+      },
+      {
+        "name": "Regis Road",
+        "class": "residential",
+        "coord": [
+          42.2695429,
+          -71.0969545
+        ]
+      },
+      {
+        "name": "Rexford Street",
+        "class": "residential",
+        "coord": [
+          42.268982,
+          -71.0962012
+        ]
+      },
+      {
+        "name": "Richmere Road",
+        "class": "residential",
+        "coord": [
+          42.2704755,
+          -71.1006544
+        ]
+      },
+      {
+        "name": "Ridlon Road",
+        "class": "residential",
+        "coord": [
+          42.2713363,
+          -71.104752
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2672502,
+          -71.0937453
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2673686,
+          -71.0940581
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.267484,
+          -71.0942321
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2675211,
+          -71.0941392
+        ]
+      },
+      {
+        "name": "Rockdale Street",
+        "class": "residential",
+        "coord": [
+          42.2688577,
+          -71.0960336
+        ]
+      },
+      {
+        "name": "Rockingham Road",
+        "class": "residential",
+        "coord": [
+          42.2707752,
+          -71.1022918
+        ]
+      },
+      {
+        "name": "Rosewood Street",
+        "class": "residential",
+        "coord": [
+          42.2693315,
+          -71.0966705
+        ]
+      },
+      {
+        "name": "Rugby Road",
+        "class": "residential",
+        "coord": [
+          42.2710193,
+          -71.1033565
+        ]
+      },
+      {
+        "name": "Savannah Avenue",
+        "class": "residential",
+        "coord": [
+          42.2710193,
+          -71.1033565
+        ]
+      },
+      {
+        "name": "Weybosset Street",
+        "class": "residential",
+        "coord": [
+          42.2716716,
+          -71.1066179
+        ]
+      },
+      {
+        "name": "Wood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.2743425,
+          -71.1091908
+        ]
+      },
+      {
+        "name": "Woodhaven Street",
+        "class": "tertiary",
+        "coord": [
+          42.2702112,
+          -71.0982684
+        ]
+      }
+    ],
+    "currier street": [
+      {
+        "name": "Alabama Street",
+        "class": "residential",
+        "coord": [
+          42.277472,
+          -71.10063
+        ]
+      },
+      {
+        "name": "Colorado Street",
+        "class": "residential",
+        "coord": [
+          42.2770812,
+          -71.0999199
+        ]
+      },
+      {
+        "name": "Itasca Street",
+        "class": "residential",
+        "coord": [
+          42.276678,
+          -71.099239
+        ]
+      }
+    ],
+    "dania street": [
+      {
+        "name": "Constitution Road",
+        "class": "residential",
+        "coord": [
+          42.272124,
+          -71.088888
+        ]
+      },
+      {
+        "name": "Dania Terrace",
+        "class": "residential",
+        "coord": [
+          42.272896,
+          -71.08903
+        ]
+      },
+      {
+        "name": "Faunce Road",
+        "class": "residential",
+        "coord": [
+          42.272644,
+          -71.089424
+        ]
+      },
+      {
+        "name": "Jamestown Terrace",
+        "class": "residential",
+        "coord": [
+          42.2725404,
+          -71.0885215
+        ]
+      },
+      {
+        "name": "Viking Terrace",
+        "class": "residential",
+        "coord": [
+          42.271693,
+          -71.089246
+        ]
+      }
+    ],
+    "dania terrace": [
+      {
+        "name": "Dania Street",
+        "class": "residential",
+        "coord": [
+          42.272896,
+          -71.08903
+        ]
+      }
+    ],
+    "deering road": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2835589,
+          -71.0917745
+        ]
+      },
+      {
+        "name": "Egret Way",
+        "class": "residential",
+        "coord": [
+          42.2863279,
+          -71.097783
+        ]
+      },
+      {
+        "name": "Falcon Lane",
+        "class": "residential",
+        "coord": [
+          42.28601,
+          -71.0967318
+        ]
+      },
+      {
+        "name": "Goldfinch Court",
+        "class": "residential",
+        "coord": [
+          42.28671,
+          -71.097969
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.2858068,
+          -71.0963258
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.284777,
+          -71.094318
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.28671,
+          -71.097969
+        ]
+      },
+      {
+        "name": "Westmore Road",
+        "class": "residential",
+        "coord": [
+          42.285271,
+          -71.095276
+        ]
+      }
+    ],
+    "delhi street": [
+      {
+        "name": "Babson Street",
+        "class": "secondary",
+        "coord": [
+          42.274056,
+          -71.092036
+        ]
+      },
+      {
+        "name": "Crossman Street",
+        "class": "residential",
+        "coord": [
+          42.274056,
+          -71.092036
+        ]
+      },
+      {
+        "name": "French Street",
+        "class": "residential",
+        "coord": [
+          42.274772,
+          -71.090964
+        ]
+      },
+      {
+        "name": "Halborn Street",
+        "class": "residential",
+        "coord": [
+          42.27583,
+          -71.089864
+        ]
+      },
+      {
+        "name": "Rich Street",
+        "class": "residential",
+        "coord": [
+          42.276283,
+          -71.089394
+        ]
+      },
+      {
+        "name": "Violet Street",
+        "class": "residential",
+        "coord": [
+          42.275359,
+          -71.090351
+        ]
+      },
+      {
+        "name": "Wooddale Avenue",
+        "class": "residential",
+        "coord": [
+          42.276761,
+          -71.088931
+        ]
+      }
+    ],
+    "delnore place": [
+      {
+        "name": "Fremont Street",
+        "class": "residential",
+        "coord": [
+          42.2704781,
+          -71.0910356
+        ]
+      }
+    ],
+    "desmond road": [
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.271464,
+          -71.079711
+        ]
+      },
+      {
+        "name": "Riverdale Road",
+        "class": "residential",
+        "coord": [
+          42.270521,
+          -71.0793744
+        ]
+      }
+    ],
+    "doctor mary moore beatty circle": [
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.271632,
+          -71.078879
+        ]
+      }
+    ],
+    "donwood terrace": [
+      {
+        "name": "Gladeside Avenue",
+        "class": "residential",
+        "coord": [
+          42.2746948,
+          -71.0857078
+        ]
+      },
+      {
+        "name": "Ridgeview Avenue",
+        "class": "residential",
+        "coord": [
+          42.2740028,
+          -71.0844575
+        ]
+      }
+    ],
+    "doone avenue": [
+      {
+        "name": "Glenhill Road",
+        "class": "residential",
+        "coord": [
+          42.277918,
+          -71.082206
+        ]
+      },
+      {
+        "name": "Lorna Road",
+        "class": "residential",
+        "coord": [
+          42.278561,
+          -71.083546
+        ]
+      },
+      {
+        "name": "Stow Road",
+        "class": "residential",
+        "coord": [
+          42.278223,
+          -71.082845
+        ]
+      }
+    ],
+    "dorchester avenue": [
+      {
+        "name": "Adams Street",
+        "class": "primary",
+        "coord": [
+          42.2722605,
+          -71.0680553
+        ]
+      },
+      {
+        "name": "Adams Street",
+        "class": "secondary",
+        "coord": [
+          42.2722633,
+          -71.0679446
+        ]
+      },
+      {
+        "name": "Adirondack Place",
+        "class": "residential",
+        "coord": [
+          42.2728988,
+          -71.0678856
+        ]
+      },
+      {
+        "name": "Gallivan Boulevard",
+        "class": "trunk",
+        "coord": [
+          42.2799178,
+          -71.0659366
+        ]
+      },
+      {
+        "name": "Mother Julia Road",
+        "class": "residential",
+        "coord": [
+          42.2745909,
+          -71.06744
+        ]
+      },
+      {
+        "name": "Richmond Street",
+        "class": "residential",
+        "coord": [
+          42.2738985,
+          -71.0676326
+        ]
+      },
+      {
+        "name": "Saint Gregory Street",
+        "class": "residential",
+        "coord": [
+          42.2755182,
+          -71.0671763
+        ]
+      },
+      {
+        "name": "Valley Road",
+        "class": "residential",
+        "coord": [
+          42.277904,
+          -71.066503
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.2722605,
+          -71.0680553
+        ]
+      }
+    ],
+    "driscoll drive": [
+      {
+        "name": "Gallivan Boulevard",
+        "class": "trunk",
+        "coord": [
+          42.2787556,
+          -71.0696717
+        ]
+      }
+    ],
+    "druid street": [
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.276302,
+          -71.0750433
+        ]
+      }
+    ],
+    "duke street": [
+      {
+        "name": "Ormond Street",
+        "class": "residential",
+        "coord": [
+          42.281589,
+          -71.093465
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.281471,
+          -71.095726
+        ]
+      }
+    ],
+    "duxbury road": [
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.271386,
+          -71.080563
+        ]
+      }
+    ],
+    "edgewater drive": [
+      {
+        "name": "Burmah Street",
+        "class": "residential",
+        "coord": [
+          42.2639069,
+          -71.0973962
+        ]
+      },
+      {
+        "name": "Malta Street",
+        "class": "residential",
+        "coord": [
+          42.2645804,
+          -71.097025
+        ]
+      },
+      {
+        "name": "Mattakeeset Street",
+        "class": "residential",
+        "coord": [
+          42.2631938,
+          -71.0980804
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2669283,
+          -71.0953275
+        ]
+      },
+      {
+        "name": "Tesla Street",
+        "class": "residential",
+        "coord": [
+          42.2656875,
+          -71.0960026
+        ]
+      },
+      {
+        "name": "Topalian Street",
+        "class": "residential",
+        "coord": [
+          42.2651364,
+          -71.0965564
+        ]
+      }
+    ],
+    "egret way": [
+      {
+        "name": "Deering Road",
+        "class": "residential",
+        "coord": [
+          42.2863279,
+          -71.097783
+        ]
+      },
+      {
+        "name": "Finch Street",
+        "class": "residential",
+        "coord": [
+          42.2867482,
+          -71.0990228
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2867482,
+          -71.0990228
+        ]
+      }
+    ],
+    "elene street": [
+      {
+        "name": "Alabama Street",
+        "class": "residential",
+        "coord": [
+          42.278784,
+          -71.099072
+        ]
+      },
+      {
+        "name": "Wabash Street",
+        "class": "residential",
+        "coord": [
+          42.279119,
+          -71.099503
+        ]
+      }
+    ],
+    "elizabeth street": [
+      {
+        "name": "Astoria Street",
+        "class": "residential",
+        "coord": [
+          42.2796302,
+          -71.0874786
+        ]
+      },
+      {
+        "name": "Norfolk Street",
+        "class": "secondary",
+        "coord": [
+          42.280096,
+          -71.088454
+        ]
+      },
+      {
+        "name": "Peyton Place",
+        "class": "residential",
+        "coord": [
+          42.2798663,
+          -71.0879859
+        ]
+      }
+    ],
+    "ellison avenue": [
+      {
+        "name": "Gallivan Boulevard",
+        "class": "trunk",
+        "coord": [
+          42.2780644,
+          -71.073698
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.275599,
+          -71.073238
+        ]
+      }
+    ],
+    "errol street": [
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.284363,
+          -71.09772
+        ]
+      },
+      {
+        "name": "Westmore Road",
+        "class": "residential",
+        "coord": [
+          42.283971,
+          -71.096933
+        ]
+      }
+    ],
+    "estella street": [
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.2867806,
+          -71.0953942
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2870263,
+          -71.0937428
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2870937,
+          -71.0936488
+        ]
+      }
+    ],
+    "evans street": [
+      {
+        "name": "Henrici Street",
+        "class": "residential",
+        "coord": [
+          42.2789444,
+          -71.0851784
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2808039,
+          -71.0844453
+        ]
+      },
+      {
+        "name": "Morton Village Drive",
+        "class": "residential",
+        "coord": [
+          42.2782935,
+          -71.0858465
+        ]
+      }
+    ],
+    "evelyn street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.280127,
+          -71.0927458
+        ]
+      },
+      {
+        "name": "Norfolk Street",
+        "class": "secondary",
+        "coord": [
+          42.278583,
+          -71.089939
+        ]
+      }
+    ],
+    "fairlawn avenue": [
+      {
+        "name": "Bismarck Street",
+        "class": "residential",
+        "coord": [
+          42.2693422,
+          -71.0992756
+        ]
+      },
+      {
+        "name": "Greenfield Road",
+        "class": "residential",
+        "coord": [
+          42.2671881,
+          -71.1016562
+        ]
+      }
+    ],
+    "fairway street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2686875,
+          -71.0936701
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2686904,
+          -71.0938228
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2683644,
+          -71.0953702
+        ]
+      }
+    ],
+    "falcon lane": [
+      {
+        "name": "Deering Road",
+        "class": "residential",
+        "coord": [
+          42.28601,
+          -71.0967318
+        ]
+      },
+      {
+        "name": "Oriole Drive",
+        "class": "residential",
+        "coord": [
+          42.2876797,
+          -71.0956399
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2874166,
+          -71.0956556
+        ]
+      }
+    ],
+    "faunce road": [
+      {
+        "name": "Constitution Road",
+        "class": "residential",
+        "coord": [
+          42.272345,
+          -71.08937
+        ]
+      },
+      {
+        "name": "Cookson Terrace",
+        "class": "residential",
+        "coord": [
+          42.2718548,
+          -71.0901608
+        ]
+      },
+      {
+        "name": "Crossman Street",
+        "class": "residential",
+        "coord": [
+          42.273006,
+          -71.089885
+        ]
+      },
+      {
+        "name": "Dania Street",
+        "class": "residential",
+        "coord": [
+          42.272644,
+          -71.089424
+        ]
+      },
+      {
+        "name": "Fremont Street",
+        "class": "residential",
+        "coord": [
+          42.2707036,
+          -71.09146
+        ]
+      },
+      {
+        "name": "Hopkins Place",
+        "class": "residential",
+        "coord": [
+          42.2713652,
+          -71.0907308
+        ]
+      },
+      {
+        "name": "Merola Park",
+        "class": "residential",
+        "coord": [
+          42.273006,
+          -71.089885
+        ]
+      },
+      {
+        "name": "West Selden Street",
+        "class": "residential",
+        "coord": [
+          42.273006,
+          -71.089885
+        ]
+      }
+    ],
+    "favre street": [
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2704755,
+          -71.1006544
+        ]
+      },
+      {
+        "name": "Messinger Street",
+        "class": "residential",
+        "coord": [
+          42.2728213,
+          -71.0984433
+        ]
+      },
+      {
+        "name": "Richmere Road",
+        "class": "residential",
+        "coord": [
+          42.2704755,
+          -71.1006544
+        ]
+      }
+    ],
+    "fessenden street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2792956,
+          -71.0930221
+        ]
+      },
+      {
+        "name": "Mildred Avenue",
+        "class": "residential",
+        "coord": [
+          42.277804,
+          -71.091049
+        ]
+      },
+      {
+        "name": "Norfolk Street",
+        "class": "secondary",
+        "coord": [
+          42.277804,
+          -71.091049
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.2792956,
+          -71.0930221
+        ]
+      }
+    ],
+    "field sparrow way": [
+      {
+        "name": "Goldfinch Court",
+        "class": "residential",
+        "coord": [
+          42.2870638,
+          -71.0967625
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2868521,
+          -71.0973404
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2870638,
+          -71.0967625
+        ]
+      }
+    ],
+    "finch street": [
+      {
+        "name": "Egret Way",
+        "class": "residential",
+        "coord": [
+          42.2867482,
+          -71.0990228
+        ]
+      },
+      {
+        "name": "Warbler Way",
+        "class": "residential",
+        "coord": [
+          42.2871151,
+          -71.1004748
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2867482,
+          -71.0990228
+        ]
+      }
+    ],
+    "flint street": [
+      {
+        "name": "Astoria Street",
+        "class": "residential",
+        "coord": [
+          42.280771,
+          -71.086337
+        ]
+      },
+      {
+        "name": "Norfolk Street",
+        "class": "secondary",
+        "coord": [
+          42.2812846,
+          -71.087323
+        ]
+      }
+    ],
+    "fottler road": [
+      {
+        "name": "Hazleton Street",
+        "class": "residential",
+        "coord": [
+          42.2792279,
+          -71.0945979
+        ]
+      },
+      {
+        "name": "Hiawatha Road",
+        "class": "residential",
+        "coord": [
+          42.277698,
+          -71.096696
+        ]
+      },
+      {
+        "name": "Mattapan Street",
+        "class": "residential",
+        "coord": [
+          42.278194,
+          -71.096012
+        ]
+      },
+      {
+        "name": "Walk Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.2786527,
+          -71.0954149
+        ]
+      }
+    ],
+    "freeland street": [
+      {
+        "name": "Standard Street",
+        "class": "residential",
+        "coord": [
+          42.273729,
+          -71.079127
+        ]
+      }
+    ],
+    "fremont street": [
+      {
+        "name": "Babson Street",
+        "class": "secondary",
+        "coord": [
+          42.2712133,
+          -71.0924105
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2718567,
+          -71.0935555
+        ]
+      },
+      {
+        "name": "Delnore Place",
+        "class": "residential",
+        "coord": [
+          42.2704781,
+          -71.0910356
+        ]
+      },
+      {
+        "name": "Faunce Road",
+        "class": "residential",
+        "coord": [
+          42.2707036,
+          -71.09146
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2699521,
+          -71.0900834
+        ]
+      }
+    ],
+    "french street": [
+      {
+        "name": "Delhi Street",
+        "class": "residential",
+        "coord": [
+          42.274772,
+          -71.090964
+        ]
+      },
+      {
+        "name": "Violet Street",
+        "class": "residential",
+        "coord": [
+          42.274225,
+          -71.089857
+        ]
+      }
+    ],
+    "gallivan boulevard": [
+      {
+        "name": "Dorchester Avenue",
+        "class": "primary",
+        "coord": [
+          42.2799178,
+          -71.0659366
+        ]
+      },
+      {
+        "name": "Driscoll Drive",
+        "class": "residential",
+        "coord": [
+          42.2787556,
+          -71.0696717
+        ]
+      },
+      {
+        "name": "Ellison Avenue",
+        "class": "residential",
+        "coord": [
+          42.2780644,
+          -71.073698
+        ]
+      },
+      {
+        "name": "Oakridge Street",
+        "class": "residential",
+        "coord": [
+          42.2781536,
+          -71.0747484
+        ]
+      },
+      {
+        "name": "Pleasant Hill Avenue",
+        "class": "residential",
+        "coord": [
+          42.2780723,
+          -71.0727739
+        ]
+      },
+      {
+        "name": "Stone Terrace",
+        "class": "residential",
+        "coord": [
+          42.2791335,
+          -71.0685832
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.2788188,
+          -71.0694933
+        ]
+      }
+    ],
+    "gilmer street": [
+      {
+        "name": "Hillsboro Road",
+        "class": "residential",
+        "coord": [
+          42.2825692,
+          -71.0966054
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.2825692,
+          -71.0966054
+        ]
+      },
+      {
+        "name": "Westmore Road",
+        "class": "residential",
+        "coord": [
+          42.2831023,
+          -71.0977664
+        ]
+      }
+    ],
+    "gladeside avenue": [
+      {
+        "name": "Arborcrest Terrace",
+        "class": "residential",
+        "coord": [
+          42.272775,
+          -71.087054
+        ]
+      },
+      {
+        "name": "Bluefield Terrace",
+        "class": "residential",
+        "coord": [
+          42.273563,
+          -71.086666
+        ]
+      },
+      {
+        "name": "Briarcliff Terrace",
+        "class": "residential",
+        "coord": [
+          42.271054,
+          -71.0873619
+        ]
+      },
+      {
+        "name": "Cragmere Terrace",
+        "class": "residential",
+        "coord": [
+          42.274086,
+          -71.086217
+        ]
+      },
+      {
+        "name": "Donwood Terrace",
+        "class": "residential",
+        "coord": [
+          42.2746948,
+          -71.0857078
+        ]
+      },
+      {
+        "name": "Gladeside Terrace",
+        "class": "residential",
+        "coord": [
+          42.273056,
+          -71.087052
+        ]
+      },
+      {
+        "name": "Linvale Terrace",
+        "class": "residential",
+        "coord": [
+          42.271237,
+          -71.087317
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2702848,
+          -71.0875661
+        ]
+      }
+    ],
+    "gladeside terrace": [
+      {
+        "name": "Gladeside Avenue",
+        "class": "residential",
+        "coord": [
+          42.273056,
+          -71.087052
+        ]
+      }
+    ],
+    "glenhill road": [
+      {
+        "name": "Doone Avenue",
+        "class": "residential",
+        "coord": [
+          42.277918,
+          -71.082206
+        ]
+      },
+      {
+        "name": "Tiverton Road",
+        "class": "residential",
+        "coord": [
+          42.2786077,
+          -71.0816116
+        ]
+      }
+    ],
+    "glenmore street": [
+      {
+        "name": "Groveland Street",
+        "class": "tertiary",
+        "coord": [
+          42.272434,
+          -71.0771719
+        ]
+      }
+    ],
+    "goldfinch court": [
+      {
+        "name": "Deering Road",
+        "class": "residential",
+        "coord": [
+          42.28671,
+          -71.097969
+        ]
+      },
+      {
+        "name": "Field Sparrow Way",
+        "class": "residential",
+        "coord": [
+          42.2870638,
+          -71.0967625
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.28671,
+          -71.097969
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2870638,
+          -71.0967625
+        ]
+      }
+    ],
+    "goodale road": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2825786,
+          -71.0921028
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.284509,
+          -71.095087
+        ]
+      }
+    ],
+    "grant place": [
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.2745878,
+          -71.0699276
+        ]
+      }
+    ],
+    "greendale road": [
+      {
+        "name": "Courtland Road",
+        "class": "residential",
+        "coord": [
+          42.286159,
+          -71.095391
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2849688,
+          -71.0927981
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.2849688,
+          -71.0927981
+        ]
+      }
+    ],
+    "greenfield road": [
+      {
+        "name": "Blake Street",
+        "class": "residential",
+        "coord": [
+          42.2695399,
+          -71.104375
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2716248,
+          -71.1065277
+        ]
+      },
+      {
+        "name": "Fairlawn Avenue",
+        "class": "residential",
+        "coord": [
+          42.2671881,
+          -71.1016562
+        ]
+      },
+      {
+        "name": "Harmon Street",
+        "class": "residential",
+        "coord": [
+          42.2685,
+          -71.103183
+        ]
+      },
+      {
+        "name": "Rainier Road",
+        "class": "residential",
+        "coord": [
+          42.2673795,
+          -71.1018803
+        ]
+      },
+      {
+        "name": "Ralston Road",
+        "class": "residential",
+        "coord": [
+          42.2671143,
+          -71.101578
+        ]
+      },
+      {
+        "name": "Ranley Road",
+        "class": "residential",
+        "coord": [
+          42.267819,
+          -71.102399
+        ]
+      },
+      {
+        "name": "Richmere Road",
+        "class": "residential",
+        "coord": [
+          42.267958,
+          -71.102541
+        ]
+      },
+      {
+        "name": "Ridlon Road",
+        "class": "residential",
+        "coord": [
+          42.270552,
+          -71.10552
+        ]
+      },
+      {
+        "name": "Rockingham Road",
+        "class": "residential",
+        "coord": [
+          42.269003,
+          -71.103764
+        ]
+      },
+      {
+        "name": "Rosebery Road",
+        "class": "residential",
+        "coord": [
+          42.268262,
+          -71.102906
+        ]
+      },
+      {
+        "name": "Rugby Road",
+        "class": "residential",
+        "coord": [
+          42.2695399,
+          -71.104375
+        ]
+      }
+    ],
+    "groveland street": [
+      {
+        "name": "Glenmore Street",
+        "class": "residential",
+        "coord": [
+          42.272434,
+          -71.0771719
+        ]
+      },
+      {
+        "name": "Manchester Street",
+        "class": "residential",
+        "coord": [
+          42.273782,
+          -71.077615
+        ]
+      },
+      {
+        "name": "Maryknoll Street",
+        "class": "tertiary",
+        "coord": [
+          42.273782,
+          -71.077615
+        ]
+      },
+      {
+        "name": "Menton Street",
+        "class": "residential",
+        "coord": [
+          42.273118,
+          -71.077383
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.271543,
+          -71.077235
+        ]
+      }
+    ],
+    "halborn street": [
+      {
+        "name": "Delhi Street",
+        "class": "residential",
+        "coord": [
+          42.27583,
+          -71.089864
+        ]
+      },
+      {
+        "name": "West Selden Street",
+        "class": "residential",
+        "coord": [
+          42.274967,
+          -71.088092
+        ]
+      }
+    ],
+    "hallowell street": [
+      {
+        "name": "Corman Road",
+        "class": "residential",
+        "coord": [
+          42.271841,
+          -71.100565
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2705998,
+          -71.1014723
+        ]
+      },
+      {
+        "name": "Harmon Street",
+        "class": "residential",
+        "coord": [
+          42.2705998,
+          -71.1014723
+        ]
+      },
+      {
+        "name": "Newcastle Street",
+        "class": "residential",
+        "coord": [
+          42.272507,
+          -71.099905
+        ]
+      }
+    ],
+    "harmon street": [
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2705998,
+          -71.1014723
+        ]
+      },
+      {
+        "name": "Greenfield Road",
+        "class": "residential",
+        "coord": [
+          42.2685,
+          -71.103183
+        ]
+      },
+      {
+        "name": "Hallowell Street",
+        "class": "residential",
+        "coord": [
+          42.2705998,
+          -71.1014723
+        ]
+      }
+    ],
+    "harvard street": [
+      {
+        "name": "Courtland Road",
+        "class": "residential",
+        "coord": [
+          42.2861748,
+          -71.0959823
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2743425,
+          -71.1091908
+        ]
+      },
+      {
+        "name": "Deering Road",
+        "class": "residential",
+        "coord": [
+          42.2858068,
+          -71.0963258
+        ]
+      },
+      {
+        "name": "Errol Street",
+        "class": "residential",
+        "coord": [
+          42.284363,
+          -71.09772
+        ]
+      },
+      {
+        "name": "Estella Street",
+        "class": "residential",
+        "coord": [
+          42.2867806,
+          -71.0953942
+        ]
+      },
+      {
+        "name": "Hazleton Street",
+        "class": "residential",
+        "coord": [
+          42.282494,
+          -71.099451
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2876342,
+          -71.0939903
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2876816,
+          -71.0938847
+        ]
+      },
+      {
+        "name": "Stonecrest Road",
+        "class": "residential",
+        "coord": [
+          42.2778542,
+          -71.1076346
+        ]
+      },
+      {
+        "name": "Walk Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.282336,
+          -71.099632
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2871962,
+          -71.0949431
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2872528,
+          -71.0948549
+        ]
+      },
+      {
+        "name": "Wood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.2743425,
+          -71.1091908
+        ]
+      }
+    ],
+    "havelock street": [
+      {
+        "name": "Courtland Road",
+        "class": "residential",
+        "coord": [
+          42.2865078,
+          -71.0934222
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2865078,
+          -71.0934222
+        ]
+      }
+    ],
+    "hazleton street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2784204,
+          -71.0934651
+        ]
+      },
+      {
+        "name": "Fottler Road",
+        "class": "residential",
+        "coord": [
+          42.2792279,
+          -71.0945979
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.282494,
+          -71.099451
+        ]
+      },
+      {
+        "name": "Hillsboro Road",
+        "class": "residential",
+        "coord": [
+          42.282228,
+          -71.097729
+        ]
+      },
+      {
+        "name": "Westmore Road",
+        "class": "residential",
+        "coord": [
+          42.282468,
+          -71.098346
+        ]
+      }
+    ],
+    "hebron street": [
+      {
+        "name": "Canaan Street",
+        "class": "residential",
+        "coord": [
+          42.274554,
+          -71.105805
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2727787,
+          -71.1076969
+        ]
+      },
+      {
+        "name": "Messinger Street",
+        "class": "residential",
+        "coord": [
+          42.2760646,
+          -71.1042791
+        ]
+      },
+      {
+        "name": "Newcastle Street",
+        "class": "residential",
+        "coord": [
+          42.2755772,
+          -71.1048043
+        ]
+      }
+    ],
+    "henrici street": [
+      {
+        "name": "Evans Street",
+        "class": "residential",
+        "coord": [
+          42.2789444,
+          -71.0851784
+        ]
+      },
+      {
+        "name": "West Selden Street",
+        "class": "residential",
+        "coord": [
+          42.27871,
+          -71.08472
+        ]
+      }
+    ],
+    "hiawatha road": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2764068,
+          -71.0935911
+        ]
+      },
+      {
+        "name": "Fottler Road",
+        "class": "residential",
+        "coord": [
+          42.277698,
+          -71.096696
+        ]
+      }
+    ],
+    "hillsboro road": [
+      {
+        "name": "Gilmer Street",
+        "class": "residential",
+        "coord": [
+          42.2825692,
+          -71.0966054
+        ]
+      },
+      {
+        "name": "Hazleton Street",
+        "class": "residential",
+        "coord": [
+          42.282228,
+          -71.097729
+        ]
+      },
+      {
+        "name": "Ormond Street",
+        "class": "residential",
+        "coord": [
+          42.283717,
+          -71.095078
+        ]
+      },
+      {
+        "name": "Outlook Road",
+        "class": "residential",
+        "coord": [
+          42.283132,
+          -71.095565
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.2825692,
+          -71.0966054
+        ]
+      }
+    ],
+    "hollingsworth street": [
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2697787,
+          -71.097298
+        ]
+      },
+      {
+        "name": "Rector Road",
+        "class": "residential",
+        "coord": [
+          42.2664548,
+          -71.1008722
+        ]
+      }
+    ],
+    "hopkins place": [
+      {
+        "name": "Faunce Road",
+        "class": "residential",
+        "coord": [
+          42.2713652,
+          -71.0907308
+        ]
+      }
+    ],
+    "hosmer street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2816591,
+          -71.0922345
+        ]
+      },
+      {
+        "name": "Norfolk Street",
+        "class": "secondary",
+        "coord": [
+          42.279956,
+          -71.088589
+        ]
+      }
+    ],
+    "hummingbird lane": [
+      {
+        "name": "Lark Drive",
+        "class": "residential",
+        "coord": [
+          42.2890767,
+          -71.0951742
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2888067,
+          -71.0950248
+        ]
+      }
+    ],
+    "idaho street": [
+      {
+        "name": "Manchester Street",
+        "class": "residential",
+        "coord": [
+          42.273947,
+          -71.076741
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.271524,
+          -71.076286
+        ]
+      }
+    ],
+    "itasca street": [
+      {
+        "name": "Almont Street",
+        "class": "tertiary",
+        "coord": [
+          42.277644,
+          -71.098124
+        ]
+      },
+      {
+        "name": "Canaan Street",
+        "class": "residential",
+        "coord": [
+          42.2730759,
+          -71.1029001
+        ]
+      },
+      {
+        "name": "Croydon Street",
+        "class": "residential",
+        "coord": [
+          42.271842,
+          -71.104174
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2713363,
+          -71.104752
+        ]
+      },
+      {
+        "name": "Currier Street",
+        "class": "residential",
+        "coord": [
+          42.276678,
+          -71.099239
+        ]
+      },
+      {
+        "name": "Mattapan Street",
+        "class": "residential",
+        "coord": [
+          42.278671,
+          -71.096684
+        ]
+      },
+      {
+        "name": "Messinger Street",
+        "class": "residential",
+        "coord": [
+          42.2745484,
+          -71.10141
+        ]
+      },
+      {
+        "name": "Ridlon Road",
+        "class": "residential",
+        "coord": [
+          42.2713363,
+          -71.104752
+        ]
+      }
+    ],
+    "jamestown terrace": [
+      {
+        "name": "Dania Street",
+        "class": "residential",
+        "coord": [
+          42.2725404,
+          -71.0885215
+        ]
+      }
+    ],
+    "kennebec street": [
+      {
+        "name": "Croydon Street",
+        "class": "residential",
+        "coord": [
+          42.2729796,
+          -71.1063449
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2722005,
+          -71.1071323
+        ]
+      }
+    ],
+    "landor road": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2832699,
+          -71.0917059
+        ]
+      },
+      {
+        "name": "Leston Street",
+        "class": "residential",
+        "coord": [
+          42.283122,
+          -71.09027
+        ]
+      }
+    ],
+    "lark drive": [
+      {
+        "name": "Hummingbird Lane",
+        "class": "residential",
+        "coord": [
+          42.2890767,
+          -71.0951742
+        ]
+      }
+    ],
+    "leahaven road": [
+      {
+        "name": "Meadowbank Avenue",
+        "class": "residential",
+        "coord": [
+          42.270043,
+          -71.08201
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2713351,
+          -71.0822369
+        ]
+      }
+    ],
+    "ledgebrook road": [
+      {
+        "name": "Meadowbank Avenue",
+        "class": "residential",
+        "coord": [
+          42.269707,
+          -71.083259
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2712497,
+          -71.0837325
+        ]
+      },
+      {
+        "name": "Southmere Road",
+        "class": "residential",
+        "coord": [
+          42.270295,
+          -71.083432
+        ]
+      }
+    ],
+    "lena terrace": [
+      {
+        "name": "Lorna Road",
+        "class": "residential",
+        "coord": [
+          42.277461,
+          -71.084534
+        ]
+      },
+      {
+        "name": "West Selden Street",
+        "class": "residential",
+        "coord": [
+          42.277943,
+          -71.085419
+        ]
+      }
+    ],
+    "leston street": [
+      {
+        "name": "Landor Road",
+        "class": "residential",
+        "coord": [
+          42.283122,
+          -71.09027
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2838649,
+          -71.0895757
+        ]
+      },
+      {
+        "name": "Woolson Street",
+        "class": "residential",
+        "coord": [
+          42.282089,
+          -71.091317
+        ]
+      }
+    ],
+    "linvale terrace": [
+      {
+        "name": "Gladeside Avenue",
+        "class": "residential",
+        "coord": [
+          42.271237,
+          -71.087317
+        ]
+      },
+      {
+        "name": "Mamelon Circle",
+        "class": "residential",
+        "coord": [
+          42.2710725,
+          -71.0888508
+        ]
+      },
+      {
+        "name": "Viking Terrace",
+        "class": "residential",
+        "coord": [
+          42.27135,
+          -71.088567
+        ]
+      }
+    ],
+    "livermore street": [
+      {
+        "name": "Canaan Street",
+        "class": "residential",
+        "coord": [
+          42.274949,
+          -71.106531
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2735321,
+          -71.1084236
+        ]
+      },
+      {
+        "name": "Messinger Street",
+        "class": "residential",
+        "coord": [
+          42.276542,
+          -71.104936
+        ]
+      },
+      {
+        "name": "Newcastle Street",
+        "class": "residential",
+        "coord": [
+          42.275946,
+          -71.10553
+        ]
+      },
+      {
+        "name": "Stonecrest Road",
+        "class": "residential",
+        "coord": [
+          42.276542,
+          -71.104936
+        ]
+      }
+    ],
+    "lorna road": [
+      {
+        "name": "Doone Avenue",
+        "class": "residential",
+        "coord": [
+          42.278561,
+          -71.083546
+        ]
+      },
+      {
+        "name": "Lena Terrace",
+        "class": "residential",
+        "coord": [
+          42.277461,
+          -71.084534
+        ]
+      },
+      {
+        "name": "Tiverton Road",
+        "class": "residential",
+        "coord": [
+          42.27933,
+          -71.082854
+        ]
+      }
+    ],
+    "malta street": [
+      {
+        "name": "Edgewater Drive",
+        "class": "residential",
+        "coord": [
+          42.2645804,
+          -71.097025
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2656009,
+          -71.0983166
+        ]
+      }
+    ],
+    "mamelon circle": [
+      {
+        "name": "Linvale Terrace",
+        "class": "residential",
+        "coord": [
+          42.2710725,
+          -71.0888508
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.270104,
+          -71.0897887
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2701857,
+          -71.0892221
+        ]
+      }
+    ],
+    "manchester street": [
+      {
+        "name": "Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.274119,
+          -71.075856
+        ]
+      },
+      {
+        "name": "Charlotte Web Way",
+        "class": "residential",
+        "coord": [
+          42.2744364,
+          -71.0742755
+        ]
+      },
+      {
+        "name": "Groveland Street",
+        "class": "tertiary",
+        "coord": [
+          42.273782,
+          -71.077615
+        ]
+      },
+      {
+        "name": "Idaho Street",
+        "class": "residential",
+        "coord": [
+          42.273947,
+          -71.076741
+        ]
+      },
+      {
+        "name": "Maryknoll Street",
+        "class": "tertiary",
+        "coord": [
+          42.273782,
+          -71.077615
+        ]
+      },
+      {
+        "name": "Standard Street",
+        "class": "residential",
+        "coord": [
+          42.273409,
+          -71.079003
+        ]
+      },
+      {
+        "name": "Temple Street",
+        "class": "residential",
+        "coord": [
+          42.274755,
+          -71.073019
+        ]
+      }
+    ],
+    "marcy road": [
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2667011,
+          -71.0963977
+        ]
+      }
+    ],
+    "maryknoll street": [
+      {
+        "name": "Caryll Street",
+        "class": "residential",
+        "coord": [
+          42.27516,
+          -71.078163
+        ]
+      },
+      {
+        "name": "Clearwater Drive",
+        "class": "residential",
+        "coord": [
+          42.274471,
+          -71.077886
+        ]
+      },
+      {
+        "name": "Groveland Street",
+        "class": "tertiary",
+        "coord": [
+          42.273782,
+          -71.077615
+        ]
+      },
+      {
+        "name": "Manchester Street",
+        "class": "residential",
+        "coord": [
+          42.273782,
+          -71.077615
+        ]
+      },
+      {
+        "name": "Maryknoll Terrace",
+        "class": "residential",
+        "coord": [
+          42.27574,
+          -71.078447
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.277217,
+          -71.077251
+        ]
+      },
+      {
+        "name": "Verndale Street",
+        "class": "residential",
+        "coord": [
+          42.27651,
+          -71.077805
+        ]
+      }
+    ],
+    "maryknoll terrace": [
+      {
+        "name": "Maryknoll Street",
+        "class": "tertiary",
+        "coord": [
+          42.27574,
+          -71.078447
+        ]
+      }
+    ],
+    "mattakeeset street": [
+      {
+        "name": "Edgewater Drive",
+        "class": "residential",
+        "coord": [
+          42.2631938,
+          -71.0980804
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2648453,
+          -71.099664
+        ]
+      }
+    ],
+    "mattapan street": [
+      {
+        "name": "Almont Street",
+        "class": "tertiary",
+        "coord": [
+          42.280246,
+          -71.098228
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2765204,
+          -71.0935881
+        ]
+      },
+      {
+        "name": "Colorado Street",
+        "class": "residential",
+        "coord": [
+          42.279179,
+          -71.097241
+        ]
+      },
+      {
+        "name": "Fottler Road",
+        "class": "residential",
+        "coord": [
+          42.278194,
+          -71.096012
+        ]
+      },
+      {
+        "name": "Itasca Street",
+        "class": "residential",
+        "coord": [
+          42.278671,
+          -71.096684
+        ]
+      },
+      {
+        "name": "Mulvey Street",
+        "class": "residential",
+        "coord": [
+          42.279004,
+          -71.097064
+        ]
+      }
+    ],
+    "meadowbank avenue": [
+      {
+        "name": "Leahaven Road",
+        "class": "residential",
+        "coord": [
+          42.270043,
+          -71.08201
+        ]
+      },
+      {
+        "name": "Ledgebrook Road",
+        "class": "residential",
+        "coord": [
+          42.269707,
+          -71.083259
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.271333,
+          -71.081422
+        ]
+      }
+    ],
+    "menton street": [
+      {
+        "name": "Groveland Street",
+        "class": "tertiary",
+        "coord": [
+          42.273118,
+          -71.077383
+        ]
+      },
+      {
+        "name": "Standard Street",
+        "class": "residential",
+        "coord": [
+          42.2728437,
+          -71.0787186
+        ]
+      }
+    ],
+    "merola park": [
+      {
+        "name": "Cookson Terrace",
+        "class": "residential",
+        "coord": [
+          42.2721529,
+          -71.0907362
+        ]
+      },
+      {
+        "name": "Crossman Street",
+        "class": "residential",
+        "coord": [
+          42.273006,
+          -71.089885
+        ]
+      },
+      {
+        "name": "Faunce Road",
+        "class": "residential",
+        "coord": [
+          42.273006,
+          -71.089885
+        ]
+      },
+      {
+        "name": "West Selden Street",
+        "class": "residential",
+        "coord": [
+          42.273006,
+          -71.089885
+        ]
+      }
+    ],
+    "messinger street": [
+      {
+        "name": "Alabama Street",
+        "class": "residential",
+        "coord": [
+          42.2753103,
+          -71.1028652
+        ]
+      },
+      {
+        "name": "Brockton Street",
+        "class": "residential",
+        "coord": [
+          42.2723664,
+          -71.0976492
+        ]
+      },
+      {
+        "name": "Colorado Street",
+        "class": "residential",
+        "coord": [
+          42.2749408,
+          -71.1021118
+        ]
+      },
+      {
+        "name": "Favre Street",
+        "class": "residential",
+        "coord": [
+          42.2728213,
+          -71.0984433
+        ]
+      },
+      {
+        "name": "Hebron Street",
+        "class": "residential",
+        "coord": [
+          42.2760646,
+          -71.1042791
+        ]
+      },
+      {
+        "name": "Itasca Street",
+        "class": "residential",
+        "coord": [
+          42.2745484,
+          -71.10141
+        ]
+      },
+      {
+        "name": "Livermore Street",
+        "class": "residential",
+        "coord": [
+          42.276542,
+          -71.104936
+        ]
+      },
+      {
+        "name": "Orlando Street",
+        "class": "residential",
+        "coord": [
+          42.2736895,
+          -71.0999584
+        ]
+      },
+      {
+        "name": "Savannah Avenue",
+        "class": "residential",
+        "coord": [
+          42.274128,
+          -71.100673
+        ]
+      },
+      {
+        "name": "Stonecrest Road",
+        "class": "residential",
+        "coord": [
+          42.276542,
+          -71.104936
+        ]
+      },
+      {
+        "name": "Woodhaven Street",
+        "class": "tertiary",
+        "coord": [
+          42.2718662,
+          -71.096781
+        ]
+      }
+    ],
+    "mildred avenue": [
+      {
+        "name": "Babson Street",
+        "class": "secondary",
+        "coord": [
+          42.275527,
+          -71.092366
+        ]
+      },
+      {
+        "name": "Fessenden Street",
+        "class": "residential",
+        "coord": [
+          42.277804,
+          -71.091049
+        ]
+      },
+      {
+        "name": "Norfolk Street",
+        "class": "secondary",
+        "coord": [
+          42.277804,
+          -71.091049
+        ]
+      }
+    ],
+    "millers lane": [
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.2722742,
+          -71.0684036
+        ]
+      }
+    ],
+    "monson street": [
+      {
+        "name": "Caddy Road",
+        "class": "residential",
+        "coord": [
+          42.272492,
+          -71.073586
+        ]
+      },
+      {
+        "name": "Sturbridge Street",
+        "class": "residential",
+        "coord": [
+          42.272351,
+          -71.074336
+        ]
+      },
+      {
+        "name": "Temple Street",
+        "class": "residential",
+        "coord": [
+          42.272713,
+          -71.072345
+        ]
+      }
+    ],
+    "monterey avenue": [
+      {
+        "name": "Orlando Street",
+        "class": "residential",
+        "coord": [
+          42.275854,
+          -71.097803
+        ]
+      },
+      {
+        "name": "Savannah Avenue",
+        "class": "residential",
+        "coord": [
+          42.275928,
+          -71.098803
+        ]
+      }
+    ],
+    "morton street": [
+      {
+        "name": "Baird Street",
+        "class": "residential",
+        "coord": [
+          42.2859197,
+          -71.0933054
+        ]
+      },
+      {
+        "name": "Baird Street",
+        "class": "residential",
+        "coord": [
+          42.2859427,
+          -71.0931944
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2842415,
+          -71.0913875
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2842897,
+          -71.0915305
+        ]
+      },
+      {
+        "name": "Canterbury Street",
+        "class": "residential",
+        "coord": [
+          42.2928441,
+          -71.0963068
+        ]
+      },
+      {
+        "name": "Canterbury Street",
+        "class": "residential",
+        "coord": [
+          42.2928758,
+          -71.0961738
+        ]
+      },
+      {
+        "name": "Caryll Street",
+        "class": "residential",
+        "coord": [
+          42.276856,
+          -71.07646
+        ]
+      },
+      {
+        "name": "Clearwater Drive",
+        "class": "residential",
+        "coord": [
+          42.276264,
+          -71.074946
+        ]
+      },
+      {
+        "name": "Countryside Drive",
+        "class": "residential",
+        "coord": [
+          42.277027,
+          -71.076872
+        ]
+      },
+      {
+        "name": "Courtland Road",
+        "class": "residential",
+        "coord": [
+          42.2864869,
+          -71.0935305
+        ]
+      },
+      {
+        "name": "Courtland Road",
+        "class": "residential",
+        "coord": [
+          42.2865078,
+          -71.0934222
+        ]
+      },
+      {
+        "name": "Druid Street",
+        "class": "residential",
+        "coord": [
+          42.276302,
+          -71.0750433
+        ]
+      },
+      {
+        "name": "Ellison Avenue",
+        "class": "residential",
+        "coord": [
+          42.275599,
+          -71.073238
+        ]
+      },
+      {
+        "name": "Estella Street",
+        "class": "residential",
+        "coord": [
+          42.2870263,
+          -71.0937428
+        ]
+      },
+      {
+        "name": "Estella Street",
+        "class": "residential",
+        "coord": [
+          42.2870937,
+          -71.0936488
+        ]
+      },
+      {
+        "name": "Evans Street",
+        "class": "residential",
+        "coord": [
+          42.2808039,
+          -71.0844453
+        ]
+      },
+      {
+        "name": "Greendale Road",
+        "class": "residential",
+        "coord": [
+          42.2849688,
+          -71.0927981
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.2876342,
+          -71.0939903
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.2876816,
+          -71.0938847
+        ]
+      },
+      {
+        "name": "Havelock Street",
+        "class": "residential",
+        "coord": [
+          42.2865078,
+          -71.0934222
+        ]
+      },
+      {
+        "name": "Leston Street",
+        "class": "residential",
+        "coord": [
+          42.2838649,
+          -71.0895757
+        ]
+      },
+      {
+        "name": "Maryknoll Street",
+        "class": "tertiary",
+        "coord": [
+          42.277217,
+          -71.077251
+        ]
+      },
+      {
+        "name": "Oakridge Street",
+        "class": "residential",
+        "coord": [
+          42.2759058,
+          -71.0739677
+        ]
+      },
+      {
+        "name": "Old Morton Street",
+        "class": "residential",
+        "coord": [
+          42.2749129,
+          -71.0720484
+        ]
+      },
+      {
+        "name": "Pine Ridge Road",
+        "class": "residential",
+        "coord": [
+          42.27738,
+          -71.077597
+        ]
+      },
+      {
+        "name": "Pleasant Hill Avenue",
+        "class": "residential",
+        "coord": [
+          42.2750037,
+          -71.0722117
+        ]
+      },
+      {
+        "name": "Rhoades Street",
+        "class": "residential",
+        "coord": [
+          42.2852918,
+          -71.0930563
+        ]
+      },
+      {
+        "name": "Rhoades Street",
+        "class": "residential",
+        "coord": [
+          42.2853037,
+          -71.0929406
+        ]
+      },
+      {
+        "name": "Richmond Street",
+        "class": "residential",
+        "coord": [
+          42.2737224,
+          -71.0701074
+        ]
+      },
+      {
+        "name": "Sanford Street",
+        "class": "residential",
+        "coord": [
+          42.2740958,
+          -71.0706371
+        ]
+      },
+      {
+        "name": "Verrill Street",
+        "class": "residential",
+        "coord": [
+          42.2822212,
+          -71.0879484
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.2737224,
+          -71.0701074
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.2849688,
+          -71.0927981
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2888936,
+          -71.0945406
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2889868,
+          -71.0945817
+        ]
+      },
+      {
+        "name": "Wildwood Street",
+        "class": "residential",
+        "coord": [
+          42.2830064,
+          -71.0889761
+        ]
+      },
+      {
+        "name": "Woodgate Street",
+        "class": "residential",
+        "coord": [
+          42.2777078,
+          -71.0782944
+        ]
+      },
+      {
+        "name": "Woodmere Street",
+        "class": "residential",
+        "coord": [
+          42.2784501,
+          -71.0796822
+        ]
+      },
+      {
+        "name": "Woodmere Street",
+        "class": "residential",
+        "coord": [
+          42.2784962,
+          -71.0796182
+        ]
+      }
+    ],
+    "morton village drive": [
+      {
+        "name": "Evans Street",
+        "class": "residential",
+        "coord": [
+          42.2782935,
+          -71.0858465
+        ]
+      }
+    ],
+    "mother julia road": [
+      {
+        "name": "Avondale Street",
+        "class": "residential",
+        "coord": [
+          42.274827,
+          -71.068854
+        ]
+      },
+      {
+        "name": "Dorchester Avenue",
+        "class": "primary",
+        "coord": [
+          42.2745909,
+          -71.06744
+        ]
+      }
+    ],
+    "mulvey street": [
+      {
+        "name": "Mattapan Street",
+        "class": "residential",
+        "coord": [
+          42.279004,
+          -71.097064
+        ]
+      },
+      {
+        "name": "Walk Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.2794905,
+          -71.0962963
+        ]
+      }
+    ],
+    "newcastle street": [
+      {
+        "name": "Hallowell Street",
+        "class": "residential",
+        "coord": [
+          42.272507,
+          -71.099905
+        ]
+      },
+      {
+        "name": "Hebron Street",
+        "class": "residential",
+        "coord": [
+          42.2755772,
+          -71.1048043
+        ]
+      },
+      {
+        "name": "Livermore Street",
+        "class": "residential",
+        "coord": [
+          42.275946,
+          -71.10553
+        ]
+      },
+      {
+        "name": "Orlando Street",
+        "class": "residential",
+        "coord": [
+          42.272941,
+          -71.1007333
+        ]
+      },
+      {
+        "name": "Savannah Avenue",
+        "class": "residential",
+        "coord": [
+          42.273337,
+          -71.101469
+        ]
+      }
+    ],
+    "newcroft circle": [
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2711015,
+          -71.0845813
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2712396,
+          -71.0837893
+        ]
+      }
+    ],
+    "norfolk street": [
+      {
+        "name": "Babson Street",
+        "class": "secondary",
+        "coord": [
+          42.2765006,
+          -71.0926671
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2761012,
+          -71.0935992
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2761176,
+          -71.0934239
+        ]
+      },
+      {
+        "name": "Clarkwood Street",
+        "class": "residential",
+        "coord": [
+          42.279375,
+          -71.089163
+        ]
+      },
+      {
+        "name": "Elizabeth Street",
+        "class": "residential",
+        "coord": [
+          42.280096,
+          -71.088454
+        ]
+      },
+      {
+        "name": "Evelyn Street",
+        "class": "residential",
+        "coord": [
+          42.278583,
+          -71.089939
+        ]
+      },
+      {
+        "name": "Fessenden Street",
+        "class": "residential",
+        "coord": [
+          42.277804,
+          -71.091049
+        ]
+      },
+      {
+        "name": "Flint Street",
+        "class": "residential",
+        "coord": [
+          42.2812846,
+          -71.087323
+        ]
+      },
+      {
+        "name": "Hosmer Street",
+        "class": "residential",
+        "coord": [
+          42.279956,
+          -71.088589
+        ]
+      },
+      {
+        "name": "Mildred Avenue",
+        "class": "residential",
+        "coord": [
+          42.277804,
+          -71.091049
+        ]
+      },
+      {
+        "name": "Wilmore Street",
+        "class": "residential",
+        "coord": [
+          42.277386,
+          -71.091699
+        ]
+      },
+      {
+        "name": "Woolson Street",
+        "class": "residential",
+        "coord": [
+          42.280562,
+          -71.088015
+        ]
+      }
+    ],
+    "o'connell road": [
+      {
+        "name": "Rugdale Road",
+        "class": "residential",
+        "coord": [
+          42.277701,
+          -71.067517
+        ]
+      },
+      {
+        "name": "Valley Road",
+        "class": "residential",
+        "coord": [
+          42.277701,
+          -71.067517
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.27779,
+          -71.069546
+        ]
+      }
+    ],
+    "oak hill avenue": [
+      {
+        "name": "West Selden Street",
+        "class": "residential",
+        "coord": [
+          42.274512,
+          -71.088509
+        ]
+      }
+    ],
+    "oak street": [
+      {
+        "name": "Walk Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.285762,
+          -71.104198
+        ]
+      }
+    ],
+    "oakland court": [
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2677215,
+          -71.0944116
+        ]
+      }
+    ],
+    "oakridge street": [
+      {
+        "name": "Gallivan Boulevard",
+        "class": "trunk",
+        "coord": [
+          42.2781536,
+          -71.0747484
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.2759058,
+          -71.0739677
+        ]
+      }
+    ],
+    "old morton street": [
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.2749129,
+          -71.0720484
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2719504,
+          -71.0712233
+        ]
+      },
+      {
+        "name": "Sanford Street",
+        "class": "residential",
+        "coord": [
+          42.273945,
+          -71.071858
+        ]
+      }
+    ],
+    "oriole drive": [
+      {
+        "name": "Falcon Lane",
+        "class": "residential",
+        "coord": [
+          42.2876797,
+          -71.0956399
+        ]
+      }
+    ],
+    "orlando street": [
+      {
+        "name": "Almont Street",
+        "class": "tertiary",
+        "coord": [
+          42.276332,
+          -71.097277
+        ]
+      },
+      {
+        "name": "Messinger Street",
+        "class": "residential",
+        "coord": [
+          42.2736895,
+          -71.0999584
+        ]
+      },
+      {
+        "name": "Monterey Avenue",
+        "class": "residential",
+        "coord": [
+          42.275854,
+          -71.097803
+        ]
+      },
+      {
+        "name": "Newcastle Street",
+        "class": "residential",
+        "coord": [
+          42.272941,
+          -71.1007333
+        ]
+      }
+    ],
+    "ormond street": [
+      {
+        "name": "Duke Street",
+        "class": "residential",
+        "coord": [
+          42.281589,
+          -71.093465
+        ]
+      },
+      {
+        "name": "Hillsboro Road",
+        "class": "residential",
+        "coord": [
+          42.283717,
+          -71.095078
+        ]
+      },
+      {
+        "name": "Outlook Road",
+        "class": "residential",
+        "coord": [
+          42.28179,
+          -71.093394
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.27985,
+          -71.093621
+        ]
+      },
+      {
+        "name": "Wellington Hill Street",
+        "class": "residential",
+        "coord": [
+          42.284076,
+          -71.095819
+        ]
+      }
+    ],
+    "outlook road": [
+      {
+        "name": "Hillsboro Road",
+        "class": "residential",
+        "coord": [
+          42.283132,
+          -71.095565
+        ]
+      },
+      {
+        "name": "Ormond Street",
+        "class": "residential",
+        "coord": [
+          42.28179,
+          -71.093394
+        ]
+      }
+    ],
+    "owen street": [
+      {
+        "name": "Tiverton Road",
+        "class": "residential",
+        "coord": [
+          42.2787511,
+          -71.0818773
+        ]
+      }
+    ],
+    "packard avenue": [
+      {
+        "name": "Pleasant Hill Avenue",
+        "class": "residential",
+        "coord": [
+          42.275305,
+          -71.072142
+        ]
+      },
+      {
+        "name": "Saint Gregory Street",
+        "class": "residential",
+        "coord": [
+          42.275903,
+          -71.07064
+        ]
+      }
+    ],
+    "paine street": [
+      {
+        "name": "Walk Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.286718,
+          -71.105401
+        ]
+      }
+    ],
+    "paula road": [
+      {
+        "name": "Clearwater Drive",
+        "class": "residential",
+        "coord": [
+          42.2748,
+          -71.076169
+        ]
+      }
+    ],
+    "peyton place": [
+      {
+        "name": "Elizabeth Street",
+        "class": "residential",
+        "coord": [
+          42.2798663,
+          -71.0879859
+        ]
+      }
+    ],
+    "pine ridge road": [
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.27738,
+          -71.077597
+        ]
+      }
+    ],
+    "pitts way": [
+      {
+        "name": "Corman Road",
+        "class": "residential",
+        "coord": [
+          42.2713011,
+          -71.1022014
+        ]
+      }
+    ],
+    "pleasant hill avenue": [
+      {
+        "name": "Clancy Road",
+        "class": "residential",
+        "coord": [
+          42.277364,
+          -71.072533
+        ]
+      },
+      {
+        "name": "Gallivan Boulevard",
+        "class": "trunk",
+        "coord": [
+          42.2780723,
+          -71.0727739
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.2750037,
+          -71.0722117
+        ]
+      },
+      {
+        "name": "Packard Avenue",
+        "class": "residential",
+        "coord": [
+          42.275305,
+          -71.072142
+        ]
+      },
+      {
+        "name": "Pleasant Hill Terrace",
+        "class": "residential",
+        "coord": [
+          42.276265,
+          -71.072118
+        ]
+      },
+      {
+        "name": "Saint Gregory Street",
+        "class": "residential",
+        "coord": [
+          42.275666,
+          -71.072077
+        ]
+      }
+    ],
+    "pleasant hill terrace": [
+      {
+        "name": "Pleasant Hill Avenue",
+        "class": "residential",
+        "coord": [
+          42.276265,
+          -71.072118
+        ]
+      }
+    ],
+    "prairie street": [
+      {
+        "name": "Almont Street",
+        "class": "tertiary",
+        "coord": [
+          42.2808735,
+          -71.0980848
+        ]
+      },
+      {
+        "name": "Wabash Street",
+        "class": "residential",
+        "coord": [
+          42.28043,
+          -71.099152
+        ]
+      }
+    ],
+    "rainier road": [
+      {
+        "name": "Greenfield Road",
+        "class": "residential",
+        "coord": [
+          42.2673795,
+          -71.1018803
+        ]
+      }
+    ],
+    "ralston road": [
+      {
+        "name": "Greenfield Road",
+        "class": "residential",
+        "coord": [
+          42.2671143,
+          -71.101578
+        ]
+      }
+    ],
+    "ranley road": [
+      {
+        "name": "Greenfield Road",
+        "class": "residential",
+        "coord": [
+          42.267819,
+          -71.102399
+        ]
+      }
+    ],
+    "rector road": [
+      {
+        "name": "Hollingsworth Street",
+        "class": "residential",
+        "coord": [
+          42.2664548,
+          -71.1008722
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2651448,
+          -71.0991451
+        ]
+      },
+      {
+        "name": "Rockdale Street",
+        "class": "residential",
+        "coord": [
+          42.2654963,
+          -71.0996397
+        ]
+      },
+      {
+        "name": "Rosewood Street",
+        "class": "residential",
+        "coord": [
+          42.2659525,
+          -71.1002815
+        ]
+      }
+    ],
+    "regis road": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.271695,
+          -71.0937427
+        ]
+      },
+      {
+        "name": "Chester Park",
+        "class": "residential",
+        "coord": [
+          42.2716987,
+          -71.0946358
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2695429,
+          -71.0969545
+        ]
+      },
+      {
+        "name": "Rockway Street",
+        "class": "residential",
+        "coord": [
+          42.271155,
+          -71.095347
+        ]
+      },
+      {
+        "name": "Youngs Road",
+        "class": "residential",
+        "coord": [
+          42.270103,
+          -71.096404
+        ]
+      }
+    ],
+    "rexford street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2711686,
+          -71.0937581
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.268982,
+          -71.0962012
+        ]
+      },
+      {
+        "name": "Rockway Street",
+        "class": "residential",
+        "coord": [
+          42.2707112,
+          -71.0944869
+        ]
+      }
+    ],
+    "rhoades street": [
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2852918,
+          -71.0930563
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2853037,
+          -71.0929406
+        ]
+      }
+    ],
+    "rich street": [
+      {
+        "name": "Delhi Street",
+        "class": "residential",
+        "coord": [
+          42.276283,
+          -71.089394
+        ]
+      },
+      {
+        "name": "West Selden Street",
+        "class": "residential",
+        "coord": [
+          42.275436,
+          -71.08766
+        ]
+      }
+    ],
+    "richmere road": [
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2704755,
+          -71.1006544
+        ]
+      },
+      {
+        "name": "Favre Street",
+        "class": "residential",
+        "coord": [
+          42.2704755,
+          -71.1006544
+        ]
+      },
+      {
+        "name": "Greenfield Road",
+        "class": "residential",
+        "coord": [
+          42.267958,
+          -71.102541
+        ]
+      }
+    ],
+    "richmond street": [
+      {
+        "name": "Avondale Street",
+        "class": "residential",
+        "coord": [
+          42.273692,
+          -71.069147
+        ]
+      },
+      {
+        "name": "Dorchester Avenue",
+        "class": "primary",
+        "coord": [
+          42.2738985,
+          -71.0676326
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.2737224,
+          -71.0701074
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.2737224,
+          -71.0701074
+        ]
+      }
+    ],
+    "ridgeview avenue": [
+      {
+        "name": "Arborcrest Terrace",
+        "class": "residential",
+        "coord": [
+          42.272137,
+          -71.085538
+        ]
+      },
+      {
+        "name": "Bluefield Terrace",
+        "class": "residential",
+        "coord": [
+          42.272675,
+          -71.084774
+        ]
+      },
+      {
+        "name": "Briarcliff Terrace",
+        "class": "residential",
+        "coord": [
+          42.2715109,
+          -71.0856783
+        ]
+      },
+      {
+        "name": "Cragmere Terrace",
+        "class": "residential",
+        "coord": [
+          42.273464,
+          -71.084881
+        ]
+      },
+      {
+        "name": "Donwood Terrace",
+        "class": "residential",
+        "coord": [
+          42.2740028,
+          -71.0844575
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2709537,
+          -71.0853923
+        ]
+      }
+    ],
+    "ridlon road": [
+      {
+        "name": "Blake Street",
+        "class": "residential",
+        "coord": [
+          42.268424,
+          -71.105321
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2713363,
+          -71.104752
+        ]
+      },
+      {
+        "name": "Greenfield Road",
+        "class": "residential",
+        "coord": [
+          42.270552,
+          -71.10552
+        ]
+      },
+      {
+        "name": "Itasca Street",
+        "class": "residential",
+        "coord": [
+          42.2713363,
+          -71.104752
+        ]
+      },
+      {
+        "name": "Ruxton Road",
+        "class": "residential",
+        "coord": [
+          42.270904,
+          -71.105193
+        ]
+      }
+    ],
+    "river street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2672502,
+          -71.0937453
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2676257,
+          -71.0938892
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2676884,
+          -71.0937268
+        ]
+      },
+      {
+        "name": "Blue Hills Parkway",
+        "class": "trunk",
+        "coord": [
+          42.2672502,
+          -71.0937453
+        ]
+      },
+      {
+        "name": "Bradford Road",
+        "class": "residential",
+        "coord": [
+          42.2716552,
+          -71.0778893
+        ]
+      },
+      {
+        "name": "Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.27138,
+          -71.075006
+        ]
+      },
+      {
+        "name": "Central Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.2713654,
+          -71.0735969
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2672502,
+          -71.0937453
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2673686,
+          -71.0940581
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.267484,
+          -71.0942321
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2675211,
+          -71.0941392
+        ]
+      },
+      {
+        "name": "Desmond Road",
+        "class": "residential",
+        "coord": [
+          42.271464,
+          -71.079711
+        ]
+      },
+      {
+        "name": "Doctor Mary Moore Beatty Circle",
+        "class": "residential",
+        "coord": [
+          42.271632,
+          -71.078879
+        ]
+      },
+      {
+        "name": "Duxbury Road",
+        "class": "residential",
+        "coord": [
+          42.271386,
+          -71.080563
+        ]
+      },
+      {
+        "name": "Edgewater Drive",
+        "class": "residential",
+        "coord": [
+          42.2669283,
+          -71.0953275
+        ]
+      },
+      {
+        "name": "Fremont Street",
+        "class": "residential",
+        "coord": [
+          42.2699521,
+          -71.0900834
+        ]
+      },
+      {
+        "name": "Gladeside Avenue",
+        "class": "residential",
+        "coord": [
+          42.2702848,
+          -71.0875661
+        ]
+      },
+      {
+        "name": "Groveland Street",
+        "class": "tertiary",
+        "coord": [
+          42.271543,
+          -71.077235
+        ]
+      },
+      {
+        "name": "Idaho Street",
+        "class": "residential",
+        "coord": [
+          42.271524,
+          -71.076286
+        ]
+      },
+      {
+        "name": "Leahaven Road",
+        "class": "residential",
+        "coord": [
+          42.2713351,
+          -71.0822369
+        ]
+      },
+      {
+        "name": "Ledgebrook Road",
+        "class": "residential",
+        "coord": [
+          42.2712497,
+          -71.0837325
+        ]
+      },
+      {
+        "name": "Malta Street",
+        "class": "residential",
+        "coord": [
+          42.2656009,
+          -71.0983166
+        ]
+      },
+      {
+        "name": "Mamelon Circle",
+        "class": "residential",
+        "coord": [
+          42.270104,
+          -71.0897887
+        ]
+      },
+      {
+        "name": "Mamelon Circle",
+        "class": "residential",
+        "coord": [
+          42.2701857,
+          -71.0892221
+        ]
+      },
+      {
+        "name": "Marcy Road",
+        "class": "residential",
+        "coord": [
+          42.2667011,
+          -71.0963977
+        ]
+      },
+      {
+        "name": "Mattakeeset Street",
+        "class": "residential",
+        "coord": [
+          42.2648453,
+          -71.099664
+        ]
+      },
+      {
+        "name": "Meadowbank Avenue",
+        "class": "residential",
+        "coord": [
+          42.271333,
+          -71.081422
+        ]
+      },
+      {
+        "name": "Newcroft Circle",
+        "class": "residential",
+        "coord": [
+          42.2711015,
+          -71.0845813
+        ]
+      },
+      {
+        "name": "Newcroft Circle",
+        "class": "residential",
+        "coord": [
+          42.2712396,
+          -71.0837893
+        ]
+      },
+      {
+        "name": "Old Morton Street",
+        "class": "residential",
+        "coord": [
+          42.2719504,
+          -71.0712233
+        ]
+      },
+      {
+        "name": "Rector Road",
+        "class": "residential",
+        "coord": [
+          42.2651448,
+          -71.0991451
+        ]
+      },
+      {
+        "name": "Ridgeview Avenue",
+        "class": "residential",
+        "coord": [
+          42.2709537,
+          -71.0853923
+        ]
+      },
+      {
+        "name": "Riverbank Place",
+        "class": "residential",
+        "coord": [
+          42.2691756,
+          -71.0914555
+        ]
+      },
+      {
+        "name": "Southmere Road",
+        "class": "residential",
+        "coord": [
+          42.2710012,
+          -71.085157
+        ]
+      },
+      {
+        "name": "Standard Street",
+        "class": "residential",
+        "coord": [
+          42.2717286,
+          -71.0785065
+        ]
+      },
+      {
+        "name": "Sturbridge Street",
+        "class": "residential",
+        "coord": [
+          42.2712962,
+          -71.0738311
+        ]
+      },
+      {
+        "name": "Taylor Terrace",
+        "class": "residential",
+        "coord": [
+          42.2718579,
+          -71.0720272
+        ]
+      },
+      {
+        "name": "Temple Street",
+        "class": "residential",
+        "coord": [
+          42.2718535,
+          -71.0721206
+        ]
+      },
+      {
+        "name": "Tesla Street",
+        "class": "residential",
+        "coord": [
+          42.2665702,
+          -71.0970721
+        ]
+      },
+      {
+        "name": "Topalian Street",
+        "class": "residential",
+        "coord": [
+          42.2660641,
+          -71.0977109
+        ]
+      },
+      {
+        "name": "Violante Street",
+        "class": "residential",
+        "coord": [
+          42.266539,
+          -71.0971564
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.2725166,
+          -71.0694315
+        ]
+      },
+      {
+        "name": "Wichita Terrace",
+        "class": "residential",
+        "coord": [
+          42.2720217,
+          -71.070686
+        ]
+      }
+    ],
+    "riverbank place": [
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2691756,
+          -71.0914555
+        ]
+      }
+    ],
+    "riverdale road": [
+      {
+        "name": "Desmond Road",
+        "class": "residential",
+        "coord": [
+          42.270521,
+          -71.0793744
+        ]
+      }
+    ],
+    "rockdale street": [
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2688577,
+          -71.0960336
+        ]
+      },
+      {
+        "name": "Rector Road",
+        "class": "residential",
+        "coord": [
+          42.2654963,
+          -71.0996397
+        ]
+      },
+      {
+        "name": "Violante Street",
+        "class": "residential",
+        "coord": [
+          42.2675396,
+          -71.0974191
+        ]
+      }
+    ],
+    "rockingham road": [
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2707752,
+          -71.1022918
+        ]
+      },
+      {
+        "name": "Greenfield Road",
+        "class": "residential",
+        "coord": [
+          42.269003,
+          -71.103764
+        ]
+      }
+    ],
+    "rockway street": [
+      {
+        "name": "Regis Road",
+        "class": "residential",
+        "coord": [
+          42.271155,
+          -71.095347
+        ]
+      },
+      {
+        "name": "Rexford Street",
+        "class": "residential",
+        "coord": [
+          42.2707112,
+          -71.0944869
+        ]
+      }
+    ],
+    "rosebery road": [
+      {
+        "name": "Greenfield Road",
+        "class": "residential",
+        "coord": [
+          42.268262,
+          -71.102906
+        ]
+      }
+    ],
+    "rosewood street": [
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2693315,
+          -71.0966705
+        ]
+      },
+      {
+        "name": "Rector Road",
+        "class": "residential",
+        "coord": [
+          42.2659525,
+          -71.1002815
+        ]
+      }
+    ],
+    "rugby road": [
+      {
+        "name": "Blake Street",
+        "class": "residential",
+        "coord": [
+          42.2695399,
+          -71.104375
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2710193,
+          -71.1033565
+        ]
+      },
+      {
+        "name": "Greenfield Road",
+        "class": "residential",
+        "coord": [
+          42.2695399,
+          -71.104375
+        ]
+      },
+      {
+        "name": "Ruxton Road",
+        "class": "residential",
+        "coord": [
+          42.2702486,
+          -71.1038484
+        ]
+      },
+      {
+        "name": "Savannah Avenue",
+        "class": "residential",
+        "coord": [
+          42.2710193,
+          -71.1033565
+        ]
+      }
+    ],
+    "rugdale road": [
+      {
+        "name": "O'Connell Road",
+        "class": "residential",
+        "coord": [
+          42.277701,
+          -71.067517
+        ]
+      },
+      {
+        "name": "Valley Road",
+        "class": "residential",
+        "coord": [
+          42.277701,
+          -71.067517
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.276289,
+          -71.069436
+        ]
+      }
+    ],
+    "ruxton road": [
+      {
+        "name": "Ridlon Road",
+        "class": "residential",
+        "coord": [
+          42.270904,
+          -71.105193
+        ]
+      },
+      {
+        "name": "Rugby Road",
+        "class": "residential",
+        "coord": [
+          42.2702486,
+          -71.1038484
+        ]
+      }
+    ],
+    "saint gregory street": [
+      {
+        "name": "Avondale Street",
+        "class": "residential",
+        "coord": [
+          42.275735,
+          -71.068568
+        ]
+      },
+      {
+        "name": "Dorchester Avenue",
+        "class": "primary",
+        "coord": [
+          42.2755182,
+          -71.0671763
+        ]
+      },
+      {
+        "name": "Packard Avenue",
+        "class": "residential",
+        "coord": [
+          42.275903,
+          -71.07064
+        ]
+      },
+      {
+        "name": "Pleasant Hill Avenue",
+        "class": "residential",
+        "coord": [
+          42.275666,
+          -71.072077
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.275753,
+          -71.069601
+        ]
+      }
+    ],
+    "sanford street": [
+      {
+        "name": "Caddy Road",
+        "class": "residential",
+        "coord": [
+          42.273592,
+          -71.073995
+        ]
+      },
+      {
+        "name": "Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.273342,
+          -71.075587
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.2740958,
+          -71.0706371
+        ]
+      },
+      {
+        "name": "Old Morton Street",
+        "class": "residential",
+        "coord": [
+          42.273945,
+          -71.071858
+        ]
+      },
+      {
+        "name": "Sturbridge Street",
+        "class": "residential",
+        "coord": [
+          42.273469,
+          -71.074767
+        ]
+      },
+      {
+        "name": "Temple Street",
+        "class": "residential",
+        "coord": [
+          42.273805,
+          -71.072687
+        ]
+      }
+    ],
+    "savannah avenue": [
+      {
+        "name": "Almont Street",
+        "class": "tertiary",
+        "coord": [
+          42.276951,
+          -71.097799
+        ]
+      },
+      {
+        "name": "Canaan Street",
+        "class": "residential",
+        "coord": [
+          42.2726685,
+          -71.1021523
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2710193,
+          -71.1033565
+        ]
+      },
+      {
+        "name": "Messinger Street",
+        "class": "residential",
+        "coord": [
+          42.274128,
+          -71.100673
+        ]
+      },
+      {
+        "name": "Monterey Avenue",
+        "class": "residential",
+        "coord": [
+          42.275928,
+          -71.098803
+        ]
+      },
+      {
+        "name": "Newcastle Street",
+        "class": "residential",
+        "coord": [
+          42.273337,
+          -71.101469
+        ]
+      },
+      {
+        "name": "Rugby Road",
+        "class": "residential",
+        "coord": [
+          42.2710193,
+          -71.1033565
+        ]
+      }
+    ],
+    "southmere road": [
+      {
+        "name": "Ledgebrook Road",
+        "class": "residential",
+        "coord": [
+          42.270295,
+          -71.083432
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2710012,
+          -71.085157
+        ]
+      }
+    ],
+    "standard street": [
+      {
+        "name": "Freeland Street",
+        "class": "residential",
+        "coord": [
+          42.273729,
+          -71.079127
+        ]
+      },
+      {
+        "name": "Manchester Street",
+        "class": "residential",
+        "coord": [
+          42.273409,
+          -71.079003
+        ]
+      },
+      {
+        "name": "Menton Street",
+        "class": "residential",
+        "coord": [
+          42.2728437,
+          -71.0787186
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2717286,
+          -71.0785065
+        ]
+      },
+      {
+        "name": "Woodbole Avenue",
+        "class": "residential",
+        "coord": [
+          42.275542,
+          -71.08045
+        ]
+      },
+      {
+        "name": "Woodbole Avenue",
+        "class": "residential",
+        "coord": [
+          42.277612,
+          -71.079867
+        ]
+      },
+      {
+        "name": "Woodgate Street",
+        "class": "residential",
+        "coord": [
+          42.275542,
+          -71.08045
+        ]
+      }
+    ],
+    "stone terrace": [
+      {
+        "name": "Gallivan Boulevard",
+        "class": "trunk",
+        "coord": [
+          42.2791335,
+          -71.0685832
+        ]
+      }
+    ],
+    "stonecrest road": [
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.2778542,
+          -71.1076346
+        ]
+      },
+      {
+        "name": "Livermore Street",
+        "class": "residential",
+        "coord": [
+          42.276542,
+          -71.104936
+        ]
+      },
+      {
+        "name": "Messinger Street",
+        "class": "residential",
+        "coord": [
+          42.276542,
+          -71.104936
+        ]
+      }
+    ],
+    "stow road": [
+      {
+        "name": "Doone Avenue",
+        "class": "residential",
+        "coord": [
+          42.278223,
+          -71.082845
+        ]
+      },
+      {
+        "name": "Tiverton Road",
+        "class": "residential",
+        "coord": [
+          42.278946,
+          -71.082187
+        ]
+      }
+    ],
+    "sturbridge street": [
+      {
+        "name": "Monson Street",
+        "class": "residential",
+        "coord": [
+          42.272351,
+          -71.074336
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2712962,
+          -71.0738311
+        ]
+      },
+      {
+        "name": "Sanford Street",
+        "class": "residential",
+        "coord": [
+          42.273469,
+          -71.074767
+        ]
+      }
+    ],
+    "sutton street": [
+      {
+        "name": "Woolson Street",
+        "class": "residential",
+        "coord": [
+          42.281363,
+          -71.089739
+        ]
+      }
+    ],
+    "tanglewood road": [
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.2732789,
+          -71.0699406
+        ]
+      }
+    ],
+    "taylor terrace": [
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2718579,
+          -71.0720272
+        ]
+      }
+    ],
+    "temple street": [
+      {
+        "name": "Manchester Street",
+        "class": "residential",
+        "coord": [
+          42.274755,
+          -71.073019
+        ]
+      },
+      {
+        "name": "Monson Street",
+        "class": "residential",
+        "coord": [
+          42.272713,
+          -71.072345
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2718535,
+          -71.0721206
+        ]
+      },
+      {
+        "name": "Sanford Street",
+        "class": "residential",
+        "coord": [
+          42.273805,
+          -71.072687
+        ]
+      }
+    ],
+    "tennis road": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2752273,
+          -71.0936234
+        ]
+      }
+    ],
+    "tesla street": [
+      {
+        "name": "Edgewater Drive",
+        "class": "residential",
+        "coord": [
+          42.2656875,
+          -71.0960026
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2665702,
+          -71.0970721
+        ]
+      }
+    ],
+    "tiverton road": [
+      {
+        "name": "Glenhill Road",
+        "class": "residential",
+        "coord": [
+          42.2786077,
+          -71.0816116
+        ]
+      },
+      {
+        "name": "Lorna Road",
+        "class": "residential",
+        "coord": [
+          42.27933,
+          -71.082854
+        ]
+      },
+      {
+        "name": "Owen Street",
+        "class": "residential",
+        "coord": [
+          42.2787511,
+          -71.0818773
+        ]
+      },
+      {
+        "name": "Stow Road",
+        "class": "residential",
+        "coord": [
+          42.278946,
+          -71.082187
+        ]
+      }
+    ],
+    "topalian street": [
+      {
+        "name": "Edgewater Drive",
+        "class": "residential",
+        "coord": [
+          42.2651364,
+          -71.0965564
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2660641,
+          -71.0977109
+        ]
+      }
+    ],
+    "valley road": [
+      {
+        "name": "Dorchester Avenue",
+        "class": "primary",
+        "coord": [
+          42.277904,
+          -71.066503
+        ]
+      },
+      {
+        "name": "O'Connell Road",
+        "class": "residential",
+        "coord": [
+          42.277701,
+          -71.067517
+        ]
+      },
+      {
+        "name": "Rugdale Road",
+        "class": "residential",
+        "coord": [
+          42.277701,
+          -71.067517
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "secondary",
+        "coord": [
+          42.2771457,
+          -71.0694981
+        ]
+      }
+    ],
+    "verndale street": [
+      {
+        "name": "Maryknoll Street",
+        "class": "tertiary",
+        "coord": [
+          42.27651,
+          -71.077805
+        ]
+      }
+    ],
+    "verrill street": [
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2822212,
+          -71.0879484
+        ]
+      },
+      {
+        "name": "Woolson Street",
+        "class": "residential",
+        "coord": [
+          42.281053,
+          -71.089077
+        ]
+      }
+    ],
+    "viking terrace": [
+      {
+        "name": "Dania Street",
+        "class": "residential",
+        "coord": [
+          42.271693,
+          -71.089246
+        ]
+      },
+      {
+        "name": "Linvale Terrace",
+        "class": "residential",
+        "coord": [
+          42.27135,
+          -71.088567
+        ]
+      }
+    ],
+    "violante street": [
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.266539,
+          -71.0971564
+        ]
+      },
+      {
+        "name": "Rockdale Street",
+        "class": "residential",
+        "coord": [
+          42.2675396,
+          -71.0974191
+        ]
+      }
+    ],
+    "violet street": [
+      {
+        "name": "Crossman Street",
+        "class": "residential",
+        "coord": [
+          42.273524,
+          -71.090521
+        ]
+      },
+      {
+        "name": "Delhi Street",
+        "class": "residential",
+        "coord": [
+          42.275359,
+          -71.090351
+        ]
+      },
+      {
+        "name": "French Street",
+        "class": "residential",
+        "coord": [
+          42.274225,
+          -71.089857
+        ]
+      }
+    ],
+    "wabash street": [
+      {
+        "name": "Elene Street",
+        "class": "residential",
+        "coord": [
+          42.279119,
+          -71.099503
+        ]
+      },
+      {
+        "name": "Prairie Street",
+        "class": "residential",
+        "coord": [
+          42.28043,
+          -71.099152
+        ]
+      }
+    ],
+    "walk hill street": [
+      {
+        "name": "Almont Street",
+        "class": "tertiary",
+        "coord": [
+          42.2812414,
+          -71.0979125
+        ]
+      },
+      {
+        "name": "American Legion Highway",
+        "class": "secondary",
+        "coord": [
+          42.2876665,
+          -71.1066654
+        ]
+      },
+      {
+        "name": "American Legion Highway",
+        "class": "secondary",
+        "coord": [
+          42.2877486,
+          -71.1067741
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2771066,
+          -71.0933944
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.277234,
+          -71.0935692
+        ]
+      },
+      {
+        "name": "Canterbury Street",
+        "class": "residential",
+        "coord": [
+          42.288616,
+          -71.107947
+        ]
+      },
+      {
+        "name": "Fottler Road",
+        "class": "residential",
+        "coord": [
+          42.2786527,
+          -71.0954149
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.282336,
+          -71.099632
+        ]
+      },
+      {
+        "name": "Mulvey Street",
+        "class": "residential",
+        "coord": [
+          42.2794905,
+          -71.0962963
+        ]
+      },
+      {
+        "name": "Oak Street",
+        "class": "residential",
+        "coord": [
+          42.285762,
+          -71.104198
+        ]
+      },
+      {
+        "name": "Paine Street",
+        "class": "residential",
+        "coord": [
+          42.286718,
+          -71.105401
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.284538,
+          -71.102694
+        ]
+      }
+    ],
+    "warbler way": [
+      {
+        "name": "Finch Street",
+        "class": "residential",
+        "coord": [
+          42.2871151,
+          -71.1004748
+        ]
+      },
+      {
+        "name": "West Main Street",
+        "class": "residential",
+        "coord": [
+          42.2862938,
+          -71.0999444
+        ]
+      }
+    ],
+    "washington street": [
+      {
+        "name": "Adams Street",
+        "class": "primary",
+        "coord": [
+          42.2721785,
+          -71.0680518
+        ]
+      },
+      {
+        "name": "Adams Street",
+        "class": "primary",
+        "coord": [
+          42.2722605,
+          -71.0680553
+        ]
+      },
+      {
+        "name": "Clancy Road",
+        "class": "residential",
+        "coord": [
+          42.277984,
+          -71.069494
+        ]
+      },
+      {
+        "name": "Dorchester Avenue",
+        "class": "primary",
+        "coord": [
+          42.2722605,
+          -71.0680553
+        ]
+      },
+      {
+        "name": "Gallivan Boulevard",
+        "class": "trunk",
+        "coord": [
+          42.2788188,
+          -71.0694933
+        ]
+      },
+      {
+        "name": "Grant Place",
+        "class": "residential",
+        "coord": [
+          42.2745878,
+          -71.0699276
+        ]
+      },
+      {
+        "name": "Millers Lane",
+        "class": "residential",
+        "coord": [
+          42.2722742,
+          -71.0684036
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.2737224,
+          -71.0701074
+        ]
+      },
+      {
+        "name": "O'Connell Road",
+        "class": "residential",
+        "coord": [
+          42.27779,
+          -71.069546
+        ]
+      },
+      {
+        "name": "Richmond Street",
+        "class": "residential",
+        "coord": [
+          42.2737224,
+          -71.0701074
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2725166,
+          -71.0694315
+        ]
+      },
+      {
+        "name": "Rugdale Road",
+        "class": "residential",
+        "coord": [
+          42.276289,
+          -71.069436
+        ]
+      },
+      {
+        "name": "Saint Gregory Street",
+        "class": "residential",
+        "coord": [
+          42.275753,
+          -71.069601
+        ]
+      },
+      {
+        "name": "Tanglewood Road",
+        "class": "residential",
+        "coord": [
+          42.2732789,
+          -71.0699406
+        ]
+      },
+      {
+        "name": "Valley Road",
+        "class": "residential",
+        "coord": [
+          42.2771457,
+          -71.0694981
+        ]
+      }
+    ],
+    "wellington hill street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2792956,
+          -71.0930221
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2794245,
+          -71.0931485
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2796053,
+          -71.0930897
+        ]
+      },
+      {
+        "name": "Deering Road",
+        "class": "residential",
+        "coord": [
+          42.284777,
+          -71.094318
+        ]
+      },
+      {
+        "name": "Duke Street",
+        "class": "residential",
+        "coord": [
+          42.281471,
+          -71.095726
+        ]
+      },
+      {
+        "name": "Fessenden Street",
+        "class": "residential",
+        "coord": [
+          42.2792956,
+          -71.0930221
+        ]
+      },
+      {
+        "name": "Gilmer Street",
+        "class": "residential",
+        "coord": [
+          42.2825692,
+          -71.0966054
+        ]
+      },
+      {
+        "name": "Goodale Road",
+        "class": "residential",
+        "coord": [
+          42.284509,
+          -71.095087
+        ]
+      },
+      {
+        "name": "Greendale Road",
+        "class": "residential",
+        "coord": [
+          42.2849688,
+          -71.0927981
+        ]
+      },
+      {
+        "name": "Hillsboro Road",
+        "class": "residential",
+        "coord": [
+          42.2825692,
+          -71.0966054
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2849688,
+          -71.0927981
+        ]
+      },
+      {
+        "name": "Ormond Street",
+        "class": "residential",
+        "coord": [
+          42.27985,
+          -71.093621
+        ]
+      },
+      {
+        "name": "Ormond Street",
+        "class": "residential",
+        "coord": [
+          42.284076,
+          -71.095819
+        ]
+      }
+    ],
+    "west main street": [
+      {
+        "name": "Blue Jay Circle",
+        "class": "residential",
+        "coord": [
+          42.2881511,
+          -71.0952346
+        ]
+      },
+      {
+        "name": "Blue Jay Circle",
+        "class": "residential",
+        "coord": [
+          42.2886038,
+          -71.0952301
+        ]
+      },
+      {
+        "name": "Catbird Court",
+        "class": "residential",
+        "coord": [
+          42.2876197,
+          -71.0949274
+        ]
+      },
+      {
+        "name": "Catbird Court",
+        "class": "residential",
+        "coord": [
+          42.2886038,
+          -71.0952301
+        ]
+      },
+      {
+        "name": "Deering Road",
+        "class": "residential",
+        "coord": [
+          42.28671,
+          -71.097969
+        ]
+      },
+      {
+        "name": "Egret Way",
+        "class": "residential",
+        "coord": [
+          42.2867482,
+          -71.0990228
+        ]
+      },
+      {
+        "name": "Falcon Lane",
+        "class": "residential",
+        "coord": [
+          42.2874166,
+          -71.0956556
+        ]
+      },
+      {
+        "name": "Field Sparrow Way",
+        "class": "residential",
+        "coord": [
+          42.2868521,
+          -71.0973404
+        ]
+      },
+      {
+        "name": "Field Sparrow Way",
+        "class": "residential",
+        "coord": [
+          42.2870638,
+          -71.0967625
+        ]
+      },
+      {
+        "name": "Finch Street",
+        "class": "residential",
+        "coord": [
+          42.2867482,
+          -71.0990228
+        ]
+      },
+      {
+        "name": "Goldfinch Court",
+        "class": "residential",
+        "coord": [
+          42.28671,
+          -71.097969
+        ]
+      },
+      {
+        "name": "Goldfinch Court",
+        "class": "residential",
+        "coord": [
+          42.2870638,
+          -71.0967625
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.2871962,
+          -71.0949431
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.2872528,
+          -71.0948549
+        ]
+      },
+      {
+        "name": "Hummingbird Lane",
+        "class": "residential",
+        "coord": [
+          42.2888067,
+          -71.0950248
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2888936,
+          -71.0945406
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2889868,
+          -71.0945817
+        ]
+      },
+      {
+        "name": "Walk Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.284538,
+          -71.102694
+        ]
+      },
+      {
+        "name": "Warbler Way",
+        "class": "residential",
+        "coord": [
+          42.2862938,
+          -71.0999444
+        ]
+      }
+    ],
+    "west selden street": [
+      {
+        "name": "Crossman Street",
+        "class": "residential",
+        "coord": [
+          42.273006,
+          -71.089885
+        ]
+      },
+      {
+        "name": "Faunce Road",
+        "class": "residential",
+        "coord": [
+          42.273006,
+          -71.089885
+        ]
+      },
+      {
+        "name": "Halborn Street",
+        "class": "residential",
+        "coord": [
+          42.274967,
+          -71.088092
+        ]
+      },
+      {
+        "name": "Henrici Street",
+        "class": "residential",
+        "coord": [
+          42.27871,
+          -71.08472
+        ]
+      },
+      {
+        "name": "Lena Terrace",
+        "class": "residential",
+        "coord": [
+          42.277943,
+          -71.085419
+        ]
+      },
+      {
+        "name": "Merola Park",
+        "class": "residential",
+        "coord": [
+          42.273006,
+          -71.089885
+        ]
+      },
+      {
+        "name": "Oak Hill Avenue",
+        "class": "residential",
+        "coord": [
+          42.274512,
+          -71.088509
+        ]
+      },
+      {
+        "name": "Rich Street",
+        "class": "residential",
+        "coord": [
+          42.275436,
+          -71.08766
+        ]
+      },
+      {
+        "name": "Wooddale Avenue",
+        "class": "residential",
+        "coord": [
+          42.275928,
+          -71.087203
+        ]
+      }
+    ],
+    "westmore road": [
+      {
+        "name": "Deering Road",
+        "class": "residential",
+        "coord": [
+          42.285271,
+          -71.095276
+        ]
+      },
+      {
+        "name": "Errol Street",
+        "class": "residential",
+        "coord": [
+          42.283971,
+          -71.096933
+        ]
+      },
+      {
+        "name": "Gilmer Street",
+        "class": "residential",
+        "coord": [
+          42.2831023,
+          -71.0977664
+        ]
+      },
+      {
+        "name": "Hazleton Street",
+        "class": "residential",
+        "coord": [
+          42.282468,
+          -71.098346
+        ]
+      }
+    ],
+    "weybosset street": [
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2716716,
+          -71.1066179
+        ]
+      }
+    ],
+    "wichita terrace": [
+      {
+        "name": "River Street",
+        "class": "secondary",
+        "coord": [
+          42.2720217,
+          -71.070686
+        ]
+      }
+    ],
+    "wildwood street": [
+      {
+        "name": "Morton Street",
+        "class": "trunk",
+        "coord": [
+          42.2830064,
+          -71.0889761
+        ]
+      },
+      {
+        "name": "Woolson Street",
+        "class": "residential",
+        "coord": [
+          42.281682,
+          -71.090436
+        ]
+      }
+    ],
+    "wilmore street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2784687,
+          -71.093286
+        ]
+      },
+      {
+        "name": "Norfolk Street",
+        "class": "secondary",
+        "coord": [
+          42.277386,
+          -71.091699
+        ]
+      }
+    ],
+    "wood avenue": [
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2743425,
+          -71.1091908
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "secondary",
+        "coord": [
+          42.2743425,
+          -71.1091908
+        ]
+      }
+    ],
+    "woodbole avenue": [
+      {
+        "name": "Standard Street",
+        "class": "residential",
+        "coord": [
+          42.275542,
+          -71.08045
+        ]
+      },
+      {
+        "name": "Standard Street",
+        "class": "residential",
+        "coord": [
+          42.277612,
+          -71.079867
+        ]
+      },
+      {
+        "name": "Woodgate Street",
+        "class": "residential",
+        "coord": [
+          42.275542,
+          -71.08045
+        ]
+      },
+      {
+        "name": "Woodgate Street",
+        "class": "residential",
+        "coord": [
+          42.277088,
+          -71.078812
+        ]
+      },
+      {
+        "name": "Woodmere Street",
+        "class": "residential",
+        "coord": [
+          42.277941,
+          -71.080324
+        ]
+      },
+      {
+        "name": "Woodruff Way",
+        "class": "residential",
+        "coord": [
+          42.275604,
+          -71.081387
+        ]
+      },
+      {
+        "name": "Woodruff Way",
+        "class": "residential",
+        "coord": [
+          42.27748,
+          -71.0816
+        ]
+      }
+    ],
+    "wooddale avenue": [
+      {
+        "name": "Banfield Avenue",
+        "class": "residential",
+        "coord": [
+          42.276341,
+          -71.088082
+        ]
+      },
+      {
+        "name": "Delhi Street",
+        "class": "residential",
+        "coord": [
+          42.276761,
+          -71.088931
+        ]
+      },
+      {
+        "name": "West Selden Street",
+        "class": "residential",
+        "coord": [
+          42.275928,
+          -71.087203
+        ]
+      }
+    ],
+    "woodgate street": [
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.2777078,
+          -71.0782944
+        ]
+      },
+      {
+        "name": "Standard Street",
+        "class": "residential",
+        "coord": [
+          42.275542,
+          -71.08045
+        ]
+      },
+      {
+        "name": "Woodbole Avenue",
+        "class": "residential",
+        "coord": [
+          42.275542,
+          -71.08045
+        ]
+      },
+      {
+        "name": "Woodbole Avenue",
+        "class": "residential",
+        "coord": [
+          42.277088,
+          -71.078812
+        ]
+      }
+    ],
+    "woodhaven street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2732625,
+          -71.093688
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.273307,
+          -71.093509
+        ]
+      },
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2733801,
+          -71.0936792
+        ]
+      },
+      {
+        "name": "Culbert Street",
+        "class": "residential",
+        "coord": [
+          42.273288,
+          -71.09395
+        ]
+      },
+      {
+        "name": "Cummins Highway",
+        "class": "primary",
+        "coord": [
+          42.2702112,
+          -71.0982684
+        ]
+      },
+      {
+        "name": "Messinger Street",
+        "class": "residential",
+        "coord": [
+          42.2718662,
+          -71.096781
+        ]
+      }
+    ],
+    "woodmere street": [
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.2784501,
+          -71.0796822
+        ]
+      },
+      {
+        "name": "Morton Street",
+        "class": "secondary",
+        "coord": [
+          42.2784962,
+          -71.0796182
+        ]
+      },
+      {
+        "name": "Woodbole Avenue",
+        "class": "residential",
+        "coord": [
+          42.277941,
+          -71.080324
+        ]
+      }
+    ],
+    "woodruff way": [
+      {
+        "name": "Woodbole Avenue",
+        "class": "residential",
+        "coord": [
+          42.275604,
+          -71.081387
+        ]
+      },
+      {
+        "name": "Woodbole Avenue",
+        "class": "residential",
+        "coord": [
+          42.27748,
+          -71.0816
+        ]
+      }
+    ],
+    "woolson street": [
+      {
+        "name": "Blue Hill Avenue",
+        "class": "trunk",
+        "coord": [
+          42.2824066,
+          -71.0919879
+        ]
+      },
+      {
+        "name": "Leston Street",
+        "class": "residential",
+        "coord": [
+          42.282089,
+          -71.091317
+        ]
+      },
+      {
+        "name": "Norfolk Street",
+        "class": "secondary",
+        "coord": [
+          42.280562,
+          -71.088015
+        ]
+      },
+      {
+        "name": "Sutton Street",
+        "class": "residential",
+        "coord": [
+          42.281363,
+          -71.089739
+        ]
+      },
+      {
+        "name": "Verrill Street",
+        "class": "residential",
+        "coord": [
+          42.281053,
+          -71.089077
+        ]
+      },
+      {
+        "name": "Wildwood Street",
+        "class": "residential",
+        "coord": [
+          42.281682,
+          -71.090436
+        ]
+      }
+    ],
+    "youngs road": [
+      {
+        "name": "Regis Road",
+        "class": "residential",
+        "coord": [
+          42.270103,
+          -71.096404
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-north-end",
+  "display_name": "North End",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3609336,
+    -71.059458,
+    42.368765162000045,
+    -71.04930441599998
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 47233,
+      "sha256": "efaa7f59bc3e79862795ced83d1016e3e9add86b058dee53cd32c77922213b9e"
+    },
+    "hydrants.csv": {
+      "size_bytes": 45853,
+      "sha256": "b01eee6c38665a76e49686c4c3997d2c3f90a4062e2e21d82c866f9a34f95194"
+    }
+  }
+}

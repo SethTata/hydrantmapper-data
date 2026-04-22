@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-west-end",
+  "display_name": "West End",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3611956,
+    -71.0715491,
+    42.36796153800003,
+    -71.058391
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 31130,
+      "sha256": "ba76144c5344aa43996ec14a483ad3cd6d8b2540ebecdb90174a51f3abeb712c"
+    },
+    "hydrants.csv": {
+      "size_bytes": 35672,
+      "sha256": "aa64e4fda37c1553d02c73acf86396b2f3ba53c96ded906f53948a10b9498dba"
+    }
+  }
+}

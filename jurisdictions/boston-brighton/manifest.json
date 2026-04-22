@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-brighton",
+  "display_name": "Brighton",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.33098467800005,
+    -71.17483120799994,
+    42.3648359,
+    -71.13533
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 195653,
+      "sha256": "468ee464bc80cc37202c7c80a5a99bd2eff5511dd4b9ee06aa74c7974cbeba89"
+    },
+    "hydrants.csv": {
+      "size_bytes": 245859,
+      "sha256": "78b919e7c1e97825468fad471f45aced173cb17b143bbd920fc88a76402fb2e2"
+    }
+  }
+}

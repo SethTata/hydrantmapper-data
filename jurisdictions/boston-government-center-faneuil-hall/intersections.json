@@ -1,0 +1,925 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-government-center-faneuil-hall",
+  "generated_at": "2026-04-22T05:26:39Z",
+  "streets": {
+    "ashburton place": [
+      {
+        "name": "Somerset Street",
+        "class": "secondary",
+        "coord": [
+          42.3591853,
+          -71.0616419
+        ]
+      }
+    ],
+    "atlantic avenue": [
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3609336,
+          -71.0528089
+        ]
+      },
+      {
+        "name": "Mercantile Street",
+        "class": "secondary",
+        "coord": [
+          42.3609336,
+          -71.0528089
+        ]
+      }
+    ],
+    "beacon street": [
+      {
+        "name": "Somerset Street",
+        "class": "secondary",
+        "coord": [
+          42.358275,
+          -71.0614958
+        ]
+      }
+    ],
+    "blackstone street": [
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.3620172,
+          -71.0567402
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "secondary",
+        "coord": [
+          42.3611165,
+          -71.0555242
+        ]
+      }
+    ],
+    "bowker street": [
+      {
+        "name": "Hawkins Street",
+        "class": "unclassified",
+        "coord": [
+          42.3621182,
+          -71.0601173
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.3627357,
+          -71.0608897
+        ]
+      }
+    ],
+    "broad street": [
+      {
+        "name": "State Street",
+        "class": "primary",
+        "coord": [
+          42.3592153,
+          -71.0546532
+        ]
+      }
+    ],
+    "bulfinch place": [
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.3621836,
+          -71.0622571
+        ]
+      },
+      {
+        "name": "Sudbury Street",
+        "class": "primary",
+        "coord": [
+          42.3612416,
+          -71.0609552
+        ]
+      }
+    ],
+    "cambridge street": [
+      {
+        "name": "Court Street",
+        "class": "primary",
+        "coord": [
+          42.3592151,
+          -71.0592779
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.361305,
+          -71.0628639
+        ]
+      },
+      {
+        "name": "New Sudbury Street",
+        "class": "primary",
+        "coord": [
+          42.3608688,
+          -71.061328
+        ]
+      },
+      {
+        "name": "New Sudbury Street",
+        "class": "primary",
+        "coord": [
+          42.3609945,
+          -71.0612496
+        ]
+      },
+      {
+        "name": "Sudbury Street",
+        "class": "primary",
+        "coord": [
+          42.3609945,
+          -71.0612496
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3590384,
+          -71.0598148
+        ]
+      }
+    ],
+    "chatham row": [
+      {
+        "name": "Chatham Street",
+        "class": "residential",
+        "coord": [
+          42.3596671,
+          -71.0543974
+        ]
+      },
+      {
+        "name": "State Street",
+        "class": "primary",
+        "coord": [
+          42.3592559,
+          -71.05428
+        ]
+      }
+    ],
+    "chatham street": [
+      {
+        "name": "Chatham Row",
+        "class": "residential",
+        "coord": [
+          42.3596671,
+          -71.0543974
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "residential",
+        "coord": [
+          42.3597402,
+          -71.0536362
+        ]
+      },
+      {
+        "name": "Merchants Row",
+        "class": "residential",
+        "coord": [
+          42.3595454,
+          -71.0556554
+        ]
+      }
+    ],
+    "clinton street": [
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3608225,
+          -71.053702
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "secondary",
+        "coord": [
+          42.3607208,
+          -71.0558935
+        ]
+      }
+    ],
+    "commercial street": [
+      {
+        "name": "Chatham Street",
+        "class": "residential",
+        "coord": [
+          42.3597402,
+          -71.0536362
+        ]
+      },
+      {
+        "name": "State Street",
+        "class": "primary",
+        "coord": [
+          42.3593462,
+          -71.0535741
+        ]
+      }
+    ],
+    "congress street": [
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.361535,
+          -71.0575896
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "secondary",
+        "coord": [
+          42.3602293,
+          -71.0572906
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "secondary",
+        "coord": [
+          42.360238,
+          -71.0571395
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "secondary",
+        "coord": [
+          42.3603195,
+          -71.0571626
+        ]
+      },
+      {
+        "name": "State Street",
+        "class": "primary",
+        "coord": [
+          42.3588803,
+          -71.0568043
+        ]
+      },
+      {
+        "name": "Sudbury Street",
+        "class": "primary",
+        "coord": [
+          42.3624534,
+          -71.0584391
+        ]
+      }
+    ],
+    "court square": [
+      {
+        "name": "Court Street",
+        "class": "primary",
+        "coord": [
+          42.3590003,
+          -71.058625
+        ]
+      },
+      {
+        "name": "Court Street",
+        "class": "primary",
+        "coord": [
+          42.3590958,
+          -71.0589449
+        ]
+      }
+    ],
+    "court street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3592151,
+          -71.0592779
+        ]
+      },
+      {
+        "name": "Court Square",
+        "class": "residential",
+        "coord": [
+          42.3590003,
+          -71.058625
+        ]
+      },
+      {
+        "name": "Court Square",
+        "class": "residential",
+        "coord": [
+          42.3590958,
+          -71.0589449
+        ]
+      }
+    ],
+    "cross street": [
+      {
+        "name": "Atlantic Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3609336,
+          -71.0528089
+        ]
+      },
+      {
+        "name": "Fulton Street",
+        "class": "secondary",
+        "coord": [
+          42.3615567,
+          -71.0539224
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.362545,
+          -71.0558143
+        ]
+      },
+      {
+        "name": "Mercantile Street",
+        "class": "secondary",
+        "coord": [
+          42.3609336,
+          -71.0528089
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "secondary",
+        "coord": [
+          42.3620603,
+          -71.054919
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3628459,
+          -71.0563307
+        ]
+      },
+      {
+        "name": "Stillman Street",
+        "class": "residential",
+        "coord": [
+          42.3638122,
+          -71.0576746
+        ]
+      },
+      {
+        "name": "Sudbury Street",
+        "class": "primary",
+        "coord": [
+          42.3632193,
+          -71.0569596
+        ]
+      }
+    ],
+    "fulton street": [
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3615567,
+          -71.0539224
+        ]
+      }
+    ],
+    "hanover street": [
+      {
+        "name": "Blackstone Street",
+        "class": "living_street",
+        "coord": [
+          42.3620172,
+          -71.0567402
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "primary",
+        "coord": [
+          42.361535,
+          -71.0575896
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.362545,
+          -71.0558143
+        ]
+      },
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3621539,
+          -71.0565019
+        ]
+      },
+      {
+        "name": "Union Street",
+        "class": "residential",
+        "coord": [
+          42.3616868,
+          -71.0573218
+        ]
+      }
+    ],
+    "hawkins street": [
+      {
+        "name": "Bowker Street",
+        "class": "unclassified",
+        "coord": [
+          42.3621182,
+          -71.0601173
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.36247,
+          -71.061744
+        ]
+      }
+    ],
+    "india street": [
+      {
+        "name": "State Street",
+        "class": "primary",
+        "coord": [
+          42.3592707,
+          -71.0540934
+        ]
+      }
+    ],
+    "john f. fitzgerald surface road": [
+      {
+        "name": "Clinton Street",
+        "class": "secondary",
+        "coord": [
+          42.3608225,
+          -71.053702
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.3621539,
+          -71.0565019
+        ]
+      },
+      {
+        "name": "Mercantile Street",
+        "class": "secondary",
+        "coord": [
+          42.3605457,
+          -71.0532003
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "secondary",
+        "coord": [
+          42.3614607,
+          -71.0549643
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "secondary",
+        "coord": [
+          42.3615669,
+          -71.0551723
+        ]
+      },
+      {
+        "name": "State Street",
+        "class": "primary",
+        "coord": [
+          42.3595398,
+          -71.0524257
+        ]
+      },
+      {
+        "name": "Sudbury Street",
+        "class": "primary",
+        "coord": [
+          42.3627758,
+          -71.0575088
+        ]
+      }
+    ],
+    "kilby street": [
+      {
+        "name": "State Street",
+        "class": "primary",
+        "coord": [
+          42.3589984,
+          -71.0559131
+        ]
+      }
+    ],
+    "mckinley square": [
+      {
+        "name": "State Street",
+        "class": "primary",
+        "coord": [
+          42.3593838,
+          -71.0533482
+        ]
+      }
+    ],
+    "mercantile street": [
+      {
+        "name": "Atlantic Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3609336,
+          -71.0528089
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3609336,
+          -71.0528089
+        ]
+      },
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3605457,
+          -71.0532003
+        ]
+      }
+    ],
+    "merchants row": [
+      {
+        "name": "Chatham Street",
+        "class": "residential",
+        "coord": [
+          42.3595454,
+          -71.0556554
+        ]
+      },
+      {
+        "name": "State Street",
+        "class": "primary",
+        "coord": [
+          42.3590775,
+          -71.0554679
+        ]
+      }
+    ],
+    "new chardon street": [
+      {
+        "name": "Bowker Street",
+        "class": "unclassified",
+        "coord": [
+          42.3627357,
+          -71.0608897
+        ]
+      },
+      {
+        "name": "Bulfinch Place",
+        "class": "residential",
+        "coord": [
+          42.3621836,
+          -71.0622571
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.361305,
+          -71.0628639
+        ]
+      },
+      {
+        "name": "Hawkins Street",
+        "class": "unclassified",
+        "coord": [
+          42.36247,
+          -71.061744
+        ]
+      }
+    ],
+    "new sudbury street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3608688,
+          -71.061328
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3609945,
+          -71.0612496
+        ]
+      },
+      {
+        "name": "Sudbury Street",
+        "class": "primary",
+        "coord": [
+          42.3609945,
+          -71.0612496
+        ]
+      }
+    ],
+    "north street": [
+      {
+        "name": "Blackstone Street",
+        "class": "living_street",
+        "coord": [
+          42.3611165,
+          -71.0555242
+        ]
+      },
+      {
+        "name": "Clinton Street",
+        "class": "secondary",
+        "coord": [
+          42.3607208,
+          -71.0558935
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "primary",
+        "coord": [
+          42.3602293,
+          -71.0572906
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "primary",
+        "coord": [
+          42.360238,
+          -71.0571395
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "primary",
+        "coord": [
+          42.3603195,
+          -71.0571626
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3620603,
+          -71.054919
+        ]
+      },
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3614607,
+          -71.0549643
+        ]
+      },
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3615669,
+          -71.0551723
+        ]
+      },
+      {
+        "name": "Union Street",
+        "class": "residential",
+        "coord": [
+          42.3603767,
+          -71.0567367
+        ]
+      }
+    ],
+    "salem street": [
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3628459,
+          -71.0563307
+        ]
+      }
+    ],
+    "somerset street": [
+      {
+        "name": "Ashburton Place",
+        "class": "secondary",
+        "coord": [
+          42.3591853,
+          -71.0616419
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.358275,
+          -71.0614958
+        ]
+      }
+    ],
+    "state street": [
+      {
+        "name": "Broad Street",
+        "class": "secondary",
+        "coord": [
+          42.3592153,
+          -71.0546532
+        ]
+      },
+      {
+        "name": "Chatham Row",
+        "class": "residential",
+        "coord": [
+          42.3592559,
+          -71.05428
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "residential",
+        "coord": [
+          42.3593462,
+          -71.0535741
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "primary",
+        "coord": [
+          42.3588803,
+          -71.0568043
+        ]
+      },
+      {
+        "name": "India Street",
+        "class": "secondary",
+        "coord": [
+          42.3592707,
+          -71.0540934
+        ]
+      },
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3595398,
+          -71.0524257
+        ]
+      },
+      {
+        "name": "Kilby Street",
+        "class": "residential",
+        "coord": [
+          42.3589984,
+          -71.0559131
+        ]
+      },
+      {
+        "name": "McKinley Square",
+        "class": "living_street",
+        "coord": [
+          42.3593838,
+          -71.0533482
+        ]
+      },
+      {
+        "name": "Merchants Row",
+        "class": "residential",
+        "coord": [
+          42.3590775,
+          -71.0554679
+        ]
+      }
+    ],
+    "stillman street": [
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3638122,
+          -71.0576746
+        ]
+      }
+    ],
+    "sudbury street": [
+      {
+        "name": "Bulfinch Place",
+        "class": "residential",
+        "coord": [
+          42.3612416,
+          -71.0609552
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3609945,
+          -71.0612496
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3624534,
+          -71.0584391
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3632193,
+          -71.0569596
+        ]
+      },
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3627758,
+          -71.0575088
+        ]
+      },
+      {
+        "name": "New Sudbury Street",
+        "class": "primary",
+        "coord": [
+          42.3609945,
+          -71.0612496
+        ]
+      }
+    ],
+    "tremont street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3590384,
+          -71.0598148
+        ]
+      }
+    ],
+    "union street": [
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.3616868,
+          -71.0573218
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "secondary",
+        "coord": [
+          42.3603767,
+          -71.0567367
+        ]
+      }
+    ]
+  }
+}

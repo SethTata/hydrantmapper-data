@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-mattapan",
+  "display_name": "Mattapan",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.2631938,
+    -71.1091908,
+    42.29296935800005,
+    -71.0659366
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 145870,
+      "sha256": "11ef8f5bdf8cbeb32fe49291f5c5e3de66acac20ea9eca13d0c7a1c8a5e10227"
+    },
+    "hydrants.csv": {
+      "size_bytes": 176516,
+      "sha256": "21569d3f9b8d989ee26226b295551ac8ab08f57ede9b6bee36b3393049c1bcb1"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-mission-hill",
+  "display_name": "Mission Hill",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3260976,
+    -71.1130873,
+    42.33750560900006,
+    -71.09158345099996
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 54436,
+      "sha256": "dd5114ba57c40a7bf1a13ded8ddc44ee420574ba12283c3bdd94cd0750dd9007"
+    },
+    "hydrants.csv": {
+      "size_bytes": 61399,
+      "sha256": "7bef9bce58bb37a3a80504db901155949c7bb655bff6c57ca8dd68821e68d0c7"
+    }
+  }
+}

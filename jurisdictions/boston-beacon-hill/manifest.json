@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-beacon-hill",
+  "display_name": "Beacon Hill",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3522061,
+    -71.07545816099997,
+    42.3611913,
+    -71.061982
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 42534,
+      "sha256": "48b68ba08cf2770e8de792a9b6e4c0833e84d098be4156ce17838f43af844abb"
+    },
+    "hydrants.csv": {
+      "size_bytes": 32801,
+      "sha256": "cc30fa66100dff3f65f3fa337a638565c43b5aa8ad0fffaebaafab1eb0b1a3ac"
+    }
+  }
+}

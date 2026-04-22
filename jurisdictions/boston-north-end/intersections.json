@@ -1,0 +1,2467 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-north-end",
+  "generated_at": "2026-04-22T05:27:02Z",
+  "streets": {
+    "archway street": [
+      {
+        "name": "Richmond Street",
+        "class": "residential",
+        "coord": [
+          42.3622322,
+          -71.0529383
+        ]
+      }
+    ],
+    "atlantic avenue": [
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.363693,
+          -71.0510737
+        ]
+      },
+      {
+        "name": "Commercial Wharf",
+        "class": "unclassified",
+        "coord": [
+          42.3622581,
+          -71.0510543
+        ]
+      },
+      {
+        "name": "Commercial Wharf",
+        "class": "unclassified",
+        "coord": [
+          42.3624971,
+          -71.0509986
+        ]
+      },
+      {
+        "name": "Commercial Wharf West",
+        "class": "residential",
+        "coord": [
+          42.3622581,
+          -71.0510543
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3609336,
+          -71.0528089
+        ]
+      },
+      {
+        "name": "Lewis Wharf",
+        "class": "unclassified",
+        "coord": [
+          42.363693,
+          -71.0510737
+        ]
+      },
+      {
+        "name": "Richmond Street",
+        "class": "residential",
+        "coord": [
+          42.3616763,
+          -71.0519657
+        ]
+      }
+    ],
+    "baldwin place": [
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3647407,
+          -71.0555169
+        ]
+      }
+    ],
+    "battery street": [
+      {
+        "name": "Battery Wharf",
+        "class": "residential",
+        "coord": [
+          42.3664035,
+          -71.0514037
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3664035,
+          -71.0514037
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.366251,
+          -71.052759
+        ]
+      }
+    ],
+    "battery wharf": [
+      {
+        "name": "Battery Street",
+        "class": "secondary",
+        "coord": [
+          42.3664035,
+          -71.0514037
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3664035,
+          -71.0514037
+        ]
+      }
+    ],
+    "belgravia place": [
+      {
+        "name": "Charter Street",
+        "class": "residential",
+        "coord": [
+          42.36643,
+          -71.053429
+        ]
+      }
+    ],
+    "causeway street": [
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3669043,
+          -71.058545
+        ]
+      },
+      {
+        "name": "Endicott Street",
+        "class": "residential",
+        "coord": [
+          42.3669043,
+          -71.058545
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "residential",
+        "coord": [
+          42.3663813,
+          -71.059458
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3669043,
+          -71.058545
+        ]
+      }
+    ],
+    "charter street": [
+      {
+        "name": "Belgravia Place",
+        "class": "residential",
+        "coord": [
+          42.36643,
+          -71.053429
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3682441,
+          -71.0566092
+        ]
+      },
+      {
+        "name": "Copp's Hill Terrace",
+        "class": "residential",
+        "coord": [
+          42.3677625,
+          -71.0557902
+        ]
+      },
+      {
+        "name": "Foster Street",
+        "class": "residential",
+        "coord": [
+          42.3671513,
+          -71.0545129
+        ]
+      },
+      {
+        "name": "Hanover Avenue",
+        "class": "living_street",
+        "coord": [
+          42.3658516,
+          -71.0528554
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.3658516,
+          -71.0528554
+        ]
+      },
+      {
+        "name": "Henchman Street",
+        "class": "residential",
+        "coord": [
+          42.366916,
+          -71.053967
+        ]
+      },
+      {
+        "name": "Michelangelo Street",
+        "class": "residential",
+        "coord": [
+          42.367226,
+          -71.054685
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3670578,
+          -71.0542969
+        ]
+      },
+      {
+        "name": "Snow Hill Street",
+        "class": "residential",
+        "coord": [
+          42.368085,
+          -71.056385
+        ]
+      },
+      {
+        "name": "Unity Street",
+        "class": "residential",
+        "coord": [
+          42.366574,
+          -71.053563
+        ]
+      }
+    ],
+    "clark street": [
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3648267,
+          -71.0510646
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.3652827,
+          -71.0530662
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "residential",
+        "coord": [
+          42.364937,
+          -71.051788
+        ]
+      }
+    ],
+    "commercial street": [
+      {
+        "name": "Atlantic Avenue",
+        "class": "secondary",
+        "coord": [
+          42.363693,
+          -71.0510737
+        ]
+      },
+      {
+        "name": "Battery Street",
+        "class": "secondary",
+        "coord": [
+          42.3664035,
+          -71.0514037
+        ]
+      },
+      {
+        "name": "Battery Wharf",
+        "class": "residential",
+        "coord": [
+          42.3664035,
+          -71.0514037
+        ]
+      },
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3669043,
+          -71.058545
+        ]
+      },
+      {
+        "name": "Charter Street",
+        "class": "residential",
+        "coord": [
+          42.3682441,
+          -71.0566092
+        ]
+      },
+      {
+        "name": "Clark Street",
+        "class": "residential",
+        "coord": [
+          42.3648267,
+          -71.0510646
+        ]
+      },
+      {
+        "name": "Commercial Wharf West",
+        "class": "residential",
+        "coord": [
+          42.3627916,
+          -71.0519289
+        ]
+      },
+      {
+        "name": "Copp's Hill Terrace",
+        "class": "residential",
+        "coord": [
+          42.3682082,
+          -71.0557028
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3612303,
+          -71.0533026
+        ]
+      },
+      {
+        "name": "Eastern Avenue",
+        "class": "residential",
+        "coord": [
+          42.3641983,
+          -71.0510724
+        ]
+      },
+      {
+        "name": "Endicott Street",
+        "class": "residential",
+        "coord": [
+          42.3669043,
+          -71.058545
+        ]
+      },
+      {
+        "name": "Fiskes Wharf",
+        "class": "residential",
+        "coord": [
+          42.367525,
+          -71.0534
+        ]
+      },
+      {
+        "name": "Fleet Street",
+        "class": "residential",
+        "coord": [
+          42.3639955,
+          -71.0510818
+        ]
+      },
+      {
+        "name": "Foster Street",
+        "class": "residential",
+        "coord": [
+          42.3677576,
+          -71.0540368
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "residential",
+        "coord": [
+          42.3671955,
+          -71.0525283
+        ]
+      },
+      {
+        "name": "Henchman Street",
+        "class": "residential",
+        "coord": [
+          42.367525,
+          -71.0534
+        ]
+      },
+      {
+        "name": "Holden Court",
+        "class": "living_street",
+        "coord": [
+          42.3668377,
+          -71.0518716
+        ]
+      },
+      {
+        "name": "Hull Street",
+        "class": "residential",
+        "coord": [
+          42.3677605,
+          -71.0574028
+        ]
+      },
+      {
+        "name": "Lewis Street",
+        "class": "residential",
+        "coord": [
+          42.3632078,
+          -71.0515676
+        ]
+      },
+      {
+        "name": "Lewis Wharf",
+        "class": "unclassified",
+        "coord": [
+          42.363693,
+          -71.0510737
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "residential",
+        "coord": [
+          42.366037,
+          -71.0512334
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3669043,
+          -71.058545
+        ]
+      },
+      {
+        "name": "Prince Street",
+        "class": "residential",
+        "coord": [
+          42.3672534,
+          -71.0580822
+        ]
+      },
+      {
+        "name": "Richmond Street",
+        "class": "residential",
+        "coord": [
+          42.3620171,
+          -71.0526092
+        ]
+      },
+      {
+        "name": "Salutation Street",
+        "class": "residential",
+        "coord": [
+          42.366175,
+          -71.051296
+        ]
+      },
+      {
+        "name": "Union Wharf",
+        "class": "residential",
+        "coord": [
+          42.3653419,
+          -71.051104
+        ]
+      }
+    ],
+    "commercial wharf": [
+      {
+        "name": "Atlantic Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3622581,
+          -71.0510543
+        ]
+      },
+      {
+        "name": "Atlantic Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3624971,
+          -71.0509986
+        ]
+      },
+      {
+        "name": "Commercial Wharf West",
+        "class": "residential",
+        "coord": [
+          42.3622581,
+          -71.0510543
+        ]
+      }
+    ],
+    "commercial wharf west": [
+      {
+        "name": "Atlantic Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3622581,
+          -71.0510543
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3627916,
+          -71.0519289
+        ]
+      },
+      {
+        "name": "Commercial Wharf",
+        "class": "unclassified",
+        "coord": [
+          42.3622581,
+          -71.0510543
+        ]
+      }
+    ],
+    "cooper street": [
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3643701,
+          -71.0581899
+        ]
+      },
+      {
+        "name": "Endicott Street",
+        "class": "residential",
+        "coord": [
+          42.3644336,
+          -71.0573186
+        ]
+      },
+      {
+        "name": "Lynn Street",
+        "class": "residential",
+        "coord": [
+          42.364402,
+          -71.057764
+        ]
+      },
+      {
+        "name": "North Margin Street",
+        "class": "residential",
+        "coord": [
+          42.364465,
+          -71.056689
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.364362,
+          -71.055555
+        ]
+      },
+      {
+        "name": "Stillman Place",
+        "class": "residential",
+        "coord": [
+          42.364397,
+          -71.057834
+        ]
+      }
+    ],
+    "copp's hill terrace": [
+      {
+        "name": "Charter Street",
+        "class": "residential",
+        "coord": [
+          42.3677625,
+          -71.0557902
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3682082,
+          -71.0557028
+        ]
+      }
+    ],
+    "cross street": [
+      {
+        "name": "Atlantic Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3609336,
+          -71.0528089
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3612303,
+          -71.0533026
+        ]
+      },
+      {
+        "name": "Cooper Street",
+        "class": "residential",
+        "coord": [
+          42.3643701,
+          -71.0581899
+        ]
+      },
+      {
+        "name": "Endicott Street",
+        "class": "residential",
+        "coord": [
+          42.3633801,
+          -71.0571974
+        ]
+      },
+      {
+        "name": "Fulton Street",
+        "class": "secondary",
+        "coord": [
+          42.3615567,
+          -71.0539224
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.362545,
+          -71.0558143
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "secondary",
+        "coord": [
+          42.3620603,
+          -71.054919
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.364526,
+          -71.0582865
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3628459,
+          -71.0563307
+        ]
+      },
+      {
+        "name": "Stillman Place",
+        "class": "residential",
+        "coord": [
+          42.3639454,
+          -71.0577962
+        ]
+      },
+      {
+        "name": "Stillman Street",
+        "class": "residential",
+        "coord": [
+          42.3638122,
+          -71.0576746
+        ]
+      },
+      {
+        "name": "Sudbury Street",
+        "class": "primary",
+        "coord": [
+          42.3632193,
+          -71.0569596
+        ]
+      }
+    ],
+    "eastern avenue": [
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3641983,
+          -71.0510724
+        ]
+      }
+    ],
+    "endicott court": [
+      {
+        "name": "Endicott Street",
+        "class": "residential",
+        "coord": [
+          42.3659476,
+          -71.0575401
+        ]
+      }
+    ],
+    "endicott street": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3669043,
+          -71.058545
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3669043,
+          -71.058545
+        ]
+      },
+      {
+        "name": "Cooper Street",
+        "class": "residential",
+        "coord": [
+          42.3644336,
+          -71.0573186
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3633801,
+          -71.0571974
+        ]
+      },
+      {
+        "name": "Endicott Court",
+        "class": "residential",
+        "coord": [
+          42.3659476,
+          -71.0575401
+        ]
+      },
+      {
+        "name": "Lafayette Avenue",
+        "class": "residential",
+        "coord": [
+          42.3662192,
+          -71.0577887
+        ]
+      },
+      {
+        "name": "North Margin Street",
+        "class": "residential",
+        "coord": [
+          42.3658999,
+          -71.0575025
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3669043,
+          -71.058545
+        ]
+      },
+      {
+        "name": "Stillman Street",
+        "class": "residential",
+        "coord": [
+          42.3638364,
+          -71.0572629
+        ]
+      },
+      {
+        "name": "Stillman Street",
+        "class": "residential",
+        "coord": [
+          42.3638375,
+          -71.0572425
+        ]
+      },
+      {
+        "name": "Thacher Street",
+        "class": "residential",
+        "coord": [
+          42.365307,
+          -71.057415
+        ]
+      }
+    ],
+    "fiskes wharf": [
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.367525,
+          -71.0534
+        ]
+      },
+      {
+        "name": "Henchman Street",
+        "class": "residential",
+        "coord": [
+          42.367525,
+          -71.0534
+        ]
+      }
+    ],
+    "fleet street": [
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3639955,
+          -71.0510818
+        ]
+      },
+      {
+        "name": "Garden Court Street",
+        "class": "residential",
+        "coord": [
+          42.3646736,
+          -71.0531761
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.364779,
+          -71.053461
+        ]
+      },
+      {
+        "name": "Moon Street",
+        "class": "residential",
+        "coord": [
+          42.3643899,
+          -71.0523531
+        ]
+      },
+      {
+        "name": "North Bennet Street",
+        "class": "residential",
+        "coord": [
+          42.364779,
+          -71.053461
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "residential",
+        "coord": [
+          42.3641958,
+          -71.0517889
+        ]
+      }
+    ],
+    "foster street": [
+      {
+        "name": "Charter Street",
+        "class": "residential",
+        "coord": [
+          42.3671513,
+          -71.0545129
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3677576,
+          -71.0540368
+        ]
+      }
+    ],
+    "fountain place": [
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.366496,
+          -71.052714
+        ]
+      }
+    ],
+    "fulton street": [
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3615567,
+          -71.0539224
+        ]
+      },
+      {
+        "name": "Lewis Street",
+        "class": "residential",
+        "coord": [
+          42.3634811,
+          -71.0519102
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "secondary",
+        "coord": [
+          42.3628165,
+          -71.0543027
+        ]
+      },
+      {
+        "name": "Richmond Street",
+        "class": "residential",
+        "coord": [
+          42.3623813,
+          -71.0531619
+        ]
+      }
+    ],
+    "garden court street": [
+      {
+        "name": "Fleet Street",
+        "class": "residential",
+        "coord": [
+          42.3646736,
+          -71.0531761
+        ]
+      },
+      {
+        "name": "North Square",
+        "class": "residential",
+        "coord": [
+          42.3640542,
+          -71.0534305
+        ]
+      },
+      {
+        "name": "Prince Street",
+        "class": "residential",
+        "coord": [
+          42.3640542,
+          -71.0534305
+        ]
+      }
+    ],
+    "hanover avenue": [
+      {
+        "name": "Charter Street",
+        "class": "residential",
+        "coord": [
+          42.3658516,
+          -71.0528554
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.3658516,
+          -71.0528554
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "residential",
+        "coord": [
+          42.3656667,
+          -71.0515877
+        ]
+      },
+      {
+        "name": "Powers Court",
+        "class": "residential",
+        "coord": [
+          42.3657475,
+          -71.0520996
+        ]
+      }
+    ],
+    "hanover street": [
+      {
+        "name": "Battery Street",
+        "class": "secondary",
+        "coord": [
+          42.366251,
+          -71.052759
+        ]
+      },
+      {
+        "name": "Charter Street",
+        "class": "residential",
+        "coord": [
+          42.3658516,
+          -71.0528554
+        ]
+      },
+      {
+        "name": "Clark Street",
+        "class": "residential",
+        "coord": [
+          42.3652827,
+          -71.0530662
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3671955,
+          -71.0525283
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.362545,
+          -71.0558143
+        ]
+      },
+      {
+        "name": "Fleet Street",
+        "class": "residential",
+        "coord": [
+          42.364779,
+          -71.053461
+        ]
+      },
+      {
+        "name": "Fountain Place",
+        "class": "residential",
+        "coord": [
+          42.366496,
+          -71.052714
+        ]
+      },
+      {
+        "name": "Hanover Avenue",
+        "class": "living_street",
+        "coord": [
+          42.3658516,
+          -71.0528554
+        ]
+      },
+      {
+        "name": "Harris Street",
+        "class": "residential",
+        "coord": [
+          42.3655893,
+          -71.0529452
+        ]
+      },
+      {
+        "name": "Mechanic Street",
+        "class": "residential",
+        "coord": [
+          42.3629607,
+          -71.0553021
+        ]
+      },
+      {
+        "name": "North Bennet Street",
+        "class": "residential",
+        "coord": [
+          42.364779,
+          -71.053461
+        ]
+      },
+      {
+        "name": "Parmenter Street",
+        "class": "residential",
+        "coord": [
+          42.3636674,
+          -71.0546285
+        ]
+      },
+      {
+        "name": "Prince Street",
+        "class": "residential",
+        "coord": [
+          42.364322,
+          -71.0539163
+        ]
+      },
+      {
+        "name": "Richmond Street",
+        "class": "secondary",
+        "coord": [
+          42.3636394,
+          -71.0546566
+        ]
+      },
+      {
+        "name": "Salutation Street",
+        "class": "residential",
+        "coord": [
+          42.3660739,
+          -71.0528019
+        ]
+      },
+      {
+        "name": "Tileston Street",
+        "class": "residential",
+        "coord": [
+          42.3650892,
+          -71.0531756
+        ]
+      }
+    ],
+    "harris street": [
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.3655893,
+          -71.0529452
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "residential",
+        "coord": [
+          42.3652607,
+          -71.0517665
+        ]
+      }
+    ],
+    "henchman street": [
+      {
+        "name": "Charter Street",
+        "class": "residential",
+        "coord": [
+          42.366916,
+          -71.053967
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.367525,
+          -71.0534
+        ]
+      },
+      {
+        "name": "Fiskes Wharf",
+        "class": "residential",
+        "coord": [
+          42.367525,
+          -71.0534
+        ]
+      }
+    ],
+    "holden court": [
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3668377,
+          -71.0518716
+        ]
+      }
+    ],
+    "hull street": [
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3677605,
+          -71.0574028
+        ]
+      },
+      {
+        "name": "North Hudson Street",
+        "class": "residential",
+        "coord": [
+          42.3674176,
+          -71.0570004
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3664126,
+          -71.0547172
+        ]
+      },
+      {
+        "name": "Snelling Place",
+        "class": "residential",
+        "coord": [
+          42.3665507,
+          -71.0550706
+        ]
+      },
+      {
+        "name": "Snow Hill Street",
+        "class": "residential",
+        "coord": [
+          42.3670817,
+          -71.0564979
+        ]
+      }
+    ],
+    "jerusalem place": [
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.364582,
+          -71.055531
+        ]
+      }
+    ],
+    "lafayette avenue": [
+      {
+        "name": "Endicott Street",
+        "class": "residential",
+        "coord": [
+          42.3662192,
+          -71.0577887
+        ]
+      },
+      {
+        "name": "North Margin Street",
+        "class": "residential",
+        "coord": [
+          42.3663134,
+          -71.0575768
+        ]
+      },
+      {
+        "name": "Prince Street",
+        "class": "residential",
+        "coord": [
+          42.3664255,
+          -71.0573248
+        ]
+      }
+    ],
+    "langdon place": [
+      {
+        "name": "North Street",
+        "class": "residential",
+        "coord": [
+          42.3634561,
+          -71.0530111
+        ]
+      }
+    ],
+    "lewis street": [
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3632078,
+          -71.0515676
+        ]
+      },
+      {
+        "name": "Fulton Street",
+        "class": "residential",
+        "coord": [
+          42.3634811,
+          -71.0519102
+        ]
+      },
+      {
+        "name": "Moon Street",
+        "class": "residential",
+        "coord": [
+          42.3642058,
+          -71.0526518
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "residential",
+        "coord": [
+          42.363676,
+          -71.05212
+        ]
+      }
+    ],
+    "lewis wharf": [
+      {
+        "name": "Atlantic Avenue",
+        "class": "secondary",
+        "coord": [
+          42.363693,
+          -71.0510737
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.363693,
+          -71.0510737
+        ]
+      }
+    ],
+    "lombard place": [
+      {
+        "name": "Prince Street",
+        "class": "residential",
+        "coord": [
+          42.365432,
+          -71.055841
+        ]
+      },
+      {
+        "name": "Thacher Street",
+        "class": "residential",
+        "coord": [
+          42.3655559,
+          -71.0565697
+        ]
+      }
+    ],
+    "lynn street": [
+      {
+        "name": "Cooper Street",
+        "class": "residential",
+        "coord": [
+          42.364402,
+          -71.057764
+        ]
+      },
+      {
+        "name": "Thacher Court",
+        "class": "residential",
+        "coord": [
+          42.365284,
+          -71.0578497
+        ]
+      },
+      {
+        "name": "Thacher Street",
+        "class": "residential",
+        "coord": [
+          42.365284,
+          -71.0578497
+        ]
+      }
+    ],
+    "margaret street": [
+      {
+        "name": "Prince Street",
+        "class": "residential",
+        "coord": [
+          42.365498,
+          -71.055956
+        ]
+      },
+      {
+        "name": "Sheafe Street",
+        "class": "residential",
+        "coord": [
+          42.3661791,
+          -71.0554881
+        ]
+      }
+    ],
+    "mechanic street": [
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.3629607,
+          -71.0553021
+        ]
+      }
+    ],
+    "medford street": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3663813,
+          -71.059458
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3654618,
+          -71.0583951
+        ]
+      }
+    ],
+    "michelangelo street": [
+      {
+        "name": "Charter Street",
+        "class": "residential",
+        "coord": [
+          42.367226,
+          -71.054685
+        ]
+      }
+    ],
+    "moon street": [
+      {
+        "name": "Fleet Street",
+        "class": "residential",
+        "coord": [
+          42.3643899,
+          -71.0523531
+        ]
+      },
+      {
+        "name": "Lewis Street",
+        "class": "residential",
+        "coord": [
+          42.3642058,
+          -71.0526518
+        ]
+      },
+      {
+        "name": "North Square",
+        "class": "residential",
+        "coord": [
+          42.3638892,
+          -71.053169
+        ]
+      },
+      {
+        "name": "Sun Court Street",
+        "class": "residential",
+        "coord": [
+          42.3639357,
+          -71.053089
+        ]
+      }
+    ],
+    "north bennet place": [
+      {
+        "name": "North Bennet Street",
+        "class": "residential",
+        "coord": [
+          42.3650085,
+          -71.0538349
+        ]
+      }
+    ],
+    "north bennet street": [
+      {
+        "name": "Fleet Street",
+        "class": "residential",
+        "coord": [
+          42.364779,
+          -71.053461
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.364779,
+          -71.053461
+        ]
+      },
+      {
+        "name": "North Bennet Place",
+        "class": "residential",
+        "coord": [
+          42.3650085,
+          -71.0538349
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3658679,
+          -71.0550599
+        ]
+      },
+      {
+        "name": "Wiggin Street",
+        "class": "residential",
+        "coord": [
+          42.365529,
+          -71.05457
+        ]
+      }
+    ],
+    "north hudson street": [
+      {
+        "name": "Hull Street",
+        "class": "residential",
+        "coord": [
+          42.3674176,
+          -71.0570004
+        ]
+      },
+      {
+        "name": "Snow Hill Street",
+        "class": "residential",
+        "coord": [
+          42.3677899,
+          -71.0564274
+        ]
+      }
+    ],
+    "north margin street": [
+      {
+        "name": "Cooper Street",
+        "class": "residential",
+        "coord": [
+          42.364465,
+          -71.056689
+        ]
+      },
+      {
+        "name": "Endicott Street",
+        "class": "residential",
+        "coord": [
+          42.3658999,
+          -71.0575025
+        ]
+      },
+      {
+        "name": "Lafayette Avenue",
+        "class": "residential",
+        "coord": [
+          42.3663134,
+          -71.0575768
+        ]
+      },
+      {
+        "name": "Stillman Street",
+        "class": "residential",
+        "coord": [
+          42.363871,
+          -71.056639
+        ]
+      },
+      {
+        "name": "Thacher Street",
+        "class": "residential",
+        "coord": [
+          42.365331,
+          -71.056767
+        ]
+      },
+      {
+        "name": "Thacher Street",
+        "class": "residential",
+        "coord": [
+          42.3653939,
+          -71.0567704
+        ]
+      },
+      {
+        "name": "Thacher Street",
+        "class": "residential",
+        "coord": [
+          42.3655119,
+          -71.0566243
+        ]
+      },
+      {
+        "name": "Wiget Street",
+        "class": "residential",
+        "coord": [
+          42.3641354,
+          -71.0566547
+        ]
+      }
+    ],
+    "north square": [
+      {
+        "name": "Garden Court Street",
+        "class": "residential",
+        "coord": [
+          42.3640542,
+          -71.0534305
+        ]
+      },
+      {
+        "name": "Moon Street",
+        "class": "residential",
+        "coord": [
+          42.3638892,
+          -71.053169
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "residential",
+        "coord": [
+          42.36331,
+          -71.0538266
+        ]
+      },
+      {
+        "name": "Prince Street",
+        "class": "residential",
+        "coord": [
+          42.3640542,
+          -71.0534305
+        ]
+      }
+    ],
+    "north street": [
+      {
+        "name": "Clark Street",
+        "class": "residential",
+        "coord": [
+          42.364937,
+          -71.051788
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.366037,
+          -71.0512334
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3620603,
+          -71.054919
+        ]
+      },
+      {
+        "name": "Fleet Street",
+        "class": "residential",
+        "coord": [
+          42.3641958,
+          -71.0517889
+        ]
+      },
+      {
+        "name": "Fulton Street",
+        "class": "residential",
+        "coord": [
+          42.3628165,
+          -71.0543027
+        ]
+      },
+      {
+        "name": "Hanover Avenue",
+        "class": "living_street",
+        "coord": [
+          42.3656667,
+          -71.0515877
+        ]
+      },
+      {
+        "name": "Harris Street",
+        "class": "residential",
+        "coord": [
+          42.3652607,
+          -71.0517665
+        ]
+      },
+      {
+        "name": "Langdon Place",
+        "class": "residential",
+        "coord": [
+          42.3634561,
+          -71.0530111
+        ]
+      },
+      {
+        "name": "Lewis Street",
+        "class": "residential",
+        "coord": [
+          42.363676,
+          -71.05212
+        ]
+      },
+      {
+        "name": "North Square",
+        "class": "residential",
+        "coord": [
+          42.36331,
+          -71.0538266
+        ]
+      },
+      {
+        "name": "Powers Court",
+        "class": "residential",
+        "coord": [
+          42.3659546,
+          -71.0513862
+        ]
+      },
+      {
+        "name": "Richmond Street",
+        "class": "secondary",
+        "coord": [
+          42.363096,
+          -71.054075
+        ]
+      },
+      {
+        "name": "Sun Court Street",
+        "class": "residential",
+        "coord": [
+          42.3634831,
+          -71.0527772
+        ]
+      }
+    ],
+    "north washington street": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3669043,
+          -71.058545
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3669043,
+          -71.058545
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.364526,
+          -71.0582865
+        ]
+      },
+      {
+        "name": "Endicott Street",
+        "class": "residential",
+        "coord": [
+          42.3669043,
+          -71.058545
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "residential",
+        "coord": [
+          42.3654618,
+          -71.0583951
+        ]
+      },
+      {
+        "name": "Thacher Street",
+        "class": "residential",
+        "coord": [
+          42.365242,
+          -71.058391
+        ]
+      }
+    ],
+    "parmenter street": [
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.3636674,
+          -71.0546285
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3641234,
+          -71.0555582
+        ]
+      }
+    ],
+    "powers court": [
+      {
+        "name": "Hanover Avenue",
+        "class": "living_street",
+        "coord": [
+          42.3657475,
+          -71.0520996
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "residential",
+        "coord": [
+          42.3659546,
+          -71.0513862
+        ]
+      }
+    ],
+    "prince street": [
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3672534,
+          -71.0580822
+        ]
+      },
+      {
+        "name": "Garden Court Street",
+        "class": "residential",
+        "coord": [
+          42.3640542,
+          -71.0534305
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.364322,
+          -71.0539163
+        ]
+      },
+      {
+        "name": "Lafayette Avenue",
+        "class": "residential",
+        "coord": [
+          42.3664255,
+          -71.0573248
+        ]
+      },
+      {
+        "name": "Lombard Place",
+        "class": "residential",
+        "coord": [
+          42.365432,
+          -71.055841
+        ]
+      },
+      {
+        "name": "Margaret Street",
+        "class": "residential",
+        "coord": [
+          42.365498,
+          -71.055956
+        ]
+      },
+      {
+        "name": "North Square",
+        "class": "residential",
+        "coord": [
+          42.3640542,
+          -71.0534305
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3652224,
+          -71.055482
+        ]
+      },
+      {
+        "name": "Snow Hill Street",
+        "class": "residential",
+        "coord": [
+          42.365823,
+          -71.056533
+        ]
+      },
+      {
+        "name": "Thacher Street",
+        "class": "residential",
+        "coord": [
+          42.365726,
+          -71.056358
+        ]
+      }
+    ],
+    "richmond street": [
+      {
+        "name": "Archway Street",
+        "class": "residential",
+        "coord": [
+          42.3622322,
+          -71.0529383
+        ]
+      },
+      {
+        "name": "Atlantic Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3616763,
+          -71.0519657
+        ]
+      },
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3620171,
+          -71.0526092
+        ]
+      },
+      {
+        "name": "Fulton Street",
+        "class": "residential",
+        "coord": [
+          42.3623813,
+          -71.0531619
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.3636394,
+          -71.0546566
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "secondary",
+        "coord": [
+          42.363096,
+          -71.054075
+        ]
+      }
+    ],
+    "salem street": [
+      {
+        "name": "Baldwin Place",
+        "class": "residential",
+        "coord": [
+          42.3647407,
+          -71.0555169
+        ]
+      },
+      {
+        "name": "Charter Street",
+        "class": "residential",
+        "coord": [
+          42.3670578,
+          -71.0542969
+        ]
+      },
+      {
+        "name": "Cooper Street",
+        "class": "residential",
+        "coord": [
+          42.364362,
+          -71.055555
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3628459,
+          -71.0563307
+        ]
+      },
+      {
+        "name": "Hull Street",
+        "class": "residential",
+        "coord": [
+          42.3664126,
+          -71.0547172
+        ]
+      },
+      {
+        "name": "Jerusalem Place",
+        "class": "residential",
+        "coord": [
+          42.364582,
+          -71.055531
+        ]
+      },
+      {
+        "name": "North Bennet Street",
+        "class": "residential",
+        "coord": [
+          42.3658679,
+          -71.0550599
+        ]
+      },
+      {
+        "name": "Parmenter Street",
+        "class": "residential",
+        "coord": [
+          42.3641234,
+          -71.0555582
+        ]
+      },
+      {
+        "name": "Prince Street",
+        "class": "residential",
+        "coord": [
+          42.3652224,
+          -71.055482
+        ]
+      },
+      {
+        "name": "Sheafe Street",
+        "class": "residential",
+        "coord": [
+          42.3659668,
+          -71.0550077
+        ]
+      },
+      {
+        "name": "Stillman Street",
+        "class": "residential",
+        "coord": [
+          42.3635939,
+          -71.0558661
+        ]
+      },
+      {
+        "name": "Tileston Street",
+        "class": "residential",
+        "coord": [
+          42.3661584,
+          -71.0548814
+        ]
+      },
+      {
+        "name": "Wiget Street",
+        "class": "residential",
+        "coord": [
+          42.3638798,
+          -71.055682
+        ]
+      }
+    ],
+    "salutation street": [
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.366175,
+          -71.051296
+        ]
+      },
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.3660739,
+          -71.0528019
+        ]
+      }
+    ],
+    "sheafe street": [
+      {
+        "name": "Margaret Street",
+        "class": "residential",
+        "coord": [
+          42.3661791,
+          -71.0554881
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3659668,
+          -71.0550077
+        ]
+      },
+      {
+        "name": "Snow Hill Street",
+        "class": "residential",
+        "coord": [
+          42.366624,
+          -71.056542
+        ]
+      }
+    ],
+    "snelling place": [
+      {
+        "name": "Hull Street",
+        "class": "residential",
+        "coord": [
+          42.3665507,
+          -71.0550706
+        ]
+      }
+    ],
+    "snow hill street": [
+      {
+        "name": "Charter Street",
+        "class": "residential",
+        "coord": [
+          42.368085,
+          -71.056385
+        ]
+      },
+      {
+        "name": "Hull Street",
+        "class": "residential",
+        "coord": [
+          42.3670817,
+          -71.0564979
+        ]
+      },
+      {
+        "name": "North Hudson Street",
+        "class": "residential",
+        "coord": [
+          42.3677899,
+          -71.0564274
+        ]
+      },
+      {
+        "name": "Prince Street",
+        "class": "residential",
+        "coord": [
+          42.365823,
+          -71.056533
+        ]
+      },
+      {
+        "name": "Sheafe Street",
+        "class": "residential",
+        "coord": [
+          42.366624,
+          -71.056542
+        ]
+      }
+    ],
+    "stillman place": [
+      {
+        "name": "Cooper Street",
+        "class": "residential",
+        "coord": [
+          42.364397,
+          -71.057834
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3639454,
+          -71.0577962
+        ]
+      }
+    ],
+    "stillman street": [
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3638122,
+          -71.0576746
+        ]
+      },
+      {
+        "name": "Endicott Street",
+        "class": "residential",
+        "coord": [
+          42.3638364,
+          -71.0572629
+        ]
+      },
+      {
+        "name": "Endicott Street",
+        "class": "residential",
+        "coord": [
+          42.3638375,
+          -71.0572425
+        ]
+      },
+      {
+        "name": "North Margin Street",
+        "class": "residential",
+        "coord": [
+          42.363871,
+          -71.056639
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3635939,
+          -71.0558661
+        ]
+      }
+    ],
+    "sudbury street": [
+      {
+        "name": "Cross Street",
+        "class": "primary",
+        "coord": [
+          42.3632193,
+          -71.0569596
+        ]
+      }
+    ],
+    "sun court street": [
+      {
+        "name": "Moon Street",
+        "class": "residential",
+        "coord": [
+          42.3639357,
+          -71.053089
+        ]
+      },
+      {
+        "name": "North Street",
+        "class": "residential",
+        "coord": [
+          42.3634831,
+          -71.0527772
+        ]
+      }
+    ],
+    "thacher court": [
+      {
+        "name": "Lynn Street",
+        "class": "residential",
+        "coord": [
+          42.365284,
+          -71.0578497
+        ]
+      },
+      {
+        "name": "Thacher Street",
+        "class": "residential",
+        "coord": [
+          42.365284,
+          -71.0578497
+        ]
+      }
+    ],
+    "thacher street": [
+      {
+        "name": "Endicott Street",
+        "class": "residential",
+        "coord": [
+          42.365307,
+          -71.057415
+        ]
+      },
+      {
+        "name": "Lombard Place",
+        "class": "residential",
+        "coord": [
+          42.3655559,
+          -71.0565697
+        ]
+      },
+      {
+        "name": "Lynn Street",
+        "class": "residential",
+        "coord": [
+          42.365284,
+          -71.0578497
+        ]
+      },
+      {
+        "name": "North Margin Street",
+        "class": "residential",
+        "coord": [
+          42.365331,
+          -71.056767
+        ]
+      },
+      {
+        "name": "North Margin Street",
+        "class": "residential",
+        "coord": [
+          42.3653939,
+          -71.0567704
+        ]
+      },
+      {
+        "name": "North Margin Street",
+        "class": "residential",
+        "coord": [
+          42.3655119,
+          -71.0566243
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.365242,
+          -71.058391
+        ]
+      },
+      {
+        "name": "Prince Street",
+        "class": "residential",
+        "coord": [
+          42.365726,
+          -71.056358
+        ]
+      },
+      {
+        "name": "Thacher Court",
+        "class": "residential",
+        "coord": [
+          42.365284,
+          -71.0578497
+        ]
+      }
+    ],
+    "tileston street": [
+      {
+        "name": "Hanover Street",
+        "class": "secondary",
+        "coord": [
+          42.3650892,
+          -71.0531756
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3661584,
+          -71.0548814
+        ]
+      },
+      {
+        "name": "Unity Street",
+        "class": "residential",
+        "coord": [
+          42.36585,
+          -71.0543833
+        ]
+      },
+      {
+        "name": "Wiggin Street",
+        "class": "residential",
+        "coord": [
+          42.3657662,
+          -71.0542579
+        ]
+      }
+    ],
+    "union wharf": [
+      {
+        "name": "Commercial Street",
+        "class": "secondary",
+        "coord": [
+          42.3653419,
+          -71.051104
+        ]
+      }
+    ],
+    "unity court": [
+      {
+        "name": "Unity Street",
+        "class": "residential",
+        "coord": [
+          42.3662685,
+          -71.0539445
+        ]
+      }
+    ],
+    "unity street": [
+      {
+        "name": "Charter Street",
+        "class": "residential",
+        "coord": [
+          42.366574,
+          -71.053563
+        ]
+      },
+      {
+        "name": "Tileston Street",
+        "class": "residential",
+        "coord": [
+          42.36585,
+          -71.0543833
+        ]
+      },
+      {
+        "name": "Unity Court",
+        "class": "residential",
+        "coord": [
+          42.3662685,
+          -71.0539445
+        ]
+      }
+    ],
+    "wiget street": [
+      {
+        "name": "North Margin Street",
+        "class": "residential",
+        "coord": [
+          42.3641354,
+          -71.0566547
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3638798,
+          -71.055682
+        ]
+      }
+    ],
+    "wiggin street": [
+      {
+        "name": "North Bennet Street",
+        "class": "residential",
+        "coord": [
+          42.365529,
+          -71.05457
+        ]
+      },
+      {
+        "name": "Tileston Street",
+        "class": "residential",
+        "coord": [
+          42.3657662,
+          -71.0542579
+        ]
+      }
+    ]
+  }
+}

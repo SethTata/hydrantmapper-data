@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-bay-village",
+  "display_name": "Bay Village",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3479991,
+    -71.07231049699993,
+    42.35075734800006,
+    -71.0665066
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 10722,
+      "sha256": "9ebab4a6eacd003048ac00933293f0913379f2b305f369497d235debda6070bb"
+    },
+    "hydrants.csv": {
+      "size_bytes": 10257,
+      "sha256": "4b547112eca6faa7a11435fb008022016bf4b5cb2066f081a58c19255bcbffdb"
+    }
+  }
+}

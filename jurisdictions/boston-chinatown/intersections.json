@@ -1,0 +1,865 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-chinatown",
+  "generated_at": "2026-04-22T05:26:23Z",
+  "streets": {
+    "albany street": [
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3501436,
+          -71.0597541
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3501436,
+          -71.0597541
+        ]
+      }
+    ],
+    "ash street": [
+      {
+        "name": "Nassau Street",
+        "class": "residential",
+        "coord": [
+          42.3489205,
+          -71.063424
+        ]
+      },
+      {
+        "name": "Oak Street",
+        "class": "residential",
+        "coord": [
+          42.3483588,
+          -71.0635743
+        ]
+      }
+    ],
+    "beach street": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3514798,
+          -71.0611864
+        ]
+      },
+      {
+        "name": "Hudson Street",
+        "class": "residential",
+        "coord": [
+          42.351216,
+          -71.0598801
+        ]
+      },
+      {
+        "name": "Knapp Street",
+        "class": "unclassified",
+        "coord": [
+          42.3514645,
+          -71.0621419
+        ]
+      },
+      {
+        "name": "Oxford Street",
+        "class": "residential",
+        "coord": [
+          42.3513077,
+          -71.0602954
+        ]
+      },
+      {
+        "name": "Tyler Street",
+        "class": "residential",
+        "coord": [
+          42.3513593,
+          -71.0605206
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3516031,
+          -71.0628
+        ]
+      }
+    ],
+    "bennet street": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3491893,
+          -71.0621013
+        ]
+      }
+    ],
+    "boylston square": [
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3519161,
+          -71.0627194
+        ]
+      }
+    ],
+    "edinboro street": [
+      {
+        "name": "Kingston Street",
+        "class": "residential",
+        "coord": [
+          42.3516392,
+          -71.0595302
+        ]
+      }
+    ],
+    "harrison avenue": [
+      {
+        "name": "Beach Street",
+        "class": "residential",
+        "coord": [
+          42.3514798,
+          -71.0611864
+        ]
+      },
+      {
+        "name": "Bennet Street",
+        "class": "residential",
+        "coord": [
+          42.3491893,
+          -71.0621013
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.3497395,
+          -71.0618776
+        ]
+      },
+      {
+        "name": "Hudson Street",
+        "class": "secondary",
+        "coord": [
+          42.3470573,
+          -71.0629682
+        ]
+      },
+      {
+        "name": "Johnny Court",
+        "class": "residential",
+        "coord": [
+          42.3478098,
+          -71.0626626
+        ]
+      },
+      {
+        "name": "Knapp Street",
+        "class": "unclassified",
+        "coord": [
+          42.3508405,
+          -71.0614385
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3506366,
+          -71.0615176
+        ]
+      },
+      {
+        "name": "Marginal Road",
+        "class": "secondary",
+        "coord": [
+          42.3470573,
+          -71.0629682
+        ]
+      },
+      {
+        "name": "Nassau Street",
+        "class": "residential",
+        "coord": [
+          42.3486597,
+          -71.0623168
+        ]
+      },
+      {
+        "name": "Oak Street",
+        "class": "residential",
+        "coord": [
+          42.3481823,
+          -71.0625111
+        ]
+      },
+      {
+        "name": "Oxford Place",
+        "class": "residential",
+        "coord": [
+          42.3519724,
+          -71.0612604
+        ]
+      },
+      {
+        "name": "Pine Street",
+        "class": "residential",
+        "coord": [
+          42.347268,
+          -71.062884
+        ]
+      }
+    ],
+    "harvard street": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3497395,
+          -71.0618776
+        ]
+      },
+      {
+        "name": "Hudson Street",
+        "class": "secondary",
+        "coord": [
+          42.3492626,
+          -71.0606572
+        ]
+      },
+      {
+        "name": "Monsignor Shea Road",
+        "class": "residential",
+        "coord": [
+          42.3500917,
+          -71.0627371
+        ]
+      },
+      {
+        "name": "Tyler Street",
+        "class": "residential",
+        "coord": [
+          42.3495019,
+          -71.0612618
+        ]
+      }
+    ],
+    "hudson street": [
+      {
+        "name": "Beach Street",
+        "class": "residential",
+        "coord": [
+          42.351216,
+          -71.0598801
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3470573,
+          -71.0629682
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.3492626,
+          -71.0606572
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3502982,
+          -71.0602501
+        ]
+      },
+      {
+        "name": "Marginal Road",
+        "class": "secondary",
+        "coord": [
+          42.3470573,
+          -71.0629682
+        ]
+      },
+      {
+        "name": "Tai Tung Street",
+        "class": "residential",
+        "coord": [
+          42.3481247,
+          -71.0611242
+        ]
+      }
+    ],
+    "john f. fitzgerald surface road": [
+      {
+        "name": "Albany Street",
+        "class": "primary",
+        "coord": [
+          42.3501436,
+          -71.0597541
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3501436,
+          -71.0597541
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "secondary",
+        "coord": [
+          42.3523844,
+          -71.0579993
+        ]
+      }
+    ],
+    "johnny court": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3478098,
+          -71.0626626
+        ]
+      },
+      {
+        "name": "Maple Place",
+        "class": "residential",
+        "coord": [
+          42.3479681,
+          -71.0633758
+        ]
+      }
+    ],
+    "kingston street": [
+      {
+        "name": "Edinboro Street",
+        "class": "residential",
+        "coord": [
+          42.3516392,
+          -71.0595302
+        ]
+      }
+    ],
+    "knapp street": [
+      {
+        "name": "Beach Street",
+        "class": "residential",
+        "coord": [
+          42.3514645,
+          -71.0621419
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3508405,
+          -71.0614385
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3508216,
+          -71.0621971
+        ]
+      }
+    ],
+    "kneeland street": [
+      {
+        "name": "Albany Street",
+        "class": "primary",
+        "coord": [
+          42.3501436,
+          -71.0597541
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3506366,
+          -71.0615176
+        ]
+      },
+      {
+        "name": "Hudson Street",
+        "class": "residential",
+        "coord": [
+          42.3502982,
+          -71.0602501
+        ]
+      },
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3501436,
+          -71.0597541
+        ]
+      },
+      {
+        "name": "Knapp Street",
+        "class": "unclassified",
+        "coord": [
+          42.3508216,
+          -71.0621971
+        ]
+      },
+      {
+        "name": "Monsignor Shea Road",
+        "class": "residential",
+        "coord": [
+          42.3508033,
+          -71.0621307
+        ]
+      },
+      {
+        "name": "Tyler Street",
+        "class": "residential",
+        "coord": [
+          42.3504705,
+          -71.0608717
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3509273,
+          -71.0630417
+        ]
+      }
+    ],
+    "lincoln street": [
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3523844,
+          -71.0579993
+        ]
+      }
+    ],
+    "maple place": [
+      {
+        "name": "Johnny Court",
+        "class": "residential",
+        "coord": [
+          42.3479681,
+          -71.0633758
+        ]
+      },
+      {
+        "name": "Oak Street",
+        "class": "residential",
+        "coord": [
+          42.3483117,
+          -71.063269
+        ]
+      },
+      {
+        "name": "Pine Street",
+        "class": "residential",
+        "coord": [
+          42.3476185,
+          -71.0634839
+        ]
+      }
+    ],
+    "marginal road": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3470573,
+          -71.0629682
+        ]
+      },
+      {
+        "name": "Hudson Street",
+        "class": "secondary",
+        "coord": [
+          42.3470573,
+          -71.0629682
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3476789,
+          -71.0657086
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3479991,
+          -71.0680171
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.347321,
+          -71.0643733
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3473479,
+          -71.064476
+        ]
+      }
+    ],
+    "monsignor shea road": [
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.3500917,
+          -71.0627371
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3508033,
+          -71.0621307
+        ]
+      }
+    ],
+    "nassau street": [
+      {
+        "name": "Ash Street",
+        "class": "residential",
+        "coord": [
+          42.3489205,
+          -71.063424
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3486597,
+          -71.0623168
+        ]
+      }
+    ],
+    "oak street": [
+      {
+        "name": "Ash Street",
+        "class": "residential",
+        "coord": [
+          42.3483588,
+          -71.0635743
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3481823,
+          -71.0625111
+        ]
+      },
+      {
+        "name": "Maple Place",
+        "class": "residential",
+        "coord": [
+          42.3483117,
+          -71.063269
+        ]
+      },
+      {
+        "name": "Oak Street West",
+        "class": "residential",
+        "coord": [
+          42.3484216,
+          -71.0640796
+        ]
+      },
+      {
+        "name": "Tyler Street",
+        "class": "residential",
+        "coord": [
+          42.3480253,
+          -71.0618471
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3484216,
+          -71.0640796
+        ]
+      }
+    ],
+    "oak street west": [
+      {
+        "name": "Oak Street",
+        "class": "residential",
+        "coord": [
+          42.3484216,
+          -71.0640796
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3486287,
+          -71.0655366
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3484216,
+          -71.0640796
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3484304,
+          -71.0641878
+        ]
+      }
+    ],
+    "oxford place": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3519724,
+          -71.0612604
+        ]
+      }
+    ],
+    "oxford street": [
+      {
+        "name": "Beach Street",
+        "class": "residential",
+        "coord": [
+          42.3513077,
+          -71.0602954
+        ]
+      }
+    ],
+    "pine street": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.347268,
+          -71.062884
+        ]
+      },
+      {
+        "name": "Maple Place",
+        "class": "residential",
+        "coord": [
+          42.3476185,
+          -71.0634839
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3478077,
+          -71.0642511
+        ]
+      }
+    ],
+    "shawmut avenue": [
+      {
+        "name": "Marginal Road",
+        "class": "secondary",
+        "coord": [
+          42.3476789,
+          -71.0657086
+        ]
+      },
+      {
+        "name": "Oak Street West",
+        "class": "residential",
+        "coord": [
+          42.3486287,
+          -71.0655366
+        ]
+      }
+    ],
+    "tai tung street": [
+      {
+        "name": "Hudson Street",
+        "class": "secondary",
+        "coord": [
+          42.3481247,
+          -71.0611242
+        ]
+      },
+      {
+        "name": "Tyler Street",
+        "class": "residential",
+        "coord": [
+          42.3482697,
+          -71.0617498
+        ]
+      }
+    ],
+    "tremont street": [
+      {
+        "name": "Marginal Road",
+        "class": "secondary",
+        "coord": [
+          42.3479991,
+          -71.0680171
+        ]
+      }
+    ],
+    "tyler street": [
+      {
+        "name": "Beach Street",
+        "class": "residential",
+        "coord": [
+          42.3513593,
+          -71.0605206
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.3495019,
+          -71.0612618
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3504705,
+          -71.0608717
+        ]
+      },
+      {
+        "name": "Oak Street",
+        "class": "residential",
+        "coord": [
+          42.3480253,
+          -71.0618471
+        ]
+      },
+      {
+        "name": "Tai Tung Street",
+        "class": "residential",
+        "coord": [
+          42.3482697,
+          -71.0617498
+        ]
+      }
+    ],
+    "washington street": [
+      {
+        "name": "Beach Street",
+        "class": "residential",
+        "coord": [
+          42.3516031,
+          -71.0628
+        ]
+      },
+      {
+        "name": "Boylston Square",
+        "class": "residential",
+        "coord": [
+          42.3519161,
+          -71.0627194
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3509273,
+          -71.0630417
+        ]
+      },
+      {
+        "name": "Marginal Road",
+        "class": "secondary",
+        "coord": [
+          42.347321,
+          -71.0643733
+        ]
+      },
+      {
+        "name": "Marginal Road",
+        "class": "secondary",
+        "coord": [
+          42.3473479,
+          -71.064476
+        ]
+      },
+      {
+        "name": "Oak Street",
+        "class": "residential",
+        "coord": [
+          42.3484216,
+          -71.0640796
+        ]
+      },
+      {
+        "name": "Oak Street West",
+        "class": "residential",
+        "coord": [
+          42.3484216,
+          -71.0640796
+        ]
+      },
+      {
+        "name": "Oak Street West",
+        "class": "residential",
+        "coord": [
+          42.3484304,
+          -71.0641878
+        ]
+      },
+      {
+        "name": "Pine Street",
+        "class": "residential",
+        "coord": [
+          42.3478077,
+          -71.0642511
+        ]
+      }
+    ]
+  }
+}

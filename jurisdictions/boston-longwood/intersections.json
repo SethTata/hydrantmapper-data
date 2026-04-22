@@ -1,0 +1,857 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-longwood",
+  "generated_at": "2026-04-22T05:26:52Z",
+  "streets": {
+    "autumn street": [
+      {
+        "name": "Crossover Street",
+        "class": "residential",
+        "coord": [
+          42.3395812,
+          -71.1096959
+        ]
+      },
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3400589,
+          -71.1092509
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3391398,
+          -71.1103985
+        ]
+      }
+    ],
+    "avenue louis pasteur": [
+      {
+        "name": "Blackfan Street",
+        "class": "residential",
+        "coord": [
+          42.3392932,
+          -71.1016632
+        ]
+      },
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.340252,
+          -71.1006641
+        ]
+      },
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3403386,
+          -71.1007659
+        ]
+      },
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3369832,
+          -71.1030559
+        ]
+      },
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3371178,
+          -71.1033973
+        ]
+      }
+    ],
+    "binney street": [
+      {
+        "name": "Fenwood Road",
+        "class": "residential",
+        "coord": [
+          42.3358104,
+          -71.108733
+        ]
+      },
+      {
+        "name": "Francis Street",
+        "class": "secondary",
+        "coord": [
+          42.3362951,
+          -71.1082137
+        ]
+      },
+      {
+        "name": "Jimmy Fund Way",
+        "class": "residential",
+        "coord": [
+          42.3373059,
+          -71.1071423
+        ]
+      },
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3382801,
+          -71.1061449
+        ]
+      },
+      {
+        "name": "Shattuck Street",
+        "class": "unclassified",
+        "coord": [
+          42.3370106,
+          -71.1074564
+        ]
+      }
+    ],
+    "blackfan street": [
+      {
+        "name": "Avenue Louis Pasteur",
+        "class": "secondary",
+        "coord": [
+          42.3392932,
+          -71.1016632
+        ]
+      },
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3377985,
+          -71.105152
+        ]
+      }
+    ],
+    "brookline avenue": [
+      {
+        "name": "Deaconess Road",
+        "class": "residential",
+        "coord": [
+          42.3379673,
+          -71.1083137
+        ]
+      },
+      {
+        "name": "Fenwood Road",
+        "class": "residential",
+        "coord": [
+          42.3364825,
+          -71.1097941
+        ]
+      },
+      {
+        "name": "Francis Street",
+        "class": "secondary",
+        "coord": [
+          42.3370085,
+          -71.1093169
+        ]
+      },
+      {
+        "name": "Jimmy Fund Way",
+        "class": "residential",
+        "coord": [
+          42.3379673,
+          -71.1083137
+        ]
+      },
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3389078,
+          -71.1072605
+        ]
+      },
+      {
+        "name": "Pilgrim Road",
+        "class": "residential",
+        "coord": [
+          42.3425564,
+          -71.1034615
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.336327,
+          -71.1100434
+        ]
+      }
+    ],
+    "crossover street": [
+      {
+        "name": "Autumn Street",
+        "class": "residential",
+        "coord": [
+          42.3395812,
+          -71.1096959
+        ]
+      },
+      {
+        "name": "Pilgrim Road",
+        "class": "residential",
+        "coord": [
+          42.3390594,
+          -71.108775
+        ]
+      }
+    ],
+    "deaconess road": [
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3379673,
+          -71.1083137
+        ]
+      },
+      {
+        "name": "Jimmy Fund Way",
+        "class": "residential",
+        "coord": [
+          42.3379673,
+          -71.1083137
+        ]
+      },
+      {
+        "name": "Pilgrim Road",
+        "class": "residential",
+        "coord": [
+          42.3385419,
+          -71.1092953
+        ]
+      }
+    ],
+    "evans way": [
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3387657,
+          -71.0981964
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.336789,
+          -71.0981427
+        ]
+      },
+      {
+        "name": "Tetlow Street",
+        "class": "residential",
+        "coord": [
+          42.3374184,
+          -71.0990553
+        ]
+      }
+    ],
+    "fenway": [
+      {
+        "name": "Avenue Louis Pasteur",
+        "class": "secondary",
+        "coord": [
+          42.340252,
+          -71.1006641
+        ]
+      },
+      {
+        "name": "Avenue Louis Pasteur",
+        "class": "secondary",
+        "coord": [
+          42.3403386,
+          -71.1007659
+        ]
+      },
+      {
+        "name": "Evans Way",
+        "class": "residential",
+        "coord": [
+          42.3387657,
+          -71.0981964
+        ]
+      },
+      {
+        "name": "Palace Road",
+        "class": "residential",
+        "coord": [
+          42.3390975,
+          -71.0989398
+        ]
+      }
+    ],
+    "fenwood road": [
+      {
+        "name": "Binney Street",
+        "class": "residential",
+        "coord": [
+          42.3358104,
+          -71.108733
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3364825,
+          -71.1097941
+        ]
+      },
+      {
+        "name": "Saint Albans Road",
+        "class": "residential",
+        "coord": [
+          42.3344696,
+          -71.1066559
+        ]
+      },
+      {
+        "name": "Vining Street",
+        "class": "residential",
+        "coord": [
+          42.3353442,
+          -71.1080264
+        ]
+      }
+    ],
+    "francis street": [
+      {
+        "name": "Binney Street",
+        "class": "residential",
+        "coord": [
+          42.3362951,
+          -71.1082137
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3370085,
+          -71.1093169
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3341716,
+          -71.1049623
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3342255,
+          -71.1048496
+        ]
+      },
+      {
+        "name": "Pilgrim Road",
+        "class": "secondary",
+        "coord": [
+          42.3376372,
+          -71.1102631
+        ]
+      },
+      {
+        "name": "Saint Albans Road",
+        "class": "residential",
+        "coord": [
+          42.3349571,
+          -71.1060959
+        ]
+      },
+      {
+        "name": "Vining Street",
+        "class": "residential",
+        "coord": [
+          42.335823,
+          -71.107466
+        ]
+      }
+    ],
+    "huntington avenue": [
+      {
+        "name": "Evans Way",
+        "class": "secondary",
+        "coord": [
+          42.336789,
+          -71.0981427
+        ]
+      },
+      {
+        "name": "Francis Street",
+        "class": "secondary",
+        "coord": [
+          42.3341716,
+          -71.1049623
+        ]
+      },
+      {
+        "name": "Francis Street",
+        "class": "secondary",
+        "coord": [
+          42.3342255,
+          -71.1048496
+        ]
+      },
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3359337,
+          -71.1003271
+        ]
+      }
+    ],
+    "jimmy fund way": [
+      {
+        "name": "Binney Street",
+        "class": "residential",
+        "coord": [
+          42.3373059,
+          -71.1071423
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3379673,
+          -71.1083137
+        ]
+      },
+      {
+        "name": "Deaconess Road",
+        "class": "residential",
+        "coord": [
+          42.3379673,
+          -71.1083137
+        ]
+      }
+    ],
+    "longwood avenue": [
+      {
+        "name": "Autumn Street",
+        "class": "residential",
+        "coord": [
+          42.3400589,
+          -71.1092509
+        ]
+      },
+      {
+        "name": "Avenue Louis Pasteur",
+        "class": "secondary",
+        "coord": [
+          42.3369832,
+          -71.1030559
+        ]
+      },
+      {
+        "name": "Avenue Louis Pasteur",
+        "class": "secondary",
+        "coord": [
+          42.3371178,
+          -71.1033973
+        ]
+      },
+      {
+        "name": "Binney Street",
+        "class": "residential",
+        "coord": [
+          42.3382801,
+          -71.1061449
+        ]
+      },
+      {
+        "name": "Blackfan Street",
+        "class": "residential",
+        "coord": [
+          42.3377985,
+          -71.105152
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3389078,
+          -71.1072605
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3359337,
+          -71.1003271
+        ]
+      },
+      {
+        "name": "Meadow Lane",
+        "class": "unclassified",
+        "coord": [
+          42.3374725,
+          -71.1043183
+        ]
+      },
+      {
+        "name": "Nessel Way",
+        "class": "residential",
+        "coord": [
+          42.339948,
+          -71.1090597
+        ]
+      },
+      {
+        "name": "Palace Road",
+        "class": "residential",
+        "coord": [
+          42.3361543,
+          -71.1009018
+        ]
+      },
+      {
+        "name": "Pilgrim Road",
+        "class": "residential",
+        "coord": [
+          42.3395108,
+          -71.1083055
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3403154,
+          -71.1099145
+        ]
+      }
+    ],
+    "meadow lane": [
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3374725,
+          -71.1043183
+        ]
+      },
+      {
+        "name": "Shattuck Street",
+        "class": "unclassified",
+        "coord": [
+          42.3358701,
+          -71.1054237
+        ]
+      }
+    ],
+    "nessel way": [
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.339948,
+          -71.1090597
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3411187,
+          -71.1083824
+        ]
+      }
+    ],
+    "netherlands road": [
+      {
+        "name": "Pilgrim Road",
+        "class": "secondary",
+        "coord": [
+          42.3375305,
+          -71.1107093
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3375305,
+          -71.1107093
+        ]
+      }
+    ],
+    "palace road": [
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3390975,
+          -71.0989398
+        ]
+      },
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3361543,
+          -71.1009018
+        ]
+      },
+      {
+        "name": "Tetlow Street",
+        "class": "residential",
+        "coord": [
+          42.3377305,
+          -71.0998509
+        ]
+      }
+    ],
+    "pilgrim road": [
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3425564,
+          -71.1034615
+        ]
+      },
+      {
+        "name": "Crossover Street",
+        "class": "residential",
+        "coord": [
+          42.3390594,
+          -71.108775
+        ]
+      },
+      {
+        "name": "Deaconess Road",
+        "class": "residential",
+        "coord": [
+          42.3385419,
+          -71.1092953
+        ]
+      },
+      {
+        "name": "Francis Street",
+        "class": "secondary",
+        "coord": [
+          42.3376372,
+          -71.1102631
+        ]
+      },
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3395108,
+          -71.1083055
+        ]
+      },
+      {
+        "name": "Netherlands Road",
+        "class": "residential",
+        "coord": [
+          42.3375305,
+          -71.1107093
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3375305,
+          -71.1107093
+        ]
+      },
+      {
+        "name": "Short Street",
+        "class": "residential",
+        "coord": [
+          42.3409857,
+          -71.106766
+        ]
+      }
+    ],
+    "riverway": [
+      {
+        "name": "Autumn Street",
+        "class": "residential",
+        "coord": [
+          42.3391398,
+          -71.1103985
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "trunk",
+        "coord": [
+          42.336327,
+          -71.1100434
+        ]
+      },
+      {
+        "name": "Longwood Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3403154,
+          -71.1099145
+        ]
+      },
+      {
+        "name": "Nessel Way",
+        "class": "residential",
+        "coord": [
+          42.3411187,
+          -71.1083824
+        ]
+      },
+      {
+        "name": "Netherlands Road",
+        "class": "residential",
+        "coord": [
+          42.3375305,
+          -71.1107093
+        ]
+      },
+      {
+        "name": "Pilgrim Road",
+        "class": "secondary",
+        "coord": [
+          42.3375305,
+          -71.1107093
+        ]
+      },
+      {
+        "name": "Short Street",
+        "class": "residential",
+        "coord": [
+          42.3414103,
+          -71.1075294
+        ]
+      },
+      {
+        "name": "Vining Street",
+        "class": "residential",
+        "coord": [
+          42.3353838,
+          -71.1098683
+        ]
+      }
+    ],
+    "saint albans road": [
+      {
+        "name": "Fenwood Road",
+        "class": "residential",
+        "coord": [
+          42.3344696,
+          -71.1066559
+        ]
+      },
+      {
+        "name": "Francis Street",
+        "class": "secondary",
+        "coord": [
+          42.3349571,
+          -71.1060959
+        ]
+      }
+    ],
+    "shattuck street": [
+      {
+        "name": "Binney Street",
+        "class": "residential",
+        "coord": [
+          42.3370106,
+          -71.1074564
+        ]
+      },
+      {
+        "name": "Meadow Lane",
+        "class": "unclassified",
+        "coord": [
+          42.3358701,
+          -71.1054237
+        ]
+      }
+    ],
+    "short street": [
+      {
+        "name": "Pilgrim Road",
+        "class": "residential",
+        "coord": [
+          42.3409857,
+          -71.106766
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3414103,
+          -71.1075294
+        ]
+      }
+    ],
+    "tetlow street": [
+      {
+        "name": "Evans Way",
+        "class": "residential",
+        "coord": [
+          42.3374184,
+          -71.0990553
+        ]
+      },
+      {
+        "name": "Palace Road",
+        "class": "residential",
+        "coord": [
+          42.3377305,
+          -71.0998509
+        ]
+      }
+    ],
+    "vining street": [
+      {
+        "name": "Fenwood Road",
+        "class": "residential",
+        "coord": [
+          42.3353442,
+          -71.1080264
+        ]
+      },
+      {
+        "name": "Francis Street",
+        "class": "secondary",
+        "coord": [
+          42.335823,
+          -71.107466
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3353838,
+          -71.1098683
+        ]
+      }
+    ]
+  }
+}

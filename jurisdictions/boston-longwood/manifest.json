@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-longwood",
+  "display_name": "Longwood",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3341716,
+    -71.1107093,
+    42.34323770700007,
+    -71.09767685999998
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 16193,
+      "sha256": "46d23915a7b17c0c5fce5d10d6765de922cac068c335f95acc40c9b112fef622"
+    },
+    "hydrants.csv": {
+      "size_bytes": 27526,
+      "sha256": "0f001b2f4e57bd0ecd892d59184851ea687961014ca4242a5985e840af8f5200"
+    }
+  }
+}

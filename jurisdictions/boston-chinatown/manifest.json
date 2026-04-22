@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-chinatown",
+  "display_name": "Chinatown",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.34682145600004,
+    -71.0680171,
+    42.352486793000026,
+    -71.0579993
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 16453,
+      "sha256": "cfc8dc2049137f47ad85d8781febcc1f77132c31b56b6831b2c75b0c4051c4ca"
+    },
+    "hydrants.csv": {
+      "size_bytes": 22690,
+      "sha256": "aa37e9f8cab647f77e748cc264462f37b0ac552b5c3649e5eae08c4be584b624"
+    }
+  }
+}

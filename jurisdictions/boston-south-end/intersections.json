@@ -1,0 +1,4489 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-south-end",
+  "generated_at": "2026-04-22T05:27:17Z",
+  "streets": {
+    "aguadilla street": [
+      {
+        "name": "Pembroke Street",
+        "class": "residential",
+        "coord": [
+          42.3416674,
+          -71.0759418
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3416674,
+          -71.0759418
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3423955,
+          -71.074592
+        ]
+      },
+      {
+        "name": "West Brookline Street",
+        "class": "residential",
+        "coord": [
+          42.341473,
+          -71.074713
+        ]
+      },
+      {
+        "name": "West Canton Street",
+        "class": "residential",
+        "coord": [
+          42.3423955,
+          -71.074592
+        ]
+      }
+    ],
+    "albany street": [
+      {
+        "name": "East Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3430201,
+          -71.0625565
+        ]
+      },
+      {
+        "name": "East Brookline Street",
+        "class": "secondary",
+        "coord": [
+          42.3366862,
+          -71.069018
+        ]
+      },
+      {
+        "name": "East Canton Street",
+        "class": "residential",
+        "coord": [
+          42.3371738,
+          -71.0683328
+        ]
+      },
+      {
+        "name": "East Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3349769,
+          -71.0714409
+        ]
+      },
+      {
+        "name": "East Dedham Street",
+        "class": "residential",
+        "coord": [
+          42.3376536,
+          -71.0676586
+        ]
+      },
+      {
+        "name": "East Newton Street",
+        "class": "residential",
+        "coord": [
+          42.3359237,
+          -71.0700895
+        ]
+      },
+      {
+        "name": "East Stoughton Street",
+        "class": "residential",
+        "coord": [
+          42.335443,
+          -71.070782
+        ]
+      },
+      {
+        "name": "Frontage Road Southbound",
+        "class": "primary",
+        "coord": [
+          42.3403157,
+          -71.0638756
+        ]
+      },
+      {
+        "name": "Frontage Road Southbound",
+        "class": "primary",
+        "coord": [
+          42.3407559,
+          -71.0636366
+        ]
+      },
+      {
+        "name": "Herald Street",
+        "class": "primary",
+        "coord": [
+          42.3459451,
+          -71.0612662
+        ]
+      },
+      {
+        "name": "I-93 Frontage Road",
+        "class": "primary_link",
+        "coord": [
+          42.3403157,
+          -71.0638756
+        ]
+      },
+      {
+        "name": "Malden Street",
+        "class": "secondary",
+        "coord": [
+          42.3391794,
+          -71.0655145
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3336112,
+          -71.073353
+        ]
+      },
+      {
+        "name": "Paul Sullivan Way",
+        "class": "residential",
+        "coord": [
+          42.3423674,
+          -71.0628678
+        ]
+      },
+      {
+        "name": "Plympton Street",
+        "class": "residential",
+        "coord": [
+          42.3380594,
+          -71.0670884
+        ]
+      },
+      {
+        "name": "Randolph Street",
+        "class": "residential",
+        "coord": [
+          42.3409797,
+          -71.0635299
+        ]
+      },
+      {
+        "name": "Thayer Street",
+        "class": "residential",
+        "coord": [
+          42.3419854,
+          -71.0630501
+        ]
+      },
+      {
+        "name": "Traveler Street",
+        "class": "primary",
+        "coord": [
+          42.3440436,
+          -71.0620686
+        ]
+      },
+      {
+        "name": "Union Park Street",
+        "class": "secondary",
+        "coord": [
+          42.3396038,
+          -71.0650016
+        ]
+      },
+      {
+        "name": "Wareham Street",
+        "class": "residential",
+        "coord": [
+          42.3384875,
+          -71.0664868
+        ]
+      },
+      {
+        "name": "West Fourth Street",
+        "class": "primary",
+        "coord": [
+          42.3430201,
+          -71.0625565
+        ]
+      }
+    ],
+    "appleton street": [
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.346251,
+          -71.0706189
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3456703,
+          -71.0727618
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3451154,
+          -71.074872
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.34655,
+          -71.0691293
+        ]
+      },
+      {
+        "name": "West Canton Street",
+        "class": "residential",
+        "coord": [
+          42.3446791,
+          -71.0763362
+        ]
+      }
+    ],
+    "arlington street": [
+      {
+        "name": "Herald Street",
+        "class": "primary",
+        "coord": [
+          42.3474901,
+          -71.0686161
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3474901,
+          -71.0686161
+        ]
+      }
+    ],
+    "berkeley street": [
+      {
+        "name": "Appleton Street",
+        "class": "residential",
+        "coord": [
+          42.346251,
+          -71.0706189
+        ]
+      },
+      {
+        "name": "Chandler Street",
+        "class": "residential",
+        "coord": [
+          42.3469748,
+          -71.0709725
+        ]
+      },
+      {
+        "name": "East Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.345277,
+          -71.0698264
+        ]
+      },
+      {
+        "name": "Gray Street",
+        "class": "residential",
+        "coord": [
+          42.3458644,
+          -71.07043
+        ]
+      },
+      {
+        "name": "Lawrence Street",
+        "class": "residential",
+        "coord": [
+          42.3466778,
+          -71.0708274
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.345277,
+          -71.0698264
+        ]
+      },
+      {
+        "name": "Warren Avenue",
+        "class": "residential",
+        "coord": [
+          42.3454644,
+          -71.0702346
+        ]
+      }
+    ],
+    "bio square drive": [
+      {
+        "name": "East Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3343053,
+          -71.0706082
+        ]
+      },
+      {
+        "name": "East Newton Street",
+        "class": "residential",
+        "coord": [
+          42.3351143,
+          -71.0690193
+        ]
+      },
+      {
+        "name": "East Stoughton Street",
+        "class": "residential",
+        "coord": [
+          42.3347659,
+          -71.0699376
+        ]
+      }
+    ],
+    "bond street": [
+      {
+        "name": "Hanson Street",
+        "class": "residential",
+        "coord": [
+          42.3432793,
+          -71.0695766
+        ]
+      },
+      {
+        "name": "Milford Street",
+        "class": "residential",
+        "coord": [
+          42.343722,
+          -71.0690218
+        ]
+      }
+    ],
+    "braddock park": [
+      {
+        "name": "Carleton Street",
+        "class": "residential",
+        "coord": [
+          42.3446603,
+          -71.0791621
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3437333,
+          -71.0778717
+        ]
+      },
+      {
+        "name": "Warren Avenue",
+        "class": "residential",
+        "coord": [
+          42.3437333,
+          -71.0778717
+        ]
+      }
+    ],
+    "bradford street": [
+      {
+        "name": "Milford Street",
+        "class": "residential",
+        "coord": [
+          42.3433976,
+          -71.0684339
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3433976,
+          -71.0684339
+        ]
+      },
+      {
+        "name": "Waltham Street",
+        "class": "secondary",
+        "coord": [
+          42.342256,
+          -71.069534
+        ]
+      }
+    ],
+    "briggs place": [
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3436191,
+          -71.0680614
+        ]
+      }
+    ],
+    "carleton street": [
+      {
+        "name": "Braddock Park",
+        "class": "residential",
+        "coord": [
+          42.3446603,
+          -71.0791621
+        ]
+      },
+      {
+        "name": "Holyoke Street",
+        "class": "residential",
+        "coord": [
+          42.3451803,
+          -71.0785094
+        ]
+      },
+      {
+        "name": "West Canton Street",
+        "class": "residential",
+        "coord": [
+          42.3457948,
+          -71.0779327
+        ]
+      },
+      {
+        "name": "Yarmouth Street",
+        "class": "residential",
+        "coord": [
+          42.3463091,
+          -71.077277
+        ]
+      }
+    ],
+    "castle court": [
+      {
+        "name": "East Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3446726,
+          -71.0680628
+        ]
+      },
+      {
+        "name": "Emerald Court",
+        "class": "residential",
+        "coord": [
+          42.3452983,
+          -71.0670975
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.345186,
+          -71.066629
+        ]
+      }
+    ],
+    "cazenove street": [
+      {
+        "name": "Chandler Street",
+        "class": "residential",
+        "coord": [
+          42.3465843,
+          -71.0724338
+        ]
+      }
+    ],
+    "chandler street": [
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3469748,
+          -71.0709725
+        ]
+      },
+      {
+        "name": "Cazenove Street",
+        "class": "residential",
+        "coord": [
+          42.3465843,
+          -71.0724338
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3464007,
+          -71.0731205
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3460542,
+          -71.0750007
+        ]
+      },
+      {
+        "name": "Saint Charles Street",
+        "class": "residential",
+        "coord": [
+          42.3467453,
+          -71.0718311
+        ]
+      }
+    ],
+    "claremont park": [
+      {
+        "name": "Claremont Street",
+        "class": "residential",
+        "coord": [
+          42.3425636,
+          -71.0818657
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3416216,
+          -71.0804675
+        ]
+      },
+      {
+        "name": "Worcester Street",
+        "class": "residential",
+        "coord": [
+          42.3416216,
+          -71.0804675
+        ]
+      }
+    ],
+    "claremont street": [
+      {
+        "name": "Claremont Park",
+        "class": "residential",
+        "coord": [
+          42.3425636,
+          -71.0818657
+        ]
+      },
+      {
+        "name": "Greenwich Park",
+        "class": "residential",
+        "coord": [
+          42.343092,
+          -71.081216
+        ]
+      },
+      {
+        "name": "Wellington Street",
+        "class": "residential",
+        "coord": [
+          42.3420405,
+          -71.0824464
+        ]
+      }
+    ],
+    "clarendon street": [
+      {
+        "name": "Appleton Street",
+        "class": "residential",
+        "coord": [
+          42.3456703,
+          -71.0727618
+        ]
+      },
+      {
+        "name": "Chandler Street",
+        "class": "residential",
+        "coord": [
+          42.3464007,
+          -71.0731205
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.347251,
+          -71.0735381
+        ]
+      },
+      {
+        "name": "Gray Street",
+        "class": "residential",
+        "coord": [
+          42.3452798,
+          -71.0725721
+        ]
+      },
+      {
+        "name": "Lawrence Street",
+        "class": "residential",
+        "coord": [
+          42.3461101,
+          -71.072979
+        ]
+      },
+      {
+        "name": "Montgomery Street",
+        "class": "residential",
+        "coord": [
+          42.3441214,
+          -71.0720043
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3438658,
+          -71.0718404
+        ]
+      },
+      {
+        "name": "Warren Avenue",
+        "class": "residential",
+        "coord": [
+          42.3448789,
+          -71.0723749
+        ]
+      }
+    ],
+    "columbus avenue": [
+      {
+        "name": "Braddock Park",
+        "class": "residential",
+        "coord": [
+          42.3437333,
+          -71.0778717
+        ]
+      },
+      {
+        "name": "Chandler Street",
+        "class": "residential",
+        "coord": [
+          42.3460542,
+          -71.0750007
+        ]
+      },
+      {
+        "name": "Claremont Park",
+        "class": "residential",
+        "coord": [
+          42.3416216,
+          -71.0804675
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.347251,
+          -71.0735381
+        ]
+      },
+      {
+        "name": "Columbus Square",
+        "class": "residential",
+        "coord": [
+          42.3433522,
+          -71.0783374
+        ]
+      },
+      {
+        "name": "Concord Square",
+        "class": "residential",
+        "coord": [
+          42.3421475,
+          -71.0798203
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3458637,
+          -71.0752459
+        ]
+      },
+      {
+        "name": "Greenwich Park",
+        "class": "residential",
+        "coord": [
+          42.3421475,
+          -71.0798203
+        ]
+      },
+      {
+        "name": "Holyoke Street",
+        "class": "residential",
+        "coord": [
+          42.3442863,
+          -71.0771875
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3406296,
+          -71.0816886
+        ]
+      },
+      {
+        "name": "Rutland Square",
+        "class": "residential",
+        "coord": [
+          42.3426742,
+          -71.0791719
+        ]
+      },
+      {
+        "name": "Warren Avenue",
+        "class": "residential",
+        "coord": [
+          42.3437333,
+          -71.0778717
+        ]
+      },
+      {
+        "name": "Wellington Street",
+        "class": "residential",
+        "coord": [
+          42.3411093,
+          -71.0811064
+        ]
+      },
+      {
+        "name": "West Canton Street",
+        "class": "residential",
+        "coord": [
+          42.3448344,
+          -71.0765129
+        ]
+      },
+      {
+        "name": "West Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.3431933,
+          -71.0785329
+        ]
+      },
+      {
+        "name": "West Rutland Square",
+        "class": "residential",
+        "coord": [
+          42.3426742,
+          -71.0791719
+        ]
+      },
+      {
+        "name": "West Springfield Street",
+        "class": "residential",
+        "coord": [
+          42.3411093,
+          -71.0811064
+        ]
+      },
+      {
+        "name": "Worcester Street",
+        "class": "residential",
+        "coord": [
+          42.3416216,
+          -71.0804675
+        ]
+      },
+      {
+        "name": "Yarmouth Street",
+        "class": "residential",
+        "coord": [
+          42.3453798,
+          -71.0758398
+        ]
+      }
+    ],
+    "columbus square": [
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3433522,
+          -71.0783374
+        ]
+      },
+      {
+        "name": "Pembroke Street",
+        "class": "residential",
+        "coord": [
+          42.3434597,
+          -71.077507
+        ]
+      },
+      {
+        "name": "Warren Avenue",
+        "class": "residential",
+        "coord": [
+          42.3434597,
+          -71.077507
+        ]
+      }
+    ],
+    "concord square": [
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3421475,
+          -71.0798203
+        ]
+      },
+      {
+        "name": "Greenwich Park",
+        "class": "residential",
+        "coord": [
+          42.3421475,
+          -71.0798203
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3405218,
+          -71.0780724
+        ]
+      },
+      {
+        "name": "West Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3405218,
+          -71.0780724
+        ]
+      }
+    ],
+    "cumston place": [
+      {
+        "name": "Cumston Street",
+        "class": "residential",
+        "coord": [
+          42.3386586,
+          -71.075209
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3389712,
+          -71.0755779
+        ]
+      }
+    ],
+    "cumston street": [
+      {
+        "name": "Cumston Place",
+        "class": "residential",
+        "coord": [
+          42.3386586,
+          -71.075209
+        ]
+      },
+      {
+        "name": "Rutland Street",
+        "class": "residential",
+        "coord": [
+          42.3388806,
+          -71.0748595
+        ]
+      },
+      {
+        "name": "West Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3384155,
+          -71.0755682
+        ]
+      }
+    ],
+    "dartmouth place": [
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3447884,
+          -71.0747173
+        ]
+      }
+    ],
+    "dartmouth street": [
+      {
+        "name": "Appleton Street",
+        "class": "residential",
+        "coord": [
+          42.3451154,
+          -71.074872
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3458637,
+          -71.0752459
+        ]
+      },
+      {
+        "name": "Dartmouth Place",
+        "class": "residential",
+        "coord": [
+          42.3447884,
+          -71.0747173
+        ]
+      },
+      {
+        "name": "Lawrence Street",
+        "class": "residential",
+        "coord": [
+          42.3455496,
+          -71.075095
+        ]
+      },
+      {
+        "name": "Montgomery Street",
+        "class": "residential",
+        "coord": [
+          42.343558,
+          -71.074108
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3428273,
+          -71.0737716
+        ]
+      },
+      {
+        "name": "Warren Avenue",
+        "class": "residential",
+        "coord": [
+          42.3443013,
+          -71.0744752
+        ]
+      },
+      {
+        "name": "West Dedham Street",
+        "class": "secondary",
+        "coord": [
+          42.3428273,
+          -71.0737716
+        ]
+      }
+    ],
+    "deacon street": [
+      {
+        "name": "Deblois Street",
+        "class": "residential",
+        "coord": [
+          42.3380767,
+          -71.0757505
+        ]
+      },
+      {
+        "name": "West Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3382949,
+          -71.075432
+        ]
+      },
+      {
+        "name": "Worcester Street",
+        "class": "residential",
+        "coord": [
+          42.3378405,
+          -71.0761171
+        ]
+      }
+    ],
+    "deblois street": [
+      {
+        "name": "Deacon Street",
+        "class": "residential",
+        "coord": [
+          42.3380767,
+          -71.0757505
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3385143,
+          -71.0762858
+        ]
+      }
+    ],
+    "dwight street": [
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3438482,
+          -71.0677093
+        ]
+      },
+      {
+        "name": "Taylor Street",
+        "class": "residential",
+        "coord": [
+          42.34409,
+          -71.068331
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3448874,
+          -71.0701947
+        ]
+      }
+    ],
+    "east berkeley street": [
+      {
+        "name": "Albany Street",
+        "class": "primary",
+        "coord": [
+          42.3430201,
+          -71.0625565
+        ]
+      },
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.345277,
+          -71.0698264
+        ]
+      },
+      {
+        "name": "Castle Court",
+        "class": "residential",
+        "coord": [
+          42.3446726,
+          -71.0680628
+        ]
+      },
+      {
+        "name": "Fay Street",
+        "class": "residential",
+        "coord": [
+          42.3437853,
+          -71.0653858
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3434935,
+          -71.0643452
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3443169,
+          -71.0670567
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.345277,
+          -71.0698264
+        ]
+      },
+      {
+        "name": "Village Court",
+        "class": "residential",
+        "coord": [
+          42.3449906,
+          -71.0689715
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3439571,
+          -71.0659884
+        ]
+      },
+      {
+        "name": "West Fourth Street",
+        "class": "primary",
+        "coord": [
+          42.3430201,
+          -71.0625565
+        ]
+      }
+    ],
+    "east brookline street": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3366862,
+          -71.069018
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.338317,
+          -71.0709521
+        ]
+      },
+      {
+        "name": "Saint George Street",
+        "class": "residential",
+        "coord": [
+          42.3388262,
+          -71.0715652
+        ]
+      },
+      {
+        "name": "Thorn Street",
+        "class": "residential",
+        "coord": [
+          42.3369426,
+          -71.0693236
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.339615,
+          -71.072504
+        ]
+      },
+      {
+        "name": "West Brookline Street",
+        "class": "residential",
+        "coord": [
+          42.339615,
+          -71.072504
+        ]
+      }
+    ],
+    "east canton street": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3371738,
+          -71.0683328
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3388233,
+          -71.0703315
+        ]
+      },
+      {
+        "name": "Jeffrey Street",
+        "class": "residential",
+        "coord": [
+          42.3385248,
+          -71.0699492
+        ]
+      },
+      {
+        "name": "Thorn Street",
+        "class": "residential",
+        "coord": [
+          42.3374342,
+          -71.0686624
+        ]
+      },
+      {
+        "name": "Thorn Street",
+        "class": "residential",
+        "coord": [
+          42.3374778,
+          -71.0687118
+        ]
+      }
+    ],
+    "east concord street": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3349769,
+          -71.0714409
+        ]
+      },
+      {
+        "name": "Bio Square Drive",
+        "class": "residential",
+        "coord": [
+          42.3343053,
+          -71.0706082
+        ]
+      },
+      {
+        "name": "Father Francis J. Gilday Street",
+        "class": "residential",
+        "coord": [
+          42.337145,
+          -71.0740408
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3364813,
+          -71.0732289
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3379292,
+          -71.0749632
+        ]
+      },
+      {
+        "name": "West Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3379292,
+          -71.0749632
+        ]
+      }
+    ],
+    "east dedham street": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3376536,
+          -71.0676586
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.339326,
+          -71.0696935
+        ]
+      },
+      {
+        "name": "Jeffrey Street",
+        "class": "residential",
+        "coord": [
+          42.3390056,
+          -71.0692909
+        ]
+      },
+      {
+        "name": "Thorn Street",
+        "class": "residential",
+        "coord": [
+          42.3379339,
+          -71.0680316
+        ]
+      }
+    ],
+    "east newton street": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3359237,
+          -71.0700895
+        ]
+      },
+      {
+        "name": "Bio Square Drive",
+        "class": "residential",
+        "coord": [
+          42.3351143,
+          -71.0690193
+        ]
+      },
+      {
+        "name": "Father Francis J. Gilday Street",
+        "class": "residential",
+        "coord": [
+          42.3380752,
+          -71.072667
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3374934,
+          -71.0719795
+        ]
+      },
+      {
+        "name": "Saint George Street",
+        "class": "residential",
+        "coord": [
+          42.3380752,
+          -71.072667
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.338869,
+          -71.07363
+        ]
+      },
+      {
+        "name": "West Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.338869,
+          -71.07363
+        ]
+      }
+    ],
+    "east springfield street": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3354723,
+          -71.0744876
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.33697,
+          -71.076316
+        ]
+      },
+      {
+        "name": "West Springfield Street",
+        "class": "residential",
+        "coord": [
+          42.33697,
+          -71.076316
+        ]
+      }
+    ],
+    "east stoughton street": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.335443,
+          -71.070782
+        ]
+      },
+      {
+        "name": "Bio Square Drive",
+        "class": "residential",
+        "coord": [
+          42.3347659,
+          -71.0699376
+        ]
+      }
+    ],
+    "emerald court": [
+      {
+        "name": "Castle Court",
+        "class": "residential",
+        "coord": [
+          42.3452983,
+          -71.0670975
+        ]
+      }
+    ],
+    "father francis j. gilday street": [
+      {
+        "name": "East Concord Street",
+        "class": "residential",
+        "coord": [
+          42.337145,
+          -71.0740408
+        ]
+      },
+      {
+        "name": "East Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.3380752,
+          -71.072667
+        ]
+      },
+      {
+        "name": "Saint George Street",
+        "class": "residential",
+        "coord": [
+          42.3380752,
+          -71.072667
+        ]
+      }
+    ],
+    "fay street": [
+      {
+        "name": "East Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3437853,
+          -71.0653858
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3431194,
+          -71.064828
+        ]
+      }
+    ],
+    "frontage road southbound": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3403157,
+          -71.0638756
+        ]
+      },
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3407559,
+          -71.0636366
+        ]
+      },
+      {
+        "name": "I-93 Frontage Road",
+        "class": "primary_link",
+        "coord": [
+          42.3403157,
+          -71.0638756
+        ]
+      }
+    ],
+    "gray street": [
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3458644,
+          -71.07043
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3452798,
+          -71.0725721
+        ]
+      }
+    ],
+    "greenwich park": [
+      {
+        "name": "Claremont Street",
+        "class": "residential",
+        "coord": [
+          42.343092,
+          -71.081216
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3421475,
+          -71.0798203
+        ]
+      },
+      {
+        "name": "Concord Square",
+        "class": "residential",
+        "coord": [
+          42.3421475,
+          -71.0798203
+        ]
+      }
+    ],
+    "hanson street": [
+      {
+        "name": "Bond Street",
+        "class": "residential",
+        "coord": [
+          42.3432793,
+          -71.0695766
+        ]
+      },
+      {
+        "name": "Ringgold Street",
+        "class": "residential",
+        "coord": [
+          42.3433269,
+          -71.069646
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3429909,
+          -71.0691374
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3442865,
+          -71.0710541
+        ]
+      }
+    ],
+    "harrison avenue": [
+      {
+        "name": "East Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3434935,
+          -71.0643452
+        ]
+      },
+      {
+        "name": "East Brookline Street",
+        "class": "secondary",
+        "coord": [
+          42.338317,
+          -71.0709521
+        ]
+      },
+      {
+        "name": "East Canton Street",
+        "class": "residential",
+        "coord": [
+          42.3388233,
+          -71.0703315
+        ]
+      },
+      {
+        "name": "East Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3364813,
+          -71.0732289
+        ]
+      },
+      {
+        "name": "East Dedham Street",
+        "class": "residential",
+        "coord": [
+          42.339326,
+          -71.0696935
+        ]
+      },
+      {
+        "name": "East Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.3374934,
+          -71.0719795
+        ]
+      },
+      {
+        "name": "East Springfield Street",
+        "class": "residential",
+        "coord": [
+          42.3354723,
+          -71.0744876
+        ]
+      },
+      {
+        "name": "Fay Street",
+        "class": "residential",
+        "coord": [
+          42.3431194,
+          -71.064828
+        ]
+      },
+      {
+        "name": "Herald Street",
+        "class": "primary",
+        "coord": [
+          42.3463242,
+          -71.0631214
+        ]
+      },
+      {
+        "name": "Herald Street",
+        "class": "primary",
+        "coord": [
+          42.346354,
+          -71.0632614
+        ]
+      },
+      {
+        "name": "Malden Street",
+        "class": "secondary",
+        "coord": [
+          42.3401688,
+          -71.0686393
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3349885,
+          -71.0750921
+        ]
+      },
+      {
+        "name": "Monsignor Reynolds Way",
+        "class": "secondary",
+        "coord": [
+          42.3401688,
+          -71.0686393
+        ]
+      },
+      {
+        "name": "Paul Sullivan Way",
+        "class": "residential",
+        "coord": [
+          42.3429404,
+          -71.0650509
+        ]
+      },
+      {
+        "name": "Perry Street",
+        "class": "residential",
+        "coord": [
+          42.3423234,
+          -71.0658557
+        ]
+      },
+      {
+        "name": "Plympton Street",
+        "class": "residential",
+        "coord": [
+          42.339774,
+          -71.0691347
+        ]
+      },
+      {
+        "name": "Randolph Street",
+        "class": "residential",
+        "coord": [
+          42.3419059,
+          -71.0663948
+        ]
+      },
+      {
+        "name": "Rollins Street",
+        "class": "residential",
+        "coord": [
+          42.3411138,
+          -71.0674174
+        ]
+      },
+      {
+        "name": "Savoy Street",
+        "class": "residential",
+        "coord": [
+          42.3416358,
+          -71.0667435
+        ]
+      },
+      {
+        "name": "Traveler Street",
+        "class": "unclassified",
+        "coord": [
+          42.3444566,
+          -71.0638682
+        ]
+      },
+      {
+        "name": "Traveler Street",
+        "class": "unclassified",
+        "coord": [
+          42.3444913,
+          -71.0640193
+        ]
+      },
+      {
+        "name": "Union Park Street",
+        "class": "residential",
+        "coord": [
+          42.3406396,
+          -71.0680243
+        ]
+      },
+      {
+        "name": "Waltham Street",
+        "class": "secondary",
+        "coord": [
+          42.3408236,
+          -71.067792
+        ]
+      },
+      {
+        "name": "William E. Mullins Way",
+        "class": "residential",
+        "coord": [
+          42.3454217,
+          -71.0634776
+        ]
+      },
+      {
+        "name": "William E. Mullins Way",
+        "class": "residential",
+        "coord": [
+          42.3454515,
+          -71.0636296
+        ]
+      },
+      {
+        "name": "Worcester Square",
+        "class": "residential",
+        "coord": [
+          42.3359798,
+          -71.0738555
+        ]
+      }
+    ],
+    "herald street": [
+      {
+        "name": "Albany Street",
+        "class": "primary",
+        "coord": [
+          42.3459451,
+          -71.0612662
+        ]
+      },
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3474901,
+          -71.0686161
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3463242,
+          -71.0631214
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.346354,
+          -71.0632614
+        ]
+      },
+      {
+        "name": "Paul Place",
+        "class": "residential",
+        "coord": [
+          42.3473058,
+          -71.0677646
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3469014,
+          -71.0658712
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3474901,
+          -71.0686161
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3466265,
+          -71.0645991
+        ]
+      }
+    ],
+    "holyoke street": [
+      {
+        "name": "Carleton Street",
+        "class": "residential",
+        "coord": [
+          42.3451803,
+          -71.0785094
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3442863,
+          -71.0771875
+        ]
+      }
+    ],
+    "i-93 frontage road": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3403157,
+          -71.0638756
+        ]
+      },
+      {
+        "name": "Frontage Road Southbound",
+        "class": "primary",
+        "coord": [
+          42.3403157,
+          -71.0638756
+        ]
+      }
+    ],
+    "ivanhoe street": [
+      {
+        "name": "Upton Street",
+        "class": "residential",
+        "coord": [
+          42.3428644,
+          -71.0728003
+        ]
+      },
+      {
+        "name": "West Dedham Street",
+        "class": "secondary",
+        "coord": [
+          42.3424408,
+          -71.0734069
+        ]
+      }
+    ],
+    "jeffrey street": [
+      {
+        "name": "East Canton Street",
+        "class": "residential",
+        "coord": [
+          42.3385248,
+          -71.0699492
+        ]
+      },
+      {
+        "name": "East Dedham Street",
+        "class": "residential",
+        "coord": [
+          42.3390056,
+          -71.0692909
+        ]
+      }
+    ],
+    "lawrence street": [
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3466778,
+          -71.0708274
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3461101,
+          -71.072979
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3455496,
+          -71.075095
+        ]
+      }
+    ],
+    "lincoln place": [
+      {
+        "name": "West Springfield Street",
+        "class": "residential",
+        "coord": [
+          42.3373247,
+          -71.076726
+        ]
+      },
+      {
+        "name": "Worcester Street",
+        "class": "residential",
+        "coord": [
+          42.337783,
+          -71.076052
+        ]
+      }
+    ],
+    "malden street": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3391794,
+          -71.0655145
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3401688,
+          -71.0686393
+        ]
+      },
+      {
+        "name": "Monsignor Reynolds Way",
+        "class": "secondary",
+        "coord": [
+          42.3401688,
+          -71.0686393
+        ]
+      },
+      {
+        "name": "Wareham Street",
+        "class": "residential",
+        "coord": [
+          42.3401352,
+          -71.068444
+        ]
+      }
+    ],
+    "massachusetts avenue": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3336112,
+          -71.073353
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3406296,
+          -71.0816886
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3349885,
+          -71.0750921
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue Connector",
+        "class": "primary",
+        "coord": [
+          42.3326562,
+          -71.0720179
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue Connector",
+        "class": "primary",
+        "coord": [
+          42.3327377,
+          -71.0721583
+        ]
+      },
+      {
+        "name": "Melnea Cass Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3326562,
+          -71.0720179
+        ]
+      },
+      {
+        "name": "Melnea Cass Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3327377,
+          -71.0721583
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3373981,
+          -71.0779801
+        ]
+      },
+      {
+        "name": "Southampton Street",
+        "class": "primary",
+        "coord": [
+          42.3326562,
+          -71.0720179
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3393397,
+          -71.0803039
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3365319,
+          -71.0769302
+        ]
+      }
+    ],
+    "massachusetts avenue connector": [
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3326562,
+          -71.0720179
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3327377,
+          -71.0721583
+        ]
+      },
+      {
+        "name": "Melnea Cass Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3326562,
+          -71.0720179
+        ]
+      },
+      {
+        "name": "Melnea Cass Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3327377,
+          -71.0721583
+        ]
+      },
+      {
+        "name": "Southampton Street",
+        "class": "primary",
+        "coord": [
+          42.3326562,
+          -71.0720179
+        ]
+      }
+    ],
+    "melnea cass boulevard": [
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3326562,
+          -71.0720179
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3327377,
+          -71.0721583
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue Connector",
+        "class": "primary",
+        "coord": [
+          42.3326562,
+          -71.0720179
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue Connector",
+        "class": "primary",
+        "coord": [
+          42.3327377,
+          -71.0721583
+        ]
+      },
+      {
+        "name": "Southampton Street",
+        "class": "primary",
+        "coord": [
+          42.3326562,
+          -71.0720179
+        ]
+      }
+    ],
+    "milford street": [
+      {
+        "name": "Bond Street",
+        "class": "residential",
+        "coord": [
+          42.343722,
+          -71.0690218
+        ]
+      },
+      {
+        "name": "Bradford Street",
+        "class": "residential",
+        "coord": [
+          42.3433976,
+          -71.0684339
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3433976,
+          -71.0684339
+        ]
+      },
+      {
+        "name": "Taylor Street",
+        "class": "residential",
+        "coord": [
+          42.343605,
+          -71.0687757
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3445456,
+          -71.0705715
+        ]
+      }
+    ],
+    "monsignor reynolds way": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3401688,
+          -71.0686393
+        ]
+      },
+      {
+        "name": "Malden Street",
+        "class": "secondary",
+        "coord": [
+          42.3401688,
+          -71.0686393
+        ]
+      },
+      {
+        "name": "Pelham Street",
+        "class": "residential",
+        "coord": [
+          42.3407969,
+          -71.0706768
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3407419,
+          -71.0707633
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3407969,
+          -71.0706768
+        ]
+      },
+      {
+        "name": "West Dedham Street",
+        "class": "secondary",
+        "coord": [
+          42.3407419,
+          -71.0707633
+        ]
+      },
+      {
+        "name": "West Dedham Street",
+        "class": "secondary",
+        "coord": [
+          42.3407969,
+          -71.0706768
+        ]
+      }
+    ],
+    "montgomery street": [
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3441214,
+          -71.0720043
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.343558,
+          -71.074108
+        ]
+      },
+      {
+        "name": "Union Park",
+        "class": "residential",
+        "coord": [
+          42.3439515,
+          -71.0726747
+        ]
+      },
+      {
+        "name": "West Canton Street",
+        "class": "residential",
+        "coord": [
+          42.3432217,
+          -71.0753831
+        ]
+      }
+    ],
+    "mystic street": [
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.340056,
+          -71.071826
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3405365,
+          -71.0710861
+        ]
+      }
+    ],
+    "newland street": [
+      {
+        "name": "Rutland Street",
+        "class": "residential",
+        "coord": [
+          42.339484,
+          -71.075594
+        ]
+      },
+      {
+        "name": "San Juan Street",
+        "class": "residential",
+        "coord": [
+          42.340305,
+          -71.074343
+        ]
+      },
+      {
+        "name": "San Juan Street",
+        "class": "residential",
+        "coord": [
+          42.341133,
+          -71.073096
+        ]
+      },
+      {
+        "name": "West Brookline Street",
+        "class": "residential",
+        "coord": [
+          42.3406836,
+          -71.0737974
+        ]
+      },
+      {
+        "name": "West Concord Street",
+        "class": "residential",
+        "coord": [
+          42.339024,
+          -71.076287
+        ]
+      },
+      {
+        "name": "West Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.339937,
+          -71.074903
+        ]
+      },
+      {
+        "name": "Worcester Street",
+        "class": "residential",
+        "coord": [
+          42.3385729,
+          -71.0769757
+        ]
+      }
+    ],
+    "paul place": [
+      {
+        "name": "Herald Street",
+        "class": "primary",
+        "coord": [
+          42.3473058,
+          -71.0677646
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.346485,
+          -71.066015
+        ]
+      }
+    ],
+    "paul sullivan way": [
+      {
+        "name": "Albany Street",
+        "class": "primary",
+        "coord": [
+          42.3423674,
+          -71.0628678
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3429404,
+          -71.0650509
+        ]
+      }
+    ],
+    "pelham street": [
+      {
+        "name": "Monsignor Reynolds Way",
+        "class": "secondary",
+        "coord": [
+          42.3407969,
+          -71.0706768
+        ]
+      },
+      {
+        "name": "Pelham Terrace",
+        "class": "residential",
+        "coord": [
+          42.3412891,
+          -71.0712371
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3415777,
+          -71.0715775
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3407969,
+          -71.0706768
+        ]
+      },
+      {
+        "name": "West Dedham Street",
+        "class": "secondary",
+        "coord": [
+          42.3407969,
+          -71.0706768
+        ]
+      }
+    ],
+    "pelham terrace": [
+      {
+        "name": "Pelham Street",
+        "class": "residential",
+        "coord": [
+          42.3412891,
+          -71.0712371
+        ]
+      }
+    ],
+    "pembroke street": [
+      {
+        "name": "Aguadilla Street",
+        "class": "residential",
+        "coord": [
+          42.3416674,
+          -71.0759418
+        ]
+      },
+      {
+        "name": "Columbus Square",
+        "class": "residential",
+        "coord": [
+          42.3434597,
+          -71.077507
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3416674,
+          -71.0759418
+        ]
+      },
+      {
+        "name": "Warren Avenue",
+        "class": "residential",
+        "coord": [
+          42.3434597,
+          -71.077507
+        ]
+      }
+    ],
+    "perry street": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3423234,
+          -71.0658557
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.342826,
+          -71.0670602
+        ]
+      }
+    ],
+    "plympton street": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3380594,
+          -71.0670884
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.339774,
+          -71.0691347
+        ]
+      }
+    ],
+    "randolph street": [
+      {
+        "name": "Albany Street",
+        "class": "primary",
+        "coord": [
+          42.3409797,
+          -71.0635299
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3419059,
+          -71.0663948
+        ]
+      }
+    ],
+    "ringgold street": [
+      {
+        "name": "Hanson Street",
+        "class": "residential",
+        "coord": [
+          42.3433269,
+          -71.069646
+        ]
+      },
+      {
+        "name": "Waltham Street",
+        "class": "secondary",
+        "coord": [
+          42.3429223,
+          -71.0702843
+        ]
+      }
+    ],
+    "rollins street": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3411138,
+          -71.0674174
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.34188,
+          -71.068292
+        ]
+      }
+    ],
+    "rutland square": [
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3426742,
+          -71.0791719
+        ]
+      },
+      {
+        "name": "Rutland Street",
+        "class": "residential",
+        "coord": [
+          42.3409305,
+          -71.0772985
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3409305,
+          -71.0772985
+        ]
+      },
+      {
+        "name": "West Rutland Square",
+        "class": "residential",
+        "coord": [
+          42.3426742,
+          -71.0791719
+        ]
+      }
+    ],
+    "rutland street": [
+      {
+        "name": "Cumston Street",
+        "class": "residential",
+        "coord": [
+          42.3388806,
+          -71.0748595
+        ]
+      },
+      {
+        "name": "Newland Street",
+        "class": "residential",
+        "coord": [
+          42.339484,
+          -71.075594
+        ]
+      },
+      {
+        "name": "Rutland Square",
+        "class": "residential",
+        "coord": [
+          42.3409305,
+          -71.0772985
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3392022,
+          -71.0752325
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3409305,
+          -71.0772985
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.338421,
+          -71.074288
+        ]
+      }
+    ],
+    "saint charles street": [
+      {
+        "name": "Chandler Street",
+        "class": "residential",
+        "coord": [
+          42.3467453,
+          -71.0718311
+        ]
+      }
+    ],
+    "saint george street": [
+      {
+        "name": "East Brookline Street",
+        "class": "secondary",
+        "coord": [
+          42.3388262,
+          -71.0715652
+        ]
+      },
+      {
+        "name": "East Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.3380752,
+          -71.072667
+        ]
+      },
+      {
+        "name": "Father Francis J. Gilday Street",
+        "class": "residential",
+        "coord": [
+          42.3380752,
+          -71.072667
+        ]
+      }
+    ],
+    "san juan street": [
+      {
+        "name": "Newland Street",
+        "class": "residential",
+        "coord": [
+          42.340305,
+          -71.074343
+        ]
+      },
+      {
+        "name": "Newland Street",
+        "class": "residential",
+        "coord": [
+          42.341133,
+          -71.073096
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.340031,
+          -71.0739954
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.340841,
+          -71.072751
+        ]
+      },
+      {
+        "name": "West Brookline Street",
+        "class": "residential",
+        "coord": [
+          42.341055,
+          -71.074243
+        ]
+      }
+    ],
+    "savoy street": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3416358,
+          -71.0667435
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3421376,
+          -71.0679291
+        ]
+      }
+    ],
+    "shawmut avenue": [
+      {
+        "name": "Bradford Street",
+        "class": "residential",
+        "coord": [
+          42.3433976,
+          -71.0684339
+        ]
+      },
+      {
+        "name": "Briggs Place",
+        "class": "residential",
+        "coord": [
+          42.3436191,
+          -71.0680614
+        ]
+      },
+      {
+        "name": "Castle Court",
+        "class": "residential",
+        "coord": [
+          42.345186,
+          -71.066629
+        ]
+      },
+      {
+        "name": "Cumston Place",
+        "class": "residential",
+        "coord": [
+          42.3389712,
+          -71.0755779
+        ]
+      },
+      {
+        "name": "Deblois Street",
+        "class": "residential",
+        "coord": [
+          42.3385143,
+          -71.0762858
+        ]
+      },
+      {
+        "name": "Dwight Street",
+        "class": "residential",
+        "coord": [
+          42.3438482,
+          -71.0677093
+        ]
+      },
+      {
+        "name": "East Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3443169,
+          -71.0670567
+        ]
+      },
+      {
+        "name": "Hanson Street",
+        "class": "residential",
+        "coord": [
+          42.3429909,
+          -71.0691374
+        ]
+      },
+      {
+        "name": "Herald Street",
+        "class": "primary",
+        "coord": [
+          42.3469014,
+          -71.0658712
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3373981,
+          -71.0779801
+        ]
+      },
+      {
+        "name": "Milford Street",
+        "class": "residential",
+        "coord": [
+          42.3433976,
+          -71.0684339
+        ]
+      },
+      {
+        "name": "Paul Place",
+        "class": "residential",
+        "coord": [
+          42.346485,
+          -71.066015
+        ]
+      },
+      {
+        "name": "Pelham Street",
+        "class": "residential",
+        "coord": [
+          42.3415777,
+          -71.0715775
+        ]
+      },
+      {
+        "name": "Rutland Street",
+        "class": "residential",
+        "coord": [
+          42.3392022,
+          -71.0752325
+        ]
+      },
+      {
+        "name": "San Juan Street",
+        "class": "residential",
+        "coord": [
+          42.340031,
+          -71.0739954
+        ]
+      },
+      {
+        "name": "San Juan Street",
+        "class": "residential",
+        "coord": [
+          42.340841,
+          -71.072751
+        ]
+      },
+      {
+        "name": "Union Park",
+        "class": "residential",
+        "coord": [
+          42.3421473,
+          -71.0705941
+        ]
+      },
+      {
+        "name": "Union Park Street",
+        "class": "residential",
+        "coord": [
+          42.3421473,
+          -71.0705941
+        ]
+      },
+      {
+        "name": "Upton Street",
+        "class": "residential",
+        "coord": [
+          42.3416907,
+          -71.0713824
+        ]
+      },
+      {
+        "name": "Waltham Street",
+        "class": "secondary",
+        "coord": [
+          42.3425695,
+          -71.069865
+        ]
+      },
+      {
+        "name": "West Brookline Street",
+        "class": "residential",
+        "coord": [
+          42.340396,
+          -71.073434
+        ]
+      },
+      {
+        "name": "West Concord Street",
+        "class": "residential",
+        "coord": [
+          42.338733,
+          -71.0759462
+        ]
+      },
+      {
+        "name": "West Dedham Street",
+        "class": "secondary",
+        "coord": [
+          42.3413062,
+          -71.0720464
+        ]
+      },
+      {
+        "name": "West Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.3396564,
+          -71.0745554
+        ]
+      },
+      {
+        "name": "West Springfield Street",
+        "class": "residential",
+        "coord": [
+          42.3378268,
+          -71.0773394
+        ]
+      },
+      {
+        "name": "Worcester Street",
+        "class": "residential",
+        "coord": [
+          42.3382851,
+          -71.0766383
+        ]
+      }
+    ],
+    "southampton street": [
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3326562,
+          -71.0720179
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue Connector",
+        "class": "primary",
+        "coord": [
+          42.3326562,
+          -71.0720179
+        ]
+      },
+      {
+        "name": "Melnea Cass Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3326562,
+          -71.0720179
+        ]
+      }
+    ],
+    "taylor street": [
+      {
+        "name": "Dwight Street",
+        "class": "residential",
+        "coord": [
+          42.34409,
+          -71.068331
+        ]
+      },
+      {
+        "name": "Milford Street",
+        "class": "residential",
+        "coord": [
+          42.343605,
+          -71.0687757
+        ]
+      }
+    ],
+    "thayer street": [
+      {
+        "name": "Albany Street",
+        "class": "primary",
+        "coord": [
+          42.3419854,
+          -71.0630501
+        ]
+      }
+    ],
+    "thorn street": [
+      {
+        "name": "East Brookline Street",
+        "class": "secondary",
+        "coord": [
+          42.3369426,
+          -71.0693236
+        ]
+      },
+      {
+        "name": "East Canton Street",
+        "class": "residential",
+        "coord": [
+          42.3374342,
+          -71.0686624
+        ]
+      },
+      {
+        "name": "East Canton Street",
+        "class": "residential",
+        "coord": [
+          42.3374778,
+          -71.0687118
+        ]
+      },
+      {
+        "name": "East Dedham Street",
+        "class": "residential",
+        "coord": [
+          42.3379339,
+          -71.0680316
+        ]
+      }
+    ],
+    "traveler street": [
+      {
+        "name": "Albany Street",
+        "class": "primary",
+        "coord": [
+          42.3440436,
+          -71.0620686
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3444566,
+          -71.0638682
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3444913,
+          -71.0640193
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.344987,
+          -71.065351
+        ]
+      }
+    ],
+    "tremont street": [
+      {
+        "name": "Aguadilla Street",
+        "class": "residential",
+        "coord": [
+          42.3416674,
+          -71.0759418
+        ]
+      },
+      {
+        "name": "Aguadilla Street",
+        "class": "residential",
+        "coord": [
+          42.3423955,
+          -71.074592
+        ]
+      },
+      {
+        "name": "Appleton Street",
+        "class": "residential",
+        "coord": [
+          42.34655,
+          -71.0691293
+        ]
+      },
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3474901,
+          -71.0686161
+        ]
+      },
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.345277,
+          -71.0698264
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3438658,
+          -71.0718404
+        ]
+      },
+      {
+        "name": "Concord Square",
+        "class": "residential",
+        "coord": [
+          42.3405218,
+          -71.0780724
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3428273,
+          -71.0737716
+        ]
+      },
+      {
+        "name": "Dwight Street",
+        "class": "residential",
+        "coord": [
+          42.3448874,
+          -71.0701947
+        ]
+      },
+      {
+        "name": "East Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.345277,
+          -71.0698264
+        ]
+      },
+      {
+        "name": "Hanson Street",
+        "class": "residential",
+        "coord": [
+          42.3442865,
+          -71.0710541
+        ]
+      },
+      {
+        "name": "Herald Street",
+        "class": "primary",
+        "coord": [
+          42.3474901,
+          -71.0686161
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3393397,
+          -71.0803039
+        ]
+      },
+      {
+        "name": "Milford Street",
+        "class": "residential",
+        "coord": [
+          42.3445456,
+          -71.0705715
+        ]
+      },
+      {
+        "name": "Pembroke Street",
+        "class": "residential",
+        "coord": [
+          42.3416674,
+          -71.0759418
+        ]
+      },
+      {
+        "name": "Rutland Square",
+        "class": "residential",
+        "coord": [
+          42.3409305,
+          -71.0772985
+        ]
+      },
+      {
+        "name": "Rutland Street",
+        "class": "residential",
+        "coord": [
+          42.3409305,
+          -71.0772985
+        ]
+      },
+      {
+        "name": "Union Park",
+        "class": "residential",
+        "coord": [
+          42.3436035,
+          -71.0723228
+        ]
+      },
+      {
+        "name": "Upton Street",
+        "class": "residential",
+        "coord": [
+          42.343176,
+          -71.0731314
+        ]
+      },
+      {
+        "name": "Waltham Street",
+        "class": "secondary",
+        "coord": [
+          42.344018,
+          -71.0715652
+        ]
+      },
+      {
+        "name": "West Brookline Street",
+        "class": "residential",
+        "coord": [
+          42.3419967,
+          -71.0753389
+        ]
+      },
+      {
+        "name": "West Canton Street",
+        "class": "residential",
+        "coord": [
+          42.3423955,
+          -71.074592
+        ]
+      },
+      {
+        "name": "West Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3405218,
+          -71.0780724
+        ]
+      },
+      {
+        "name": "West Dedham Street",
+        "class": "secondary",
+        "coord": [
+          42.3428273,
+          -71.0737716
+        ]
+      },
+      {
+        "name": "West Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.3413374,
+          -71.0765562
+        ]
+      },
+      {
+        "name": "West Springfield Street",
+        "class": "residential",
+        "coord": [
+          42.339709,
+          -71.079595
+        ]
+      },
+      {
+        "name": "Worcester Street",
+        "class": "residential",
+        "coord": [
+          42.3401191,
+          -71.0788195
+        ]
+      }
+    ],
+    "union park": [
+      {
+        "name": "Montgomery Street",
+        "class": "residential",
+        "coord": [
+          42.3439515,
+          -71.0726747
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3421473,
+          -71.0705941
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3436035,
+          -71.0723228
+        ]
+      },
+      {
+        "name": "Union Park Street",
+        "class": "residential",
+        "coord": [
+          42.3421473,
+          -71.0705941
+        ]
+      }
+    ],
+    "union park street": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3396038,
+          -71.0650016
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3406396,
+          -71.0680243
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3421473,
+          -71.0705941
+        ]
+      },
+      {
+        "name": "Union Park",
+        "class": "residential",
+        "coord": [
+          42.3421473,
+          -71.0705941
+        ]
+      },
+      {
+        "name": "Waltham Street",
+        "class": "secondary",
+        "coord": [
+          42.3403403,
+          -71.0672223
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3413335,
+          -71.0696323
+        ]
+      }
+    ],
+    "upton street": [
+      {
+        "name": "Ivanhoe Street",
+        "class": "residential",
+        "coord": [
+          42.3428644,
+          -71.0728003
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3416907,
+          -71.0713824
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.343176,
+          -71.0731314
+        ]
+      }
+    ],
+    "village court": [
+      {
+        "name": "East Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3449906,
+          -71.0689715
+        ]
+      }
+    ],
+    "waltham street": [
+      {
+        "name": "Bradford Street",
+        "class": "residential",
+        "coord": [
+          42.342256,
+          -71.069534
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3408236,
+          -71.067792
+        ]
+      },
+      {
+        "name": "Ringgold Street",
+        "class": "residential",
+        "coord": [
+          42.3429223,
+          -71.0702843
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3425695,
+          -71.069865
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.344018,
+          -71.0715652
+        ]
+      },
+      {
+        "name": "Union Park Street",
+        "class": "secondary",
+        "coord": [
+          42.3403403,
+          -71.0672223
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.341666,
+          -71.0687797
+        ]
+      }
+    ],
+    "ward way": [
+      {
+        "name": "West Springfield Street",
+        "class": "residential",
+        "coord": [
+          42.3389519,
+          -71.078708
+        ]
+      },
+      {
+        "name": "Worcester Street",
+        "class": "residential",
+        "coord": [
+          42.339429,
+          -71.078003
+        ]
+      }
+    ],
+    "wareham street": [
+      {
+        "name": "Albany Street",
+        "class": "secondary",
+        "coord": [
+          42.3384875,
+          -71.0664868
+        ]
+      },
+      {
+        "name": "Malden Street",
+        "class": "secondary",
+        "coord": [
+          42.3401352,
+          -71.068444
+        ]
+      }
+    ],
+    "warren avenue": [
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3454644,
+          -71.0702346
+        ]
+      },
+      {
+        "name": "Braddock Park",
+        "class": "residential",
+        "coord": [
+          42.3437333,
+          -71.0778717
+        ]
+      },
+      {
+        "name": "Clarendon Street",
+        "class": "secondary",
+        "coord": [
+          42.3448789,
+          -71.0723749
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3437333,
+          -71.0778717
+        ]
+      },
+      {
+        "name": "Columbus Square",
+        "class": "residential",
+        "coord": [
+          42.3434597,
+          -71.077507
+        ]
+      },
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3443013,
+          -71.0744752
+        ]
+      },
+      {
+        "name": "Pembroke Street",
+        "class": "residential",
+        "coord": [
+          42.3434597,
+          -71.077507
+        ]
+      },
+      {
+        "name": "West Brookline Street",
+        "class": "residential",
+        "coord": [
+          42.3436838,
+          -71.0767874
+        ]
+      },
+      {
+        "name": "West Canton Street",
+        "class": "residential",
+        "coord": [
+          42.3439255,
+          -71.0758919
+        ]
+      }
+    ],
+    "washington street": [
+      {
+        "name": "East Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3439571,
+          -71.0659884
+        ]
+      },
+      {
+        "name": "East Brookline Street",
+        "class": "secondary",
+        "coord": [
+          42.339615,
+          -71.072504
+        ]
+      },
+      {
+        "name": "East Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3379292,
+          -71.0749632
+        ]
+      },
+      {
+        "name": "East Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.338869,
+          -71.07363
+        ]
+      },
+      {
+        "name": "East Springfield Street",
+        "class": "residential",
+        "coord": [
+          42.33697,
+          -71.076316
+        ]
+      },
+      {
+        "name": "Herald Street",
+        "class": "primary",
+        "coord": [
+          42.3466265,
+          -71.0645991
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3365319,
+          -71.0769302
+        ]
+      },
+      {
+        "name": "Monsignor Reynolds Way",
+        "class": "secondary",
+        "coord": [
+          42.3407419,
+          -71.0707633
+        ]
+      },
+      {
+        "name": "Monsignor Reynolds Way",
+        "class": "secondary",
+        "coord": [
+          42.3407969,
+          -71.0706768
+        ]
+      },
+      {
+        "name": "Mystic Street",
+        "class": "residential",
+        "coord": [
+          42.340056,
+          -71.071826
+        ]
+      },
+      {
+        "name": "Mystic Street",
+        "class": "residential",
+        "coord": [
+          42.3405365,
+          -71.0710861
+        ]
+      },
+      {
+        "name": "Pelham Street",
+        "class": "residential",
+        "coord": [
+          42.3407969,
+          -71.0706768
+        ]
+      },
+      {
+        "name": "Perry Street",
+        "class": "residential",
+        "coord": [
+          42.342826,
+          -71.0670602
+        ]
+      },
+      {
+        "name": "Rollins Street",
+        "class": "residential",
+        "coord": [
+          42.34188,
+          -71.068292
+        ]
+      },
+      {
+        "name": "Rutland Street",
+        "class": "residential",
+        "coord": [
+          42.338421,
+          -71.074288
+        ]
+      },
+      {
+        "name": "Savoy Street",
+        "class": "residential",
+        "coord": [
+          42.3421376,
+          -71.0679291
+        ]
+      },
+      {
+        "name": "Traveler Street",
+        "class": "unclassified",
+        "coord": [
+          42.344987,
+          -71.065351
+        ]
+      },
+      {
+        "name": "Union Park Street",
+        "class": "residential",
+        "coord": [
+          42.3413335,
+          -71.0696323
+        ]
+      },
+      {
+        "name": "Waltham Street",
+        "class": "secondary",
+        "coord": [
+          42.341666,
+          -71.0687797
+        ]
+      },
+      {
+        "name": "West Brookline Street",
+        "class": "residential",
+        "coord": [
+          42.339615,
+          -71.072504
+        ]
+      },
+      {
+        "name": "West Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3379292,
+          -71.0749632
+        ]
+      },
+      {
+        "name": "West Dedham Street",
+        "class": "secondary",
+        "coord": [
+          42.3407419,
+          -71.0707633
+        ]
+      },
+      {
+        "name": "West Dedham Street",
+        "class": "secondary",
+        "coord": [
+          42.3407969,
+          -71.0706768
+        ]
+      },
+      {
+        "name": "West Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.338869,
+          -71.07363
+        ]
+      },
+      {
+        "name": "West Springfield Street",
+        "class": "residential",
+        "coord": [
+          42.33697,
+          -71.076316
+        ]
+      },
+      {
+        "name": "William E. Mullins Way",
+        "class": "residential",
+        "coord": [
+          42.3457419,
+          -71.0648999
+        ]
+      },
+      {
+        "name": "Worcester Square",
+        "class": "residential",
+        "coord": [
+          42.337459,
+          -71.075647
+        ]
+      },
+      {
+        "name": "Worcester Street",
+        "class": "residential",
+        "coord": [
+          42.337459,
+          -71.075647
+        ]
+      }
+    ],
+    "wellington street": [
+      {
+        "name": "Claremont Street",
+        "class": "residential",
+        "coord": [
+          42.3420405,
+          -71.0824464
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3411093,
+          -71.0811064
+        ]
+      },
+      {
+        "name": "West Springfield Street",
+        "class": "residential",
+        "coord": [
+          42.3411093,
+          -71.0811064
+        ]
+      }
+    ],
+    "west brookline street": [
+      {
+        "name": "Aguadilla Street",
+        "class": "residential",
+        "coord": [
+          42.341473,
+          -71.074713
+        ]
+      },
+      {
+        "name": "East Brookline Street",
+        "class": "secondary",
+        "coord": [
+          42.339615,
+          -71.072504
+        ]
+      },
+      {
+        "name": "Newland Street",
+        "class": "residential",
+        "coord": [
+          42.3406836,
+          -71.0737974
+        ]
+      },
+      {
+        "name": "San Juan Street",
+        "class": "residential",
+        "coord": [
+          42.341055,
+          -71.074243
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.340396,
+          -71.073434
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3419967,
+          -71.0753389
+        ]
+      },
+      {
+        "name": "Warren Avenue",
+        "class": "residential",
+        "coord": [
+          42.3436838,
+          -71.0767874
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.339615,
+          -71.072504
+        ]
+      }
+    ],
+    "west canton street": [
+      {
+        "name": "Aguadilla Street",
+        "class": "residential",
+        "coord": [
+          42.3423955,
+          -71.074592
+        ]
+      },
+      {
+        "name": "Appleton Street",
+        "class": "residential",
+        "coord": [
+          42.3446791,
+          -71.0763362
+        ]
+      },
+      {
+        "name": "Carleton Street",
+        "class": "residential",
+        "coord": [
+          42.3457948,
+          -71.0779327
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3448344,
+          -71.0765129
+        ]
+      },
+      {
+        "name": "Montgomery Street",
+        "class": "residential",
+        "coord": [
+          42.3432217,
+          -71.0753831
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3423955,
+          -71.074592
+        ]
+      },
+      {
+        "name": "Warren Avenue",
+        "class": "residential",
+        "coord": [
+          42.3439255,
+          -71.0758919
+        ]
+      }
+    ],
+    "west concord street": [
+      {
+        "name": "Concord Square",
+        "class": "residential",
+        "coord": [
+          42.3405218,
+          -71.0780724
+        ]
+      },
+      {
+        "name": "Cumston Street",
+        "class": "residential",
+        "coord": [
+          42.3384155,
+          -71.0755682
+        ]
+      },
+      {
+        "name": "Deacon Street",
+        "class": "residential",
+        "coord": [
+          42.3382949,
+          -71.075432
+        ]
+      },
+      {
+        "name": "East Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3379292,
+          -71.0749632
+        ]
+      },
+      {
+        "name": "Newland Street",
+        "class": "residential",
+        "coord": [
+          42.339024,
+          -71.076287
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.338733,
+          -71.0759462
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3405218,
+          -71.0780724
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3379292,
+          -71.0749632
+        ]
+      }
+    ],
+    "west dedham street": [
+      {
+        "name": "Dartmouth Street",
+        "class": "secondary",
+        "coord": [
+          42.3428273,
+          -71.0737716
+        ]
+      },
+      {
+        "name": "Ivanhoe Street",
+        "class": "residential",
+        "coord": [
+          42.3424408,
+          -71.0734069
+        ]
+      },
+      {
+        "name": "Monsignor Reynolds Way",
+        "class": "secondary",
+        "coord": [
+          42.3407419,
+          -71.0707633
+        ]
+      },
+      {
+        "name": "Monsignor Reynolds Way",
+        "class": "secondary",
+        "coord": [
+          42.3407969,
+          -71.0706768
+        ]
+      },
+      {
+        "name": "Pelham Street",
+        "class": "residential",
+        "coord": [
+          42.3407969,
+          -71.0706768
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3413062,
+          -71.0720464
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3428273,
+          -71.0737716
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3407419,
+          -71.0707633
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3407969,
+          -71.0706768
+        ]
+      }
+    ],
+    "west fourth street": [
+      {
+        "name": "Albany Street",
+        "class": "primary",
+        "coord": [
+          42.3430201,
+          -71.0625565
+        ]
+      },
+      {
+        "name": "East Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3430201,
+          -71.0625565
+        ]
+      }
+    ],
+    "west newton street": [
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3431933,
+          -71.0785329
+        ]
+      },
+      {
+        "name": "East Newton Street",
+        "class": "secondary",
+        "coord": [
+          42.338869,
+          -71.07363
+        ]
+      },
+      {
+        "name": "Newland Street",
+        "class": "residential",
+        "coord": [
+          42.339937,
+          -71.074903
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3396564,
+          -71.0745554
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3413374,
+          -71.0765562
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.338869,
+          -71.07363
+        ]
+      }
+    ],
+    "west rutland square": [
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3426742,
+          -71.0791719
+        ]
+      },
+      {
+        "name": "Rutland Square",
+        "class": "residential",
+        "coord": [
+          42.3426742,
+          -71.0791719
+        ]
+      }
+    ],
+    "west springfield street": [
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3411093,
+          -71.0811064
+        ]
+      },
+      {
+        "name": "East Springfield Street",
+        "class": "residential",
+        "coord": [
+          42.33697,
+          -71.076316
+        ]
+      },
+      {
+        "name": "Lincoln Place",
+        "class": "unclassified",
+        "coord": [
+          42.3373247,
+          -71.076726
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3378268,
+          -71.0773394
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.339709,
+          -71.079595
+        ]
+      },
+      {
+        "name": "Ward Way",
+        "class": "residential",
+        "coord": [
+          42.3389519,
+          -71.078708
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.33697,
+          -71.076316
+        ]
+      },
+      {
+        "name": "Wellington Street",
+        "class": "residential",
+        "coord": [
+          42.3411093,
+          -71.0811064
+        ]
+      }
+    ],
+    "william e. mullins way": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3454217,
+          -71.0634776
+        ]
+      },
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3454515,
+          -71.0636296
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3457419,
+          -71.0648999
+        ]
+      }
+    ],
+    "worcester square": [
+      {
+        "name": "Harrison Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3359798,
+          -71.0738555
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.337459,
+          -71.075647
+        ]
+      },
+      {
+        "name": "Worcester Street",
+        "class": "residential",
+        "coord": [
+          42.337459,
+          -71.075647
+        ]
+      }
+    ],
+    "worcester street": [
+      {
+        "name": "Claremont Park",
+        "class": "residential",
+        "coord": [
+          42.3416216,
+          -71.0804675
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3416216,
+          -71.0804675
+        ]
+      },
+      {
+        "name": "Deacon Street",
+        "class": "residential",
+        "coord": [
+          42.3378405,
+          -71.0761171
+        ]
+      },
+      {
+        "name": "Lincoln Place",
+        "class": "unclassified",
+        "coord": [
+          42.337783,
+          -71.076052
+        ]
+      },
+      {
+        "name": "Newland Street",
+        "class": "residential",
+        "coord": [
+          42.3385729,
+          -71.0769757
+        ]
+      },
+      {
+        "name": "Shawmut Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3382851,
+          -71.0766383
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3401191,
+          -71.0788195
+        ]
+      },
+      {
+        "name": "Ward Way",
+        "class": "residential",
+        "coord": [
+          42.339429,
+          -71.078003
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.337459,
+          -71.075647
+        ]
+      },
+      {
+        "name": "Worcester Square",
+        "class": "residential",
+        "coord": [
+          42.337459,
+          -71.075647
+        ]
+      }
+    ],
+    "yarmouth place": [
+      {
+        "name": "Yarmouth Street",
+        "class": "residential",
+        "coord": [
+          42.3457993,
+          -71.076451
+        ]
+      },
+      {
+        "name": "Yarmouth Street",
+        "class": "residential",
+        "coord": [
+          42.3461573,
+          -71.0769761
+        ]
+      }
+    ],
+    "yarmouth street": [
+      {
+        "name": "Carleton Street",
+        "class": "residential",
+        "coord": [
+          42.3463091,
+          -71.077277
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3453798,
+          -71.0758398
+        ]
+      },
+      {
+        "name": "Yarmouth Place",
+        "class": "residential",
+        "coord": [
+          42.3457993,
+          -71.076451
+        ]
+      },
+      {
+        "name": "Yarmouth Place",
+        "class": "residential",
+        "coord": [
+          42.3461573,
+          -71.0769761
+        ]
+      }
+    ]
+  }
+}

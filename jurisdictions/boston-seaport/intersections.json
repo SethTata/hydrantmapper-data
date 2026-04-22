@@ -1,0 +1,3273 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-seaport",
+  "generated_at": "2026-04-22T05:27:12Z",
+  "streets": {
+    "a street": [
+      {
+        "name": "Binford Street",
+        "class": "residential",
+        "coord": [
+          42.3469586,
+          -71.0511185
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3503684,
+          -71.0484666
+        ]
+      },
+      {
+        "name": "Iron Street",
+        "class": "residential",
+        "coord": [
+          42.3450679,
+          -71.0525902
+        ]
+      },
+      {
+        "name": "Melcher Street",
+        "class": "residential",
+        "coord": [
+          42.3490793,
+          -71.0494669
+        ]
+      },
+      {
+        "name": "Mount Washington Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3465237,
+          -71.0514799
+        ]
+      },
+      {
+        "name": "Mount Washington Way",
+        "class": "residential",
+        "coord": [
+          42.3465237,
+          -71.0514799
+        ]
+      },
+      {
+        "name": "Necco Court",
+        "class": "residential",
+        "coord": [
+          42.348726,
+          -71.0497423
+        ]
+      },
+      {
+        "name": "Necco Street",
+        "class": "residential",
+        "coord": [
+          42.3481688,
+          -71.0501766
+        ]
+      },
+      {
+        "name": "Pastene Alley",
+        "class": "unclassified",
+        "coord": [
+          42.3492592,
+          -71.0493276
+        ]
+      },
+      {
+        "name": "Richards Street",
+        "class": "tertiary",
+        "coord": [
+          42.3443931,
+          -71.0531135
+        ]
+      },
+      {
+        "name": "Sobin Park",
+        "class": "residential",
+        "coord": [
+          42.3443931,
+          -71.0531135
+        ]
+      },
+      {
+        "name": "West First Street",
+        "class": "residential",
+        "coord": [
+          42.3433816,
+          -71.0537133
+        ]
+      },
+      {
+        "name": "West Second Street",
+        "class": "secondary",
+        "coord": [
+          42.3428639,
+          -71.0542906
+        ]
+      },
+      {
+        "name": "West Third Street",
+        "class": "residential",
+        "coord": [
+          42.3426063,
+          -71.0546026
+        ]
+      },
+      {
+        "name": "Wormwood Street",
+        "class": "residential",
+        "coord": [
+          42.3475744,
+          -71.0506407
+        ]
+      }
+    ],
+    "anchor street": [
+      {
+        "name": "Buffer Street",
+        "class": "unclassified",
+        "coord": [
+          42.3429834,
+          -71.0446429
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "secondary",
+        "coord": [
+          42.3434668,
+          -71.0453946
+        ]
+      }
+    ],
+    "anchor way": [
+      {
+        "name": "Bollard Way",
+        "class": "residential",
+        "coord": [
+          42.345931,
+          -71.02978
+        ]
+      },
+      {
+        "name": "Fid Kennedy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3465367,
+          -71.0297946
+        ]
+      }
+    ],
+    "athens street": [
+      {
+        "name": "West Second Street",
+        "class": "secondary",
+        "coord": [
+          42.3434192,
+          -71.0566828
+        ]
+      }
+    ],
+    "au bon pain way": [
+      {
+        "name": "Bollard Way",
+        "class": "residential",
+        "coord": [
+          42.3459392,
+          -71.0291597
+        ]
+      },
+      {
+        "name": "Fid Kennedy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3465505,
+          -71.0291636
+        ]
+      }
+    ],
+    "autumn lane": [
+      {
+        "name": "Boston Wharf Road",
+        "class": "tertiary",
+        "coord": [
+          42.3510034,
+          -71.0461002
+        ]
+      },
+      {
+        "name": "Calvin Place",
+        "class": "residential",
+        "coord": [
+          42.3512785,
+          -71.0467355
+        ]
+      },
+      {
+        "name": "Pier Four Boulevard",
+        "class": "tertiary",
+        "coord": [
+          42.3503286,
+          -71.0444901
+        ]
+      },
+      {
+        "name": "Stillings Street",
+        "class": "residential",
+        "coord": [
+          42.3512785,
+          -71.0467355
+        ]
+      }
+    ],
+    "b street": [
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3492731,
+          -71.0435424
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3493093,
+          -71.0437077
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3493855,
+          -71.0434982
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3494116,
+          -71.0436329
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.350406,
+          -71.0427986
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3504575,
+          -71.0428962
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3504836,
+          -71.04274
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3505306,
+          -71.0428388
+        ]
+      }
+    ],
+    "binford street": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3469586,
+          -71.0511185
+        ]
+      },
+      {
+        "name": "Channel Center Street",
+        "class": "residential",
+        "coord": [
+          42.3467245,
+          -71.0506486
+        ]
+      },
+      {
+        "name": "Medallion Avenue",
+        "class": "residential",
+        "coord": [
+          42.3464865,
+          -71.0500909
+        ]
+      },
+      {
+        "name": "Wormwood Street",
+        "class": "residential",
+        "coord": [
+          42.3462306,
+          -71.0494914
+        ]
+      }
+    ],
+    "black falcon avenue": [
+      {
+        "name": "Design Center Place",
+        "class": "residential",
+        "coord": [
+          42.3438938,
+          -71.0343163
+        ]
+      },
+      {
+        "name": "Drydock Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.344004,
+          -71.027143
+        ]
+      },
+      {
+        "name": "Terminal Street",
+        "class": "residential",
+        "coord": [
+          42.3438938,
+          -71.0343163
+        ]
+      }
+    ],
+    "bollard way": [
+      {
+        "name": "Anchor Way",
+        "class": "residential",
+        "coord": [
+          42.345931,
+          -71.02978
+        ]
+      },
+      {
+        "name": "Au Bon Pain Way",
+        "class": "residential",
+        "coord": [
+          42.3459392,
+          -71.0291597
+        ]
+      }
+    ],
+    "bolton street": [
+      {
+        "name": "West Second Street",
+        "class": "secondary",
+        "coord": [
+          42.342797,
+          -71.0540139
+        ]
+      }
+    ],
+    "bond drive": [
+      {
+        "name": "Courthouse Way",
+        "class": "residential",
+        "coord": [
+          42.3540891,
+          -71.0463505
+        ]
+      },
+      {
+        "name": "Fan Pier Boulevard",
+        "class": "residential",
+        "coord": [
+          42.3536681,
+          -71.0454467
+        ]
+      },
+      {
+        "name": "Marina Park Drive",
+        "class": "residential",
+        "coord": [
+          42.3533341,
+          -71.0447299
+        ]
+      }
+    ],
+    "boston wharf road": [
+      {
+        "name": "Autumn Lane",
+        "class": "residential",
+        "coord": [
+          42.3510034,
+          -71.0461002
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3495697,
+          -71.0471928
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3517347,
+          -71.0455428
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3518288,
+          -71.0454711
+        ]
+      },
+      {
+        "name": "West Service Road Extension",
+        "class": "tertiary",
+        "coord": [
+          42.3495697,
+          -71.0471928
+        ]
+      }
+    ],
+    "buffer street": [
+      {
+        "name": "Anchor Street",
+        "class": "unclassified",
+        "coord": [
+          42.3429834,
+          -71.0446429
+        ]
+      },
+      {
+        "name": "Bullock Street",
+        "class": "unclassified",
+        "coord": [
+          42.3435991,
+          -71.0438961
+        ]
+      },
+      {
+        "name": "Danby Street",
+        "class": "unclassified",
+        "coord": [
+          42.3424071,
+          -71.045296
+        ]
+      }
+    ],
+    "bullock street": [
+      {
+        "name": "Buffer Street",
+        "class": "unclassified",
+        "coord": [
+          42.3435991,
+          -71.0438961
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "secondary",
+        "coord": [
+          42.3440885,
+          -71.0446701
+        ]
+      },
+      {
+        "name": "Louis Street",
+        "class": "unclassified",
+        "coord": [
+          42.3432626,
+          -71.046977
+        ]
+      },
+      {
+        "name": "New Cypher Street",
+        "class": "tertiary",
+        "coord": [
+          42.3418642,
+          -71.0485602
+        ]
+      }
+    ],
+    "c street": [
+      {
+        "name": "New Cypher Street",
+        "class": "tertiary",
+        "coord": [
+          42.3423945,
+          -71.0493462
+        ]
+      },
+      {
+        "name": "West First Street",
+        "class": "secondary",
+        "coord": [
+          42.3417019,
+          -71.0501482
+        ]
+      }
+    ],
+    "calvin place": [
+      {
+        "name": "Autumn Lane",
+        "class": "residential",
+        "coord": [
+          42.3512785,
+          -71.0467355
+        ]
+      },
+      {
+        "name": "Stillings Street",
+        "class": "residential",
+        "coord": [
+          42.3512785,
+          -71.0467355
+        ]
+      },
+      {
+        "name": "Thomson Place",
+        "class": "residential",
+        "coord": [
+          42.3514967,
+          -71.0472563
+        ]
+      }
+    ],
+    "capstan way": [
+      {
+        "name": "Fid Kennedy Avenue",
+        "class": "residential",
+        "coord": [
+          42.346613,
+          -71.027333
+        ]
+      }
+    ],
+    "channel center street": [
+      {
+        "name": "Binford Street",
+        "class": "residential",
+        "coord": [
+          42.3467245,
+          -71.0506486
+        ]
+      },
+      {
+        "name": "Iron Street",
+        "class": "residential",
+        "coord": [
+          42.3448566,
+          -71.0520927
+        ]
+      },
+      {
+        "name": "Mount Washington Way",
+        "class": "residential",
+        "coord": [
+          42.3463058,
+          -71.0509723
+        ]
+      }
+    ],
+    "channel street": [
+      {
+        "name": "Harbor Street",
+        "class": "residential",
+        "coord": [
+          42.3448204,
+          -71.036812
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3470411,
+          -71.0354908
+        ]
+      }
+    ],
+    "codfish way": [
+      {
+        "name": "Fid Kennedy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3466234,
+          -71.0305547
+        ]
+      },
+      {
+        "name": "Shoreline Road",
+        "class": "residential",
+        "coord": [
+          42.348876,
+          -71.0288637
+        ]
+      },
+      {
+        "name": "Tide Street",
+        "class": "tertiary",
+        "coord": [
+          42.3466234,
+          -71.0305547
+        ]
+      }
+    ],
+    "congress street": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3503684,
+          -71.0484666
+        ]
+      },
+      {
+        "name": "B Street",
+        "class": "secondary",
+        "coord": [
+          42.3492731,
+          -71.0435424
+        ]
+      },
+      {
+        "name": "B Street",
+        "class": "secondary",
+        "coord": [
+          42.3493093,
+          -71.0437077
+        ]
+      },
+      {
+        "name": "B Street",
+        "class": "secondary",
+        "coord": [
+          42.3493855,
+          -71.0434982
+        ]
+      },
+      {
+        "name": "B Street",
+        "class": "secondary",
+        "coord": [
+          42.3494116,
+          -71.0436329
+        ]
+      },
+      {
+        "name": "Boston Wharf Road",
+        "class": "tertiary",
+        "coord": [
+          42.3495697,
+          -71.0471928
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "primary",
+        "coord": [
+          42.3479385,
+          -71.0400763
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "primary",
+        "coord": [
+          42.3480241,
+          -71.0404263
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "primary",
+        "coord": [
+          42.3481142,
+          -71.0403575
+        ]
+      },
+      {
+        "name": "Farnsworth Street",
+        "class": "residential",
+        "coord": [
+          42.3507133,
+          -71.0490141
+        ]
+      },
+      {
+        "name": "Harborview Lane",
+        "class": "residential",
+        "coord": [
+          42.3476518,
+          -71.0388476
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3482789,
+          -71.0374999
+        ]
+      },
+      {
+        "name": "Park Lane",
+        "class": "living_street",
+        "coord": [
+          42.3478447,
+          -71.0378189
+        ]
+      },
+      {
+        "name": "Pier Four Boulevard",
+        "class": "tertiary",
+        "coord": [
+          42.3491687,
+          -71.0454135
+        ]
+      },
+      {
+        "name": "Pier Four Boulevard",
+        "class": "tertiary",
+        "coord": [
+          42.3492805,
+          -71.0453105
+        ]
+      },
+      {
+        "name": "Port Lane",
+        "class": "unclassified",
+        "coord": [
+          42.3476951,
+          -71.039372
+        ]
+      },
+      {
+        "name": "Seaport Lane",
+        "class": "residential",
+        "coord": [
+          42.3485053,
+          -71.0416072
+        ]
+      },
+      {
+        "name": "Seaport Lane",
+        "class": "residential",
+        "coord": [
+          42.3485907,
+          -71.0415174
+        ]
+      },
+      {
+        "name": "Sleeper Street",
+        "class": "residential",
+        "coord": [
+          42.3512064,
+          -71.0497722
+        ]
+      },
+      {
+        "name": "Sleeper Street",
+        "class": "residential",
+        "coord": [
+          42.3512505,
+          -71.0498401
+        ]
+      },
+      {
+        "name": "Starboard Way",
+        "class": "unclassified",
+        "coord": [
+          42.3476637,
+          -71.0380097
+        ]
+      },
+      {
+        "name": "Stillings Street",
+        "class": "residential",
+        "coord": [
+          42.3499375,
+          -71.0477941
+        ]
+      },
+      {
+        "name": "Thomson Place",
+        "class": "residential",
+        "coord": [
+          42.3502284,
+          -71.0482475
+        ]
+      },
+      {
+        "name": "West Service Road Extension",
+        "class": "tertiary",
+        "coord": [
+          42.3495697,
+          -71.0471928
+        ]
+      }
+    ],
+    "courthouse way": [
+      {
+        "name": "Bond Drive",
+        "class": "residential",
+        "coord": [
+          42.3540891,
+          -71.0463505
+        ]
+      },
+      {
+        "name": "Liberty Drive",
+        "class": "residential",
+        "coord": [
+          42.3545792,
+          -71.0459194
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3534616,
+          -71.0469024
+        ]
+      }
+    ],
+    "d street": [
+      {
+        "name": "Anchor Street",
+        "class": "unclassified",
+        "coord": [
+          42.3434668,
+          -71.0453946
+        ]
+      },
+      {
+        "name": "Bullock Street",
+        "class": "unclassified",
+        "coord": [
+          42.3440885,
+          -71.0446701
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3479385,
+          -71.0400763
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3480241,
+          -71.0404263
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3481142,
+          -71.0403575
+        ]
+      },
+      {
+        "name": "Danby Street",
+        "class": "unclassified",
+        "coord": [
+          42.3428972,
+          -71.0460584
+        ]
+      },
+      {
+        "name": "Fargo Street",
+        "class": "tertiary",
+        "coord": [
+          42.3455258,
+          -71.0429472
+        ]
+      },
+      {
+        "name": "Fargo Street",
+        "class": "tertiary",
+        "coord": [
+          42.3455753,
+          -71.0430342
+        ]
+      },
+      {
+        "name": "Fish Pier Road",
+        "class": "residential",
+        "coord": [
+          42.3491248,
+          -71.0395986
+        ]
+      },
+      {
+        "name": "Inman Street",
+        "class": "residential",
+        "coord": [
+          42.3458599,
+          -71.0425584
+        ]
+      },
+      {
+        "name": "New Cypher Street",
+        "class": "tertiary",
+        "coord": [
+          42.3412898,
+          -71.0479352
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "primary",
+        "coord": [
+          42.3488888,
+          -71.0389695
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "primary",
+        "coord": [
+          42.3491248,
+          -71.0395986
+        ]
+      },
+      {
+        "name": "Park Lane",
+        "class": "residential",
+        "coord": [
+          42.3484958,
+          -71.0394071
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3491248,
+          -71.0395986
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3462013,
+          -71.0421481
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3462643,
+          -71.0422701
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3462747,
+          -71.0420404
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3463493,
+          -71.0421751
+        ]
+      },
+      {
+        "name": "West First Street",
+        "class": "secondary",
+        "coord": [
+          42.3407055,
+          -71.048603
+        ]
+      }
+    ],
+    "danby street": [
+      {
+        "name": "Buffer Street",
+        "class": "unclassified",
+        "coord": [
+          42.3424071,
+          -71.045296
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "secondary",
+        "coord": [
+          42.3428972,
+          -71.0460584
+        ]
+      }
+    ],
+    "design center place": [
+      {
+        "name": "Black Falcon Avenue",
+        "class": "residential",
+        "coord": [
+          42.3438938,
+          -71.0343163
+        ]
+      },
+      {
+        "name": "Drydock Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.344678,
+          -71.0343435
+        ]
+      },
+      {
+        "name": "Terminal Street",
+        "class": "residential",
+        "coord": [
+          42.3438938,
+          -71.0343163
+        ]
+      }
+    ],
+    "dolphin way": [
+      {
+        "name": "Fid Kennedy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3466114,
+          -71.0249964
+        ]
+      }
+    ],
+    "dorchester avenue": [
+      {
+        "name": "West Second Street",
+        "class": "secondary",
+        "coord": [
+          42.3435189,
+          -71.0572292
+        ]
+      }
+    ],
+    "dorchester street": [
+      {
+        "name": "East First Street",
+        "class": "secondary",
+        "coord": [
+          42.3380393,
+          -71.0425217
+        ]
+      },
+      {
+        "name": "West First Street",
+        "class": "secondary",
+        "coord": [
+          42.3372851,
+          -71.0433109
+        ]
+      }
+    ],
+    "drydock avenue": [
+      {
+        "name": "Black Falcon Avenue",
+        "class": "residential",
+        "coord": [
+          42.344004,
+          -71.027143
+        ]
+      },
+      {
+        "name": "Design Center Place",
+        "class": "residential",
+        "coord": [
+          42.344678,
+          -71.0343435
+        ]
+      },
+      {
+        "name": "Harbor Street",
+        "class": "residential",
+        "coord": [
+          42.3446309,
+          -71.0369851
+        ]
+      },
+      {
+        "name": "Pappas Way",
+        "class": "residential",
+        "coord": [
+          42.3441541,
+          -71.0389562
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3441541,
+          -71.0389562
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3442231,
+          -71.0388292
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3442779,
+          -71.0389145
+        ]
+      },
+      {
+        "name": "Terminal Street",
+        "class": "residential",
+        "coord": [
+          42.3446309,
+          -71.0369851
+        ]
+      },
+      {
+        "name": "Tide Street",
+        "class": "tertiary",
+        "coord": [
+          42.3447112,
+          -71.0321455
+        ]
+      }
+    ],
+    "e street": [
+      {
+        "name": "Fargo Street",
+        "class": "tertiary",
+        "coord": [
+          42.3445493,
+          -71.0414383
+        ]
+      },
+      {
+        "name": "Inman Street",
+        "class": "residential",
+        "coord": [
+          42.344871,
+          -71.041015
+        ]
+      },
+      {
+        "name": "New Cypher Street",
+        "class": "tertiary",
+        "coord": [
+          42.3402707,
+          -71.046405
+        ]
+      },
+      {
+        "name": "West First Street",
+        "class": "secondary",
+        "coord": [
+          42.3397108,
+          -71.0470605
+        ]
+      }
+    ],
+    "east first street": [
+      {
+        "name": "Dorchester Street",
+        "class": "secondary",
+        "coord": [
+          42.3380393,
+          -71.0425217
+        ]
+      },
+      {
+        "name": "Pappas Way",
+        "class": "residential",
+        "coord": [
+          42.3380047,
+          -71.0439045
+        ]
+      },
+      {
+        "name": "West First Street",
+        "class": "secondary",
+        "coord": [
+          42.3380109,
+          -71.0443121
+        ]
+      }
+    ],
+    "f street": [
+      {
+        "name": "West First Street",
+        "class": "secondary",
+        "coord": [
+          42.3387319,
+          -71.0455426
+        ]
+      }
+    ],
+    "fan pier boulevard": [
+      {
+        "name": "Bond Drive",
+        "class": "residential",
+        "coord": [
+          42.3536681,
+          -71.0454467
+        ]
+      },
+      {
+        "name": "Liberty Drive",
+        "class": "residential",
+        "coord": [
+          42.3541748,
+          -71.0450123
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3530349,
+          -71.0459896
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3523448,
+          -71.0465838
+        ]
+      },
+      {
+        "name": "Waterside Drive",
+        "class": "residential",
+        "coord": [
+          42.3545955,
+          -71.0446567
+        ]
+      }
+    ],
+    "fargo street": [
+      {
+        "name": "D Street",
+        "class": "secondary",
+        "coord": [
+          42.3455258,
+          -71.0429472
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "secondary",
+        "coord": [
+          42.3455753,
+          -71.0430342
+        ]
+      },
+      {
+        "name": "E Street",
+        "class": "tertiary",
+        "coord": [
+          42.3445493,
+          -71.0414383
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3445602,
+          -71.0395891
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3446413,
+          -71.0394883
+        ]
+      }
+    ],
+    "farnsworth street": [
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3507133,
+          -71.0490141
+        ]
+      }
+    ],
+    "fid kennedy avenue": [
+      {
+        "name": "Anchor Way",
+        "class": "residential",
+        "coord": [
+          42.3465367,
+          -71.0297946
+        ]
+      },
+      {
+        "name": "Au Bon Pain Way",
+        "class": "residential",
+        "coord": [
+          42.3465505,
+          -71.0291636
+        ]
+      },
+      {
+        "name": "Capstan Way",
+        "class": "residential",
+        "coord": [
+          42.346613,
+          -71.027333
+        ]
+      },
+      {
+        "name": "Codfish Way",
+        "class": "residential",
+        "coord": [
+          42.3466234,
+          -71.0305547
+        ]
+      },
+      {
+        "name": "Dolphin Way",
+        "class": "residential",
+        "coord": [
+          42.3466114,
+          -71.0249964
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3477045,
+          -71.0360772
+        ]
+      },
+      {
+        "name": "Seafood Way",
+        "class": "residential",
+        "coord": [
+          42.3476957,
+          -71.0329
+        ]
+      },
+      {
+        "name": "Shellfish Way",
+        "class": "residential",
+        "coord": [
+          42.3470996,
+          -71.0317262
+        ]
+      },
+      {
+        "name": "Swordfish Way",
+        "class": "residential",
+        "coord": [
+          42.3465766,
+          -71.0287615
+        ]
+      },
+      {
+        "name": "Tide Street",
+        "class": "tertiary",
+        "coord": [
+          42.3466234,
+          -71.0305547
+        ]
+      }
+    ],
+    "fish pier road": [
+      {
+        "name": "D Street",
+        "class": "primary",
+        "coord": [
+          42.3491248,
+          -71.0395986
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "primary",
+        "coord": [
+          42.3491248,
+          -71.0395986
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3491248,
+          -71.0395986
+        ]
+      }
+    ],
+    "harbor shore drive": [
+      {
+        "name": "Northern Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3521768,
+          -71.0441536
+        ]
+      },
+      {
+        "name": "Pier Four Boulevard",
+        "class": "residential",
+        "coord": [
+          42.3524901,
+          -71.04289
+        ]
+      }
+    ],
+    "harbor street": [
+      {
+        "name": "Channel Street",
+        "class": "residential",
+        "coord": [
+          42.3448204,
+          -71.036812
+        ]
+      },
+      {
+        "name": "Drydock Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3446309,
+          -71.0369851
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.346565,
+          -71.0350277
+        ]
+      },
+      {
+        "name": "Terminal Street",
+        "class": "residential",
+        "coord": [
+          42.3446309,
+          -71.0369851
+        ]
+      }
+    ],
+    "harborview lane": [
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3476518,
+          -71.0388476
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3485664,
+          -71.0381921
+        ]
+      },
+      {
+        "name": "Park Lane",
+        "class": "residential",
+        "coord": [
+          42.3481339,
+          -71.0385245
+        ]
+      }
+    ],
+    "haul road": [
+      {
+        "name": "New Cypher Street",
+        "class": "tertiary",
+        "coord": [
+          42.3437216,
+          -71.0514159
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3475848,
+          -71.0362335
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3476698,
+          -71.0363455
+        ]
+      },
+      {
+        "name": "Pumphouse Road",
+        "class": "primary",
+        "coord": [
+          42.3458705,
+          -71.0396679
+        ]
+      },
+      {
+        "name": "Richards Street",
+        "class": "tertiary",
+        "coord": [
+          42.3437216,
+          -71.0514159
+        ]
+      },
+      {
+        "name": "South Boston Bypass Road",
+        "class": "primary",
+        "coord": [
+          42.3437216,
+          -71.0514159
+        ]
+      },
+      {
+        "name": "South Boston Piers Transitway",
+        "class": "unclassified",
+        "coord": [
+          42.3468244,
+          -71.0370622
+        ]
+      },
+      {
+        "name": "West Service Road",
+        "class": "tertiary",
+        "coord": [
+          42.3463195,
+          -71.0483701
+        ]
+      }
+    ],
+    "inman street": [
+      {
+        "name": "D Street",
+        "class": "secondary",
+        "coord": [
+          42.3458599,
+          -71.0425584
+        ]
+      },
+      {
+        "name": "E Street",
+        "class": "residential",
+        "coord": [
+          42.344871,
+          -71.041015
+        ]
+      }
+    ],
+    "iron street": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3450679,
+          -71.0525902
+        ]
+      },
+      {
+        "name": "Channel Center Street",
+        "class": "residential",
+        "coord": [
+          42.3448566,
+          -71.0520927
+        ]
+      },
+      {
+        "name": "Medallion Avenue",
+        "class": "residential",
+        "coord": [
+          42.3446224,
+          -71.0515428
+        ]
+      }
+    ],
+    "liberty drive": [
+      {
+        "name": "Courthouse Way",
+        "class": "residential",
+        "coord": [
+          42.3545792,
+          -71.0459194
+        ]
+      },
+      {
+        "name": "Fan Pier Boulevard",
+        "class": "residential",
+        "coord": [
+          42.3541748,
+          -71.0450123
+        ]
+      },
+      {
+        "name": "Marina Park Drive",
+        "class": "residential",
+        "coord": [
+          42.353852,
+          -71.0442885
+        ]
+      },
+      {
+        "name": "Waterside Drive",
+        "class": "residential",
+        "coord": [
+          42.353852,
+          -71.0442885
+        ]
+      }
+    ],
+    "louis street": [
+      {
+        "name": "Bullock Street",
+        "class": "unclassified",
+        "coord": [
+          42.3432626,
+          -71.046977
+        ]
+      },
+      {
+        "name": "West Service Road",
+        "class": "unclassified",
+        "coord": [
+          42.3448376,
+          -71.0493848
+        ]
+      }
+    ],
+    "marina park drive": [
+      {
+        "name": "Bond Drive",
+        "class": "residential",
+        "coord": [
+          42.3533341,
+          -71.0447299
+        ]
+      },
+      {
+        "name": "Liberty Drive",
+        "class": "residential",
+        "coord": [
+          42.353852,
+          -71.0442885
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3527033,
+          -71.0452801
+        ]
+      },
+      {
+        "name": "Waterside Drive",
+        "class": "residential",
+        "coord": [
+          42.353852,
+          -71.0442885
+        ]
+      }
+    ],
+    "massachusetts turnpike": [
+      {
+        "name": "Ted Williams Tunnel",
+        "class": "motorway",
+        "coord": [
+          42.3466507,
+          -71.0377168
+        ]
+      },
+      {
+        "name": "Ted Williams Tunnel",
+        "class": "motorway",
+        "coord": [
+          42.3467806,
+          -71.0376762
+        ]
+      }
+    ],
+    "medallion avenue": [
+      {
+        "name": "Binford Street",
+        "class": "residential",
+        "coord": [
+          42.3464865,
+          -71.0500909
+        ]
+      },
+      {
+        "name": "Iron Street",
+        "class": "residential",
+        "coord": [
+          42.3446224,
+          -71.0515428
+        ]
+      },
+      {
+        "name": "Richards Street",
+        "class": "tertiary",
+        "coord": [
+          42.3440417,
+          -71.0520048
+        ]
+      },
+      {
+        "name": "West First Street",
+        "class": "residential",
+        "coord": [
+          42.343242,
+          -71.0530222
+        ]
+      }
+    ],
+    "melcher street": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3490793,
+          -71.0494669
+        ]
+      },
+      {
+        "name": "Necco Street",
+        "class": "residential",
+        "coord": [
+          42.3497136,
+          -71.0504132
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3505525,
+          -71.0509637
+        ]
+      }
+    ],
+    "mount washington avenue": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3465237,
+          -71.0514799
+        ]
+      },
+      {
+        "name": "Mount Washington Way",
+        "class": "residential",
+        "coord": [
+          42.3465237,
+          -71.0514799
+        ]
+      }
+    ],
+    "mount washington way": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3465237,
+          -71.0514799
+        ]
+      },
+      {
+        "name": "Channel Center Street",
+        "class": "residential",
+        "coord": [
+          42.3463058,
+          -71.0509723
+        ]
+      },
+      {
+        "name": "Mount Washington Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3465237,
+          -71.0514799
+        ]
+      }
+    ],
+    "necco court": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.348726,
+          -71.0497423
+        ]
+      },
+      {
+        "name": "Necco Street",
+        "class": "residential",
+        "coord": [
+          42.3493742,
+          -71.0506795
+        ]
+      }
+    ],
+    "necco place": [
+      {
+        "name": "Necco Street",
+        "class": "residential",
+        "coord": [
+          42.3490729,
+          -71.0509151
+        ]
+      }
+    ],
+    "necco street": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3481688,
+          -71.0501766
+        ]
+      },
+      {
+        "name": "Melcher Street",
+        "class": "residential",
+        "coord": [
+          42.3497136,
+          -71.0504132
+        ]
+      },
+      {
+        "name": "Necco Court",
+        "class": "residential",
+        "coord": [
+          42.3493742,
+          -71.0506795
+        ]
+      },
+      {
+        "name": "Necco Place",
+        "class": "residential",
+        "coord": [
+          42.3490729,
+          -71.0509151
+        ]
+      }
+    ],
+    "new cypher street": [
+      {
+        "name": "Bullock Street",
+        "class": "unclassified",
+        "coord": [
+          42.3418642,
+          -71.0485602
+        ]
+      },
+      {
+        "name": "C Street",
+        "class": "residential",
+        "coord": [
+          42.3423945,
+          -71.0493462
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "secondary",
+        "coord": [
+          42.3412898,
+          -71.0479352
+        ]
+      },
+      {
+        "name": "E Street",
+        "class": "tertiary",
+        "coord": [
+          42.3402707,
+          -71.046405
+        ]
+      },
+      {
+        "name": "Haul Road",
+        "class": "primary",
+        "coord": [
+          42.3437216,
+          -71.0514159
+        ]
+      },
+      {
+        "name": "Richards Street",
+        "class": "tertiary",
+        "coord": [
+          42.3437216,
+          -71.0514159
+        ]
+      },
+      {
+        "name": "South Boston Bypass Road",
+        "class": "primary",
+        "coord": [
+          42.3437216,
+          -71.0514159
+        ]
+      },
+      {
+        "name": "West Service Road",
+        "class": "unclassified",
+        "coord": [
+          42.3434638,
+          -71.0509928
+        ]
+      }
+    ],
+    "northern avenue": [
+      {
+        "name": "Channel Street",
+        "class": "residential",
+        "coord": [
+          42.3470411,
+          -71.0354908
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3482789,
+          -71.0374999
+        ]
+      },
+      {
+        "name": "Courthouse Way",
+        "class": "residential",
+        "coord": [
+          42.3534616,
+          -71.0469024
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "primary",
+        "coord": [
+          42.3488888,
+          -71.0389695
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "primary",
+        "coord": [
+          42.3491248,
+          -71.0395986
+        ]
+      },
+      {
+        "name": "Fan Pier Boulevard",
+        "class": "residential",
+        "coord": [
+          42.3530349,
+          -71.0459896
+        ]
+      },
+      {
+        "name": "Fid Kennedy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3477045,
+          -71.0360772
+        ]
+      },
+      {
+        "name": "Fish Pier Road",
+        "class": "residential",
+        "coord": [
+          42.3491248,
+          -71.0395986
+        ]
+      },
+      {
+        "name": "Harbor Shore Drive",
+        "class": "residential",
+        "coord": [
+          42.3521768,
+          -71.0441536
+        ]
+      },
+      {
+        "name": "Harbor Street",
+        "class": "residential",
+        "coord": [
+          42.346565,
+          -71.0350277
+        ]
+      },
+      {
+        "name": "Harborview Lane",
+        "class": "residential",
+        "coord": [
+          42.3485664,
+          -71.0381921
+        ]
+      },
+      {
+        "name": "Haul Road",
+        "class": "secondary",
+        "coord": [
+          42.3475848,
+          -71.0362335
+        ]
+      },
+      {
+        "name": "Haul Road",
+        "class": "secondary",
+        "coord": [
+          42.3476698,
+          -71.0363455
+        ]
+      },
+      {
+        "name": "Marina Park Drive",
+        "class": "residential",
+        "coord": [
+          42.3527033,
+          -71.0452801
+        ]
+      },
+      {
+        "name": "Pier Four Boulevard",
+        "class": "residential",
+        "coord": [
+          42.3518284,
+          -71.0433993
+        ]
+      },
+      {
+        "name": "Seafood Way",
+        "class": "residential",
+        "coord": [
+          42.3461379,
+          -71.0341288
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3491248,
+          -71.0395986
+        ]
+      },
+      {
+        "name": "Shellfish Way",
+        "class": "residential",
+        "coord": [
+          42.3456137,
+          -71.0329595
+        ]
+      },
+      {
+        "name": "Sleeper Street",
+        "class": "tertiary",
+        "coord": [
+          42.3538978,
+          -71.0478353
+        ]
+      },
+      {
+        "name": "Tide Street",
+        "class": "tertiary",
+        "coord": [
+          42.3450957,
+          -71.0318255
+        ]
+      }
+    ],
+    "pappas way": [
+      {
+        "name": "Drydock Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3441541,
+          -71.0389562
+        ]
+      },
+      {
+        "name": "East First Street",
+        "class": "secondary",
+        "coord": [
+          42.3380047,
+          -71.0439045
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3441541,
+          -71.0389562
+        ]
+      }
+    ],
+    "park lane": [
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3478447,
+          -71.0378189
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "primary",
+        "coord": [
+          42.3484958,
+          -71.0394071
+        ]
+      },
+      {
+        "name": "Harborview Lane",
+        "class": "residential",
+        "coord": [
+          42.3481339,
+          -71.0385245
+        ]
+      }
+    ],
+    "pastene alley": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3492592,
+          -71.0493276
+        ]
+      },
+      {
+        "name": "West Service Road",
+        "class": "tertiary",
+        "coord": [
+          42.3486095,
+          -71.0478986
+        ]
+      }
+    ],
+    "pier four boulevard": [
+      {
+        "name": "Autumn Lane",
+        "class": "residential",
+        "coord": [
+          42.3503286,
+          -71.0444901
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3491687,
+          -71.0454135
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3492805,
+          -71.0453105
+        ]
+      },
+      {
+        "name": "Harbor Shore Drive",
+        "class": "residential",
+        "coord": [
+          42.3524901,
+          -71.04289
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3518284,
+          -71.0433993
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3510041,
+          -71.0439737
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3510999,
+          -71.0439051
+        ]
+      }
+    ],
+    "port lane": [
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3476951,
+          -71.039372
+        ]
+      },
+      {
+        "name": "South Boston Piers Transitway",
+        "class": "unclassified",
+        "coord": [
+          42.3471357,
+          -71.0393547
+        ]
+      }
+    ],
+    "pumphouse road": [
+      {
+        "name": "Haul Road",
+        "class": "secondary",
+        "coord": [
+          42.3458705,
+          -71.0396679
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3451068,
+          -71.0404256
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3451854,
+          -71.0403375
+        ]
+      }
+    ],
+    "richards street": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3443931,
+          -71.0531135
+        ]
+      },
+      {
+        "name": "Haul Road",
+        "class": "primary",
+        "coord": [
+          42.3437216,
+          -71.0514159
+        ]
+      },
+      {
+        "name": "Medallion Avenue",
+        "class": "residential",
+        "coord": [
+          42.3440417,
+          -71.0520048
+        ]
+      },
+      {
+        "name": "New Cypher Street",
+        "class": "tertiary",
+        "coord": [
+          42.3437216,
+          -71.0514159
+        ]
+      },
+      {
+        "name": "Sobin Park",
+        "class": "residential",
+        "coord": [
+          42.3443931,
+          -71.0531135
+        ]
+      },
+      {
+        "name": "South Boston Bypass Road",
+        "class": "primary",
+        "coord": [
+          42.3437216,
+          -71.0514159
+        ]
+      }
+    ],
+    "seafood way": [
+      {
+        "name": "Fid Kennedy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3476957,
+          -71.0329
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3461379,
+          -71.0341288
+        ]
+      },
+      {
+        "name": "Shoreline Road",
+        "class": "residential",
+        "coord": [
+          42.3498064,
+          -71.0312933
+        ]
+      }
+    ],
+    "seaport boulevard": [
+      {
+        "name": "B Street",
+        "class": "secondary",
+        "coord": [
+          42.350406,
+          -71.0427986
+        ]
+      },
+      {
+        "name": "B Street",
+        "class": "secondary",
+        "coord": [
+          42.3504575,
+          -71.0428962
+        ]
+      },
+      {
+        "name": "B Street",
+        "class": "secondary",
+        "coord": [
+          42.3504836,
+          -71.04274
+        ]
+      },
+      {
+        "name": "B Street",
+        "class": "secondary",
+        "coord": [
+          42.3505306,
+          -71.0428388
+        ]
+      },
+      {
+        "name": "Boston Wharf Road",
+        "class": "tertiary",
+        "coord": [
+          42.3517347,
+          -71.0455428
+        ]
+      },
+      {
+        "name": "Boston Wharf Road",
+        "class": "tertiary",
+        "coord": [
+          42.3518288,
+          -71.0454711
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "primary",
+        "coord": [
+          42.3491248,
+          -71.0395986
+        ]
+      },
+      {
+        "name": "Fan Pier Boulevard",
+        "class": "residential",
+        "coord": [
+          42.3523448,
+          -71.0465838
+        ]
+      },
+      {
+        "name": "Fish Pier Road",
+        "class": "residential",
+        "coord": [
+          42.3491248,
+          -71.0395986
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "primary",
+        "coord": [
+          42.3491248,
+          -71.0395986
+        ]
+      },
+      {
+        "name": "Pier Four Boulevard",
+        "class": "tertiary",
+        "coord": [
+          42.3510041,
+          -71.0439737
+        ]
+      },
+      {
+        "name": "Pier Four Boulevard",
+        "class": "tertiary",
+        "coord": [
+          42.3510999,
+          -71.0439051
+        ]
+      },
+      {
+        "name": "Seaport Lane",
+        "class": "residential",
+        "coord": [
+          42.349561,
+          -71.0407608
+        ]
+      },
+      {
+        "name": "Seaport Lane",
+        "class": "residential",
+        "coord": [
+          42.3496339,
+          -71.0407042
+        ]
+      },
+      {
+        "name": "Sleeper Street",
+        "class": "tertiary",
+        "coord": [
+          42.3531322,
+          -71.0484087
+        ]
+      },
+      {
+        "name": "Thomson Place",
+        "class": "residential",
+        "coord": [
+          42.3522566,
+          -71.0466711
+        ]
+      }
+    ],
+    "seaport lane": [
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3485053,
+          -71.0416072
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3485907,
+          -71.0415174
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.349561,
+          -71.0407608
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3496339,
+          -71.0407042
+        ]
+      }
+    ],
+    "shellfish way": [
+      {
+        "name": "Fid Kennedy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3470996,
+          -71.0317262
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3456137,
+          -71.0329595
+        ]
+      },
+      {
+        "name": "Shoreline Road",
+        "class": "residential",
+        "coord": [
+          42.349379,
+          -71.030113
+        ]
+      }
+    ],
+    "shoreline road": [
+      {
+        "name": "Codfish Way",
+        "class": "residential",
+        "coord": [
+          42.348876,
+          -71.0288637
+        ]
+      },
+      {
+        "name": "Seafood Way",
+        "class": "residential",
+        "coord": [
+          42.3498064,
+          -71.0312933
+        ]
+      },
+      {
+        "name": "Shellfish Way",
+        "class": "residential",
+        "coord": [
+          42.349379,
+          -71.030113
+        ]
+      },
+      {
+        "name": "Swordfish Way",
+        "class": "residential",
+        "coord": [
+          42.348369,
+          -71.027629
+        ]
+      }
+    ],
+    "sleeper street": [
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3512064,
+          -71.0497722
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3512505,
+          -71.0498401
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3538978,
+          -71.0478353
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3531322,
+          -71.0484087
+        ]
+      }
+    ],
+    "sobin park": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3443931,
+          -71.0531135
+        ]
+      },
+      {
+        "name": "Richards Street",
+        "class": "tertiary",
+        "coord": [
+          42.3443931,
+          -71.0531135
+        ]
+      }
+    ],
+    "south boston bypass road": [
+      {
+        "name": "Haul Road",
+        "class": "primary",
+        "coord": [
+          42.3437216,
+          -71.0514159
+        ]
+      },
+      {
+        "name": "New Cypher Street",
+        "class": "tertiary",
+        "coord": [
+          42.3437216,
+          -71.0514159
+        ]
+      },
+      {
+        "name": "Richards Street",
+        "class": "tertiary",
+        "coord": [
+          42.3437216,
+          -71.0514159
+        ]
+      }
+    ],
+    "south boston piers transitway": [
+      {
+        "name": "Haul Road",
+        "class": "secondary",
+        "coord": [
+          42.3468244,
+          -71.0370622
+        ]
+      },
+      {
+        "name": "Port Lane",
+        "class": "unclassified",
+        "coord": [
+          42.3471357,
+          -71.0393547
+        ]
+      },
+      {
+        "name": "Starboard Way",
+        "class": "unclassified",
+        "coord": [
+          42.3471492,
+          -71.0377544
+        ]
+      },
+      {
+        "name": "Starboard Way",
+        "class": "unclassified",
+        "coord": [
+          42.3471545,
+          -71.0381533
+        ]
+      }
+    ],
+    "starboard way": [
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3476637,
+          -71.0380097
+        ]
+      },
+      {
+        "name": "South Boston Piers Transitway",
+        "class": "unclassified",
+        "coord": [
+          42.3471492,
+          -71.0377544
+        ]
+      },
+      {
+        "name": "South Boston Piers Transitway",
+        "class": "unclassified",
+        "coord": [
+          42.3471545,
+          -71.0381533
+        ]
+      }
+    ],
+    "stillings street": [
+      {
+        "name": "Autumn Lane",
+        "class": "residential",
+        "coord": [
+          42.3512785,
+          -71.0467355
+        ]
+      },
+      {
+        "name": "Calvin Place",
+        "class": "residential",
+        "coord": [
+          42.3512785,
+          -71.0467355
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3499375,
+          -71.0477941
+        ]
+      }
+    ],
+    "summer street": [
+      {
+        "name": "D Street",
+        "class": "primary",
+        "coord": [
+          42.3462643,
+          -71.0422701
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "primary",
+        "coord": [
+          42.3462747,
+          -71.0420404
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "primary",
+        "coord": [
+          42.3463493,
+          -71.0421751
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "secondary",
+        "coord": [
+          42.3462013,
+          -71.0421481
+        ]
+      },
+      {
+        "name": "Drydock Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3441541,
+          -71.0389562
+        ]
+      },
+      {
+        "name": "Drydock Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3442231,
+          -71.0388292
+        ]
+      },
+      {
+        "name": "Drydock Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3442779,
+          -71.0389145
+        ]
+      },
+      {
+        "name": "Fargo Street",
+        "class": "tertiary",
+        "coord": [
+          42.3445602,
+          -71.0395891
+        ]
+      },
+      {
+        "name": "Fargo Street",
+        "class": "tertiary",
+        "coord": [
+          42.3446413,
+          -71.0394883
+        ]
+      },
+      {
+        "name": "Melcher Street",
+        "class": "residential",
+        "coord": [
+          42.3505525,
+          -71.0509637
+        ]
+      },
+      {
+        "name": "Pappas Way",
+        "class": "residential",
+        "coord": [
+          42.3441541,
+          -71.0389562
+        ]
+      },
+      {
+        "name": "Pumphouse Road",
+        "class": "primary",
+        "coord": [
+          42.3451068,
+          -71.0404256
+        ]
+      },
+      {
+        "name": "Pumphouse Road",
+        "class": "primary",
+        "coord": [
+          42.3451854,
+          -71.0403375
+        ]
+      },
+      {
+        "name": "World Trade Center Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3470826,
+          -71.0438243
+        ]
+      },
+      {
+        "name": "World Trade Center Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3471691,
+          -71.0437541
+        ]
+      }
+    ],
+    "swordfish way": [
+      {
+        "name": "Fid Kennedy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3465766,
+          -71.0287615
+        ]
+      },
+      {
+        "name": "Shoreline Road",
+        "class": "residential",
+        "coord": [
+          42.348369,
+          -71.027629
+        ]
+      }
+    ],
+    "ted williams tunnel": [
+      {
+        "name": "Massachusetts Turnpike",
+        "class": "motorway",
+        "coord": [
+          42.3466507,
+          -71.0377168
+        ]
+      },
+      {
+        "name": "Massachusetts Turnpike",
+        "class": "motorway",
+        "coord": [
+          42.3467806,
+          -71.0376762
+        ]
+      }
+    ],
+    "terminal street": [
+      {
+        "name": "Black Falcon Avenue",
+        "class": "residential",
+        "coord": [
+          42.3438938,
+          -71.0343163
+        ]
+      },
+      {
+        "name": "Design Center Place",
+        "class": "residential",
+        "coord": [
+          42.3438938,
+          -71.0343163
+        ]
+      },
+      {
+        "name": "Drydock Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3446309,
+          -71.0369851
+        ]
+      },
+      {
+        "name": "Harbor Street",
+        "class": "residential",
+        "coord": [
+          42.3446309,
+          -71.0369851
+        ]
+      }
+    ],
+    "thomson place": [
+      {
+        "name": "Calvin Place",
+        "class": "residential",
+        "coord": [
+          42.3514967,
+          -71.0472563
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3502284,
+          -71.0482475
+        ]
+      },
+      {
+        "name": "Seaport Boulevard",
+        "class": "primary",
+        "coord": [
+          42.3522566,
+          -71.0466711
+        ]
+      }
+    ],
+    "tide street": [
+      {
+        "name": "Codfish Way",
+        "class": "residential",
+        "coord": [
+          42.3466234,
+          -71.0305547
+        ]
+      },
+      {
+        "name": "Drydock Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3447112,
+          -71.0321455
+        ]
+      },
+      {
+        "name": "Fid Kennedy Avenue",
+        "class": "residential",
+        "coord": [
+          42.3466234,
+          -71.0305547
+        ]
+      },
+      {
+        "name": "Northern Avenue",
+        "class": "tertiary",
+        "coord": [
+          42.3450957,
+          -71.0318255
+        ]
+      }
+    ],
+    "waterside drive": [
+      {
+        "name": "Fan Pier Boulevard",
+        "class": "residential",
+        "coord": [
+          42.3545955,
+          -71.0446567
+        ]
+      },
+      {
+        "name": "Liberty Drive",
+        "class": "residential",
+        "coord": [
+          42.353852,
+          -71.0442885
+        ]
+      },
+      {
+        "name": "Marina Park Drive",
+        "class": "residential",
+        "coord": [
+          42.353852,
+          -71.0442885
+        ]
+      }
+    ],
+    "west first street": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3433816,
+          -71.0537133
+        ]
+      },
+      {
+        "name": "C Street",
+        "class": "residential",
+        "coord": [
+          42.3417019,
+          -71.0501482
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "secondary",
+        "coord": [
+          42.3407055,
+          -71.048603
+        ]
+      },
+      {
+        "name": "Dorchester Street",
+        "class": "secondary",
+        "coord": [
+          42.3372851,
+          -71.0433109
+        ]
+      },
+      {
+        "name": "E Street",
+        "class": "tertiary",
+        "coord": [
+          42.3397108,
+          -71.0470605
+        ]
+      },
+      {
+        "name": "East First Street",
+        "class": "secondary",
+        "coord": [
+          42.3380109,
+          -71.0443121
+        ]
+      },
+      {
+        "name": "F Street",
+        "class": "residential",
+        "coord": [
+          42.3387319,
+          -71.0455426
+        ]
+      },
+      {
+        "name": "Medallion Avenue",
+        "class": "residential",
+        "coord": [
+          42.343242,
+          -71.0530222
+        ]
+      }
+    ],
+    "west second street": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3428639,
+          -71.0542906
+        ]
+      },
+      {
+        "name": "Athens Street",
+        "class": "residential",
+        "coord": [
+          42.3434192,
+          -71.0566828
+        ]
+      },
+      {
+        "name": "Bolton Street",
+        "class": "residential",
+        "coord": [
+          42.342797,
+          -71.0540139
+        ]
+      },
+      {
+        "name": "Dorchester Avenue",
+        "class": "residential",
+        "coord": [
+          42.3435189,
+          -71.0572292
+        ]
+      },
+      {
+        "name": "West Third Street",
+        "class": "residential",
+        "coord": [
+          42.343076,
+          -71.0552142
+        ]
+      }
+    ],
+    "west service road": [
+      {
+        "name": "Haul Road",
+        "class": "primary",
+        "coord": [
+          42.3463195,
+          -71.0483701
+        ]
+      },
+      {
+        "name": "Louis Street",
+        "class": "unclassified",
+        "coord": [
+          42.3448376,
+          -71.0493848
+        ]
+      },
+      {
+        "name": "New Cypher Street",
+        "class": "tertiary",
+        "coord": [
+          42.3434638,
+          -71.0509928
+        ]
+      },
+      {
+        "name": "Pastene Alley",
+        "class": "unclassified",
+        "coord": [
+          42.3486095,
+          -71.0478986
+        ]
+      },
+      {
+        "name": "West Service Road Extension",
+        "class": "tertiary",
+        "coord": [
+          42.3490346,
+          -71.0475892
+        ]
+      }
+    ],
+    "west service road extension": [
+      {
+        "name": "Boston Wharf Road",
+        "class": "tertiary",
+        "coord": [
+          42.3495697,
+          -71.0471928
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3495697,
+          -71.0471928
+        ]
+      },
+      {
+        "name": "West Service Road",
+        "class": "tertiary",
+        "coord": [
+          42.3490346,
+          -71.0475892
+        ]
+      }
+    ],
+    "west third street": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3426063,
+          -71.0546026
+        ]
+      },
+      {
+        "name": "West Second Street",
+        "class": "secondary",
+        "coord": [
+          42.343076,
+          -71.0552142
+        ]
+      }
+    ],
+    "world trade center avenue": [
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3470826,
+          -71.0438243
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "primary",
+        "coord": [
+          42.3471691,
+          -71.0437541
+        ]
+      }
+    ],
+    "wormwood street": [
+      {
+        "name": "A Street",
+        "class": "secondary",
+        "coord": [
+          42.3475744,
+          -71.0506407
+        ]
+      },
+      {
+        "name": "Binford Street",
+        "class": "residential",
+        "coord": [
+          42.3462306,
+          -71.0494914
+        ]
+      }
+    ]
+  }
+}

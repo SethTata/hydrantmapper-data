@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-government-center-faneuil-hall",
+  "display_name": "Government Center/Faneuil Hall",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.358275,
+    -71.0628639,
+    42.3638122,
+    -71.0524257
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 17568,
+      "sha256": "aea7ff8ac4dc48c2d7f828977920f770737b4521c994723650f101c40f3a6502"
+    },
+    "hydrants.csv": {
+      "size_bytes": 26803,
+      "sha256": "81d218ab47b3cd5f441b7d8b455eb7ff5ff1c9e0348c580752d300a33515384d"
+    }
+  }
+}

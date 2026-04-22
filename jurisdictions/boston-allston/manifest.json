@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-allston",
+  "display_name": "Allston",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.34606098100005,
+    -71.147079,
+    42.3730443,
+    -71.1109194
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 113177,
+      "sha256": "f6c79545e03cf90cf513be78b8fa6885c3789c2a5eb56b69f14a6fd0821478de"
+    },
+    "hydrants.csv": {
+      "size_bytes": 122041,
+      "sha256": "1e1ba267fb743fa9cb8e39d0fc978ef8c61cfa7081d18d00c53ce5d704b5645c"
+    }
+  }
+}

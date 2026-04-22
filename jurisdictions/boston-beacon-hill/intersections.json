@@ -1,0 +1,2229 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-beacon-hill",
+  "generated_at": "2026-04-22T05:26:18Z",
+  "streets": {
+    "anderson street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3611091,
+          -71.0678564
+        ]
+      },
+      {
+        "name": "Myrtle Street",
+        "class": "residential",
+        "coord": [
+          42.359291,
+          -71.067707
+        ]
+      },
+      {
+        "name": "Phillips Street",
+        "class": "residential",
+        "coord": [
+          42.3603111,
+          -71.0678007
+        ]
+      },
+      {
+        "name": "Pinckney Street",
+        "class": "residential",
+        "coord": [
+          42.3588463,
+          -71.0676757
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "residential",
+        "coord": [
+          42.3595474,
+          -71.0677252
+        ]
+      }
+    ],
+    "arlington street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3555243,
+          -71.0722138
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3535026,
+          -71.0714947
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3538486,
+          -71.0716624
+        ]
+      },
+      {
+        "name": "Marlborough Street",
+        "class": "residential",
+        "coord": [
+          42.3546549,
+          -71.0720629
+        ]
+      }
+    ],
+    "ashburton place": [
+      {
+        "name": "Bowdoin Street",
+        "class": "secondary",
+        "coord": [
+          42.3590627,
+          -71.0628904
+        ]
+      }
+    ],
+    "avery street": [
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3533846,
+          -71.0642375
+        ]
+      }
+    ],
+    "beacon street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3555243,
+          -71.0722138
+        ]
+      },
+      {
+        "name": "Beaver Street",
+        "class": "residential",
+        "coord": [
+          42.3555701,
+          -71.0720451
+        ]
+      },
+      {
+        "name": "Bowdoin Street",
+        "class": "secondary",
+        "coord": [
+          42.3579049,
+          -71.0627487
+        ]
+      },
+      {
+        "name": "Brimmer Street",
+        "class": "residential",
+        "coord": [
+          42.3557597,
+          -71.0713208
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "primary",
+        "coord": [
+          42.3560492,
+          -71.0694115
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "primary",
+        "coord": [
+          42.3560892,
+          -71.0692678
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "primary",
+        "coord": [
+          42.3562123,
+          -71.0694421
+        ]
+      },
+      {
+        "name": "David G. Mugar Way",
+        "class": "primary",
+        "coord": [
+          42.3553881,
+          -71.0727117
+        ]
+      },
+      {
+        "name": "Joy Street",
+        "class": "residential",
+        "coord": [
+          42.3571645,
+          -71.065086
+        ]
+      },
+      {
+        "name": "Park Street",
+        "class": "primary",
+        "coord": [
+          42.3577154,
+          -71.0632118
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "residential",
+        "coord": [
+          42.3561152,
+          -71.0698589
+        ]
+      },
+      {
+        "name": "Spruce Street",
+        "class": "residential",
+        "coord": [
+          42.3565931,
+          -71.0676147
+        ]
+      },
+      {
+        "name": "Walnut Street",
+        "class": "residential",
+        "coord": [
+          42.3570099,
+          -71.065788
+        ]
+      }
+    ],
+    "beaver place": [
+      {
+        "name": "Beaver Street",
+        "class": "residential",
+        "coord": [
+          42.3560805,
+          -71.0722965
+        ]
+      },
+      {
+        "name": "Brimmer Street",
+        "class": "residential",
+        "coord": [
+          42.3562817,
+          -71.0715297
+        ]
+      },
+      {
+        "name": "David G. Mugar Way",
+        "class": "primary",
+        "coord": [
+          42.3560505,
+          -71.0730831
+        ]
+      }
+    ],
+    "beaver street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3555701,
+          -71.0720451
+        ]
+      },
+      {
+        "name": "Beaver Place",
+        "class": "residential",
+        "coord": [
+          42.3560805,
+          -71.0722965
+        ]
+      }
+    ],
+    "blossom street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3611258,
+          -71.066946
+        ]
+      },
+      {
+        "name": "Garden Street",
+        "class": "residential",
+        "coord": [
+          42.3611258,
+          -71.066946
+        ]
+      }
+    ],
+    "bowdoin street": [
+      {
+        "name": "Ashburton Place",
+        "class": "secondary",
+        "coord": [
+          42.3590627,
+          -71.0628904
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3579049,
+          -71.0627487
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3611913,
+          -71.0628793
+        ]
+      },
+      {
+        "name": "Derne Street",
+        "class": "secondary",
+        "coord": [
+          42.3593676,
+          -71.0628728
+        ]
+      },
+      {
+        "name": "Derne Street",
+        "class": "secondary",
+        "coord": [
+          42.3596152,
+          -71.0628424
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.3611913,
+          -71.0628793
+        ]
+      }
+    ],
+    "boylston street": [
+      {
+        "name": "Carver Street",
+        "class": "unclassified",
+        "coord": [
+          42.352524,
+          -71.0669409
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "primary",
+        "coord": [
+          42.3528113,
+          -71.0675812
+        ]
+      },
+      {
+        "name": "Charles Street South",
+        "class": "primary",
+        "coord": [
+          42.3525186,
+          -71.0674872
+        ]
+      },
+      {
+        "name": "Charles Street South",
+        "class": "primary",
+        "coord": [
+          42.3528113,
+          -71.0675812
+        ]
+      },
+      {
+        "name": "Hadassah Way",
+        "class": "residential",
+        "coord": [
+          42.3522061,
+          -71.0691688
+        ]
+      },
+      {
+        "name": "Hadassah Way",
+        "class": "residential",
+        "coord": [
+          42.3522739,
+          -71.0691922
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3523719,
+          -71.064556
+        ]
+      }
+    ],
+    "branch street": [
+      {
+        "name": "Charles Street",
+        "class": "primary",
+        "coord": [
+          42.3567062,
+          -71.0697053
+        ]
+      },
+      {
+        "name": "Spruce Street",
+        "class": "residential",
+        "coord": [
+          42.3571112,
+          -71.0678201
+        ]
+      }
+    ],
+    "brimmer street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3557597,
+          -71.0713208
+        ]
+      },
+      {
+        "name": "Beaver Place",
+        "class": "residential",
+        "coord": [
+          42.3562817,
+          -71.0715297
+        ]
+      },
+      {
+        "name": "Byron Street",
+        "class": "residential",
+        "coord": [
+          42.356132,
+          -71.0714685
+        ]
+      },
+      {
+        "name": "Chestnut Street",
+        "class": "residential",
+        "coord": [
+          42.356624,
+          -71.0716691
+        ]
+      },
+      {
+        "name": "Lime Street",
+        "class": "residential",
+        "coord": [
+          42.3570797,
+          -71.0718545
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.3574273,
+          -71.0719941
+        ]
+      },
+      {
+        "name": "Otis Place",
+        "class": "residential",
+        "coord": [
+          42.3571708,
+          -71.0718915
+        ]
+      },
+      {
+        "name": "Pinckney Street",
+        "class": "residential",
+        "coord": [
+          42.3587713,
+          -71.0717147
+        ]
+      }
+    ],
+    "byron street": [
+      {
+        "name": "Brimmer Street",
+        "class": "residential",
+        "coord": [
+          42.356132,
+          -71.0714685
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "residential",
+        "coord": [
+          42.3564525,
+          -71.0700429
+        ]
+      }
+    ],
+    "cambridge street": [
+      {
+        "name": "Anderson Street",
+        "class": "residential",
+        "coord": [
+          42.3611091,
+          -71.0678564
+        ]
+      },
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.3611258,
+          -71.066946
+        ]
+      },
+      {
+        "name": "Bowdoin Street",
+        "class": "secondary",
+        "coord": [
+          42.3611913,
+          -71.0628793
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "trunk",
+        "coord": [
+          42.3609348,
+          -71.070858
+        ]
+      },
+      {
+        "name": "Coolidge Avenue",
+        "class": "residential",
+        "coord": [
+          42.3611836,
+          -71.0633957
+        ]
+      },
+      {
+        "name": "Garden Street",
+        "class": "residential",
+        "coord": [
+          42.3611258,
+          -71.066946
+        ]
+      },
+      {
+        "name": "Grove Street",
+        "class": "residential",
+        "coord": [
+          42.3610909,
+          -71.0687532
+        ]
+      },
+      {
+        "name": "Hancock Street",
+        "class": "secondary",
+        "coord": [
+          42.3611492,
+          -71.0645577
+        ]
+      },
+      {
+        "name": "Irving Street",
+        "class": "residential",
+        "coord": [
+          42.3611308,
+          -71.0663801
+        ]
+      },
+      {
+        "name": "Joy Street",
+        "class": "residential",
+        "coord": [
+          42.361136,
+          -71.0651378
+        ]
+      },
+      {
+        "name": "Lindall Place",
+        "class": "residential",
+        "coord": [
+          42.3610788,
+          -71.0694606
+        ]
+      },
+      {
+        "name": "Longfellow Bridge",
+        "class": "trunk",
+        "coord": [
+          42.36109,
+          -71.0715618
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.3611913,
+          -71.0628793
+        ]
+      },
+      {
+        "name": "Ridgeway Lane",
+        "class": "residential",
+        "coord": [
+          42.3611585,
+          -71.0641435
+        ]
+      },
+      {
+        "name": "South Russell Street",
+        "class": "residential",
+        "coord": [
+          42.3611274,
+          -71.066002
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.361171,
+          -71.0637236
+        ]
+      },
+      {
+        "name": "Strong Place",
+        "class": "residential",
+        "coord": [
+          42.3611006,
+          -71.0682577
+        ]
+      },
+      {
+        "name": "Temple Street",
+        "class": "residential",
+        "coord": [
+          42.361171,
+          -71.0637236
+        ]
+      },
+      {
+        "name": "West Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.3610424,
+          -71.070042
+        ]
+      }
+    ],
+    "carver street": [
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.352524,
+          -71.0669409
+        ]
+      }
+    ],
+    "cedar lane way": [
+      {
+        "name": "Chestnut Street",
+        "class": "residential",
+        "coord": [
+          42.3571021,
+          -71.0694788
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.3578484,
+          -71.0698565
+        ]
+      },
+      {
+        "name": "Pinckney Street",
+        "class": "residential",
+        "coord": [
+          42.358799,
+          -71.0703113
+        ]
+      }
+    ],
+    "charles river square": [
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.3596643,
+          -71.0720842
+        ]
+      },
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.3597287,
+          -71.0720741
+        ]
+      }
+    ],
+    "charles street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3560492,
+          -71.0694115
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3560892,
+          -71.0692678
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3562123,
+          -71.0694421
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3528113,
+          -71.0675812
+        ]
+      },
+      {
+        "name": "Branch Street",
+        "class": "residential",
+        "coord": [
+          42.3567062,
+          -71.0697053
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3609348,
+          -71.070858
+        ]
+      },
+      {
+        "name": "Charles Street South",
+        "class": "primary",
+        "coord": [
+          42.3528113,
+          -71.0675812
+        ]
+      },
+      {
+        "name": "Chestnut Street",
+        "class": "residential",
+        "coord": [
+          42.3570179,
+          -71.0698747
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.3577809,
+          -71.0702841
+        ]
+      },
+      {
+        "name": "Pinckney Street",
+        "class": "residential",
+        "coord": [
+          42.3587884,
+          -71.0707216
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "residential",
+        "coord": [
+          42.3594724,
+          -71.0707614
+        ]
+      }
+    ],
+    "charles street south": [
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3525186,
+          -71.0674872
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3528113,
+          -71.0675812
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "primary",
+        "coord": [
+          42.3528113,
+          -71.0675812
+        ]
+      }
+    ],
+    "chestnut street": [
+      {
+        "name": "Brimmer Street",
+        "class": "residential",
+        "coord": [
+          42.356624,
+          -71.0716691
+        ]
+      },
+      {
+        "name": "Cedar Lane Way",
+        "class": "residential",
+        "coord": [
+          42.3571021,
+          -71.0694788
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "primary",
+        "coord": [
+          42.3570179,
+          -71.0698747
+        ]
+      },
+      {
+        "name": "David G. Mugar Way",
+        "class": "primary",
+        "coord": [
+          42.3563812,
+          -71.0729206
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "residential",
+        "coord": [
+          42.3569198,
+          -71.0702932
+        ]
+      },
+      {
+        "name": "Spruce Street",
+        "class": "residential",
+        "coord": [
+          42.3574402,
+          -71.0679452
+        ]
+      },
+      {
+        "name": "Walnut Street",
+        "class": "residential",
+        "coord": [
+          42.357842,
+          -71.0661113
+        ]
+      },
+      {
+        "name": "West Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.3571859,
+          -71.0691221
+        ]
+      },
+      {
+        "name": "Willow Street",
+        "class": "residential",
+        "coord": [
+          42.357375,
+          -71.0682527
+        ]
+      }
+    ],
+    "commonwealth avenue": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3535026,
+          -71.0714947
+        ]
+      },
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3538486,
+          -71.0716624
+        ]
+      }
+    ],
+    "coolidge avenue": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3611836,
+          -71.0633957
+        ]
+      },
+      {
+        "name": "Temple Street",
+        "class": "residential",
+        "coord": [
+          42.3603369,
+          -71.0636315
+        ]
+      }
+    ],
+    "david g. mugar way": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3553881,
+          -71.0727117
+        ]
+      },
+      {
+        "name": "Beaver Place",
+        "class": "residential",
+        "coord": [
+          42.3560505,
+          -71.0730831
+        ]
+      },
+      {
+        "name": "Chestnut Street",
+        "class": "residential",
+        "coord": [
+          42.3563812,
+          -71.0729206
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.3573158,
+          -71.0726439
+        ]
+      },
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.357859,
+          -71.0725647
+        ]
+      }
+    ],
+    "derne street": [
+      {
+        "name": "Bowdoin Street",
+        "class": "secondary",
+        "coord": [
+          42.3593676,
+          -71.0628728
+        ]
+      },
+      {
+        "name": "Bowdoin Street",
+        "class": "secondary",
+        "coord": [
+          42.3596152,
+          -71.0628424
+        ]
+      },
+      {
+        "name": "Hancock Street",
+        "class": "residential",
+        "coord": [
+          42.3593602,
+          -71.064385
+        ]
+      },
+      {
+        "name": "Myrtle Street",
+        "class": "residential",
+        "coord": [
+          42.3593602,
+          -71.064385
+        ]
+      },
+      {
+        "name": "Ridgeway Lane",
+        "class": "residential",
+        "coord": [
+          42.3594082,
+          -71.0639495
+        ]
+      },
+      {
+        "name": "Temple Street",
+        "class": "residential",
+        "coord": [
+          42.3594284,
+          -71.0635558
+        ]
+      }
+    ],
+    "garden street": [
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.3611258,
+          -71.066946
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3611258,
+          -71.066946
+        ]
+      },
+      {
+        "name": "Myrtle Street",
+        "class": "residential",
+        "coord": [
+          42.3593157,
+          -71.0668304
+        ]
+      },
+      {
+        "name": "Phillips Street",
+        "class": "residential",
+        "coord": [
+          42.3603286,
+          -71.0669059
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "residential",
+        "coord": [
+          42.3595671,
+          -71.0668431
+        ]
+      }
+    ],
+    "grove square": [
+      {
+        "name": "Grove Street",
+        "class": "residential",
+        "coord": [
+          42.3592813,
+          -71.0686057
+        ]
+      },
+      {
+        "name": "Myrtle Street",
+        "class": "residential",
+        "coord": [
+          42.3592813,
+          -71.0686057
+        ]
+      }
+    ],
+    "grove street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3610909,
+          -71.0687532
+        ]
+      },
+      {
+        "name": "Grove Square",
+        "class": "residential",
+        "coord": [
+          42.3592813,
+          -71.0686057
+        ]
+      },
+      {
+        "name": "Myrtle Street",
+        "class": "residential",
+        "coord": [
+          42.3592813,
+          -71.0686057
+        ]
+      },
+      {
+        "name": "Phillips Street",
+        "class": "residential",
+        "coord": [
+          42.3602937,
+          -71.0686872
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "residential",
+        "coord": [
+          42.3595276,
+          -71.0686163
+        ]
+      }
+    ],
+    "hadassah way": [
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3522061,
+          -71.0691688
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3522739,
+          -71.0691922
+        ]
+      }
+    ],
+    "hancock street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3611492,
+          -71.0645577
+        ]
+      },
+      {
+        "name": "Derne Street",
+        "class": "secondary",
+        "coord": [
+          42.3593602,
+          -71.064385
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.3584142,
+          -71.0643928
+        ]
+      },
+      {
+        "name": "Myrtle Street",
+        "class": "residential",
+        "coord": [
+          42.3593602,
+          -71.064385
+        ]
+      }
+    ],
+    "irving street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3611308,
+          -71.0663801
+        ]
+      },
+      {
+        "name": "Myrtle Street",
+        "class": "residential",
+        "coord": [
+          42.359319,
+          -71.0663544
+        ]
+      },
+      {
+        "name": "Phillips Street",
+        "class": "residential",
+        "coord": [
+          42.360339,
+          -71.0663757
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "residential",
+        "coord": [
+          42.3595779,
+          -71.0663584
+        ]
+      }
+    ],
+    "joy place": [
+      {
+        "name": "Joy Street",
+        "class": "residential",
+        "coord": [
+          42.3576896,
+          -71.0650893
+        ]
+      }
+    ],
+    "joy street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3571645,
+          -71.065086
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.361136,
+          -71.0651378
+        ]
+      },
+      {
+        "name": "Joy Place",
+        "class": "residential",
+        "coord": [
+          42.3576896,
+          -71.0650893
+        ]
+      },
+      {
+        "name": "Mount Vernon Place",
+        "class": "residential",
+        "coord": [
+          42.3580227,
+          -71.0650876
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.3583441,
+          -71.0650766
+        ]
+      },
+      {
+        "name": "Myrtle Street",
+        "class": "residential",
+        "coord": [
+          42.3593467,
+          -71.0650388
+        ]
+      },
+      {
+        "name": "Pinckney Street",
+        "class": "residential",
+        "coord": [
+          42.3588389,
+          -71.0650816
+        ]
+      },
+      {
+        "name": "Smith Court",
+        "class": "residential",
+        "coord": [
+          42.3600648,
+          -71.0650773
+        ]
+      }
+    ],
+    "lime street": [
+      {
+        "name": "Brimmer Street",
+        "class": "residential",
+        "coord": [
+          42.3570797,
+          -71.0718545
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "residential",
+        "coord": [
+          42.3573772,
+          -71.070548
+        ]
+      }
+    ],
+    "lindall place": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3610788,
+          -71.0694606
+        ]
+      }
+    ],
+    "longfellow bridge": [
+      {
+        "name": "Cambridge Street",
+        "class": "trunk",
+        "coord": [
+          42.36109,
+          -71.0715618
+        ]
+      }
+    ],
+    "louisburg square": [
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.3579856,
+          -71.0688055
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.3580233,
+          -71.068522
+        ]
+      },
+      {
+        "name": "Pinckney Street",
+        "class": "residential",
+        "coord": [
+          42.3588226,
+          -71.0690001
+        ]
+      },
+      {
+        "name": "Pinckney Street",
+        "class": "residential",
+        "coord": [
+          42.358832,
+          -71.068695
+        ]
+      },
+      {
+        "name": "Willow Street",
+        "class": "residential",
+        "coord": [
+          42.3580233,
+          -71.068522
+        ]
+      }
+    ],
+    "marlborough street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3546549,
+          -71.0720629
+        ]
+      }
+    ],
+    "mount vernon place": [
+      {
+        "name": "Joy Street",
+        "class": "residential",
+        "coord": [
+          42.3580227,
+          -71.0650876
+        ]
+      }
+    ],
+    "mount vernon square": [
+      {
+        "name": "River Street",
+        "class": "residential",
+        "coord": [
+          42.3581061,
+          -71.071001
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "residential",
+        "coord": [
+          42.3583146,
+          -71.0711067
+        ]
+      }
+    ],
+    "mount vernon street": [
+      {
+        "name": "Brimmer Street",
+        "class": "residential",
+        "coord": [
+          42.3574273,
+          -71.0719941
+        ]
+      },
+      {
+        "name": "Cedar Lane Way",
+        "class": "residential",
+        "coord": [
+          42.3578484,
+          -71.0698565
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "primary",
+        "coord": [
+          42.3577809,
+          -71.0702841
+        ]
+      },
+      {
+        "name": "David G. Mugar Way",
+        "class": "primary",
+        "coord": [
+          42.3573158,
+          -71.0726439
+        ]
+      },
+      {
+        "name": "Hancock Street",
+        "class": "residential",
+        "coord": [
+          42.3584142,
+          -71.0643928
+        ]
+      },
+      {
+        "name": "Joy Street",
+        "class": "residential",
+        "coord": [
+          42.3583441,
+          -71.0650766
+        ]
+      },
+      {
+        "name": "Louisburg Square",
+        "class": "residential",
+        "coord": [
+          42.3579856,
+          -71.0688055
+        ]
+      },
+      {
+        "name": "Louisburg Square",
+        "class": "residential",
+        "coord": [
+          42.3580233,
+          -71.068522
+        ]
+      },
+      {
+        "name": "Otis Place",
+        "class": "residential",
+        "coord": [
+          42.357355,
+          -71.0723425
+        ]
+      },
+      {
+        "name": "River Street",
+        "class": "residential",
+        "coord": [
+          42.3576946,
+          -71.0707114
+        ]
+      },
+      {
+        "name": "Walnut Street",
+        "class": "residential",
+        "coord": [
+          42.3583066,
+          -71.0662842
+        ]
+      },
+      {
+        "name": "West Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.3578964,
+          -71.0694769
+        ]
+      },
+      {
+        "name": "Willow Street",
+        "class": "residential",
+        "coord": [
+          42.3580233,
+          -71.068522
+        ]
+      }
+    ],
+    "myrtle street": [
+      {
+        "name": "Anderson Street",
+        "class": "residential",
+        "coord": [
+          42.359291,
+          -71.067707
+        ]
+      },
+      {
+        "name": "Derne Street",
+        "class": "secondary",
+        "coord": [
+          42.3593602,
+          -71.064385
+        ]
+      },
+      {
+        "name": "Garden Street",
+        "class": "residential",
+        "coord": [
+          42.3593157,
+          -71.0668304
+        ]
+      },
+      {
+        "name": "Grove Square",
+        "class": "residential",
+        "coord": [
+          42.3592813,
+          -71.0686057
+        ]
+      },
+      {
+        "name": "Grove Street",
+        "class": "residential",
+        "coord": [
+          42.3592813,
+          -71.0686057
+        ]
+      },
+      {
+        "name": "Hancock Street",
+        "class": "residential",
+        "coord": [
+          42.3593602,
+          -71.064385
+        ]
+      },
+      {
+        "name": "Irving Street",
+        "class": "residential",
+        "coord": [
+          42.359319,
+          -71.0663544
+        ]
+      },
+      {
+        "name": "Joy Street",
+        "class": "residential",
+        "coord": [
+          42.3593467,
+          -71.0650388
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "residential",
+        "coord": [
+          42.3595025,
+          -71.0697428
+        ]
+      },
+      {
+        "name": "South Russell Street",
+        "class": "residential",
+        "coord": [
+          42.359325,
+          -71.0659612
+        ]
+      }
+    ],
+    "new chardon street": [
+      {
+        "name": "Bowdoin Street",
+        "class": "secondary",
+        "coord": [
+          42.3611913,
+          -71.0628793
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3611913,
+          -71.0628793
+        ]
+      }
+    ],
+    "otis place": [
+      {
+        "name": "Brimmer Street",
+        "class": "residential",
+        "coord": [
+          42.3571708,
+          -71.0718915
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.357355,
+          -71.0723425
+        ]
+      }
+    ],
+    "park street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3577154,
+          -71.0632118
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.356511,
+          -71.061982
+        ]
+      }
+    ],
+    "phillips street": [
+      {
+        "name": "Anderson Street",
+        "class": "residential",
+        "coord": [
+          42.3603111,
+          -71.0678007
+        ]
+      },
+      {
+        "name": "Garden Street",
+        "class": "residential",
+        "coord": [
+          42.3603286,
+          -71.0669059
+        ]
+      },
+      {
+        "name": "Grove Street",
+        "class": "residential",
+        "coord": [
+          42.3602937,
+          -71.0686872
+        ]
+      },
+      {
+        "name": "Irving Street",
+        "class": "residential",
+        "coord": [
+          42.360339,
+          -71.0663757
+        ]
+      },
+      {
+        "name": "West Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.3602672,
+          -71.0700385
+        ]
+      }
+    ],
+    "pinckney street": [
+      {
+        "name": "Anderson Street",
+        "class": "residential",
+        "coord": [
+          42.3588463,
+          -71.0676757
+        ]
+      },
+      {
+        "name": "Brimmer Street",
+        "class": "residential",
+        "coord": [
+          42.3587713,
+          -71.0717147
+        ]
+      },
+      {
+        "name": "Cedar Lane Way",
+        "class": "residential",
+        "coord": [
+          42.358799,
+          -71.0703113
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "primary",
+        "coord": [
+          42.3587884,
+          -71.0707216
+        ]
+      },
+      {
+        "name": "Joy Street",
+        "class": "residential",
+        "coord": [
+          42.3588389,
+          -71.0650816
+        ]
+      },
+      {
+        "name": "Louisburg Square",
+        "class": "residential",
+        "coord": [
+          42.3588226,
+          -71.0690001
+        ]
+      },
+      {
+        "name": "Louisburg Square",
+        "class": "residential",
+        "coord": [
+          42.358832,
+          -71.068695
+        ]
+      },
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.3587696,
+          -71.0723076
+        ]
+      },
+      {
+        "name": "West Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.3588097,
+          -71.0699357
+        ]
+      }
+    ],
+    "revere street": [
+      {
+        "name": "Anderson Street",
+        "class": "residential",
+        "coord": [
+          42.3595474,
+          -71.0677252
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "primary",
+        "coord": [
+          42.3594724,
+          -71.0707614
+        ]
+      },
+      {
+        "name": "Garden Street",
+        "class": "residential",
+        "coord": [
+          42.3595671,
+          -71.0668431
+        ]
+      },
+      {
+        "name": "Grove Street",
+        "class": "residential",
+        "coord": [
+          42.3595276,
+          -71.0686163
+        ]
+      },
+      {
+        "name": "Irving Street",
+        "class": "residential",
+        "coord": [
+          42.3595779,
+          -71.0663584
+        ]
+      },
+      {
+        "name": "Myrtle Street",
+        "class": "residential",
+        "coord": [
+          42.3595025,
+          -71.0697428
+        ]
+      },
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.3594495,
+          -71.072126
+        ]
+      },
+      {
+        "name": "West Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.3594939,
+          -71.0701283
+        ]
+      }
+    ],
+    "ridgeway lane": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3611585,
+          -71.0641435
+        ]
+      },
+      {
+        "name": "Derne Street",
+        "class": "secondary",
+        "coord": [
+          42.3594082,
+          -71.0639495
+        ]
+      }
+    ],
+    "river street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3561152,
+          -71.0698589
+        ]
+      },
+      {
+        "name": "Byron Street",
+        "class": "residential",
+        "coord": [
+          42.3564525,
+          -71.0700429
+        ]
+      },
+      {
+        "name": "Chestnut Street",
+        "class": "residential",
+        "coord": [
+          42.3569198,
+          -71.0702932
+        ]
+      },
+      {
+        "name": "Lime Street",
+        "class": "residential",
+        "coord": [
+          42.3573772,
+          -71.070548
+        ]
+      },
+      {
+        "name": "Mount Vernon Square",
+        "class": "residential",
+        "coord": [
+          42.3581061,
+          -71.071001
+        ]
+      },
+      {
+        "name": "Mount Vernon Square",
+        "class": "residential",
+        "coord": [
+          42.3583146,
+          -71.0711067
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.3576946,
+          -71.0707114
+        ]
+      }
+    ],
+    "smith court": [
+      {
+        "name": "Joy Street",
+        "class": "residential",
+        "coord": [
+          42.3600648,
+          -71.0650773
+        ]
+      }
+    ],
+    "south russell street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3611274,
+          -71.066002
+        ]
+      },
+      {
+        "name": "Myrtle Street",
+        "class": "residential",
+        "coord": [
+          42.359325,
+          -71.0659612
+        ]
+      }
+    ],
+    "spruce court": [
+      {
+        "name": "Spruce Street",
+        "class": "residential",
+        "coord": [
+          42.3569737,
+          -71.0677675
+        ]
+      }
+    ],
+    "spruce place": [
+      {
+        "name": "Spruce Street",
+        "class": "residential",
+        "coord": [
+          42.3571263,
+          -71.0678259
+        ]
+      }
+    ],
+    "spruce street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3565931,
+          -71.0676147
+        ]
+      },
+      {
+        "name": "Branch Street",
+        "class": "residential",
+        "coord": [
+          42.3571112,
+          -71.0678201
+        ]
+      },
+      {
+        "name": "Chestnut Street",
+        "class": "residential",
+        "coord": [
+          42.3574402,
+          -71.0679452
+        ]
+      },
+      {
+        "name": "Spruce Court",
+        "class": "residential",
+        "coord": [
+          42.3569737,
+          -71.0677675
+        ]
+      },
+      {
+        "name": "Spruce Place",
+        "class": "residential",
+        "coord": [
+          42.3571263,
+          -71.0678259
+        ]
+      }
+    ],
+    "staniford street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.361171,
+          -71.0637236
+        ]
+      },
+      {
+        "name": "Temple Street",
+        "class": "residential",
+        "coord": [
+          42.361171,
+          -71.0637236
+        ]
+      }
+    ],
+    "storrow drive": [
+      {
+        "name": "Charles River Square",
+        "class": "residential",
+        "coord": [
+          42.3596643,
+          -71.0720842
+        ]
+      },
+      {
+        "name": "Charles River Square",
+        "class": "residential",
+        "coord": [
+          42.3597287,
+          -71.0720741
+        ]
+      },
+      {
+        "name": "David G. Mugar Way",
+        "class": "primary",
+        "coord": [
+          42.357859,
+          -71.0725647
+        ]
+      },
+      {
+        "name": "Pinckney Street",
+        "class": "residential",
+        "coord": [
+          42.3587696,
+          -71.0723076
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "residential",
+        "coord": [
+          42.3594495,
+          -71.072126
+        ]
+      }
+    ],
+    "strong place": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3611006,
+          -71.0682577
+        ]
+      }
+    ],
+    "temple place": [
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3556617,
+          -71.0628874
+        ]
+      }
+    ],
+    "temple street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.361171,
+          -71.0637236
+        ]
+      },
+      {
+        "name": "Coolidge Avenue",
+        "class": "residential",
+        "coord": [
+          42.3603369,
+          -71.0636315
+        ]
+      },
+      {
+        "name": "Derne Street",
+        "class": "secondary",
+        "coord": [
+          42.3594284,
+          -71.0635558
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.361171,
+          -71.0637236
+        ]
+      }
+    ],
+    "tremont street": [
+      {
+        "name": "Avery Street",
+        "class": "unclassified",
+        "coord": [
+          42.3533846,
+          -71.0642375
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3523719,
+          -71.064556
+        ]
+      },
+      {
+        "name": "Park Street",
+        "class": "primary",
+        "coord": [
+          42.356511,
+          -71.061982
+        ]
+      },
+      {
+        "name": "Temple Place",
+        "class": "primary",
+        "coord": [
+          42.3556617,
+          -71.0628874
+        ]
+      }
+    ],
+    "walnut street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3570099,
+          -71.065788
+        ]
+      },
+      {
+        "name": "Chestnut Street",
+        "class": "residential",
+        "coord": [
+          42.357842,
+          -71.0661113
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.3583066,
+          -71.0662842
+        ]
+      }
+    ],
+    "west cedar street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3610424,
+          -71.070042
+        ]
+      },
+      {
+        "name": "Chestnut Street",
+        "class": "residential",
+        "coord": [
+          42.3571859,
+          -71.0691221
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.3578964,
+          -71.0694769
+        ]
+      },
+      {
+        "name": "Phillips Street",
+        "class": "residential",
+        "coord": [
+          42.3602672,
+          -71.0700385
+        ]
+      },
+      {
+        "name": "Pinckney Street",
+        "class": "residential",
+        "coord": [
+          42.3588097,
+          -71.0699357
+        ]
+      },
+      {
+        "name": "Revere Street",
+        "class": "residential",
+        "coord": [
+          42.3594939,
+          -71.0701283
+        ]
+      }
+    ],
+    "willow street": [
+      {
+        "name": "Chestnut Street",
+        "class": "residential",
+        "coord": [
+          42.357375,
+          -71.0682527
+        ]
+      },
+      {
+        "name": "Louisburg Square",
+        "class": "residential",
+        "coord": [
+          42.3580233,
+          -71.068522
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.3580233,
+          -71.068522
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-south-boston",
+  "display_name": "South Boston",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3218501,
+    -71.07183498699999,
+    42.345287693000046,
+    -71.01134043199994
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 194306,
+      "sha256": "4d43b774e48e7e94772a2ecd568682c05800b688ba8066b7b76816a90dd915ec"
+    },
+    "hydrants.csv": {
+      "size_bytes": 222021,
+      "sha256": "f458cdc83bb2c1679a2604394e24dc0c6ed8d301ff707c06cf9b2836dd3d158f"
+    }
+  }
+}

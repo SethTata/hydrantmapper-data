@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-dorchester",
+  "display_name": "Dorchester",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.2702803,
+    -71.0945835,
+    42.330408867000074,
+    -71.03395489899998
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 616561,
+      "sha256": "4dce68476d659bfc21a0f3eaf2a4ad87ca20a09e14add9da1e6f5121bde13103"
+    },
+    "hydrants.csv": {
+      "size_bytes": 711172,
+      "sha256": "208c855e3ee74cc2ccded4660fdc4a0c3cd4aeb4593be27ecda8c99f2e56ba50"
+    }
+  }
+}

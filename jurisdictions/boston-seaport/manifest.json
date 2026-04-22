@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-seaport",
+  "display_name": "Seaport",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3372851,
+    -71.0572292,
+    42.35489774100006,
+    -71.02199741399994
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 62486,
+      "sha256": "0c6b6f0b9dca9f7112a3a0a9074029780005c544fdb909578f835b853dc1344e"
+    },
+    "hydrants.csv": {
+      "size_bytes": 96885,
+      "sha256": "9418f8cea85cece85d0a1edca1fa066757a557088261982f1ec32821fb39700c"
+    }
+  }
+}

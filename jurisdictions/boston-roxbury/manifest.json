@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-roxbury",
+  "display_name": "Roxbury",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.2928758,
+    -71.1065742,
+    42.34106566000003,
+    -71.06585
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 307656,
+      "sha256": "054c62f7d1d0e20f63dae516b796d23f4000326d38d95e1dc822937434acab06"
+    },
+    "hydrants.csv": {
+      "size_bytes": 322744,
+      "sha256": "f463cfd949bf9f8b2e909249720aae3cc8f46d308df0377defe00cfb4c23500c"
+    }
+  }
+}

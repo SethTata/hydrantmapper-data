@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-leather-district",
+  "generated_at": "2026-04-22T05:26:49Z",
+  "streets": {
+    "atlantic avenue": [
+      {
+        "name": "Frontage Road",
+        "class": "primary",
+        "coord": [
+          42.3495494,
+          -71.0570945
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3495494,
+          -71.0570945
+        ]
+      }
+    ],
+    "beach street": [
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3511026,
+          -71.0593659
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "secondary",
+        "coord": [
+          42.3509228,
+          -71.0585481
+        ]
+      },
+      {
+        "name": "South Street",
+        "class": "secondary",
+        "coord": [
+          42.3506533,
+          -71.0574415
+        ]
+      },
+      {
+        "name": "Utica Street",
+        "class": "residential",
+        "coord": [
+          42.3508084,
+          -71.0580922
+        ]
+      }
+    ],
+    "east street": [
+      {
+        "name": "South Street",
+        "class": "secondary",
+        "coord": [
+          42.3516579,
+          -71.0572367
+        ]
+      }
+    ],
+    "essex street": [
+      {
+        "name": "Lincoln Street",
+        "class": "secondary",
+        "coord": [
+          42.3523844,
+          -71.0579993
+        ]
+      },
+      {
+        "name": "South Street",
+        "class": "secondary",
+        "coord": [
+          42.3521136,
+          -71.0571438
+        ]
+      }
+    ],
+    "frontage road": [
+      {
+        "name": "Atlantic Avenue",
+        "class": "primary",
+        "coord": [
+          42.3495494,
+          -71.0570945
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3495494,
+          -71.0570945
+        ]
+      }
+    ],
+    "john f. fitzgerald surface road": [
+      {
+        "name": "Beach Street",
+        "class": "residential",
+        "coord": [
+          42.3511026,
+          -71.0593659
+        ]
+      }
+    ],
+    "kneeland street": [
+      {
+        "name": "Atlantic Avenue",
+        "class": "primary",
+        "coord": [
+          42.3495494,
+          -71.0570945
+        ]
+      },
+      {
+        "name": "Frontage Road",
+        "class": "primary",
+        "coord": [
+          42.3495494,
+          -71.0570945
+        ]
+      },
+      {
+        "name": "Lincoln Street",
+        "class": "secondary",
+        "coord": [
+          42.3499541,
+          -71.0589421
+        ]
+      },
+      {
+        "name": "South Street",
+        "class": "secondary",
+        "coord": [
+          42.3497119,
+          -71.0576468
+        ]
+      },
+      {
+        "name": "Utica Street",
+        "class": "residential",
+        "coord": [
+          42.3498306,
+          -71.058362
+        ]
+      }
+    ],
+    "lincoln street": [
+      {
+        "name": "Beach Street",
+        "class": "residential",
+        "coord": [
+          42.3509228,
+          -71.0585481
+        ]
+      },
+      {
+        "name": "Essex Street",
+        "class": "secondary",
+        "coord": [
+          42.3523844,
+          -71.0579993
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3499541,
+          -71.0589421
+        ]
+      },
+      {
+        "name": "Tufts Street",
+        "class": "residential",
+        "coord": [
+          42.3517001,
+          -71.0582197
+        ]
+      }
+    ],
+    "south street": [
+      {
+        "name": "Beach Street",
+        "class": "residential",
+        "coord": [
+          42.3506533,
+          -71.0574415
+        ]
+      },
+      {
+        "name": "East Street",
+        "class": "residential",
+        "coord": [
+          42.3516579,
+          -71.0572367
+        ]
+      },
+      {
+        "name": "Essex Street",
+        "class": "secondary",
+        "coord": [
+          42.3521136,
+          -71.0571438
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3497119,
+          -71.0576468
+        ]
+      },
+      {
+        "name": "Tufts Street",
+        "class": "residential",
+        "coord": [
+          42.3515482,
+          -71.0572591
+        ]
+      }
+    ],
+    "tufts street": [
+      {
+        "name": "Lincoln Street",
+        "class": "secondary",
+        "coord": [
+          42.3517001,
+          -71.0582197
+        ]
+      },
+      {
+        "name": "South Street",
+        "class": "secondary",
+        "coord": [
+          42.3515482,
+          -71.0572591
+        ]
+      },
+      {
+        "name": "Utica Street",
+        "class": "residential",
+        "coord": [
+          42.3516392,
+          -71.0578525
+        ]
+      }
+    ],
+    "utica street": [
+      {
+        "name": "Beach Street",
+        "class": "residential",
+        "coord": [
+          42.3508084,
+          -71.0580922
+        ]
+      },
+      {
+        "name": "Kneeland Street",
+        "class": "primary",
+        "coord": [
+          42.3498306,
+          -71.058362
+        ]
+      },
+      {
+        "name": "Tufts Street",
+        "class": "residential",
+        "coord": [
+          42.3516392,
+          -71.0578525
+        ]
+      }
+    ]
+  }
+}

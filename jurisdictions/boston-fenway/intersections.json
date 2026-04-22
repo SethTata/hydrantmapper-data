@@ -1,0 +1,3019 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-fenway",
+  "generated_at": "2026-04-22T05:26:38Z",
+  "streets": {
+    "aberdeen street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3469193,
+          -71.1041006
+        ]
+      }
+    ],
+    "agassiz road": [
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3433326,
+          -71.0913404
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3432133,
+          -71.0945685
+        ]
+      }
+    ],
+    "albert street": [
+      {
+        "name": "Ruggles Street",
+        "class": "secondary",
+        "coord": [
+          42.3359276,
+          -71.0909952
+        ]
+      }
+    ],
+    "annunciation road": [
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3351533,
+          -71.0947738
+        ]
+      },
+      {
+        "name": "Ruggles Street",
+        "class": "secondary",
+        "coord": [
+          42.336711,
+          -71.0929939
+        ]
+      }
+    ],
+    "arundel street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3471315,
+          -71.1033303
+        ]
+      },
+      {
+        "name": "Miner Street",
+        "class": "residential",
+        "coord": [
+          42.3471315,
+          -71.1033303
+        ]
+      },
+      {
+        "name": "Mountfort Street",
+        "class": "residential",
+        "coord": [
+          42.348007,
+          -71.103764
+        ]
+      }
+    ],
+    "avenue louis pasteur": [
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3403386,
+          -71.1007659
+        ]
+      }
+    ],
+    "bay state road": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3498489,
+          -71.093166
+        ]
+      },
+      {
+        "name": "Deerfield Street",
+        "class": "residential",
+        "coord": [
+          42.3501137,
+          -71.0976578
+        ]
+      },
+      {
+        "name": "Granby Street",
+        "class": "residential",
+        "coord": [
+          42.3506129,
+          -71.1034431
+        ]
+      },
+      {
+        "name": "Raleigh Street",
+        "class": "residential",
+        "coord": [
+          42.3499691,
+          -71.0953089
+        ]
+      },
+      {
+        "name": "Silber Way",
+        "class": "residential",
+        "coord": [
+          42.3503263,
+          -71.1003651
+        ]
+      }
+    ],
+    "beacon street": [
+      {
+        "name": "Aberdeen Street",
+        "class": "residential",
+        "coord": [
+          42.3469193,
+          -71.1041006
+        ]
+      },
+      {
+        "name": "Arundel Street",
+        "class": "residential",
+        "coord": [
+          42.3471315,
+          -71.1033303
+        ]
+      },
+      {
+        "name": "Bay State Road",
+        "class": "residential",
+        "coord": [
+          42.3498489,
+          -71.093166
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3487847,
+          -71.0971629
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3489857,
+          -71.0967438
+        ]
+      },
+      {
+        "name": "Charlesgate East",
+        "class": "primary",
+        "coord": [
+          42.3502651,
+          -71.0916291
+        ]
+      },
+      {
+        "name": "Charlesgate West",
+        "class": "primary",
+        "coord": [
+          42.3499293,
+          -71.0928733
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3487847,
+          -71.0971629
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3488151,
+          -71.0974079
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3489857,
+          -71.0967438
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3490751,
+          -71.0960401
+        ]
+      },
+      {
+        "name": "Kenmore Street",
+        "class": "residential",
+        "coord": [
+          42.3493665,
+          -71.0950017
+        ]
+      },
+      {
+        "name": "Keswick Street",
+        "class": "residential",
+        "coord": [
+          42.3462804,
+          -71.1060056
+        ]
+      },
+      {
+        "name": "Maitland Street",
+        "class": "residential",
+        "coord": [
+          42.347536,
+          -71.1018535
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3508438,
+          -71.0894765
+        ]
+      },
+      {
+        "name": "Miner Street",
+        "class": "residential",
+        "coord": [
+          42.3471315,
+          -71.1033303
+        ]
+      },
+      {
+        "name": "Mountfort Street",
+        "class": "residential",
+        "coord": [
+          42.347536,
+          -71.1018535
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3465539,
+          -71.1051309
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3465997,
+          -71.1050048
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3466776,
+          -71.1051855
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3467108,
+          -71.105064
+        ]
+      },
+      {
+        "name": "Raleigh Street",
+        "class": "residential",
+        "coord": [
+          42.3493665,
+          -71.0950017
+        ]
+      }
+    ],
+    "belvidere street": [
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3464978,
+          -71.0873487
+        ]
+      }
+    ],
+    "blandford mall": [
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3491906,
+          -71.1006089
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.349384,
+          -71.1005718
+        ]
+      },
+      {
+        "name": "Silber Way",
+        "class": "residential",
+        "coord": [
+          42.349384,
+          -71.1005718
+        ]
+      }
+    ],
+    "bowker overpass": [
+      {
+        "name": "Boylston Street",
+        "class": "trunk",
+        "coord": [
+          42.3470524,
+          -71.092448
+        ]
+      },
+      {
+        "name": "Charlesgate West",
+        "class": "primary",
+        "coord": [
+          42.3475583,
+          -71.0923405
+        ]
+      }
+    ],
+    "boylston street": [
+      {
+        "name": "Bowker Overpass",
+        "class": "trunk",
+        "coord": [
+          42.3470524,
+          -71.092448
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3433018,
+          -71.1026556
+        ]
+      },
+      {
+        "name": "Charlesgate East",
+        "class": "residential",
+        "coord": [
+          42.34658,
+          -71.0903784
+        ]
+      },
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3465191,
+          -71.0908249
+        ]
+      },
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3465633,
+          -71.0912939
+        ]
+      },
+      {
+        "name": "Hemenway Street",
+        "class": "secondary",
+        "coord": [
+          42.3468925,
+          -71.0892176
+        ]
+      },
+      {
+        "name": "Ipswich Street",
+        "class": "tertiary",
+        "coord": [
+          42.3452401,
+          -71.0953354
+        ]
+      },
+      {
+        "name": "Ipswich Street",
+        "class": "tertiary",
+        "coord": [
+          42.3468925,
+          -71.0892176
+        ]
+      },
+      {
+        "name": "Jersey Street",
+        "class": "unclassified",
+        "coord": [
+          42.3445701,
+          -71.0978242
+        ]
+      },
+      {
+        "name": "Kilmarnock Street",
+        "class": "residential",
+        "coord": [
+          42.3439801,
+          -71.100014
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3472988,
+          -71.0877436
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3433018,
+          -71.1026556
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3455708,
+          -71.0943556
+        ]
+      },
+      {
+        "name": "Richard B. Ross Way",
+        "class": "residential",
+        "coord": [
+          42.344312,
+          -71.0988016
+        ]
+      }
+    ],
+    "brookline avenue": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3487847,
+          -71.0971629
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3489857,
+          -71.0967438
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3433018,
+          -71.1026556
+        ]
+      },
+      {
+        "name": "Burlington Avenue",
+        "class": "residential",
+        "coord": [
+          42.3454871,
+          -71.1003599
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3487847,
+          -71.0971629
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3489857,
+          -71.0967438
+        ]
+      },
+      {
+        "name": "David Ortiz Drive",
+        "class": "unclassified",
+        "coord": [
+          42.3468034,
+          -71.0989767
+        ]
+      },
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3427571,
+          -71.103252
+        ]
+      },
+      {
+        "name": "Fullerton Street",
+        "class": "residential",
+        "coord": [
+          42.3448941,
+          -71.1009828
+        ]
+      },
+      {
+        "name": "Jersey Street",
+        "class": "unclassified",
+        "coord": [
+          42.3468034,
+          -71.0989767
+        ]
+      },
+      {
+        "name": "Kilmarnock Street",
+        "class": "residential",
+        "coord": [
+          42.3448941,
+          -71.1009828
+        ]
+      },
+      {
+        "name": "Lansdowne Street",
+        "class": "unclassified",
+        "coord": [
+          42.3472268,
+          -71.0985318
+        ]
+      },
+      {
+        "name": "Newbury Street Extension",
+        "class": "unclassified",
+        "coord": [
+          42.3482684,
+          -71.0974361
+        ]
+      },
+      {
+        "name": "Overland Street",
+        "class": "residential",
+        "coord": [
+          42.3460783,
+          -71.0997386
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3433018,
+          -71.1026556
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3427571,
+          -71.103252
+        ]
+      }
+    ],
+    "burbank street": [
+      {
+        "name": "Edgerly Road",
+        "class": "residential",
+        "coord": [
+          42.3443618,
+          -71.0880935
+        ]
+      },
+      {
+        "name": "Edgerly Road",
+        "class": "unclassified",
+        "coord": [
+          42.3443659,
+          -71.0872029
+        ]
+      },
+      {
+        "name": "Hemenway Street",
+        "class": "secondary",
+        "coord": [
+          42.344641,
+          -71.089725
+        ]
+      }
+    ],
+    "burlington avenue": [
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3454871,
+          -71.1003599
+        ]
+      }
+    ],
+    "buswell street": [
+      {
+        "name": "Mountfort Street",
+        "class": "residential",
+        "coord": [
+          42.3480166,
+          -71.1038089
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3475337,
+          -71.1055467
+        ]
+      }
+    ],
+    "carlton street": [
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3502567,
+          -71.1094485
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3504761,
+          -71.1096952
+        ]
+      }
+    ],
+    "charlesgate": [
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.351843,
+          -71.091365
+        ]
+      }
+    ],
+    "charlesgate east": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3502651,
+          -71.0916291
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.34658,
+          -71.0903784
+        ]
+      },
+      {
+        "name": "Ipswich Street",
+        "class": "tertiary",
+        "coord": [
+          42.3475212,
+          -71.0915324
+        ]
+      }
+    ],
+    "charlesgate west": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3499293,
+          -71.0928733
+        ]
+      },
+      {
+        "name": "Bowker Overpass",
+        "class": "trunk",
+        "coord": [
+          42.3475583,
+          -71.0923405
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3488325,
+          -71.0928427
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3491674,
+          -71.0928488
+        ]
+      },
+      {
+        "name": "Newbury Street Extension",
+        "class": "unclassified",
+        "coord": [
+          42.3485688,
+          -71.0927625
+        ]
+      }
+    ],
+    "commonwealth avenue": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3487847,
+          -71.0971629
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3488151,
+          -71.0974079
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3489857,
+          -71.0967438
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3490751,
+          -71.0960401
+        ]
+      },
+      {
+        "name": "Blandford Mall",
+        "class": "residential",
+        "coord": [
+          42.3491906,
+          -71.1006089
+        ]
+      },
+      {
+        "name": "Blandford Mall",
+        "class": "residential",
+        "coord": [
+          42.349384,
+          -71.1005718
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3487847,
+          -71.0971629
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3489857,
+          -71.0967438
+        ]
+      },
+      {
+        "name": "Carlton Street",
+        "class": "trunk",
+        "coord": [
+          42.3502567,
+          -71.1094485
+        ]
+      },
+      {
+        "name": "Carlton Street",
+        "class": "trunk",
+        "coord": [
+          42.3504761,
+          -71.1096952
+        ]
+      },
+      {
+        "name": "Charlesgate West",
+        "class": "primary",
+        "coord": [
+          42.3488325,
+          -71.0928427
+        ]
+      },
+      {
+        "name": "Charlesgate West",
+        "class": "primary",
+        "coord": [
+          42.3491674,
+          -71.0928488
+        ]
+      },
+      {
+        "name": "Deerfield Street",
+        "class": "residential",
+        "coord": [
+          42.3489937,
+          -71.0971962
+        ]
+      },
+      {
+        "name": "Granby Street",
+        "class": "residential",
+        "coord": [
+          42.3495608,
+          -71.1036829
+        ]
+      },
+      {
+        "name": "Granby Street",
+        "class": "residential",
+        "coord": [
+          42.3497564,
+          -71.1036372
+        ]
+      },
+      {
+        "name": "Kenmore Street",
+        "class": "residential",
+        "coord": [
+          42.3491346,
+          -71.0949903
+        ]
+      },
+      {
+        "name": "Kenmore Street",
+        "class": "unclassified",
+        "coord": [
+          42.3488079,
+          -71.0949742
+        ]
+      },
+      {
+        "name": "Saint Mary's Street",
+        "class": "tertiary",
+        "coord": [
+          42.3499108,
+          -71.1065953
+        ]
+      },
+      {
+        "name": "Saint Mary's Street",
+        "class": "tertiary",
+        "coord": [
+          42.3501181,
+          -71.1065493
+        ]
+      },
+      {
+        "name": "Silber Way",
+        "class": "residential",
+        "coord": [
+          42.349384,
+          -71.1005718
+        ]
+      }
+    ],
+    "david ortiz drive": [
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3468034,
+          -71.0989767
+        ]
+      },
+      {
+        "name": "Jersey Street",
+        "class": "unclassified",
+        "coord": [
+          42.3468034,
+          -71.0989767
+        ]
+      },
+      {
+        "name": "Maitland Street",
+        "class": "residential",
+        "coord": [
+          42.3469388,
+          -71.1012104
+        ]
+      },
+      {
+        "name": "Overland Street",
+        "class": "residential",
+        "coord": [
+          42.3469388,
+          -71.1012104
+        ]
+      }
+    ],
+    "deerfield street": [
+      {
+        "name": "Bay State Road",
+        "class": "residential",
+        "coord": [
+          42.3501137,
+          -71.0976578
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3489937,
+          -71.0971962
+        ]
+      }
+    ],
+    "edgerly road": [
+      {
+        "name": "Burbank Street",
+        "class": "residential",
+        "coord": [
+          42.3443618,
+          -71.0880935
+        ]
+      },
+      {
+        "name": "Burbank Street",
+        "class": "residential",
+        "coord": [
+          42.3443659,
+          -71.0872029
+        ]
+      },
+      {
+        "name": "Haviland Street",
+        "class": "unclassified",
+        "coord": [
+          42.3464148,
+          -71.0882209
+        ]
+      },
+      {
+        "name": "Norway Street",
+        "class": "residential",
+        "coord": [
+          42.3452233,
+          -71.0876289
+        ]
+      },
+      {
+        "name": "Stoneholm Street",
+        "class": "residential",
+        "coord": [
+          42.3458758,
+          -71.0879531
+        ]
+      },
+      {
+        "name": "Westland Avenue",
+        "class": "secondary",
+        "coord": [
+          42.343478,
+          -71.0867763
+        ]
+      }
+    ],
+    "evans way": [
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.339015,
+          -71.0969079
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.336789,
+          -71.0981427
+        ]
+      },
+      {
+        "name": "Louis Prang Street",
+        "class": "secondary",
+        "coord": [
+          42.3384581,
+          -71.0973211
+        ]
+      }
+    ],
+    "fenway": [
+      {
+        "name": "Agassiz Road",
+        "class": "trunk",
+        "coord": [
+          42.3433326,
+          -71.0913404
+        ]
+      },
+      {
+        "name": "Avenue Louis Pasteur",
+        "class": "secondary",
+        "coord": [
+          42.3403386,
+          -71.1007659
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3465191,
+          -71.0908249
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "trunk",
+        "coord": [
+          42.3465633,
+          -71.0912939
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3427571,
+          -71.103252
+        ]
+      },
+      {
+        "name": "Evans Way",
+        "class": "secondary",
+        "coord": [
+          42.339015,
+          -71.0969079
+        ]
+      },
+      {
+        "name": "Forsyth Way",
+        "class": "secondary",
+        "coord": [
+          42.340125,
+          -71.0929868
+        ]
+      },
+      {
+        "name": "Forsyth Way",
+        "class": "secondary",
+        "coord": [
+          42.3407814,
+          -71.0937095
+        ]
+      },
+      {
+        "name": "Forsyth Way",
+        "class": "secondary",
+        "coord": [
+          42.3408949,
+          -71.0932396
+        ]
+      },
+      {
+        "name": "Louis Prang Street",
+        "class": "secondary",
+        "coord": [
+          42.3386911,
+          -71.0976906
+        ]
+      },
+      {
+        "name": "Museum Road",
+        "class": "residential",
+        "coord": [
+          42.3390698,
+          -71.0968567
+        ]
+      },
+      {
+        "name": "Palace Road",
+        "class": "residential",
+        "coord": [
+          42.3390975,
+          -71.0989398
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3408616,
+          -71.0999578
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3427571,
+          -71.103252
+        ]
+      },
+      {
+        "name": "Westland Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3443486,
+          -71.0907207
+        ]
+      }
+    ],
+    "forsyth street": [
+      {
+        "name": "Greenleaf Street",
+        "class": "unclassified",
+        "coord": [
+          42.3384727,
+          -71.0900081
+        ]
+      },
+      {
+        "name": "Hemenway Street",
+        "class": "secondary",
+        "coord": [
+          42.3407442,
+          -71.0912876
+        ]
+      },
+      {
+        "name": "Hemenway Street",
+        "class": "secondary",
+        "coord": [
+          42.3408367,
+          -71.0912255
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3395905,
+          -71.0905582
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3397762,
+          -71.0906494
+        ]
+      }
+    ],
+    "forsyth way": [
+      {
+        "name": "Fenway",
+        "class": "residential",
+        "coord": [
+          42.340125,
+          -71.0929868
+        ]
+      },
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3407814,
+          -71.0937095
+        ]
+      },
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3408949,
+          -71.0932396
+        ]
+      },
+      {
+        "name": "Hemenway Street",
+        "class": "secondary",
+        "coord": [
+          42.339528,
+          -71.0925673
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.338841,
+          -71.092478
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3390815,
+          -71.0923807
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.338841,
+          -71.092478
+        ]
+      }
+    ],
+    "fullerton street": [
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3448941,
+          -71.1009828
+        ]
+      },
+      {
+        "name": "Kilmarnock Street",
+        "class": "residential",
+        "coord": [
+          42.3448941,
+          -71.1009828
+        ]
+      },
+      {
+        "name": "Miner Street",
+        "class": "residential",
+        "coord": [
+          42.3453681,
+          -71.1018152
+        ]
+      },
+      {
+        "name": "Miner Street",
+        "class": "residential",
+        "coord": [
+          42.3456526,
+          -71.1019663
+        ]
+      }
+    ],
+    "gainsborough street": [
+      {
+        "name": "Hemenway Street",
+        "class": "secondary",
+        "coord": [
+          42.3426412,
+          -71.0902649
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3414317,
+          -71.0864587
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3415168,
+          -71.0865692
+        ]
+      },
+      {
+        "name": "Saint Botolph Street",
+        "class": "unclassified",
+        "coord": [
+          42.3408979,
+          -71.085662
+        ]
+      },
+      {
+        "name": "Saint Stephen Street",
+        "class": "residential",
+        "coord": [
+          42.3420274,
+          -71.0873309
+        ]
+      }
+    ],
+    "granby street": [
+      {
+        "name": "Bay State Road",
+        "class": "residential",
+        "coord": [
+          42.3506129,
+          -71.1034431
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3495608,
+          -71.1036829
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3497564,
+          -71.1036372
+        ]
+      }
+    ],
+    "greenleaf street": [
+      {
+        "name": "Forsyth Street",
+        "class": "unclassified",
+        "coord": [
+          42.3384727,
+          -71.0900081
+        ]
+      },
+      {
+        "name": "Leon Street",
+        "class": "unclassified",
+        "coord": [
+          42.3385293,
+          -71.0909139
+        ]
+      }
+    ],
+    "haviland street": [
+      {
+        "name": "Edgerly Road",
+        "class": "unclassified",
+        "coord": [
+          42.3464148,
+          -71.0882209
+        ]
+      },
+      {
+        "name": "Hemenway Street",
+        "class": "secondary",
+        "coord": [
+          42.3463131,
+          -71.0892665
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3466245,
+          -71.0874117
+        ]
+      }
+    ],
+    "hemenway street": [
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3468925,
+          -71.0892176
+        ]
+      },
+      {
+        "name": "Burbank Street",
+        "class": "residential",
+        "coord": [
+          42.344641,
+          -71.089725
+        ]
+      },
+      {
+        "name": "Forsyth Street",
+        "class": "unclassified",
+        "coord": [
+          42.3407442,
+          -71.0912876
+        ]
+      },
+      {
+        "name": "Forsyth Street",
+        "class": "unclassified",
+        "coord": [
+          42.3408367,
+          -71.0912255
+        ]
+      },
+      {
+        "name": "Forsyth Way",
+        "class": "secondary",
+        "coord": [
+          42.339528,
+          -71.0925673
+        ]
+      },
+      {
+        "name": "Gainsborough Street",
+        "class": "residential",
+        "coord": [
+          42.3426412,
+          -71.0902649
+        ]
+      },
+      {
+        "name": "Haviland Street",
+        "class": "unclassified",
+        "coord": [
+          42.3463131,
+          -71.0892665
+        ]
+      },
+      {
+        "name": "Ipswich Street",
+        "class": "tertiary",
+        "coord": [
+          42.3468925,
+          -71.0892176
+        ]
+      },
+      {
+        "name": "Norway Street",
+        "class": "residential",
+        "coord": [
+          42.3454278,
+          -71.0895063
+        ]
+      },
+      {
+        "name": "Symphony Road",
+        "class": "residential",
+        "coord": [
+          42.3432309,
+          -71.0901085
+        ]
+      },
+      {
+        "name": "Westland Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3439575,
+          -71.0899095
+        ]
+      }
+    ],
+    "huntington avenue": [
+      {
+        "name": "Evans Way",
+        "class": "secondary",
+        "coord": [
+          42.336789,
+          -71.0981427
+        ]
+      },
+      {
+        "name": "Forsyth Street",
+        "class": "unclassified",
+        "coord": [
+          42.3395905,
+          -71.0905582
+        ]
+      },
+      {
+        "name": "Forsyth Street",
+        "class": "unclassified",
+        "coord": [
+          42.3397762,
+          -71.0906494
+        ]
+      },
+      {
+        "name": "Forsyth Way",
+        "class": "secondary",
+        "coord": [
+          42.338841,
+          -71.092478
+        ]
+      },
+      {
+        "name": "Forsyth Way",
+        "class": "secondary",
+        "coord": [
+          42.3390815,
+          -71.0923807
+        ]
+      },
+      {
+        "name": "Gainsborough Street",
+        "class": "residential",
+        "coord": [
+          42.3415168,
+          -71.0865692
+        ]
+      },
+      {
+        "name": "Gainsborough Street",
+        "class": "unclassified",
+        "coord": [
+          42.3414317,
+          -71.0864587
+        ]
+      },
+      {
+        "name": "Louis Prang Street",
+        "class": "secondary",
+        "coord": [
+          42.3376439,
+          -71.0954392
+        ]
+      },
+      {
+        "name": "Louis Prang Street",
+        "class": "secondary",
+        "coord": [
+          42.3377545,
+          -71.095735
+        ]
+      },
+      {
+        "name": "Museum Road",
+        "class": "residential",
+        "coord": [
+          42.3381364,
+          -71.0947479
+        ]
+      },
+      {
+        "name": "Opera Place",
+        "class": "residential",
+        "coord": [
+          42.3404465,
+          -71.0889292
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.338841,
+          -71.092478
+        ]
+      },
+      {
+        "name": "Ruggles Street",
+        "class": "secondary",
+        "coord": [
+          42.3376439,
+          -71.0954392
+        ]
+      },
+      {
+        "name": "Vancouver Street",
+        "class": "residential",
+        "coord": [
+          42.3372653,
+          -71.0969495
+        ]
+      }
+    ],
+    "ipswich street": [
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3452401,
+          -71.0953354
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3468925,
+          -71.0892176
+        ]
+      },
+      {
+        "name": "Charlesgate East",
+        "class": "residential",
+        "coord": [
+          42.3475212,
+          -71.0915324
+        ]
+      },
+      {
+        "name": "Hemenway Street",
+        "class": "secondary",
+        "coord": [
+          42.3468925,
+          -71.0892176
+        ]
+      },
+      {
+        "name": "Lansdowne Street",
+        "class": "unclassified",
+        "coord": [
+          42.3470964,
+          -71.0944514
+        ]
+      },
+      {
+        "name": "Van Ness Street",
+        "class": "residential",
+        "coord": [
+          42.3460233,
+          -71.0956303
+        ]
+      }
+    ],
+    "jersey street": [
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3445701,
+          -71.0978242
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3468034,
+          -71.0989767
+        ]
+      },
+      {
+        "name": "David Ortiz Drive",
+        "class": "unclassified",
+        "coord": [
+          42.3468034,
+          -71.0989767
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "residential",
+        "coord": [
+          42.3419903,
+          -71.096562
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3418455,
+          -71.0964941
+        ]
+      },
+      {
+        "name": "Peterborough Street",
+        "class": "residential",
+        "coord": [
+          42.3436979,
+          -71.0973964
+        ]
+      },
+      {
+        "name": "Queensberry Street",
+        "class": "residential",
+        "coord": [
+          42.3428628,
+          -71.0969883
+        ]
+      },
+      {
+        "name": "Van Ness Street",
+        "class": "residential",
+        "coord": [
+          42.3454136,
+          -71.0982414
+        ]
+      }
+    ],
+    "kenmore street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3493665,
+          -71.0950017
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3488079,
+          -71.0949742
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3491346,
+          -71.0949903
+        ]
+      },
+      {
+        "name": "Newbury Street Extension",
+        "class": "unclassified",
+        "coord": [
+          42.3480433,
+          -71.0949565
+        ]
+      },
+      {
+        "name": "Raleigh Street",
+        "class": "residential",
+        "coord": [
+          42.3493665,
+          -71.0950017
+        ]
+      }
+    ],
+    "keswick street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3462804,
+          -71.1060056
+        ]
+      },
+      {
+        "name": "Medfield Street",
+        "class": "residential",
+        "coord": [
+          42.3454249,
+          -71.1055884
+        ]
+      }
+    ],
+    "kilmarnock street": [
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3439801,
+          -71.100014
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3448941,
+          -71.1009828
+        ]
+      },
+      {
+        "name": "Fullerton Street",
+        "class": "residential",
+        "coord": [
+          42.3448941,
+          -71.1009828
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "residential",
+        "coord": [
+          42.340909,
+          -71.098508
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3407877,
+          -71.0984061
+        ]
+      },
+      {
+        "name": "Peterborough Street",
+        "class": "residential",
+        "coord": [
+          42.3431036,
+          -71.0995872
+        ]
+      },
+      {
+        "name": "Queensberry Street",
+        "class": "residential",
+        "coord": [
+          42.3422712,
+          -71.099181
+        ]
+      },
+      {
+        "name": "Van Ness Street",
+        "class": "residential",
+        "coord": [
+          42.3447067,
+          -71.1004831
+        ]
+      }
+    ],
+    "lansdowne street": [
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3472268,
+          -71.0985318
+        ]
+      },
+      {
+        "name": "Ipswich Street",
+        "class": "tertiary",
+        "coord": [
+          42.3470964,
+          -71.0944514
+        ]
+      }
+    ],
+    "leon street": [
+      {
+        "name": "Greenleaf Street",
+        "class": "unclassified",
+        "coord": [
+          42.3385293,
+          -71.0909139
+        ]
+      },
+      {
+        "name": "Ruggles Street",
+        "class": "secondary",
+        "coord": [
+          42.3360604,
+          -71.0913272
+        ]
+      }
+    ],
+    "louis prang street": [
+      {
+        "name": "Evans Way",
+        "class": "secondary",
+        "coord": [
+          42.3384581,
+          -71.0973211
+        ]
+      },
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3386911,
+          -71.0976906
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3376439,
+          -71.0954392
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3377545,
+          -71.095735
+        ]
+      },
+      {
+        "name": "Ruggles Street",
+        "class": "secondary",
+        "coord": [
+          42.3376439,
+          -71.0954392
+        ]
+      },
+      {
+        "name": "Vancouver Street",
+        "class": "residential",
+        "coord": [
+          42.3380479,
+          -71.0964247
+        ]
+      }
+    ],
+    "maitland street": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.347536,
+          -71.1018535
+        ]
+      },
+      {
+        "name": "David Ortiz Drive",
+        "class": "unclassified",
+        "coord": [
+          42.3469388,
+          -71.1012104
+        ]
+      },
+      {
+        "name": "Mountfort Street",
+        "class": "residential",
+        "coord": [
+          42.347536,
+          -71.1018535
+        ]
+      },
+      {
+        "name": "Overland Street",
+        "class": "residential",
+        "coord": [
+          42.3469388,
+          -71.1012104
+        ]
+      }
+    ],
+    "massachusetts avenue": [
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3508438,
+          -71.0894765
+        ]
+      },
+      {
+        "name": "Belvidere Street",
+        "class": "secondary",
+        "coord": [
+          42.3464978,
+          -71.0873487
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3472988,
+          -71.0877436
+        ]
+      },
+      {
+        "name": "Haviland Street",
+        "class": "unclassified",
+        "coord": [
+          42.3466245,
+          -71.0874117
+        ]
+      },
+      {
+        "name": "Saint Stephen Street",
+        "class": "residential",
+        "coord": [
+          42.3433687,
+          -71.0857885
+        ]
+      },
+      {
+        "name": "Westland Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3433687,
+          -71.0857885
+        ]
+      }
+    ],
+    "medfield street": [
+      {
+        "name": "Keswick Street",
+        "class": "residential",
+        "coord": [
+          42.3454249,
+          -71.1055884
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3456726,
+          -71.1046875
+        ]
+      }
+    ],
+    "miner street": [
+      {
+        "name": "Arundel Street",
+        "class": "residential",
+        "coord": [
+          42.3471315,
+          -71.1033303
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3471315,
+          -71.1033303
+        ]
+      },
+      {
+        "name": "Fullerton Street",
+        "class": "residential",
+        "coord": [
+          42.3453681,
+          -71.1018152
+        ]
+      },
+      {
+        "name": "Fullerton Street",
+        "class": "residential",
+        "coord": [
+          42.3456526,
+          -71.1019663
+        ]
+      }
+    ],
+    "mountfort street": [
+      {
+        "name": "Arundel Street",
+        "class": "residential",
+        "coord": [
+          42.348007,
+          -71.103764
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.347536,
+          -71.1018535
+        ]
+      },
+      {
+        "name": "Buswell Street",
+        "class": "residential",
+        "coord": [
+          42.3480166,
+          -71.1038089
+        ]
+      },
+      {
+        "name": "Maitland Street",
+        "class": "residential",
+        "coord": [
+          42.347536,
+          -71.1018535
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3483798,
+          -71.1059855
+        ]
+      }
+    ],
+    "museum road": [
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3390698,
+          -71.0968567
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3381364,
+          -71.0947479
+        ]
+      }
+    ],
+    "newbury street extension": [
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3482684,
+          -71.0974361
+        ]
+      },
+      {
+        "name": "Charlesgate West",
+        "class": "primary",
+        "coord": [
+          42.3485688,
+          -71.0927625
+        ]
+      },
+      {
+        "name": "Kenmore Street",
+        "class": "unclassified",
+        "coord": [
+          42.3480433,
+          -71.0949565
+        ]
+      }
+    ],
+    "norway street": [
+      {
+        "name": "Edgerly Road",
+        "class": "unclassified",
+        "coord": [
+          42.3452233,
+          -71.0876289
+        ]
+      },
+      {
+        "name": "Hemenway Street",
+        "class": "secondary",
+        "coord": [
+          42.3454278,
+          -71.0895063
+        ]
+      },
+      {
+        "name": "Stoneholm Street",
+        "class": "residential",
+        "coord": [
+          42.3453053,
+          -71.0887048
+        ]
+      },
+      {
+        "name": "Whipple Street",
+        "class": "residential",
+        "coord": [
+          42.3453053,
+          -71.0887048
+        ]
+      }
+    ],
+    "opera place": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3404465,
+          -71.0889292
+        ]
+      },
+      {
+        "name": "Saint Stephen Street",
+        "class": "residential",
+        "coord": [
+          42.3410842,
+          -71.0893778
+        ]
+      }
+    ],
+    "overland street": [
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3460783,
+          -71.0997386
+        ]
+      },
+      {
+        "name": "David Ortiz Drive",
+        "class": "unclassified",
+        "coord": [
+          42.3469388,
+          -71.1012104
+        ]
+      },
+      {
+        "name": "Maitland Street",
+        "class": "residential",
+        "coord": [
+          42.3469388,
+          -71.1012104
+        ]
+      }
+    ],
+    "palace road": [
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3390975,
+          -71.0989398
+        ]
+      }
+    ],
+    "park drive": [
+      {
+        "name": "Agassiz Road",
+        "class": "trunk",
+        "coord": [
+          42.3432133,
+          -71.0945685
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3465539,
+          -71.1051309
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3465997,
+          -71.1050048
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3466776,
+          -71.1051855
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3467108,
+          -71.105064
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3433018,
+          -71.1026556
+        ]
+      },
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.3455708,
+          -71.0943556
+        ]
+      },
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3433018,
+          -71.1026556
+        ]
+      },
+      {
+        "name": "Buswell Street",
+        "class": "residential",
+        "coord": [
+          42.3475337,
+          -71.1055467
+        ]
+      },
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3408616,
+          -71.0999578
+        ]
+      },
+      {
+        "name": "Jersey Street",
+        "class": "residential",
+        "coord": [
+          42.3418455,
+          -71.0964941
+        ]
+      },
+      {
+        "name": "Jersey Street",
+        "class": "residential",
+        "coord": [
+          42.3419903,
+          -71.096562
+        ]
+      },
+      {
+        "name": "Kilmarnock Street",
+        "class": "residential",
+        "coord": [
+          42.3407877,
+          -71.0984061
+        ]
+      },
+      {
+        "name": "Kilmarnock Street",
+        "class": "residential",
+        "coord": [
+          42.340909,
+          -71.098508
+        ]
+      },
+      {
+        "name": "Medfield Street",
+        "class": "residential",
+        "coord": [
+          42.3456726,
+          -71.1046875
+        ]
+      },
+      {
+        "name": "Mountfort Street",
+        "class": "residential",
+        "coord": [
+          42.3483798,
+          -71.1059855
+        ]
+      },
+      {
+        "name": "Peterborough Street",
+        "class": "residential",
+        "coord": [
+          42.342483,
+          -71.1018195
+        ]
+      },
+      {
+        "name": "Peterborough Street",
+        "class": "residential",
+        "coord": [
+          42.3443758,
+          -71.0949004
+        ]
+      },
+      {
+        "name": "Peterborough Street",
+        "class": "residential",
+        "coord": [
+          42.3445191,
+          -71.0946671
+        ]
+      },
+      {
+        "name": "Queensberry Street",
+        "class": "residential",
+        "coord": [
+          42.341734,
+          -71.1010706
+        ]
+      },
+      {
+        "name": "Queensberry Street",
+        "class": "residential",
+        "coord": [
+          42.3434516,
+          -71.0947904
+        ]
+      },
+      {
+        "name": "Queensberry Street",
+        "class": "residential",
+        "coord": [
+          42.3434806,
+          -71.0945963
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3432153,
+          -71.1038876
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3435041,
+          -71.1028937
+        ]
+      },
+      {
+        "name": "Riverway",
+        "class": "trunk",
+        "coord": [
+          42.3441618,
+          -71.104185
+        ]
+      }
+    ],
+    "parker street": [
+      {
+        "name": "Annunciation Road",
+        "class": "residential",
+        "coord": [
+          42.3351533,
+          -71.0947738
+        ]
+      },
+      {
+        "name": "Forsyth Way",
+        "class": "secondary",
+        "coord": [
+          42.338841,
+          -71.092478
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.338841,
+          -71.092478
+        ]
+      },
+      {
+        "name": "Ruggles Street",
+        "class": "secondary",
+        "coord": [
+          42.3369657,
+          -71.0936618
+        ]
+      }
+    ],
+    "peterborough street": [
+      {
+        "name": "Jersey Street",
+        "class": "residential",
+        "coord": [
+          42.3436979,
+          -71.0973964
+        ]
+      },
+      {
+        "name": "Kilmarnock Street",
+        "class": "residential",
+        "coord": [
+          42.3431036,
+          -71.0995872
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "residential",
+        "coord": [
+          42.3443758,
+          -71.0949004
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.342483,
+          -71.1018195
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3445191,
+          -71.0946671
+        ]
+      }
+    ],
+    "queensberry street": [
+      {
+        "name": "Jersey Street",
+        "class": "residential",
+        "coord": [
+          42.3428628,
+          -71.0969883
+        ]
+      },
+      {
+        "name": "Kilmarnock Street",
+        "class": "residential",
+        "coord": [
+          42.3422712,
+          -71.099181
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "residential",
+        "coord": [
+          42.3434516,
+          -71.0947904
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.341734,
+          -71.1010706
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3434806,
+          -71.0945963
+        ]
+      }
+    ],
+    "raleigh street": [
+      {
+        "name": "Bay State Road",
+        "class": "residential",
+        "coord": [
+          42.3499691,
+          -71.0953089
+        ]
+      },
+      {
+        "name": "Beacon Street",
+        "class": "primary",
+        "coord": [
+          42.3493665,
+          -71.0950017
+        ]
+      },
+      {
+        "name": "Kenmore Street",
+        "class": "residential",
+        "coord": [
+          42.3493665,
+          -71.0950017
+        ]
+      }
+    ],
+    "richard b. ross way": [
+      {
+        "name": "Boylston Street",
+        "class": "primary",
+        "coord": [
+          42.344312,
+          -71.0988016
+        ]
+      },
+      {
+        "name": "Van Ness Street",
+        "class": "residential",
+        "coord": [
+          42.3451592,
+          -71.0991992
+        ]
+      }
+    ],
+    "riverway": [
+      {
+        "name": "Brookline Avenue",
+        "class": "primary",
+        "coord": [
+          42.3427571,
+          -71.103252
+        ]
+      },
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3427571,
+          -71.103252
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3432153,
+          -71.1038876
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3435041,
+          -71.1028937
+        ]
+      },
+      {
+        "name": "Park Drive",
+        "class": "trunk",
+        "coord": [
+          42.3441618,
+          -71.104185
+        ]
+      }
+    ],
+    "ruggles street": [
+      {
+        "name": "Albert Street",
+        "class": "residential",
+        "coord": [
+          42.3359276,
+          -71.0909952
+        ]
+      },
+      {
+        "name": "Annunciation Road",
+        "class": "residential",
+        "coord": [
+          42.336711,
+          -71.0929939
+        ]
+      },
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3376439,
+          -71.0954392
+        ]
+      },
+      {
+        "name": "Leon Street",
+        "class": "unclassified",
+        "coord": [
+          42.3360604,
+          -71.0913272
+        ]
+      },
+      {
+        "name": "Louis Prang Street",
+        "class": "secondary",
+        "coord": [
+          42.3376439,
+          -71.0954392
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "tertiary",
+        "coord": [
+          42.3369657,
+          -71.0936618
+        ]
+      }
+    ],
+    "saint botolph street": [
+      {
+        "name": "Gainsborough Street",
+        "class": "unclassified",
+        "coord": [
+          42.3408979,
+          -71.085662
+        ]
+      }
+    ],
+    "saint mary's street": [
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3499108,
+          -71.1065953
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.3501181,
+          -71.1065493
+        ]
+      }
+    ],
+    "saint stephen street": [
+      {
+        "name": "Gainsborough Street",
+        "class": "residential",
+        "coord": [
+          42.3420274,
+          -71.0873309
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3433687,
+          -71.0857885
+        ]
+      },
+      {
+        "name": "Opera Place",
+        "class": "residential",
+        "coord": [
+          42.3410842,
+          -71.0893778
+        ]
+      },
+      {
+        "name": "Symphony Road",
+        "class": "residential",
+        "coord": [
+          42.3426303,
+          -71.0866148
+        ]
+      },
+      {
+        "name": "Westland Avenue",
+        "class": "secondary",
+        "coord": [
+          42.3433687,
+          -71.0857885
+        ]
+      }
+    ],
+    "silber way": [
+      {
+        "name": "Bay State Road",
+        "class": "residential",
+        "coord": [
+          42.3503263,
+          -71.1003651
+        ]
+      },
+      {
+        "name": "Blandford Mall",
+        "class": "residential",
+        "coord": [
+          42.349384,
+          -71.1005718
+        ]
+      },
+      {
+        "name": "Commonwealth Avenue",
+        "class": "primary",
+        "coord": [
+          42.349384,
+          -71.1005718
+        ]
+      }
+    ],
+    "soldiers field road": [
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.3517816,
+          -71.1101997
+        ]
+      },
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.3519044,
+          -71.1105723
+        ]
+      }
+    ],
+    "stoneholm street": [
+      {
+        "name": "Edgerly Road",
+        "class": "unclassified",
+        "coord": [
+          42.3458758,
+          -71.0879531
+        ]
+      },
+      {
+        "name": "Norway Street",
+        "class": "residential",
+        "coord": [
+          42.3453053,
+          -71.0887048
+        ]
+      },
+      {
+        "name": "Whipple Street",
+        "class": "residential",
+        "coord": [
+          42.3453053,
+          -71.0887048
+        ]
+      }
+    ],
+    "storrow drive": [
+      {
+        "name": "Charlesgate",
+        "class": "trunk",
+        "coord": [
+          42.351843,
+          -71.091365
+        ]
+      },
+      {
+        "name": "Soldiers Field Road",
+        "class": "trunk",
+        "coord": [
+          42.3517816,
+          -71.1101997
+        ]
+      },
+      {
+        "name": "Soldiers Field Road",
+        "class": "trunk",
+        "coord": [
+          42.3519044,
+          -71.1105723
+        ]
+      }
+    ],
+    "symphony road": [
+      {
+        "name": "Hemenway Street",
+        "class": "secondary",
+        "coord": [
+          42.3432309,
+          -71.0901085
+        ]
+      },
+      {
+        "name": "Saint Stephen Street",
+        "class": "residential",
+        "coord": [
+          42.3426303,
+          -71.0866148
+        ]
+      }
+    ],
+    "van ness street": [
+      {
+        "name": "Ipswich Street",
+        "class": "tertiary",
+        "coord": [
+          42.3460233,
+          -71.0956303
+        ]
+      },
+      {
+        "name": "Jersey Street",
+        "class": "unclassified",
+        "coord": [
+          42.3454136,
+          -71.0982414
+        ]
+      },
+      {
+        "name": "Kilmarnock Street",
+        "class": "residential",
+        "coord": [
+          42.3447067,
+          -71.1004831
+        ]
+      },
+      {
+        "name": "Richard B. Ross Way",
+        "class": "residential",
+        "coord": [
+          42.3451592,
+          -71.0991992
+        ]
+      }
+    ],
+    "vancouver street": [
+      {
+        "name": "Huntington Avenue",
+        "class": "primary",
+        "coord": [
+          42.3372653,
+          -71.0969495
+        ]
+      },
+      {
+        "name": "Louis Prang Street",
+        "class": "secondary",
+        "coord": [
+          42.3380479,
+          -71.0964247
+        ]
+      }
+    ],
+    "westland avenue": [
+      {
+        "name": "Edgerly Road",
+        "class": "unclassified",
+        "coord": [
+          42.343478,
+          -71.0867763
+        ]
+      },
+      {
+        "name": "Fenway",
+        "class": "trunk",
+        "coord": [
+          42.3443486,
+          -71.0907207
+        ]
+      },
+      {
+        "name": "Hemenway Street",
+        "class": "secondary",
+        "coord": [
+          42.3439575,
+          -71.0899095
+        ]
+      },
+      {
+        "name": "Massachusetts Avenue",
+        "class": "primary",
+        "coord": [
+          42.3433687,
+          -71.0857885
+        ]
+      },
+      {
+        "name": "Saint Stephen Street",
+        "class": "residential",
+        "coord": [
+          42.3433687,
+          -71.0857885
+        ]
+      }
+    ],
+    "whipple street": [
+      {
+        "name": "Norway Street",
+        "class": "residential",
+        "coord": [
+          42.3453053,
+          -71.0887048
+        ]
+      },
+      {
+        "name": "Stoneholm Street",
+        "class": "residential",
+        "coord": [
+          42.3453053,
+          -71.0887048
+        ]
+      }
+    ]
+  }
+}

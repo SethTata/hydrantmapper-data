@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-hyde-park",
+  "display_name": "Hyde Park",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.23222828000007,
+    -71.1461315,
+    42.27720130800003,
+    -71.0980804
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 238284,
+      "sha256": "d1e2628ff46f0e3345fee9f4e27f23ee3829873ed392c1e6426e8e79514b8874"
+    },
+    "hydrants.csv": {
+      "size_bytes": 283940,
+      "sha256": "41089c11c018f4c496ea081a9bbc5227be2922ac149f7fda3091edd1ffe54af4"
+    }
+  }
+}

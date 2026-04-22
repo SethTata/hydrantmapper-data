@@ -1,0 +1,1627 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-west-end",
+  "generated_at": "2026-04-22T05:27:20Z",
+  "streets": {
+    "amy court": [
+      {
+        "name": "Martha Road",
+        "class": "secondary",
+        "coord": [
+          42.3660023,
+          -71.0661291
+        ]
+      }
+    ],
+    "beverly street": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.366004,
+          -71.0601939
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3642805,
+          -71.0584462
+        ]
+      },
+      {
+        "name": "Valenti Way",
+        "class": "residential",
+        "coord": [
+          42.3648924,
+          -71.0589827
+        ]
+      }
+    ],
+    "blossom court": [
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.363915,
+          -71.0675139
+        ]
+      },
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.3640015,
+          -71.0674802
+        ]
+      }
+    ],
+    "blossom street": [
+      {
+        "name": "Blossom Court",
+        "class": "residential",
+        "coord": [
+          42.363915,
+          -71.0675139
+        ]
+      },
+      {
+        "name": "Blossom Court",
+        "class": "residential",
+        "coord": [
+          42.3640015,
+          -71.0674802
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3612347,
+          -71.066972
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3612353,
+          -71.0668523
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "trunk",
+        "coord": [
+          42.3642923,
+          -71.0697887
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "trunk",
+        "coord": [
+          42.3643767,
+          -71.0697459
+        ]
+      },
+      {
+        "name": "Emerson Place",
+        "class": "residential",
+        "coord": [
+          42.364021,
+          -71.0686124
+        ]
+      },
+      {
+        "name": "Emerson Place",
+        "class": "residential",
+        "coord": [
+          42.3641092,
+          -71.068579
+        ]
+      },
+      {
+        "name": "Parkman Street",
+        "class": "residential",
+        "coord": [
+          42.3621936,
+          -71.0669926
+        ]
+      },
+      {
+        "name": "Parkman Street",
+        "class": "residential",
+        "coord": [
+          42.3621953,
+          -71.06687
+        ]
+      },
+      {
+        "name": "William Cardinal O'Connell Way",
+        "class": "unclassified",
+        "coord": [
+          42.3634214,
+          -71.0670306
+        ]
+      },
+      {
+        "name": "William Cardinal O'Connell Way",
+        "class": "unclassified",
+        "coord": [
+          42.3634227,
+          -71.0669147
+        ]
+      }
+    ],
+    "bowker street": [
+      {
+        "name": "Hawkins Street",
+        "class": "unclassified",
+        "coord": [
+          42.3621182,
+          -71.0601173
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.3627357,
+          -71.0608897
+        ]
+      }
+    ],
+    "cambridge street": [
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.3612347,
+          -71.066972
+        ]
+      },
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.3612353,
+          -71.0668523
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "trunk",
+        "coord": [
+          42.3613963,
+          -71.0706247
+        ]
+      },
+      {
+        "name": "Longfellow Bridge",
+        "class": "trunk",
+        "coord": [
+          42.3613373,
+          -71.0715491
+        ]
+      },
+      {
+        "name": "Lynde Street",
+        "class": "residential",
+        "coord": [
+          42.3612727,
+          -71.0643836
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.361305,
+          -71.0628639
+        ]
+      },
+      {
+        "name": "North Grove Street",
+        "class": "residential",
+        "coord": [
+          42.3611956,
+          -71.0687275
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.3612876,
+          -71.0637704
+        ]
+      }
+    ],
+    "canal street": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3654487,
+          -71.0611214
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.3635598,
+          -71.0589889
+        ]
+      },
+      {
+        "name": "Valenti Way",
+        "class": "residential",
+        "coord": [
+          42.3643481,
+          -71.0598847
+        ]
+      }
+    ],
+    "causeway street": [
+      {
+        "name": "Beverly Street",
+        "class": "residential",
+        "coord": [
+          42.366004,
+          -71.0601939
+        ]
+      },
+      {
+        "name": "Canal Street",
+        "class": "secondary",
+        "coord": [
+          42.3654487,
+          -71.0611214
+        ]
+      },
+      {
+        "name": "Friend Street",
+        "class": "residential",
+        "coord": [
+          42.3651114,
+          -71.0617504
+        ]
+      },
+      {
+        "name": "Haverhill Street",
+        "class": "residential",
+        "coord": [
+          42.3657102,
+          -71.0606251
+        ]
+      },
+      {
+        "name": "Lancaster Street",
+        "class": "residential",
+        "coord": [
+          42.3645067,
+          -71.0628913
+        ]
+      },
+      {
+        "name": "Legends Way",
+        "class": "unclassified",
+        "coord": [
+          42.3657102,
+          -71.0606251
+        ]
+      },
+      {
+        "name": "Legends Way",
+        "class": "unclassified",
+        "coord": [
+          42.3658006,
+          -71.0607134
+        ]
+      },
+      {
+        "name": "Lomasney Way",
+        "class": "primary",
+        "coord": [
+          42.3642207,
+          -71.0634334
+        ]
+      },
+      {
+        "name": "Lomasney Way",
+        "class": "primary",
+        "coord": [
+          42.3643325,
+          -71.0634818
+        ]
+      },
+      {
+        "name": "Lovejoy Wharf",
+        "class": "unclassified",
+        "coord": [
+          42.36621,
+          -71.0597921
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "residential",
+        "coord": [
+          42.3663813,
+          -71.059458
+        ]
+      },
+      {
+        "name": "Portland Street",
+        "class": "secondary",
+        "coord": [
+          42.3648143,
+          -71.0623107
+        ]
+      },
+      {
+        "name": "Portland Street",
+        "class": "secondary",
+        "coord": [
+          42.3649032,
+          -71.0624074
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.3642207,
+          -71.0634334
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.3642757,
+          -71.0633292
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.3643976,
+          -71.0633591
+        ]
+      }
+    ],
+    "charles river dam road": [
+      {
+        "name": "Martha Road",
+        "class": "secondary",
+        "coord": [
+          42.3663901,
+          -71.0675857
+        ]
+      },
+      {
+        "name": "Nashua Street",
+        "class": "primary",
+        "coord": [
+          42.3663901,
+          -71.0675857
+        ]
+      },
+      {
+        "name": "Nashua Street",
+        "class": "primary",
+        "coord": [
+          42.3664966,
+          -71.067624
+        ]
+      },
+      {
+        "name": "Storrow Drive",
+        "class": "primary",
+        "coord": [
+          42.366731,
+          -71.0682093
+        ]
+      },
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.3663901,
+          -71.0675857
+        ]
+      },
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.3666799,
+          -71.0682662
+        ]
+      }
+    ],
+    "charles street": [
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.3642923,
+          -71.0697887
+        ]
+      },
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.3643767,
+          -71.0697459
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3613963,
+          -71.0706247
+        ]
+      },
+      {
+        "name": "Fruit Street",
+        "class": "unclassified",
+        "coord": [
+          42.3625223,
+          -71.0706975
+        ]
+      },
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.3656295,
+          -71.0689427
+        ]
+      }
+    ],
+    "congress street": [
+      {
+        "name": "Merrimac Street",
+        "class": "secondary",
+        "coord": [
+          42.3630331,
+          -71.0597997
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.3630331,
+          -71.0597997
+        ]
+      }
+    ],
+    "emerson place": [
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.364021,
+          -71.0686124
+        ]
+      },
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.3641092,
+          -71.068579
+        ]
+      }
+    ],
+    "friend street": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3651114,
+          -71.0617504
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.3631886,
+          -71.0595814
+        ]
+      },
+      {
+        "name": "Valenti Way",
+        "class": "residential",
+        "coord": [
+          42.3639823,
+          -71.0604735
+        ]
+      }
+    ],
+    "fruit street": [
+      {
+        "name": "Charles Street",
+        "class": "trunk",
+        "coord": [
+          42.3625223,
+          -71.0706975
+        ]
+      },
+      {
+        "name": "North Grove Street",
+        "class": "residential",
+        "coord": [
+          42.362399,
+          -71.068631
+        ]
+      }
+    ],
+    "haverhill street": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3657102,
+          -71.0606251
+        ]
+      },
+      {
+        "name": "Legends Way",
+        "class": "unclassified",
+        "coord": [
+          42.3657102,
+          -71.0606251
+        ]
+      },
+      {
+        "name": "Valenti Way",
+        "class": "residential",
+        "coord": [
+          42.3646343,
+          -71.0594266
+        ]
+      }
+    ],
+    "hawkins street": [
+      {
+        "name": "Bowker Street",
+        "class": "unclassified",
+        "coord": [
+          42.3621182,
+          -71.0601173
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.36247,
+          -71.061744
+        ]
+      }
+    ],
+    "hawthorne place": [
+      {
+        "name": "William Cardinal O'Connell Way",
+        "class": "unclassified",
+        "coord": [
+          42.3634252,
+          -71.0665735
+        ]
+      }
+    ],
+    "john f. fitzgerald surface road": [
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.3637166,
+          -71.0584048
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.3638766,
+          -71.0584366
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3638766,
+          -71.0584366
+        ]
+      }
+    ],
+    "lancaster street": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3645067,
+          -71.0628913
+        ]
+      },
+      {
+        "name": "Merrimac Street",
+        "class": "secondary",
+        "coord": [
+          42.3635532,
+          -71.0620257
+        ]
+      },
+      {
+        "name": "Merrimac Street",
+        "class": "secondary",
+        "coord": [
+          42.3636457,
+          -71.0620504
+        ]
+      }
+    ],
+    "legends way": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3657102,
+          -71.0606251
+        ]
+      },
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3658006,
+          -71.0607134
+        ]
+      },
+      {
+        "name": "Haverhill Street",
+        "class": "residential",
+        "coord": [
+          42.3657102,
+          -71.0606251
+        ]
+      }
+    ],
+    "lomasney way": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3642207,
+          -71.0634334
+        ]
+      },
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3643325,
+          -71.0634818
+        ]
+      },
+      {
+        "name": "Martha Road",
+        "class": "secondary",
+        "coord": [
+          42.3655003,
+          -71.0646465
+        ]
+      },
+      {
+        "name": "Nashua Street",
+        "class": "primary",
+        "coord": [
+          42.3652837,
+          -71.0641329
+        ]
+      },
+      {
+        "name": "Nashua Street",
+        "class": "primary",
+        "coord": [
+          42.3655003,
+          -71.0646465
+        ]
+      },
+      {
+        "name": "Red Auerbach Way",
+        "class": "unclassified",
+        "coord": [
+          42.3651868,
+          -71.0643153
+        ]
+      },
+      {
+        "name": "Red Auerbach Way",
+        "class": "unclassified",
+        "coord": [
+          42.3652837,
+          -71.0641329
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.3642207,
+          -71.0634334
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.3645018,
+          -71.0634256
+        ]
+      }
+    ],
+    "longfellow bridge": [
+      {
+        "name": "Cambridge Street",
+        "class": "trunk",
+        "coord": [
+          42.3613373,
+          -71.0715491
+        ]
+      }
+    ],
+    "longfellow place": [
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.3633671,
+          -71.0636782
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.3634395,
+          -71.0636457
+        ]
+      }
+    ],
+    "lovejoy place": [
+      {
+        "name": "Lovejoy Wharf",
+        "class": "unclassified",
+        "coord": [
+          42.3665761,
+          -71.0601711
+        ]
+      }
+    ],
+    "lovejoy wharf": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.36621,
+          -71.0597921
+        ]
+      },
+      {
+        "name": "Lovejoy Place",
+        "class": "residential",
+        "coord": [
+          42.3665761,
+          -71.0601711
+        ]
+      }
+    ],
+    "lynde street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3612727,
+          -71.0643836
+        ]
+      }
+    ],
+    "martha road": [
+      {
+        "name": "Amy Court",
+        "class": "residential",
+        "coord": [
+          42.3660023,
+          -71.0661291
+        ]
+      },
+      {
+        "name": "Charles River Dam Road",
+        "class": "trunk",
+        "coord": [
+          42.3663901,
+          -71.0675857
+        ]
+      },
+      {
+        "name": "Lomasney Way",
+        "class": "primary",
+        "coord": [
+          42.3655003,
+          -71.0646465
+        ]
+      },
+      {
+        "name": "Nashua Street",
+        "class": "primary",
+        "coord": [
+          42.3655003,
+          -71.0646465
+        ]
+      },
+      {
+        "name": "Nashua Street",
+        "class": "primary",
+        "coord": [
+          42.3663901,
+          -71.0675857
+        ]
+      },
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.3663901,
+          -71.0675857
+        ]
+      },
+      {
+        "name": "Whittier Place",
+        "class": "residential",
+        "coord": [
+          42.3661353,
+          -71.0667662
+        ]
+      },
+      {
+        "name": "Whittier Place",
+        "class": "residential",
+        "coord": [
+          42.366288,
+          -71.0674801
+        ]
+      }
+    ],
+    "medford street": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3663813,
+          -71.059458
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3654618,
+          -71.0583951
+        ]
+      }
+    ],
+    "merrimac street": [
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3630331,
+          -71.0597997
+        ]
+      },
+      {
+        "name": "Lancaster Street",
+        "class": "residential",
+        "coord": [
+          42.3635532,
+          -71.0620257
+        ]
+      },
+      {
+        "name": "Lancaster Street",
+        "class": "residential",
+        "coord": [
+          42.3636457,
+          -71.0620504
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.3630331,
+          -71.0597997
+        ]
+      },
+      {
+        "name": "Portland Street",
+        "class": "secondary",
+        "coord": [
+          42.3632974,
+          -71.0607903
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.3639127,
+          -71.0634193
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.3639849,
+          -71.0633552
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.364005,
+          -71.0634328
+        ]
+      },
+      {
+        "name": "Valenti Way",
+        "class": "residential",
+        "coord": [
+          42.3633988,
+          -71.0614343
+        ]
+      },
+      {
+        "name": "Valenti Way",
+        "class": "residential",
+        "coord": [
+          42.3634598,
+          -71.0613347
+        ]
+      }
+    ],
+    "nashua street": [
+      {
+        "name": "Charles River Dam Road",
+        "class": "trunk",
+        "coord": [
+          42.3663901,
+          -71.0675857
+        ]
+      },
+      {
+        "name": "Charles River Dam Road",
+        "class": "trunk",
+        "coord": [
+          42.3664966,
+          -71.067624
+        ]
+      },
+      {
+        "name": "Lomasney Way",
+        "class": "primary",
+        "coord": [
+          42.3652837,
+          -71.0641329
+        ]
+      },
+      {
+        "name": "Lomasney Way",
+        "class": "primary",
+        "coord": [
+          42.3655003,
+          -71.0646465
+        ]
+      },
+      {
+        "name": "Martha Road",
+        "class": "secondary",
+        "coord": [
+          42.3655003,
+          -71.0646465
+        ]
+      },
+      {
+        "name": "Martha Road",
+        "class": "secondary",
+        "coord": [
+          42.3663901,
+          -71.0675857
+        ]
+      },
+      {
+        "name": "Red Auerbach Way",
+        "class": "unclassified",
+        "coord": [
+          42.3652837,
+          -71.0641329
+        ]
+      },
+      {
+        "name": "Storrow Drive",
+        "class": "primary",
+        "coord": [
+          42.3674019,
+          -71.0669469
+        ]
+      },
+      {
+        "name": "Storrow Drive",
+        "class": "trunk",
+        "coord": [
+          42.3663901,
+          -71.0675857
+        ]
+      }
+    ],
+    "new chardon street": [
+      {
+        "name": "Bowker Street",
+        "class": "unclassified",
+        "coord": [
+          42.3627357,
+          -71.0608897
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.361305,
+          -71.0628639
+        ]
+      },
+      {
+        "name": "Canal Street",
+        "class": "secondary",
+        "coord": [
+          42.3635598,
+          -71.0589889
+        ]
+      },
+      {
+        "name": "Congress Street",
+        "class": "secondary",
+        "coord": [
+          42.3630331,
+          -71.0597997
+        ]
+      },
+      {
+        "name": "Friend Street",
+        "class": "residential",
+        "coord": [
+          42.3631886,
+          -71.0595814
+        ]
+      },
+      {
+        "name": "Hawkins Street",
+        "class": "unclassified",
+        "coord": [
+          42.36247,
+          -71.061744
+        ]
+      },
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3637166,
+          -71.0584048
+        ]
+      },
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3638766,
+          -71.0584366
+        ]
+      },
+      {
+        "name": "Merrimac Street",
+        "class": "secondary",
+        "coord": [
+          42.3630331,
+          -71.0597997
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3638766,
+          -71.0584366
+        ]
+      }
+    ],
+    "north grove street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3611956,
+          -71.0687275
+        ]
+      },
+      {
+        "name": "Fruit Street",
+        "class": "unclassified",
+        "coord": [
+          42.362399,
+          -71.068631
+        ]
+      },
+      {
+        "name": "Parkman Street",
+        "class": "residential",
+        "coord": [
+          42.362179,
+          -71.0686534
+        ]
+      }
+    ],
+    "north washington street": [
+      {
+        "name": "Beverly Street",
+        "class": "residential",
+        "coord": [
+          42.3642805,
+          -71.0584462
+        ]
+      },
+      {
+        "name": "John F. Fitzgerald Surface Road",
+        "class": "primary",
+        "coord": [
+          42.3638766,
+          -71.0584366
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "residential",
+        "coord": [
+          42.3654618,
+          -71.0583951
+        ]
+      },
+      {
+        "name": "New Chardon Street",
+        "class": "primary",
+        "coord": [
+          42.3638766,
+          -71.0584366
+        ]
+      },
+      {
+        "name": "Thacher Street",
+        "class": "residential",
+        "coord": [
+          42.365242,
+          -71.058391
+        ]
+      },
+      {
+        "name": "Valenti Way",
+        "class": "residential",
+        "coord": [
+          42.365242,
+          -71.058391
+        ]
+      }
+    ],
+    "parkman street": [
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.3621936,
+          -71.0669926
+        ]
+      },
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.3621953,
+          -71.06687
+        ]
+      },
+      {
+        "name": "North Grove Street",
+        "class": "residential",
+        "coord": [
+          42.362179,
+          -71.0686534
+        ]
+      }
+    ],
+    "portland street": [
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3648143,
+          -71.0623107
+        ]
+      },
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3649032,
+          -71.0624074
+        ]
+      },
+      {
+        "name": "Merrimac Street",
+        "class": "secondary",
+        "coord": [
+          42.3632974,
+          -71.0607903
+        ]
+      },
+      {
+        "name": "Valenti Way",
+        "class": "residential",
+        "coord": [
+          42.3636516,
+          -71.0610118
+        ]
+      }
+    ],
+    "red auerbach way": [
+      {
+        "name": "Lomasney Way",
+        "class": "primary",
+        "coord": [
+          42.3651868,
+          -71.0643153
+        ]
+      },
+      {
+        "name": "Lomasney Way",
+        "class": "primary",
+        "coord": [
+          42.3652837,
+          -71.0641329
+        ]
+      },
+      {
+        "name": "Nashua Street",
+        "class": "primary",
+        "coord": [
+          42.3652837,
+          -71.0641329
+        ]
+      }
+    ],
+    "staniford street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3612876,
+          -71.0637704
+        ]
+      },
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3642207,
+          -71.0634334
+        ]
+      },
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3642757,
+          -71.0633292
+        ]
+      },
+      {
+        "name": "Causeway Street",
+        "class": "secondary",
+        "coord": [
+          42.3643976,
+          -71.0633591
+        ]
+      },
+      {
+        "name": "Lomasney Way",
+        "class": "primary",
+        "coord": [
+          42.3642207,
+          -71.0634334
+        ]
+      },
+      {
+        "name": "Lomasney Way",
+        "class": "primary",
+        "coord": [
+          42.3645018,
+          -71.0634256
+        ]
+      },
+      {
+        "name": "Longfellow Place",
+        "class": "residential",
+        "coord": [
+          42.3633671,
+          -71.0636782
+        ]
+      },
+      {
+        "name": "Longfellow Place",
+        "class": "residential",
+        "coord": [
+          42.3634395,
+          -71.0636457
+        ]
+      },
+      {
+        "name": "Merrimac Street",
+        "class": "secondary",
+        "coord": [
+          42.3639127,
+          -71.0634193
+        ]
+      },
+      {
+        "name": "Merrimac Street",
+        "class": "secondary",
+        "coord": [
+          42.3639849,
+          -71.0633552
+        ]
+      },
+      {
+        "name": "Merrimac Street",
+        "class": "secondary",
+        "coord": [
+          42.364005,
+          -71.0634328
+        ]
+      },
+      {
+        "name": "William Cardinal O'Connell Way",
+        "class": "unclassified",
+        "coord": [
+          42.3622216,
+          -71.0638628
+        ]
+      }
+    ],
+    "storrow drive": [
+      {
+        "name": "Charles River Dam Road",
+        "class": "trunk",
+        "coord": [
+          42.3663901,
+          -71.0675857
+        ]
+      },
+      {
+        "name": "Charles River Dam Road",
+        "class": "trunk",
+        "coord": [
+          42.3666799,
+          -71.0682662
+        ]
+      },
+      {
+        "name": "Charles River Dam Road",
+        "class": "trunk",
+        "coord": [
+          42.366731,
+          -71.0682093
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "trunk",
+        "coord": [
+          42.3656295,
+          -71.0689427
+        ]
+      },
+      {
+        "name": "Martha Road",
+        "class": "secondary",
+        "coord": [
+          42.3663901,
+          -71.0675857
+        ]
+      },
+      {
+        "name": "Nashua Street",
+        "class": "primary",
+        "coord": [
+          42.3663901,
+          -71.0675857
+        ]
+      },
+      {
+        "name": "Nashua Street",
+        "class": "primary",
+        "coord": [
+          42.3674019,
+          -71.0669469
+        ]
+      }
+    ],
+    "thacher street": [
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.365242,
+          -71.058391
+        ]
+      },
+      {
+        "name": "Valenti Way",
+        "class": "residential",
+        "coord": [
+          42.365242,
+          -71.058391
+        ]
+      }
+    ],
+    "valenti way": [
+      {
+        "name": "Beverly Street",
+        "class": "residential",
+        "coord": [
+          42.3648924,
+          -71.0589827
+        ]
+      },
+      {
+        "name": "Canal Street",
+        "class": "secondary",
+        "coord": [
+          42.3643481,
+          -71.0598847
+        ]
+      },
+      {
+        "name": "Friend Street",
+        "class": "residential",
+        "coord": [
+          42.3639823,
+          -71.0604735
+        ]
+      },
+      {
+        "name": "Haverhill Street",
+        "class": "residential",
+        "coord": [
+          42.3646343,
+          -71.0594266
+        ]
+      },
+      {
+        "name": "Merrimac Street",
+        "class": "secondary",
+        "coord": [
+          42.3633988,
+          -71.0614343
+        ]
+      },
+      {
+        "name": "Merrimac Street",
+        "class": "secondary",
+        "coord": [
+          42.3634598,
+          -71.0613347
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.365242,
+          -71.058391
+        ]
+      },
+      {
+        "name": "Portland Street",
+        "class": "secondary",
+        "coord": [
+          42.3636516,
+          -71.0610118
+        ]
+      },
+      {
+        "name": "Thacher Street",
+        "class": "residential",
+        "coord": [
+          42.365242,
+          -71.058391
+        ]
+      }
+    ],
+    "whittier place": [
+      {
+        "name": "Martha Road",
+        "class": "secondary",
+        "coord": [
+          42.3661353,
+          -71.0667662
+        ]
+      },
+      {
+        "name": "Martha Road",
+        "class": "secondary",
+        "coord": [
+          42.366288,
+          -71.0674801
+        ]
+      }
+    ],
+    "william cardinal o'connell way": [
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.3634214,
+          -71.0670306
+        ]
+      },
+      {
+        "name": "Blossom Street",
+        "class": "tertiary",
+        "coord": [
+          42.3634227,
+          -71.0669147
+        ]
+      },
+      {
+        "name": "Hawthorne Place",
+        "class": "residential",
+        "coord": [
+          42.3634252,
+          -71.0665735
+        ]
+      },
+      {
+        "name": "Staniford Street",
+        "class": "primary",
+        "coord": [
+          42.3622216,
+          -71.0638628
+        ]
+      }
+    ]
+  }
+}

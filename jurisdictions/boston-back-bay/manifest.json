@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-back-bay",
+  "display_name": "Back Bay",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.34217649300007,
+    -71.0916291,
+    42.35610219900008,
+    -71.069926
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 42616,
+      "sha256": "ac1adea507ae6dd7684c3c58996d8a2bc70fe2ed53150f9831d4a71d4a1d71eb"
+    },
+    "hydrants.csv": {
+      "size_bytes": 64814,
+      "sha256": "9315105bbccdcc6fdc2fc3d544ff666145e6c33157aaddf7391a88a5ea7d1e28"
+    }
+  }
+}

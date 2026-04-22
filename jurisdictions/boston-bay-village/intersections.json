@@ -1,0 +1,561 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-bay-village",
+  "generated_at": "2026-04-22T05:26:16Z",
+  "streets": {
+    "arlington street": [
+      {
+        "name": "Cortes Street",
+        "class": "tertiary",
+        "coord": [
+          42.3484671,
+          -71.0693143
+        ]
+      },
+      {
+        "name": "Isabella Street",
+        "class": "residential",
+        "coord": [
+          42.3487682,
+          -71.0694319
+        ]
+      },
+      {
+        "name": "Marginal Road",
+        "class": "secondary",
+        "coord": [
+          42.3480862,
+          -71.0691801
+        ]
+      },
+      {
+        "name": "Melrose Street",
+        "class": "residential",
+        "coord": [
+          42.3486256,
+          -71.0693539
+        ]
+      },
+      {
+        "name": "Piedmont Street",
+        "class": "residential",
+        "coord": [
+          42.3496552,
+          -71.0697317
+        ]
+      },
+      {
+        "name": "Stuart Street",
+        "class": "primary",
+        "coord": [
+          42.3501478,
+          -71.069926
+        ]
+      },
+      {
+        "name": "Winchester Street",
+        "class": "residential",
+        "coord": [
+          42.3493507,
+          -71.0696248
+        ]
+      }
+    ],
+    "bay street": [
+      {
+        "name": "Fayette Street",
+        "class": "residential",
+        "coord": [
+          42.3482717,
+          -71.0685421
+        ]
+      }
+    ],
+    "berkeley street": [
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3486588,
+          -71.0717915
+        ]
+      },
+      {
+        "name": "Cortes Street",
+        "class": "tertiary",
+        "coord": [
+          42.3482841,
+          -71.0716077
+        ]
+      }
+    ],
+    "broadway street": [
+      {
+        "name": "Melrose Street",
+        "class": "residential",
+        "coord": [
+          42.3496459,
+          -71.0669477
+        ]
+      },
+      {
+        "name": "Piedmont Street",
+        "class": "residential",
+        "coord": [
+          42.3500783,
+          -71.0673974
+        ]
+      },
+      {
+        "name": "Winchester Street",
+        "class": "residential",
+        "coord": [
+          42.3498708,
+          -71.0671724
+        ]
+      }
+    ],
+    "charles street south": [
+      {
+        "name": "Fayette Street",
+        "class": "residential",
+        "coord": [
+          42.3494475,
+          -71.0665066
+        ]
+      },
+      {
+        "name": "Jefferson Street",
+        "class": "residential",
+        "coord": [
+          42.3488144,
+          -71.0666142
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3488144,
+          -71.0666142
+        ]
+      }
+    ],
+    "church street": [
+      {
+        "name": "Fayette Street",
+        "class": "residential",
+        "coord": [
+          42.3486289,
+          -71.0679096
+        ]
+      },
+      {
+        "name": "Melrose Street",
+        "class": "residential",
+        "coord": [
+          42.3490875,
+          -71.068205
+        ]
+      },
+      {
+        "name": "Piedmont Street",
+        "class": "residential",
+        "coord": [
+          42.3498743,
+          -71.0684781
+        ]
+      },
+      {
+        "name": "Shawmut Street",
+        "class": "residential",
+        "coord": [
+          42.3502203,
+          -71.0685726
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3482844,
+          -71.0675255
+        ]
+      },
+      {
+        "name": "Winchester Street",
+        "class": "residential",
+        "coord": [
+          42.3496133,
+          -71.0684108
+        ]
+      }
+    ],
+    "cocoanut grove lane": [
+      {
+        "name": "Piedmont Street",
+        "class": "residential",
+        "coord": [
+          42.3499797,
+          -71.0679242
+        ]
+      },
+      {
+        "name": "Shawmut Street",
+        "class": "residential",
+        "coord": [
+          42.3503071,
+          -71.0680439
+        ]
+      }
+    ],
+    "columbus avenue": [
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3486588,
+          -71.0717915
+        ]
+      },
+      {
+        "name": "Isabella Street",
+        "class": "residential",
+        "coord": [
+          42.3488239,
+          -71.0715805
+        ]
+      },
+      {
+        "name": "Stuart Street",
+        "class": "primary",
+        "coord": [
+          42.350306,
+          -71.0693285
+        ]
+      }
+    ],
+    "cortes street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3484671,
+          -71.0693143
+        ]
+      },
+      {
+        "name": "Berkeley Street",
+        "class": "primary",
+        "coord": [
+          42.3482841,
+          -71.0716077
+        ]
+      }
+    ],
+    "edgerly place": [
+      {
+        "name": "Winchester Street",
+        "class": "residential",
+        "coord": [
+          42.3494709,
+          -71.0690461
+        ]
+      }
+    ],
+    "fayette street": [
+      {
+        "name": "Bay Street",
+        "class": "residential",
+        "coord": [
+          42.3482717,
+          -71.0685421
+        ]
+      },
+      {
+        "name": "Charles Street South",
+        "class": "primary",
+        "coord": [
+          42.3494475,
+          -71.0665066
+        ]
+      },
+      {
+        "name": "Church Street",
+        "class": "residential",
+        "coord": [
+          42.3486289,
+          -71.0679096
+        ]
+      },
+      {
+        "name": "Jefferson Street",
+        "class": "residential",
+        "coord": [
+          42.3491443,
+          -71.0670189
+        ]
+      },
+      {
+        "name": "Marginal Road",
+        "class": "secondary",
+        "coord": [
+          42.3480498,
+          -71.0686616
+        ]
+      }
+    ],
+    "isabella street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3487682,
+          -71.0694319
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "primary",
+        "coord": [
+          42.3488239,
+          -71.0715805
+        ]
+      }
+    ],
+    "jefferson street": [
+      {
+        "name": "Charles Street South",
+        "class": "primary",
+        "coord": [
+          42.3488144,
+          -71.0666142
+        ]
+      },
+      {
+        "name": "Fayette Street",
+        "class": "residential",
+        "coord": [
+          42.3491443,
+          -71.0670189
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3488144,
+          -71.0666142
+        ]
+      }
+    ],
+    "marginal road": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3480862,
+          -71.0691801
+        ]
+      },
+      {
+        "name": "Fayette Street",
+        "class": "residential",
+        "coord": [
+          42.3480498,
+          -71.0686616
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "primary",
+        "coord": [
+          42.3479991,
+          -71.0680171
+        ]
+      }
+    ],
+    "melrose street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3486256,
+          -71.0693539
+        ]
+      },
+      {
+        "name": "Broadway Street",
+        "class": "residential",
+        "coord": [
+          42.3496459,
+          -71.0669477
+        ]
+      },
+      {
+        "name": "Church Street",
+        "class": "residential",
+        "coord": [
+          42.3490875,
+          -71.068205
+        ]
+      }
+    ],
+    "piedmont street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3496552,
+          -71.0697317
+        ]
+      },
+      {
+        "name": "Broadway Street",
+        "class": "residential",
+        "coord": [
+          42.3500783,
+          -71.0673974
+        ]
+      },
+      {
+        "name": "Church Street",
+        "class": "residential",
+        "coord": [
+          42.3498743,
+          -71.0684781
+        ]
+      },
+      {
+        "name": "Cocoanut Grove Lane",
+        "class": "residential",
+        "coord": [
+          42.3499797,
+          -71.0679242
+        ]
+      }
+    ],
+    "shawmut street": [
+      {
+        "name": "Church Street",
+        "class": "residential",
+        "coord": [
+          42.3502203,
+          -71.0685726
+        ]
+      },
+      {
+        "name": "Cocoanut Grove Lane",
+        "class": "residential",
+        "coord": [
+          42.3503071,
+          -71.0680439
+        ]
+      }
+    ],
+    "south cedar place": [
+      {
+        "name": "Winchester Street",
+        "class": "residential",
+        "coord": [
+          42.3497153,
+          -71.0678943
+        ]
+      }
+    ],
+    "stuart street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3501478,
+          -71.069926
+        ]
+      },
+      {
+        "name": "Columbus Avenue",
+        "class": "residential",
+        "coord": [
+          42.350306,
+          -71.0693285
+        ]
+      }
+    ],
+    "tremont street": [
+      {
+        "name": "Charles Street South",
+        "class": "primary",
+        "coord": [
+          42.3488144,
+          -71.0666142
+        ]
+      },
+      {
+        "name": "Church Street",
+        "class": "residential",
+        "coord": [
+          42.3482844,
+          -71.0675255
+        ]
+      },
+      {
+        "name": "Jefferson Street",
+        "class": "residential",
+        "coord": [
+          42.3488144,
+          -71.0666142
+        ]
+      },
+      {
+        "name": "Marginal Road",
+        "class": "secondary",
+        "coord": [
+          42.3479991,
+          -71.0680171
+        ]
+      }
+    ],
+    "winchester street": [
+      {
+        "name": "Arlington Street",
+        "class": "primary",
+        "coord": [
+          42.3493507,
+          -71.0696248
+        ]
+      },
+      {
+        "name": "Broadway Street",
+        "class": "residential",
+        "coord": [
+          42.3498708,
+          -71.0671724
+        ]
+      },
+      {
+        "name": "Church Street",
+        "class": "residential",
+        "coord": [
+          42.3496133,
+          -71.0684108
+        ]
+      },
+      {
+        "name": "Edgerly Place",
+        "class": "residential",
+        "coord": [
+          42.3494709,
+          -71.0690461
+        ]
+      },
+      {
+        "name": "South Cedar Place",
+        "class": "residential",
+        "coord": [
+          42.3497153,
+          -71.0678943
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-downtown",
+  "display_name": "Downtown",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.34572632900006,
+    -71.0706987,
+    42.3638122,
+    -71.04834615199997
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 91952,
+      "sha256": "c8da1af5a097726aa279d2227d0b10beb4d6e91cbabcd5ca559287d9e4684337"
+    },
+    "hydrants.csv": {
+      "size_bytes": 124033,
+      "sha256": "02d48343bb1344deac5a64be4bebe084f97487bf756747e8deec513e5f70b395"
+    }
+  }
+}

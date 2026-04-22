@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-leather-district",
+  "display_name": "Leather District",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3495494,
+    -71.0593659,
+    42.3523844,
+    -71.05616538299995
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 5380,
+      "sha256": "71efd9670177dc84c6f1f545cad0dc3d563f4fe483d8ab56ee323a80da2e4bb1"
+    },
+    "hydrants.csv": {
+      "size_bytes": 11228,
+      "sha256": "5e30ba80d79ebe612cdda4777a9cd7c244a9cd2b78395e5bca3e418d0d6c6f4a"
+    }
+  }
+}

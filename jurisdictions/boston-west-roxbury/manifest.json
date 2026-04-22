@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-west-roxbury",
+  "display_name": "West Roxbury",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.2534053,
+    -71.18000262299995,
+    42.303018344000066,
+    -71.12876
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 279422,
+      "sha256": "03a7e3023713067cffd9e0a39e118419596b0c9d192ac6990667adf878861672"
+    },
+    "hydrants.csv": {
+      "size_bytes": 351703,
+      "sha256": "5b27252c3da66c4bfe1c4b3ca01efce9a3acd3f97e3c8938bb96d0d9409c2e1b"
+    }
+  }
+}
