@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-ma",
+  "display_name": "Boston",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.2322283,
+    -71.1800026,
+    42.3948293,
+    -70.9575638
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 3252069,
+      "sha256": "7aa40fe5423c74da754fa816656074b0915cb12bea1437ec9ae21e8936a4bd77"
+    },
+    "hydrants.csv": {
+      "size_bytes": 4077871,
+      "sha256": "eeda9ccd4d7b868b570a8dee4b90fba461ff0aa6790a47197ff6b2b6202af238"
+    }
+  }
+}

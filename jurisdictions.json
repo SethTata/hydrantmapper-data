@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-20T02:36:46Z",
+  "generated_at": "2026-04-22T04:23:22Z",
   "jurisdictions": [
+    {
+      "slug": "boston-ma",
+      "display_name": "Boston",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.2322283,
+        -71.1800026,
+        42.3948293,
+        -70.9575638
+      ],
+      "has_hydrants": true
+    },
     {
       "slug": "chelsea-ma",
       "display_name": "Chelsea",
