@@ -1,0 +1,6227 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-charlestown",
+  "generated_at": "2026-04-22T05:12:08Z",
+  "streets": {
+    "adams street": [
+      {
+        "name": "Chestnut Street",
+        "class": "residential",
+        "coord": [
+          42.3742804,
+          -71.0589096
+        ]
+      },
+      {
+        "name": "Common Street",
+        "class": "residential",
+        "coord": [
+          42.3743886,
+          -71.0593935
+        ]
+      },
+      {
+        "name": "Lowney Way",
+        "class": "residential",
+        "coord": [
+          42.3743502,
+          -71.0583299
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "residential",
+        "coord": [
+          42.3748097,
+          -71.0602051
+        ]
+      }
+    ],
+    "albion place": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3807845,
+          -71.0704467
+        ]
+      }
+    ],
+    "alford street": [
+      {
+        "name": "Arlington Avenue",
+        "class": "residential",
+        "coord": [
+          42.3862557,
+          -71.0731139
+        ]
+      },
+      {
+        "name": "Broadway",
+        "class": "primary",
+        "coord": [
+          42.3942712,
+          -71.0674386
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3839834,
+          -71.0739132
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3844828,
+          -71.0739656
+        ]
+      },
+      {
+        "name": "Dexter Street",
+        "class": "tertiary",
+        "coord": [
+          42.3942712,
+          -71.0674386
+        ]
+      },
+      {
+        "name": "Maffa Way",
+        "class": "primary",
+        "coord": [
+          42.3839834,
+          -71.0739132
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "primary",
+        "coord": [
+          42.3847426,
+          -71.073839
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.384094,
+          -71.072968
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3843682,
+          -71.0728342
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3839193,
+          -71.0738144
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3839433,
+          -71.0731579
+        ]
+      },
+      {
+        "name": "Sullivan Square Underpass",
+        "class": "primary",
+        "coord": [
+          42.3873084,
+          -71.0723278
+        ]
+      },
+      {
+        "name": "Sullivan Square Underpass",
+        "class": "primary",
+        "coord": [
+          42.387513,
+          -71.072404
+        ]
+      },
+      {
+        "name": "West Street",
+        "class": "residential",
+        "coord": [
+          42.3850981,
+          -71.0736888
+        ]
+      }
+    ],
+    "allston street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3796632,
+          -71.0640779
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3813071,
+          -71.0628514
+        ]
+      }
+    ],
+    "arlington avenue": [
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.3862557,
+          -71.0731139
+        ]
+      },
+      {
+        "name": "Beacham Street",
+        "class": "residential",
+        "coord": [
+          42.38669,
+          -71.0738619
+        ]
+      },
+      {
+        "name": "Dorrance Street",
+        "class": "residential",
+        "coord": [
+          42.3872222,
+          -71.0748538
+        ]
+      },
+      {
+        "name": "Sherman Street",
+        "class": "residential",
+        "coord": [
+          42.3879559,
+          -71.076147
+        ]
+      }
+    ],
+    "armory street": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3810059,
+          -71.0706668
+        ]
+      }
+    ],
+    "arrow street": [
+      {
+        "name": "Lynde Street",
+        "class": "residential",
+        "coord": [
+          42.3725878,
+          -71.0645102
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "residential",
+        "coord": [
+          42.3727335,
+          -71.0641329
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "residential",
+        "coord": [
+          42.3727335,
+          -71.0641329
+        ]
+      }
+    ],
+    "auburn street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3818916,
+          -71.0685265
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3802933,
+          -71.0699707
+        ]
+      },
+      {
+        "name": "Middlesex Street",
+        "class": "residential",
+        "coord": [
+          42.3802933,
+          -71.0699707
+        ]
+      },
+      {
+        "name": "Russell Street",
+        "class": "residential",
+        "coord": [
+          42.3812156,
+          -71.0691527
+        ]
+      }
+    ],
+    "austin street": [
+      {
+        "name": "Green Street",
+        "class": "residential",
+        "coord": [
+          42.3755529,
+          -71.0644551
+        ]
+      },
+      {
+        "name": "Lawrence Street",
+        "class": "residential",
+        "coord": [
+          42.3749852,
+          -71.0654436
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3755529,
+          -71.0644551
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3741271,
+          -71.0679169
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3742209,
+          -71.067975
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3742373,
+          -71.0675349
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3743468,
+          -71.0675987
+        ]
+      },
+      {
+        "name": "Seminary Street",
+        "class": "residential",
+        "coord": [
+          42.3751921,
+          -71.0649067
+        ]
+      }
+    ],
+    "baldwin street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.382547,
+          -71.069869
+        ]
+      },
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3825702,
+          -71.0699161
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3813008,
+          -71.0709636
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3837832,
+          -71.0690109
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3809351,
+          -71.0715394
+        ]
+      }
+    ],
+    "bartlett street": [
+      {
+        "name": "Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.3772727,
+          -71.0617345
+        ]
+      },
+      {
+        "name": "Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3771559,
+          -71.0612322
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "residential",
+        "coord": [
+          42.377454,
+          -71.0621965
+        ]
+      },
+      {
+        "name": "Elm Street",
+        "class": "residential",
+        "coord": [
+          42.3780013,
+          -71.0633516
+        ]
+      },
+      {
+        "name": "Green Street",
+        "class": "residential",
+        "coord": [
+          42.3776608,
+          -71.0626179
+        ]
+      },
+      {
+        "name": "Monument Square",
+        "class": "residential",
+        "coord": [
+          42.3771559,
+          -71.0612322
+        ]
+      },
+      {
+        "name": "Pearl Street",
+        "class": "residential",
+        "coord": [
+          42.3785271,
+          -71.0644706
+        ]
+      },
+      {
+        "name": "School Street",
+        "class": "residential",
+        "coord": [
+          42.3782548,
+          -71.0638966
+        ]
+      },
+      {
+        "name": "Sullivan Street",
+        "class": "residential",
+        "coord": [
+          42.3788831,
+          -71.0652329
+        ]
+      },
+      {
+        "name": "Trenton Street",
+        "class": "residential",
+        "coord": [
+          42.377427,
+          -71.0621307
+        ]
+      },
+      {
+        "name": "Walker Street",
+        "class": "residential",
+        "coord": [
+          42.379362,
+          -71.06665
+        ]
+      }
+    ],
+    "baxter road": [
+      {
+        "name": "Fifth Street",
+        "class": "residential",
+        "coord": [
+          42.3744377,
+          -71.0551697
+        ]
+      },
+      {
+        "name": "First Avenue",
+        "class": "residential",
+        "coord": [
+          42.3744377,
+          -71.0551697
+        ]
+      }
+    ],
+    "beacham street": [
+      {
+        "name": "Arlington Avenue",
+        "class": "residential",
+        "coord": [
+          42.38669,
+          -71.0738619
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.383626,
+          -71.0752489
+        ]
+      },
+      {
+        "name": "Maffa Way",
+        "class": "primary",
+        "coord": [
+          42.3846317,
+          -71.0751865
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "primary",
+        "coord": [
+          42.3850645,
+          -71.0750327
+        ]
+      },
+      {
+        "name": "West Street",
+        "class": "residential",
+        "coord": [
+          42.3857392,
+          -71.074538
+        ]
+      }
+    ],
+    "belmont street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3805614,
+          -71.0658655
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3821032,
+          -71.0647293
+        ]
+      }
+    ],
+    "brighton street": [
+      {
+        "name": "Broadway",
+        "class": "primary",
+        "coord": [
+          42.3858575,
+          -71.0775911
+        ]
+      },
+      {
+        "name": "Caldwell Street",
+        "class": "residential",
+        "coord": [
+          42.3855117,
+          -71.0775572
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3824982,
+          -71.0785172
+        ]
+      },
+      {
+        "name": "Maffa Way",
+        "class": "primary",
+        "coord": [
+          42.3858575,
+          -71.0775911
+        ]
+      },
+      {
+        "name": "Perkins Street",
+        "class": "residential",
+        "coord": [
+          42.383951,
+          -71.077639
+        ]
+      }
+    ],
+    "broadway": [
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.3942712,
+          -71.0674386
+        ]
+      },
+      {
+        "name": "Brighton Street",
+        "class": "residential",
+        "coord": [
+          42.3858575,
+          -71.0775911
+        ]
+      },
+      {
+        "name": "Dexter Street",
+        "class": "tertiary",
+        "coord": [
+          42.3942712,
+          -71.0674386
+        ]
+      },
+      {
+        "name": "Maffa Way",
+        "class": "primary",
+        "coord": [
+          42.3858575,
+          -71.0775911
+        ]
+      }
+    ],
+    "bunker hill court": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3809425,
+          -71.0666291
+        ]
+      }
+    ],
+    "bunker hill industrial park": [
+      {
+        "name": "Half Pint Way",
+        "class": "unclassified",
+        "coord": [
+          42.3790881,
+          -71.0715662
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3794221,
+          -71.0710652
+        ]
+      }
+    ],
+    "bunker hill street": [
+      {
+        "name": "Allston Street",
+        "class": "residential",
+        "coord": [
+          42.3796632,
+          -71.0640779
+        ]
+      },
+      {
+        "name": "Auburn Street",
+        "class": "residential",
+        "coord": [
+          42.3818916,
+          -71.0685265
+        ]
+      },
+      {
+        "name": "Baldwin Street",
+        "class": "residential",
+        "coord": [
+          42.382547,
+          -71.069869
+        ]
+      },
+      {
+        "name": "Baldwin Street",
+        "class": "residential",
+        "coord": [
+          42.3825702,
+          -71.0699161
+        ]
+      },
+      {
+        "name": "Belmont Street",
+        "class": "residential",
+        "coord": [
+          42.3805614,
+          -71.0658655
+        ]
+      },
+      {
+        "name": "Bunker Hill Court",
+        "class": "residential",
+        "coord": [
+          42.3809425,
+          -71.0666291
+        ]
+      },
+      {
+        "name": "Chappie Street",
+        "class": "residential",
+        "coord": [
+          42.3822667,
+          -71.0692837
+        ]
+      },
+      {
+        "name": "Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3783094,
+          -71.0606246
+        ]
+      },
+      {
+        "name": "Cook Street",
+        "class": "residential",
+        "coord": [
+          42.3798663,
+          -71.0644891
+        ]
+      },
+      {
+        "name": "Elm Street",
+        "class": "residential",
+        "coord": [
+          42.3790024,
+          -71.0626297
+        ]
+      },
+      {
+        "name": "Ferrin Street",
+        "class": "residential",
+        "coord": [
+          42.3776564,
+          -71.0587367
+        ]
+      },
+      {
+        "name": "Green Street",
+        "class": "residential",
+        "coord": [
+          42.3787067,
+          -71.0617859
+        ]
+      },
+      {
+        "name": "Hunter Street",
+        "class": "residential",
+        "coord": [
+          42.3763005,
+          -71.0566482
+        ]
+      },
+      {
+        "name": "Lexington Street",
+        "class": "residential",
+        "coord": [
+          42.3777848,
+          -71.0591076
+        ]
+      },
+      {
+        "name": "Lowney Way",
+        "class": "residential",
+        "coord": [
+          42.3759482,
+          -71.0562807
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3834148,
+          -71.0716132
+        ]
+      },
+      {
+        "name": "Mead Street",
+        "class": "residential",
+        "coord": [
+          42.3812166,
+          -71.0671812
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3834148,
+          -71.0716132
+        ]
+      },
+      {
+        "name": "Monument Street",
+        "class": "residential",
+        "coord": [
+          42.3780519,
+          -71.0598651
+        ]
+      },
+      {
+        "name": "Moulton Street",
+        "class": "residential",
+        "coord": [
+          42.3765583,
+          -71.0568408
+        ]
+      },
+      {
+        "name": "Mystic Street",
+        "class": "residential",
+        "coord": [
+          42.3791877,
+          -71.063126
+        ]
+      },
+      {
+        "name": "North Mead Street",
+        "class": "residential",
+        "coord": [
+          42.3811629,
+          -71.0670741
+        ]
+      },
+      {
+        "name": "Pearl Street",
+        "class": "residential",
+        "coord": [
+          42.3794369,
+          -71.0636222
+        ]
+      },
+      {
+        "name": "Pearl Street",
+        "class": "residential",
+        "coord": [
+          42.3794524,
+          -71.0636537
+        ]
+      },
+      {
+        "name": "Polk Street",
+        "class": "residential",
+        "coord": [
+          42.37864,
+          -71.061582
+        ]
+      },
+      {
+        "name": "Sackville Street",
+        "class": "residential",
+        "coord": [
+          42.380298,
+          -71.065339
+        ]
+      },
+      {
+        "name": "Saint Martin Street",
+        "class": "residential",
+        "coord": [
+          42.3819435,
+          -71.0686322
+        ]
+      },
+      {
+        "name": "School House Court",
+        "class": "residential",
+        "coord": [
+          42.3828315,
+          -71.0704442
+        ]
+      },
+      {
+        "name": "School Street",
+        "class": "residential",
+        "coord": [
+          42.3792196,
+          -71.063196
+        ]
+      },
+      {
+        "name": "Short Street",
+        "class": "residential",
+        "coord": [
+          42.3828824,
+          -71.0705488
+        ]
+      },
+      {
+        "name": "Sullivan Street",
+        "class": "residential",
+        "coord": [
+          42.3798663,
+          -71.0644891
+        ]
+      },
+      {
+        "name": "Trenton Street",
+        "class": "residential",
+        "coord": [
+          42.3785275,
+          -71.0612601
+        ]
+      },
+      {
+        "name": "Tufts Street",
+        "class": "residential",
+        "coord": [
+          42.3770842,
+          -71.0570587
+        ]
+      },
+      {
+        "name": "Vine Street",
+        "class": "secondary",
+        "coord": [
+          42.3770842,
+          -71.0570587
+        ]
+      }
+    ],
+    "caldwell street": [
+      {
+        "name": "Brighton Street",
+        "class": "residential",
+        "coord": [
+          42.3855117,
+          -71.0775572
+        ]
+      },
+      {
+        "name": "Maffa Way",
+        "class": "primary",
+        "coord": [
+          42.3857866,
+          -71.077337
+        ]
+      },
+      {
+        "name": "Perkins Street",
+        "class": "residential",
+        "coord": [
+          42.384219,
+          -71.0784757
+        ]
+      }
+    ],
+    "cambridge street": [
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.3839834,
+          -71.0739132
+        ]
+      },
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.3844828,
+          -71.0739656
+        ]
+      },
+      {
+        "name": "Beacham Street",
+        "class": "secondary",
+        "coord": [
+          42.383626,
+          -71.0752489
+        ]
+      },
+      {
+        "name": "Brighton Street",
+        "class": "residential",
+        "coord": [
+          42.3824982,
+          -71.0785172
+        ]
+      },
+      {
+        "name": "Carter Street",
+        "class": "residential",
+        "coord": [
+          42.3823385,
+          -71.0792417
+        ]
+      },
+      {
+        "name": "Maffa Way",
+        "class": "primary",
+        "coord": [
+          42.3839834,
+          -71.0739132
+        ]
+      },
+      {
+        "name": "Maffa Way",
+        "class": "primary",
+        "coord": [
+          42.3840436,
+          -71.0743096
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "residential",
+        "coord": [
+          42.3823008,
+          -71.079586
+        ]
+      },
+      {
+        "name": "Spice Street",
+        "class": "residential",
+        "coord": [
+          42.3835702,
+          -71.0753958
+        ]
+      },
+      {
+        "name": "Stark Street",
+        "class": "residential",
+        "coord": [
+          42.3822865,
+          -71.0797425
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3821785,
+          -71.0806813
+        ]
+      }
+    ],
+    "carney court": [
+      {
+        "name": "Walford Way",
+        "class": "residential",
+        "coord": [
+          42.3791446,
+          -71.0597039
+        ]
+      },
+      {
+        "name": "Walford Way",
+        "class": "residential",
+        "coord": [
+          42.3793086,
+          -71.0601044
+        ]
+      }
+    ],
+    "carter street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3823385,
+          -71.0792417
+        ]
+      },
+      {
+        "name": "Roland Street",
+        "class": "residential",
+        "coord": [
+          42.38176,
+          -71.079126
+        ]
+      }
+    ],
+    "cedar street": [
+      {
+        "name": "Bartlett Street",
+        "class": "residential",
+        "coord": [
+          42.3772727,
+          -71.0617345
+        ]
+      },
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.3761317,
+          -71.0623575
+        ]
+      },
+      {
+        "name": "Laurel Street",
+        "class": "residential",
+        "coord": [
+          42.376784,
+          -71.0620005
+        ]
+      }
+    ],
+    "chappie street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3822667,
+          -71.0692837
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3835978,
+          -71.0682745
+        ]
+      }
+    ],
+    "charbonnier street": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.381491,
+          -71.071132
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3824719,
+          -71.071701
+        ]
+      }
+    ],
+    "charles river avenue": [
+      {
+        "name": "Constitution Road",
+        "class": "unclassified",
+        "coord": [
+          42.3708688,
+          -71.0610292
+        ]
+      },
+      {
+        "name": "Warren Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3708688,
+          -71.0610292
+        ]
+      }
+    ],
+    "charles street": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3827058,
+          -71.0717808
+        ]
+      },
+      {
+        "name": "School House Court",
+        "class": "residential",
+        "coord": [
+          42.382755,
+          -71.0704935
+        ]
+      }
+    ],
+    "chelsea street": [
+      {
+        "name": "City Square",
+        "class": "secondary",
+        "coord": [
+          42.3718036,
+          -71.0611122
+        ]
+      },
+      {
+        "name": "Constitution Road",
+        "class": "residential",
+        "coord": [
+          42.3736891,
+          -71.0583888
+        ]
+      },
+      {
+        "name": "Constitution Road",
+        "class": "residential",
+        "coord": [
+          42.3737576,
+          -71.0583096
+        ]
+      },
+      {
+        "name": "Fifth Street",
+        "class": "residential",
+        "coord": [
+          42.3753085,
+          -71.0562687
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3784285,
+          -71.0529449
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3709866,
+          -71.0620743
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3710472,
+          -71.0622234
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3711038,
+          -71.0619027
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.371163,
+          -71.0620335
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3709866,
+          -71.0620743
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3711038,
+          -71.0619027
+        ]
+      },
+      {
+        "name": "Sixteenth Street",
+        "class": "residential",
+        "coord": [
+          42.3794555,
+          -71.0520588
+        ]
+      },
+      {
+        "name": "Terminal Street",
+        "class": "secondary",
+        "coord": [
+          42.3808928,
+          -71.0516637
+        ]
+      },
+      {
+        "name": "Thirteenth Street",
+        "class": "residential",
+        "coord": [
+          42.3787816,
+          -71.0525904
+        ]
+      },
+      {
+        "name": "Vine Street",
+        "class": "secondary",
+        "coord": [
+          42.376225,
+          -71.055231
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "secondary",
+        "coord": [
+          42.3722262,
+          -71.0604775
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "unclassified",
+        "coord": [
+          42.3721283,
+          -71.0604126
+        ]
+      }
+    ],
+    "chestnut street": [
+      {
+        "name": "Adams Street",
+        "class": "residential",
+        "coord": [
+          42.3742804,
+          -71.0589096
+        ]
+      },
+      {
+        "name": "Lowney Way",
+        "class": "residential",
+        "coord": [
+          42.3738822,
+          -71.0587827
+        ]
+      },
+      {
+        "name": "Monument Square",
+        "class": "residential",
+        "coord": [
+          42.3760886,
+          -71.0600037
+        ]
+      }
+    ],
+    "church court": [
+      {
+        "name": "Warren Street",
+        "class": "secondary",
+        "coord": [
+          42.3751015,
+          -71.0636901
+        ]
+      }
+    ],
+    "city square": [
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3718036,
+          -71.0611122
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.371732,
+          -71.06241
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3722101,
+          -71.0619496
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3714436,
+          -71.062697
+        ]
+      },
+      {
+        "name": "Park Street",
+        "class": "secondary",
+        "coord": [
+          42.3720555,
+          -71.0616045
+        ]
+      }
+    ],
+    "clinton place": [
+      {
+        "name": "Perkins Street",
+        "class": "residential",
+        "coord": [
+          42.383805,
+          -71.07722
+        ]
+      }
+    ],
+    "common street": [
+      {
+        "name": "Adams Street",
+        "class": "residential",
+        "coord": [
+          42.3743886,
+          -71.0593935
+        ]
+      },
+      {
+        "name": "Park Street",
+        "class": "residential",
+        "coord": [
+          42.3738859,
+          -71.0603114
+        ]
+      },
+      {
+        "name": "Putnam Street",
+        "class": "residential",
+        "coord": [
+          42.3740233,
+          -71.0600531
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "residential",
+        "coord": [
+          42.374298,
+          -71.060789
+        ]
+      }
+    ],
+    "concord street": [
+      {
+        "name": "Bartlett Street",
+        "class": "residential",
+        "coord": [
+          42.3771559,
+          -71.0612322
+        ]
+      },
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3783094,
+          -71.0606246
+        ]
+      },
+      {
+        "name": "Monument Square",
+        "class": "residential",
+        "coord": [
+          42.3771559,
+          -71.0612322
+        ]
+      }
+    ],
+    "constellation wharf": [
+      {
+        "name": "Ninth Street",
+        "class": "residential",
+        "coord": [
+          42.374969,
+          -71.0508034
+        ]
+      }
+    ],
+    "constitution plaza": [
+      {
+        "name": "Constitution Road",
+        "class": "residential",
+        "coord": [
+          42.3717093,
+          -71.060138
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "unclassified",
+        "coord": [
+          42.3717093,
+          -71.060138
+        ]
+      }
+    ],
+    "constitution road": [
+      {
+        "name": "Charles River Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3708688,
+          -71.0610292
+        ]
+      },
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3736891,
+          -71.0583888
+        ]
+      },
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3737576,
+          -71.0583096
+        ]
+      },
+      {
+        "name": "Constitution Plaza",
+        "class": "unclassified",
+        "coord": [
+          42.3717093,
+          -71.060138
+        ]
+      },
+      {
+        "name": "Warren Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3708688,
+          -71.0610292
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "unclassified",
+        "coord": [
+          42.3717093,
+          -71.060138
+        ]
+      }
+    ],
+    "cook street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3798663,
+          -71.0644891
+        ]
+      },
+      {
+        "name": "Hill Street",
+        "class": "residential",
+        "coord": [
+          42.3808489,
+          -71.0637514
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3814878,
+          -71.0632717
+        ]
+      },
+      {
+        "name": "Sheafe Street",
+        "class": "residential",
+        "coord": [
+          42.3803082,
+          -71.0641563
+        ]
+      },
+      {
+        "name": "Sullivan Street",
+        "class": "residential",
+        "coord": [
+          42.3798663,
+          -71.0644891
+        ]
+      }
+    ],
+    "cordis street": [
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.3761636,
+          -71.0624572
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "secondary",
+        "coord": [
+          42.3747077,
+          -71.0630975
+        ]
+      }
+    ],
+    "corey street": [
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3791238,
+          -71.0559036
+        ]
+      },
+      {
+        "name": "Moulton Street",
+        "class": "residential",
+        "coord": [
+          42.3770891,
+          -71.0563485
+        ]
+      },
+      {
+        "name": "Samuel Morse Way",
+        "class": "residential",
+        "coord": [
+          42.3778528,
+          -71.0561655
+        ]
+      },
+      {
+        "name": "Walford Way",
+        "class": "residential",
+        "coord": [
+          42.3784031,
+          -71.0560503
+        ]
+      }
+    ],
+    "crescent street": [
+      {
+        "name": "Hadley Street",
+        "class": "residential",
+        "coord": [
+          42.3829169,
+          -71.0797709
+        ]
+      },
+      {
+        "name": "Roland Street",
+        "class": "residential",
+        "coord": [
+          42.3815243,
+          -71.080693
+        ]
+      },
+      {
+        "name": "Roland Street",
+        "class": "residential",
+        "coord": [
+          42.3815298,
+          -71.0806541
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3821495,
+          -71.0808776
+        ]
+      }
+    ],
+    "cross street": [
+      {
+        "name": "Bartlett Street",
+        "class": "residential",
+        "coord": [
+          42.377454,
+          -71.0621965
+        ]
+      },
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.376326,
+          -71.0629167
+        ]
+      }
+    ],
+    "d street": [
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3831195,
+          -71.0732747
+        ]
+      },
+      {
+        "name": "Spice Street",
+        "class": "residential",
+        "coord": [
+          42.3824068,
+          -71.0744527
+        ]
+      }
+    ],
+    "decatur street": [
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3786983,
+          -71.0534672
+        ]
+      },
+      {
+        "name": "Samuel Morse Way",
+        "class": "residential",
+        "coord": [
+          42.3774059,
+          -71.0547817
+        ]
+      },
+      {
+        "name": "Vine Street",
+        "class": "secondary",
+        "coord": [
+          42.376509,
+          -71.05571
+        ]
+      },
+      {
+        "name": "Walford Way",
+        "class": "residential",
+        "coord": [
+          42.3779016,
+          -71.0542731
+        ]
+      }
+    ],
+    "devens street": [
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.3738727,
+          -71.0632879
+        ]
+      },
+      {
+        "name": "Prescott Street",
+        "class": "residential",
+        "coord": [
+          42.3738727,
+          -71.0632879
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "residential",
+        "coord": [
+          42.3733538,
+          -71.0641525
+        ]
+      }
+    ],
+    "dexter row": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3754572,
+          -71.0643063
+        ]
+      },
+      {
+        "name": "Thompson Square",
+        "class": "tertiary",
+        "coord": [
+          42.3751099,
+          -71.0637042
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "secondary",
+        "coord": [
+          42.3751099,
+          -71.0637042
+        ]
+      }
+    ],
+    "dexter street": [
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.3942712,
+          -71.0674386
+        ]
+      },
+      {
+        "name": "Broadway",
+        "class": "primary",
+        "coord": [
+          42.3942712,
+          -71.0674386
+        ]
+      }
+    ],
+    "dorrance street": [
+      {
+        "name": "Arlington Avenue",
+        "class": "residential",
+        "coord": [
+          42.3872222,
+          -71.0748538
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "primary",
+        "coord": [
+          42.3856979,
+          -71.0761439
+        ]
+      },
+      {
+        "name": "Temple Street",
+        "class": "residential",
+        "coord": [
+          42.386295,
+          -71.075614
+        ]
+      }
+    ],
+    "dunstable street": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3776514,
+          -71.0671865
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3780595,
+          -71.0676636
+        ]
+      }
+    ],
+    "eden street": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3787903,
+          -71.0684624
+        ]
+      },
+      {
+        "name": "Russell Street",
+        "class": "residential",
+        "coord": [
+          42.3801078,
+          -71.0672034
+        ]
+      }
+    ],
+    "edgeworth street": [
+      {
+        "name": "Prospect Street",
+        "class": "residential",
+        "coord": [
+          42.3759,
+          -71.0582506
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "residential",
+        "coord": [
+          42.3761732,
+          -71.0578605
+        ]
+      }
+    ],
+    "eighth street": [
+      {
+        "name": "First Avenue",
+        "class": "residential",
+        "coord": [
+          42.3754737,
+          -71.0535415
+        ]
+      },
+      {
+        "name": "Flagship Way",
+        "class": "unclassified",
+        "coord": [
+          42.374011,
+          -71.051866
+        ]
+      }
+    ],
+    "ellwood street": [
+      {
+        "name": "Putnam Street",
+        "class": "residential",
+        "coord": [
+          42.3738024,
+          -71.0598907
+        ]
+      }
+    ],
+    "elm street": [
+      {
+        "name": "Bartlett Street",
+        "class": "residential",
+        "coord": [
+          42.3780013,
+          -71.0633516
+        ]
+      },
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3790024,
+          -71.0626297
+        ]
+      },
+      {
+        "name": "Hancock Street",
+        "class": "residential",
+        "coord": [
+          42.3786237,
+          -71.062901
+        ]
+      },
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.3768423,
+          -71.0642122
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3806974,
+          -71.0613882
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "residential",
+        "coord": [
+          42.3773253,
+          -71.0638649
+        ]
+      }
+    ],
+    "essex street": [
+      {
+        "name": "Lyndeboro Street",
+        "class": "residential",
+        "coord": [
+          42.3792386,
+          -71.069928
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.379056,
+          -71.068747
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3796044,
+          -71.0707522
+        ]
+      },
+      {
+        "name": "Tibbett's Town Way",
+        "class": "residential",
+        "coord": [
+          42.378893,
+          -71.069021
+        ]
+      }
+    ],
+    "ferrin street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3776564,
+          -71.0587367
+        ]
+      },
+      {
+        "name": "Lowney Way",
+        "class": "residential",
+        "coord": [
+          42.3757045,
+          -71.0564099
+        ]
+      }
+    ],
+    "fifth avenue": [
+      {
+        "name": "Sixteenth Street",
+        "class": "residential",
+        "coord": [
+          42.3790568,
+          -71.0509879
+        ]
+      },
+      {
+        "name": "Thirteenth Street",
+        "class": "residential",
+        "coord": [
+          42.378295,
+          -71.052201
+        ]
+      }
+    ],
+    "fifth street": [
+      {
+        "name": "Baxter Road",
+        "class": "unclassified",
+        "coord": [
+          42.3744377,
+          -71.0551697
+        ]
+      },
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3753085,
+          -71.0562687
+        ]
+      },
+      {
+        "name": "First Avenue",
+        "class": "residential",
+        "coord": [
+          42.3744377,
+          -71.0551697
+        ]
+      },
+      {
+        "name": "First Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3744947,
+          -71.0552335
+        ]
+      }
+    ],
+    "first avenue": [
+      {
+        "name": "Baxter Road",
+        "class": "unclassified",
+        "coord": [
+          42.3744377,
+          -71.0551697
+        ]
+      },
+      {
+        "name": "Eighth Street",
+        "class": "residential",
+        "coord": [
+          42.3754737,
+          -71.0535415
+        ]
+      },
+      {
+        "name": "Fifth Street",
+        "class": "residential",
+        "coord": [
+          42.3744377,
+          -71.0551697
+        ]
+      },
+      {
+        "name": "Fifth Street",
+        "class": "residential",
+        "coord": [
+          42.3744947,
+          -71.0552335
+        ]
+      },
+      {
+        "name": "Ninth Street",
+        "class": "residential",
+        "coord": [
+          42.3761486,
+          -71.0524587
+        ]
+      },
+      {
+        "name": "Seventh Street",
+        "class": "residential",
+        "coord": [
+          42.3752583,
+          -71.0538688
+        ]
+      },
+      {
+        "name": "Sixteenth Street",
+        "class": "residential",
+        "coord": [
+          42.3779329,
+          -71.0495932
+        ]
+      },
+      {
+        "name": "Sixth Street",
+        "class": "residential",
+        "coord": [
+          42.3748039,
+          -71.0545923
+        ]
+      },
+      {
+        "name": "Terry Ring Way",
+        "class": "unclassified",
+        "coord": [
+          42.3748039,
+          -71.0545923
+        ]
+      },
+      {
+        "name": "Third Street",
+        "class": "unclassified",
+        "coord": [
+          42.3733998,
+          -71.0566481
+        ]
+      },
+      {
+        "name": "Third Street",
+        "class": "unclassified",
+        "coord": [
+          42.3734534,
+          -71.0565522
+        ]
+      },
+      {
+        "name": "Thirteenth Street",
+        "class": "residential",
+        "coord": [
+          42.3770428,
+          -71.0510267
+        ]
+      }
+    ],
+    "flagship way": [
+      {
+        "name": "Eighth Street",
+        "class": "residential",
+        "coord": [
+          42.374011,
+          -71.051866
+        ]
+      }
+    ],
+    "fourth avenue": [
+      {
+        "name": "Ninth Street",
+        "class": "residential",
+        "coord": [
+          42.377042,
+          -71.053465
+        ]
+      },
+      {
+        "name": "Thirteenth Street",
+        "class": "residential",
+        "coord": [
+          42.377961,
+          -71.052044
+        ]
+      }
+    ],
+    "franklin street": [
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.378674,
+          -71.06666
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3779454,
+          -71.067529
+        ]
+      }
+    ],
+    "green street": [
+      {
+        "name": "Austin Street",
+        "class": "secondary",
+        "coord": [
+          42.3755529,
+          -71.0644551
+        ]
+      },
+      {
+        "name": "Bartlett Street",
+        "class": "residential",
+        "coord": [
+          42.3776608,
+          -71.0626179
+        ]
+      },
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3787067,
+          -71.0617859
+        ]
+      },
+      {
+        "name": "Hancock Street",
+        "class": "residential",
+        "coord": [
+          42.3783046,
+          -71.0621177
+        ]
+      },
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.3765117,
+          -71.0634255
+        ]
+      },
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.3765419,
+          -71.0635047
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3755529,
+          -71.0644551
+        ]
+      }
+    ],
+    "hadley street": [
+      {
+        "name": "Crescent Street",
+        "class": "residential",
+        "coord": [
+          42.3829169,
+          -71.0797709
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "residential",
+        "coord": [
+          42.3825118,
+          -71.0795352
+        ]
+      }
+    ],
+    "half pint way": [
+      {
+        "name": "Bunker Hill Industrial Park",
+        "class": "unclassified",
+        "coord": [
+          42.3790881,
+          -71.0715662
+        ]
+      },
+      {
+        "name": "Hood Park Drive",
+        "class": "residential",
+        "coord": [
+          42.380083,
+          -71.0728929
+        ]
+      }
+    ],
+    "hancock street": [
+      {
+        "name": "Elm Street",
+        "class": "residential",
+        "coord": [
+          42.3786237,
+          -71.062901
+        ]
+      },
+      {
+        "name": "Green Street",
+        "class": "residential",
+        "coord": [
+          42.3783046,
+          -71.0621177
+        ]
+      }
+    ],
+    "harvard square": [
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.373023,
+          -71.063163
+        ]
+      },
+      {
+        "name": "Henley Street",
+        "class": "residential",
+        "coord": [
+          42.3728745,
+          -71.0624825
+        ]
+      }
+    ],
+    "harvard street": [
+      {
+        "name": "City Square",
+        "class": "secondary",
+        "coord": [
+          42.371732,
+          -71.06241
+        ]
+      },
+      {
+        "name": "Devens Street",
+        "class": "residential",
+        "coord": [
+          42.3738727,
+          -71.0632879
+        ]
+      },
+      {
+        "name": "Harvard Square",
+        "class": "residential",
+        "coord": [
+          42.373023,
+          -71.063163
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3739712,
+          -71.0631781
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "residential",
+        "coord": [
+          42.3739712,
+          -71.0631781
+        ]
+      },
+      {
+        "name": "Prescott Street",
+        "class": "residential",
+        "coord": [
+          42.3738727,
+          -71.0632879
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "residential",
+        "coord": [
+          42.3727629,
+          -71.0631796
+        ]
+      }
+    ],
+    "henley street": [
+      {
+        "name": "Harvard Square",
+        "class": "residential",
+        "coord": [
+          42.3728745,
+          -71.0624825
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3729754,
+          -71.0619595
+        ]
+      },
+      {
+        "name": "Park Street",
+        "class": "secondary",
+        "coord": [
+          42.3729836,
+          -71.0609542
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "secondary",
+        "coord": [
+          42.3729836,
+          -71.0609542
+        ]
+      }
+    ],
+    "high street": [
+      {
+        "name": "Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.3761317,
+          -71.0623575
+        ]
+      },
+      {
+        "name": "Cordis Street",
+        "class": "residential",
+        "coord": [
+          42.3761636,
+          -71.0624572
+        ]
+      },
+      {
+        "name": "Cross Street",
+        "class": "residential",
+        "coord": [
+          42.376326,
+          -71.0629167
+        ]
+      },
+      {
+        "name": "Elm Street",
+        "class": "residential",
+        "coord": [
+          42.3768423,
+          -71.0642122
+        ]
+      },
+      {
+        "name": "Franklin Street",
+        "class": "residential",
+        "coord": [
+          42.378674,
+          -71.06666
+        ]
+      },
+      {
+        "name": "Green Street",
+        "class": "residential",
+        "coord": [
+          42.3765117,
+          -71.0634255
+        ]
+      },
+      {
+        "name": "Green Street",
+        "class": "residential",
+        "coord": [
+          42.3765419,
+          -71.0635047
+        ]
+      },
+      {
+        "name": "Monument Square",
+        "class": "residential",
+        "coord": [
+          42.3759649,
+          -71.0618727
+        ]
+      },
+      {
+        "name": "Pearl Street",
+        "class": "residential",
+        "coord": [
+          42.3778095,
+          -71.0655204
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "residential",
+        "coord": [
+          42.3759649,
+          -71.0618727
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3778788,
+          -71.0656241
+        ]
+      },
+      {
+        "name": "Salem Street Avenue",
+        "class": "residential",
+        "coord": [
+          42.378101,
+          -71.065917
+        ]
+      },
+      {
+        "name": "School Street",
+        "class": "residential",
+        "coord": [
+          42.377317,
+          -71.0649616
+        ]
+      },
+      {
+        "name": "Sullivan Street",
+        "class": "residential",
+        "coord": [
+          42.3783483,
+          -71.0662095
+        ]
+      },
+      {
+        "name": "Walker Street",
+        "class": "residential",
+        "coord": [
+          42.37892,
+          -71.067043
+        ]
+      },
+      {
+        "name": "Wood Street",
+        "class": "residential",
+        "coord": [
+          42.376635,
+          -71.0637583
+        ]
+      }
+    ],
+    "hill street": [
+      {
+        "name": "Cook Street",
+        "class": "residential",
+        "coord": [
+          42.3808489,
+          -71.0637514
+        ]
+      }
+    ],
+    "hood park drive": [
+      {
+        "name": "Half Pint Way",
+        "class": "unclassified",
+        "coord": [
+          42.380083,
+          -71.0728929
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3807453,
+          -71.0718719
+        ]
+      },
+      {
+        "name": "Stack Street",
+        "class": "unclassified",
+        "coord": [
+          42.3798245,
+          -71.0732914
+        ]
+      }
+    ],
+    "hunter street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "residential",
+        "coord": [
+          42.3763005,
+          -71.0566482
+        ]
+      },
+      {
+        "name": "Vine Street",
+        "class": "secondary",
+        "coord": [
+          42.3767654,
+          -71.0561615
+        ]
+      }
+    ],
+    "interstate 93 hov lane": [
+      {
+        "name": "John F. Fitzgerald Expressway",
+        "class": "motorway",
+        "coord": [
+          42.3694566,
+          -71.0642021
+        ]
+      }
+    ],
+    "john f. fitzgerald expressway": [
+      {
+        "name": "Interstate 93 HOV lane",
+        "class": "motorway",
+        "coord": [
+          42.3694566,
+          -71.0642021
+        ]
+      }
+    ],
+    "laurel street": [
+      {
+        "name": "Cedar Street",
+        "class": "residential",
+        "coord": [
+          42.376784,
+          -71.0620005
+        ]
+      },
+      {
+        "name": "Monument Square",
+        "class": "residential",
+        "coord": [
+          42.3766174,
+          -71.0615286
+        ]
+      }
+    ],
+    "lawnwood place": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3768681,
+          -71.0662364
+        ]
+      }
+    ],
+    "lawrence street": [
+      {
+        "name": "Austin Street",
+        "class": "secondary",
+        "coord": [
+          42.3749852,
+          -71.0654436
+        ]
+      },
+      {
+        "name": "Phipps Street",
+        "class": "residential",
+        "coord": [
+          42.3766912,
+          -71.0671995
+        ]
+      },
+      {
+        "name": "Seminary Street",
+        "class": "residential",
+        "coord": [
+          42.3746321,
+          -71.0652095
+        ]
+      },
+      {
+        "name": "Union Street",
+        "class": "residential",
+        "coord": [
+          42.3741521,
+          -71.0648833
+        ]
+      },
+      {
+        "name": "West School Street",
+        "class": "residential",
+        "coord": [
+          42.3760027,
+          -71.0663873
+        ]
+      }
+    ],
+    "lexington street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3777848,
+          -71.0591076
+        ]
+      },
+      {
+        "name": "Monument Square",
+        "class": "residential",
+        "coord": [
+          42.3766626,
+          -71.0597082
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "residential",
+        "coord": [
+          42.3766626,
+          -71.0597082
+        ]
+      }
+    ],
+    "lowney way": [
+      {
+        "name": "Adams Street",
+        "class": "residential",
+        "coord": [
+          42.3743502,
+          -71.0583299
+        ]
+      },
+      {
+        "name": "Bunker Hill Street",
+        "class": "residential",
+        "coord": [
+          42.3759482,
+          -71.0562807
+        ]
+      },
+      {
+        "name": "Chestnut Street",
+        "class": "residential",
+        "coord": [
+          42.3738822,
+          -71.0587827
+        ]
+      },
+      {
+        "name": "Ferrin Street",
+        "class": "residential",
+        "coord": [
+          42.3757045,
+          -71.0564099
+        ]
+      },
+      {
+        "name": "Mount Vernon Street",
+        "class": "residential",
+        "coord": [
+          42.374405,
+          -71.058033
+        ]
+      },
+      {
+        "name": "Prospect Street",
+        "class": "residential",
+        "coord": [
+          42.3748287,
+          -71.0574856
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "residential",
+        "coord": [
+          42.3754524,
+          -71.0567146
+        ]
+      }
+    ],
+    "lynde street": [
+      {
+        "name": "Arrow Street",
+        "class": "residential",
+        "coord": [
+          42.3725878,
+          -71.0645102
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3737542,
+          -71.0671944
+        ]
+      },
+      {
+        "name": "Union Street",
+        "class": "residential",
+        "coord": [
+          42.3734021,
+          -71.0664029
+        ]
+      }
+    ],
+    "lyndeboro street": [
+      {
+        "name": "Essex Street",
+        "class": "residential",
+        "coord": [
+          42.3792386,
+          -71.069928
+        ]
+      },
+      {
+        "name": "Middlesex Street",
+        "class": "residential",
+        "coord": [
+          42.3800494,
+          -71.0705071
+        ]
+      }
+    ],
+    "maffa way": [
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.3839834,
+          -71.0739132
+        ]
+      },
+      {
+        "name": "Beacham Street",
+        "class": "secondary",
+        "coord": [
+          42.3846317,
+          -71.0751865
+        ]
+      },
+      {
+        "name": "Brighton Street",
+        "class": "residential",
+        "coord": [
+          42.3858575,
+          -71.0775911
+        ]
+      },
+      {
+        "name": "Broadway",
+        "class": "primary",
+        "coord": [
+          42.3858575,
+          -71.0775911
+        ]
+      },
+      {
+        "name": "Caldwell Street",
+        "class": "residential",
+        "coord": [
+          42.3857866,
+          -71.077337
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3839834,
+          -71.0739132
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3840436,
+          -71.0743096
+        ]
+      },
+      {
+        "name": "Mystic Avenue",
+        "class": "secondary",
+        "coord": [
+          42.385738,
+          -71.0771689
+        ]
+      }
+    ],
+    "main street": [
+      {
+        "name": "Albion Place",
+        "class": "residential",
+        "coord": [
+          42.3807845,
+          -71.0704467
+        ]
+      },
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.384094,
+          -71.072968
+        ]
+      },
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.3843682,
+          -71.0728342
+        ]
+      },
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.3847426,
+          -71.073839
+        ]
+      },
+      {
+        "name": "Armory Street",
+        "class": "residential",
+        "coord": [
+          42.3810059,
+          -71.0706668
+        ]
+      },
+      {
+        "name": "Auburn Street",
+        "class": "residential",
+        "coord": [
+          42.3802933,
+          -71.0699707
+        ]
+      },
+      {
+        "name": "Austin Street",
+        "class": "secondary",
+        "coord": [
+          42.3755529,
+          -71.0644551
+        ]
+      },
+      {
+        "name": "Baldwin Street",
+        "class": "residential",
+        "coord": [
+          42.3813008,
+          -71.0709636
+        ]
+      },
+      {
+        "name": "Beacham Street",
+        "class": "residential",
+        "coord": [
+          42.3850645,
+          -71.0750327
+        ]
+      },
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3834148,
+          -71.0716132
+        ]
+      },
+      {
+        "name": "Charbonnier Street",
+        "class": "residential",
+        "coord": [
+          42.381491,
+          -71.071132
+        ]
+      },
+      {
+        "name": "Charbonnier Street",
+        "class": "residential",
+        "coord": [
+          42.3824719,
+          -71.071701
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "residential",
+        "coord": [
+          42.3827058,
+          -71.0717808
+        ]
+      },
+      {
+        "name": "City Square",
+        "class": "secondary",
+        "coord": [
+          42.3722101,
+          -71.0619496
+        ]
+      },
+      {
+        "name": "Dexter Row",
+        "class": "secondary",
+        "coord": [
+          42.3754572,
+          -71.0643063
+        ]
+      },
+      {
+        "name": "Dorrance Street",
+        "class": "residential",
+        "coord": [
+          42.3856979,
+          -71.0761439
+        ]
+      },
+      {
+        "name": "Dunstable Street",
+        "class": "residential",
+        "coord": [
+          42.3776514,
+          -71.0671865
+        ]
+      },
+      {
+        "name": "Dunstable Street",
+        "class": "residential",
+        "coord": [
+          42.3780595,
+          -71.0676636
+        ]
+      },
+      {
+        "name": "Eden Street",
+        "class": "residential",
+        "coord": [
+          42.3787903,
+          -71.0684624
+        ]
+      },
+      {
+        "name": "Essex Street",
+        "class": "residential",
+        "coord": [
+          42.379056,
+          -71.068747
+        ]
+      },
+      {
+        "name": "Franklin Street",
+        "class": "residential",
+        "coord": [
+          42.3779454,
+          -71.067529
+        ]
+      },
+      {
+        "name": "Green Street",
+        "class": "residential",
+        "coord": [
+          42.3755529,
+          -71.0644551
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.3739712,
+          -71.0631781
+        ]
+      },
+      {
+        "name": "Henley Street",
+        "class": "residential",
+        "coord": [
+          42.3729754,
+          -71.0619595
+        ]
+      },
+      {
+        "name": "Lawnwood Place",
+        "class": "residential",
+        "coord": [
+          42.3768681,
+          -71.0662364
+        ]
+      },
+      {
+        "name": "Mead Street",
+        "class": "residential",
+        "coord": [
+          42.3794048,
+          -71.0690845
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3834148,
+          -71.0716132
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3834727,
+          -71.0717564
+        ]
+      },
+      {
+        "name": "Middlesex Street",
+        "class": "residential",
+        "coord": [
+          42.3802933,
+          -71.0699707
+        ]
+      },
+      {
+        "name": "Mishawum Street",
+        "class": "residential",
+        "coord": [
+          42.3836275,
+          -71.0720737
+        ]
+      },
+      {
+        "name": "Monument Avenue",
+        "class": "residential",
+        "coord": [
+          42.3736434,
+          -71.0626081
+        ]
+      },
+      {
+        "name": "Oak Street",
+        "class": "residential",
+        "coord": [
+          42.3798426,
+          -71.0695101
+        ]
+      },
+      {
+        "name": "Phipps Street",
+        "class": "residential",
+        "coord": [
+          42.377078,
+          -71.0665251
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "residential",
+        "coord": [
+          42.3739712,
+          -71.0631781
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3772187,
+          -71.0666875
+        ]
+      },
+      {
+        "name": "School Street",
+        "class": "residential",
+        "coord": [
+          42.3765478,
+          -71.0658077
+        ]
+      },
+      {
+        "name": "Sherman Street",
+        "class": "residential",
+        "coord": [
+          42.3860705,
+          -71.0765826
+        ]
+      },
+      {
+        "name": "Stacey Street",
+        "class": "residential",
+        "coord": [
+          42.3772894,
+          -71.0667717
+        ]
+      },
+      {
+        "name": "Sullivan Street",
+        "class": "residential",
+        "coord": [
+          42.377767,
+          -71.0673182
+        ]
+      },
+      {
+        "name": "Thompson Square",
+        "class": "tertiary",
+        "coord": [
+          42.374989,
+          -71.0639899
+        ]
+      },
+      {
+        "name": "Tibbett's Town Way",
+        "class": "residential",
+        "coord": [
+          42.3784809,
+          -71.0681369
+        ]
+      },
+      {
+        "name": "Union Street",
+        "class": "residential",
+        "coord": [
+          42.3745831,
+          -71.0637155
+        ]
+      },
+      {
+        "name": "Walker Street",
+        "class": "residential",
+        "coord": [
+          42.3782208,
+          -71.0678412
+        ]
+      },
+      {
+        "name": "West School Street",
+        "class": "residential",
+        "coord": [
+          42.3765478,
+          -71.0658077
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "residential",
+        "coord": [
+          42.3734105,
+          -71.0623014
+        ]
+      },
+      {
+        "name": "Wood Street",
+        "class": "residential",
+        "coord": [
+          42.3757494,
+          -71.0647222
+        ]
+      }
+    ],
+    "mcnulty court": [
+      {
+        "name": "Walford Way",
+        "class": "residential",
+        "coord": [
+          42.3784475,
+          -71.0577293
+        ]
+      }
+    ],
+    "mead street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3812166,
+          -71.0671812
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3794048,
+          -71.0690845
+        ]
+      },
+      {
+        "name": "Russell Street",
+        "class": "residential",
+        "coord": [
+          42.3805115,
+          -71.0679299
+        ]
+      }
+    ],
+    "medford street": [
+      {
+        "name": "Allston Street",
+        "class": "residential",
+        "coord": [
+          42.3813071,
+          -71.0628514
+        ]
+      },
+      {
+        "name": "Baldwin Street",
+        "class": "residential",
+        "coord": [
+          42.3837832,
+          -71.0690109
+        ]
+      },
+      {
+        "name": "Belmont Street",
+        "class": "residential",
+        "coord": [
+          42.3821032,
+          -71.0647293
+        ]
+      },
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3834148,
+          -71.0716132
+        ]
+      },
+      {
+        "name": "Chappie Street",
+        "class": "residential",
+        "coord": [
+          42.3835978,
+          -71.0682745
+        ]
+      },
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3784285,
+          -71.0529449
+        ]
+      },
+      {
+        "name": "Cook Street",
+        "class": "residential",
+        "coord": [
+          42.3814878,
+          -71.0632717
+        ]
+      },
+      {
+        "name": "Corey Street",
+        "class": "residential",
+        "coord": [
+          42.3791238,
+          -71.0559036
+        ]
+      },
+      {
+        "name": "Decatur Street",
+        "class": "residential",
+        "coord": [
+          42.3786983,
+          -71.0534672
+        ]
+      },
+      {
+        "name": "Elm Street",
+        "class": "residential",
+        "coord": [
+          42.3806974,
+          -71.0613882
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3834148,
+          -71.0716132
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3834727,
+          -71.0717564
+        ]
+      },
+      {
+        "name": "Monument Street",
+        "class": "residential",
+        "coord": [
+          42.3796736,
+          -71.0589515
+        ]
+      },
+      {
+        "name": "Mystic Street",
+        "class": "residential",
+        "coord": [
+          42.3808828,
+          -71.0618325
+        ]
+      },
+      {
+        "name": "North Mead Street",
+        "class": "residential",
+        "coord": [
+          42.382619,
+          -71.065959
+        ]
+      },
+      {
+        "name": "Old Ironsides Way",
+        "class": "residential",
+        "coord": [
+          42.3791506,
+          -71.0570142
+        ]
+      },
+      {
+        "name": "Old Ironsides Way",
+        "class": "residential",
+        "coord": [
+          42.379539,
+          -71.058628
+        ]
+      },
+      {
+        "name": "Old Landing Way",
+        "class": "residential",
+        "coord": [
+          42.3791011,
+          -71.0548502
+        ]
+      },
+      {
+        "name": "Old Landing Way",
+        "class": "residential",
+        "coord": [
+          42.3791337,
+          -71.0562467
+        ]
+      },
+      {
+        "name": "Pearl Street",
+        "class": "residential",
+        "coord": [
+          42.381102,
+          -71.062356
+        ]
+      },
+      {
+        "name": "Polk Street",
+        "class": "residential",
+        "coord": [
+          42.3802705,
+          -71.0603714
+        ]
+      },
+      {
+        "name": "Sackville Street",
+        "class": "residential",
+        "coord": [
+          42.3818776,
+          -71.0641863
+        ]
+      },
+      {
+        "name": "Saint Martin Street",
+        "class": "residential",
+        "coord": [
+          42.3833114,
+          -71.0675931
+        ]
+      },
+      {
+        "name": "Short Street",
+        "class": "residential",
+        "coord": [
+          42.3837258,
+          -71.0699359
+        ]
+      },
+      {
+        "name": "Terminal Street",
+        "class": "secondary",
+        "coord": [
+          42.3807848,
+          -71.0615923
+        ]
+      },
+      {
+        "name": "Tufts Street",
+        "class": "residential",
+        "coord": [
+          42.379147,
+          -71.05671
+        ]
+      }
+    ],
+    "middlesex street": [
+      {
+        "name": "Auburn Street",
+        "class": "residential",
+        "coord": [
+          42.3802933,
+          -71.0699707
+        ]
+      },
+      {
+        "name": "Lyndeboro Street",
+        "class": "residential",
+        "coord": [
+          42.3800494,
+          -71.0705071
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3802933,
+          -71.0699707
+        ]
+      }
+    ],
+    "mishawum street": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3836275,
+          -71.0720737
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3830694,
+          -71.0728107
+        ]
+      }
+    ],
+    "monument avenue": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3736434,
+          -71.0626081
+        ]
+      },
+      {
+        "name": "Monument Square",
+        "class": "residential",
+        "coord": [
+          42.3757084,
+          -71.0611518
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "secondary",
+        "coord": [
+          42.3741217,
+          -71.0622678
+        ]
+      }
+    ],
+    "monument court": [
+      {
+        "name": "Winthrop Street",
+        "class": "residential",
+        "coord": [
+          42.375274,
+          -71.0603328
+        ]
+      }
+    ],
+    "monument square": [
+      {
+        "name": "Bartlett Street",
+        "class": "residential",
+        "coord": [
+          42.3771559,
+          -71.0612322
+        ]
+      },
+      {
+        "name": "Chestnut Street",
+        "class": "residential",
+        "coord": [
+          42.3760886,
+          -71.0600037
+        ]
+      },
+      {
+        "name": "Concord Street",
+        "class": "residential",
+        "coord": [
+          42.3771559,
+          -71.0612322
+        ]
+      },
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.3759649,
+          -71.0618727
+        ]
+      },
+      {
+        "name": "Laurel Street",
+        "class": "residential",
+        "coord": [
+          42.3766174,
+          -71.0615286
+        ]
+      },
+      {
+        "name": "Lexington Street",
+        "class": "residential",
+        "coord": [
+          42.3766626,
+          -71.0597082
+        ]
+      },
+      {
+        "name": "Monument Avenue",
+        "class": "residential",
+        "coord": [
+          42.3757084,
+          -71.0611518
+        ]
+      },
+      {
+        "name": "Monument Street",
+        "class": "residential",
+        "coord": [
+          42.3769313,
+          -71.060469
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "residential",
+        "coord": [
+          42.3759649,
+          -71.0618727
+        ]
+      },
+      {
+        "name": "Soley Street",
+        "class": "residential",
+        "coord": [
+          42.3755455,
+          -71.0606904
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "residential",
+        "coord": [
+          42.3766626,
+          -71.0597082
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "residential",
+        "coord": [
+          42.3753645,
+          -71.0604075
+        ]
+      }
+    ],
+    "monument street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3780519,
+          -71.0598651
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3796736,
+          -71.0589515
+        ]
+      },
+      {
+        "name": "Monument Square",
+        "class": "residential",
+        "coord": [
+          42.3769313,
+          -71.060469
+        ]
+      },
+      {
+        "name": "O'Reilly Way",
+        "class": "residential",
+        "coord": [
+          42.3783377,
+          -71.0596975
+        ]
+      },
+      {
+        "name": "Walford Way",
+        "class": "residential",
+        "coord": [
+          42.3789662,
+          -71.0593525
+        ]
+      },
+      {
+        "name": "Walford Way",
+        "class": "residential",
+        "coord": [
+          42.3789938,
+          -71.0593356
+        ]
+      }
+    ],
+    "moulton street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "residential",
+        "coord": [
+          42.3765583,
+          -71.0568408
+        ]
+      },
+      {
+        "name": "Corey Street",
+        "class": "residential",
+        "coord": [
+          42.3770891,
+          -71.0563485
+        ]
+      },
+      {
+        "name": "Moulton Way",
+        "class": "residential",
+        "coord": [
+          42.3773008,
+          -71.0558984
+        ]
+      },
+      {
+        "name": "Vine Street",
+        "class": "secondary",
+        "coord": [
+          42.3769394,
+          -71.0564846
+        ]
+      }
+    ],
+    "moulton way": [
+      {
+        "name": "Moulton Street",
+        "class": "residential",
+        "coord": [
+          42.3773008,
+          -71.0558984
+        ]
+      }
+    ],
+    "mount vernon street": [
+      {
+        "name": "Lowney Way",
+        "class": "residential",
+        "coord": [
+          42.374405,
+          -71.058033
+        ]
+      }
+    ],
+    "mystic avenue": [
+      {
+        "name": "Maffa Way",
+        "class": "primary",
+        "coord": [
+          42.385738,
+          -71.0771689
+        ]
+      }
+    ],
+    "mystic street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3791877,
+          -71.063126
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3808828,
+          -71.0618325
+        ]
+      }
+    ],
+    "new rutherford avenue": [
+      {
+        "name": "Austin Street",
+        "class": "primary",
+        "coord": [
+          42.3741271,
+          -71.0679169
+        ]
+      },
+      {
+        "name": "Austin Street",
+        "class": "primary",
+        "coord": [
+          42.3742209,
+          -71.067975
+        ]
+      },
+      {
+        "name": "Austin Street",
+        "class": "secondary",
+        "coord": [
+          42.3742373,
+          -71.0675349
+        ]
+      },
+      {
+        "name": "Austin Street",
+        "class": "secondary",
+        "coord": [
+          42.3743468,
+          -71.0675987
+        ]
+      },
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3709866,
+          -71.0620743
+        ]
+      },
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3710472,
+          -71.0622234
+        ]
+      },
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3711038,
+          -71.0619027
+        ]
+      },
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.371163,
+          -71.0620335
+        ]
+      },
+      {
+        "name": "City Square",
+        "class": "secondary",
+        "coord": [
+          42.3714436,
+          -71.062697
+        ]
+      },
+      {
+        "name": "Lynde Street",
+        "class": "residential",
+        "coord": [
+          42.3737542,
+          -71.0671944
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3709866,
+          -71.0620743
+        ]
+      },
+      {
+        "name": "North Washington Street",
+        "class": "primary",
+        "coord": [
+          42.3711038,
+          -71.0619027
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3770404,
+          -71.0695693
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.377157,
+          -71.0693773
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "residential",
+        "coord": [
+          42.3718933,
+          -71.0637406
+        ]
+      },
+      {
+        "name": "West School Street",
+        "class": "residential",
+        "coord": [
+          42.375097,
+          -71.068052
+        ]
+      }
+    ],
+    "ninth street": [
+      {
+        "name": "Constellation Wharf",
+        "class": "residential",
+        "coord": [
+          42.374969,
+          -71.0508034
+        ]
+      },
+      {
+        "name": "First Avenue",
+        "class": "residential",
+        "coord": [
+          42.3761486,
+          -71.0524587
+        ]
+      },
+      {
+        "name": "Fourth Avenue",
+        "class": "residential",
+        "coord": [
+          42.377042,
+          -71.053465
+        ]
+      },
+      {
+        "name": "Third Avenue",
+        "class": "residential",
+        "coord": [
+          42.3767389,
+          -71.053128
+        ]
+      }
+    ],
+    "north mead street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3811629,
+          -71.0670741
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.382619,
+          -71.065959
+        ]
+      }
+    ],
+    "north washington street": [
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3709866,
+          -71.0620743
+        ]
+      },
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3711038,
+          -71.0619027
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3709866,
+          -71.0620743
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3711038,
+          -71.0619027
+        ]
+      }
+    ],
+    "o'meara court": [
+      {
+        "name": "Walford Way",
+        "class": "residential",
+        "coord": [
+          42.3786867,
+          -71.0585606
+        ]
+      }
+    ],
+    "o'reilly way": [
+      {
+        "name": "Monument Street",
+        "class": "residential",
+        "coord": [
+          42.3783377,
+          -71.0596975
+        ]
+      },
+      {
+        "name": "Polk Street",
+        "class": "residential",
+        "coord": [
+          42.3789705,
+          -71.0613376
+        ]
+      },
+      {
+        "name": "Tufts Street",
+        "class": "residential",
+        "coord": [
+          42.377567,
+          -71.0569654
+        ]
+      }
+    ],
+    "oak street": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3798426,
+          -71.0695101
+        ]
+      },
+      {
+        "name": "Russell Street",
+        "class": "residential",
+        "coord": [
+          42.3808571,
+          -71.0685371
+        ]
+      }
+    ],
+    "old ironsides way": [
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3791506,
+          -71.0570142
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.379539,
+          -71.058628
+        ]
+      }
+    ],
+    "old landing way": [
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3791011,
+          -71.0548502
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3791337,
+          -71.0562467
+        ]
+      }
+    ],
+    "park street": [
+      {
+        "name": "City Square",
+        "class": "secondary",
+        "coord": [
+          42.3720555,
+          -71.0616045
+        ]
+      },
+      {
+        "name": "Common Street",
+        "class": "residential",
+        "coord": [
+          42.3738859,
+          -71.0603114
+        ]
+      },
+      {
+        "name": "Henley Street",
+        "class": "residential",
+        "coord": [
+          42.3729836,
+          -71.0609542
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "secondary",
+        "coord": [
+          42.3729836,
+          -71.0609542
+        ]
+      }
+    ],
+    "parker street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3823008,
+          -71.079586
+        ]
+      },
+      {
+        "name": "Hadley Street",
+        "class": "residential",
+        "coord": [
+          42.3825118,
+          -71.0795352
+        ]
+      },
+      {
+        "name": "Perkins Street",
+        "class": "residential",
+        "coord": [
+          42.3841785,
+          -71.0783468
+        ]
+      }
+    ],
+    "pearl street": [
+      {
+        "name": "Bartlett Street",
+        "class": "residential",
+        "coord": [
+          42.3785271,
+          -71.0644706
+        ]
+      },
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3794369,
+          -71.0636222
+        ]
+      },
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3794524,
+          -71.0636537
+        ]
+      },
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.3778095,
+          -71.0655204
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.381102,
+          -71.062356
+        ]
+      },
+      {
+        "name": "Russell Street",
+        "class": "residential",
+        "coord": [
+          42.3789955,
+          -71.0640665
+        ]
+      },
+      {
+        "name": "Wesley Street",
+        "class": "residential",
+        "coord": [
+          42.37796,
+          -71.0651585
+        ]
+      }
+    ],
+    "perkins street": [
+      {
+        "name": "Brighton Street",
+        "class": "residential",
+        "coord": [
+          42.383951,
+          -71.077639
+        ]
+      },
+      {
+        "name": "Caldwell Street",
+        "class": "residential",
+        "coord": [
+          42.384219,
+          -71.0784757
+        ]
+      },
+      {
+        "name": "Clinton Place",
+        "class": "residential",
+        "coord": [
+          42.383805,
+          -71.07722
+        ]
+      },
+      {
+        "name": "Parker Street",
+        "class": "residential",
+        "coord": [
+          42.3841785,
+          -71.0783468
+        ]
+      }
+    ],
+    "phipps street": [
+      {
+        "name": "Lawrence Street",
+        "class": "residential",
+        "coord": [
+          42.3766912,
+          -71.0671995
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.377078,
+          -71.0665251
+        ]
+      }
+    ],
+    "pleasant street": [
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.3739712,
+          -71.0631781
+        ]
+      },
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.3759649,
+          -71.0618727
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3739712,
+          -71.0631781
+        ]
+      },
+      {
+        "name": "Monument Square",
+        "class": "residential",
+        "coord": [
+          42.3759649,
+          -71.0618727
+        ]
+      },
+      {
+        "name": "Pleasant Street Court",
+        "class": "residential",
+        "coord": [
+          42.3751497,
+          -71.0622552
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "secondary",
+        "coord": [
+          42.374485,
+          -71.0627722
+        ]
+      }
+    ],
+    "pleasant street court": [
+      {
+        "name": "Pleasant Street",
+        "class": "residential",
+        "coord": [
+          42.3751497,
+          -71.0622552
+        ]
+      }
+    ],
+    "polk street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.37864,
+          -71.061582
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3802705,
+          -71.0603714
+        ]
+      },
+      {
+        "name": "O'Reilly Way",
+        "class": "residential",
+        "coord": [
+          42.3789705,
+          -71.0613376
+        ]
+      },
+      {
+        "name": "Walford Way",
+        "class": "residential",
+        "coord": [
+          42.3796149,
+          -71.0608523
+        ]
+      }
+    ],
+    "prescott street": [
+      {
+        "name": "Devens Street",
+        "class": "residential",
+        "coord": [
+          42.3738727,
+          -71.0632879
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.3738727,
+          -71.0632879
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "residential",
+        "coord": [
+          42.3727485,
+          -71.0636473
+        ]
+      }
+    ],
+    "prospect street": [
+      {
+        "name": "Edgeworth Street",
+        "class": "residential",
+        "coord": [
+          42.3759,
+          -71.0582506
+        ]
+      },
+      {
+        "name": "Lowney Way",
+        "class": "residential",
+        "coord": [
+          42.3748287,
+          -71.0574856
+        ]
+      },
+      {
+        "name": "Prospect Terrace",
+        "class": "residential",
+        "coord": [
+          42.3751103,
+          -71.0577024
+        ]
+      },
+      {
+        "name": "Tremont Street",
+        "class": "residential",
+        "coord": [
+          42.3763812,
+          -71.0585829
+        ]
+      }
+    ],
+    "prospect terrace": [
+      {
+        "name": "Prospect Street",
+        "class": "residential",
+        "coord": [
+          42.3751103,
+          -71.0577024
+        ]
+      }
+    ],
+    "putnam street": [
+      {
+        "name": "Common Street",
+        "class": "residential",
+        "coord": [
+          42.3740233,
+          -71.0600531
+        ]
+      },
+      {
+        "name": "Ellwood Street",
+        "class": "residential",
+        "coord": [
+          42.3738024,
+          -71.0598907
+        ]
+      }
+    ],
+    "roland street": [
+      {
+        "name": "Carter Street",
+        "class": "residential",
+        "coord": [
+          42.38176,
+          -71.079126
+        ]
+      },
+      {
+        "name": "Crescent Street",
+        "class": "residential",
+        "coord": [
+          42.3815243,
+          -71.080693
+        ]
+      },
+      {
+        "name": "Crescent Street",
+        "class": "unclassified",
+        "coord": [
+          42.3815298,
+          -71.0806541
+        ]
+      },
+      {
+        "name": "Stark Street",
+        "class": "residential",
+        "coord": [
+          42.381675,
+          -71.079616
+        ]
+      }
+    ],
+    "russell street": [
+      {
+        "name": "Auburn Street",
+        "class": "residential",
+        "coord": [
+          42.3812156,
+          -71.0691527
+        ]
+      },
+      {
+        "name": "Eden Street",
+        "class": "residential",
+        "coord": [
+          42.3801078,
+          -71.0672034
+        ]
+      },
+      {
+        "name": "Mead Street",
+        "class": "residential",
+        "coord": [
+          42.3805115,
+          -71.0679299
+        ]
+      },
+      {
+        "name": "Oak Street",
+        "class": "residential",
+        "coord": [
+          42.3808571,
+          -71.0685371
+        ]
+      },
+      {
+        "name": "Pearl Street",
+        "class": "residential",
+        "coord": [
+          42.3789955,
+          -71.0640665
+        ]
+      },
+      {
+        "name": "Sullivan Street",
+        "class": "residential",
+        "coord": [
+          42.3793303,
+          -71.0649228
+        ]
+      },
+      {
+        "name": "Walker Street",
+        "class": "residential",
+        "coord": [
+          42.379725,
+          -71.066349
+        ]
+      }
+    ],
+    "rutherford avenue": [
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.3839193,
+          -71.0738144
+        ]
+      },
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.3839433,
+          -71.0731579
+        ]
+      },
+      {
+        "name": "Arrow Street",
+        "class": "residential",
+        "coord": [
+          42.3727335,
+          -71.0641329
+        ]
+      },
+      {
+        "name": "Baldwin Street",
+        "class": "residential",
+        "coord": [
+          42.3809351,
+          -71.0715394
+        ]
+      },
+      {
+        "name": "Bunker Hill Industrial Park",
+        "class": "unclassified",
+        "coord": [
+          42.3794221,
+          -71.0710652
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "unclassified",
+        "coord": [
+          42.3831195,
+          -71.0732747
+        ]
+      },
+      {
+        "name": "Devens Street",
+        "class": "residential",
+        "coord": [
+          42.3733538,
+          -71.0641525
+        ]
+      },
+      {
+        "name": "Essex Street",
+        "class": "residential",
+        "coord": [
+          42.3796044,
+          -71.0707522
+        ]
+      },
+      {
+        "name": "Hood Park Drive",
+        "class": "residential",
+        "coord": [
+          42.3807453,
+          -71.0718719
+        ]
+      },
+      {
+        "name": "Mishawum Street",
+        "class": "residential",
+        "coord": [
+          42.3830694,
+          -71.0728107
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3718933,
+          -71.0637406
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3770404,
+          -71.0695693
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.377157,
+          -71.0693773
+        ]
+      },
+      {
+        "name": "Sullivan Square Underpass",
+        "class": "primary",
+        "coord": [
+          42.3779869,
+          -71.0701548
+        ]
+      },
+      {
+        "name": "Sullivan Square Underpass",
+        "class": "primary",
+        "coord": [
+          42.3780731,
+          -71.0699035
+        ]
+      },
+      {
+        "name": "Supertest Street",
+        "class": "unclassified",
+        "coord": [
+          42.3824269,
+          -71.0728685
+        ]
+      },
+      {
+        "name": "Union Street",
+        "class": "residential",
+        "coord": [
+          42.3739844,
+          -71.0653156
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "residential",
+        "coord": [
+          42.3727335,
+          -71.0641329
+        ]
+      }
+    ],
+    "sackville street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.380298,
+          -71.065339
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3818776,
+          -71.0641863
+        ]
+      }
+    ],
+    "saint martin street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3819435,
+          -71.0686322
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3833114,
+          -71.0675931
+        ]
+      },
+      {
+        "name": "Wellington Place",
+        "class": "residential",
+        "coord": [
+          42.382888,
+          -71.0679073
+        ]
+      }
+    ],
+    "salem street": [
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.3778788,
+          -71.0656241
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3772187,
+          -71.0666875
+        ]
+      },
+      {
+        "name": "Salem Street Avenue",
+        "class": "residential",
+        "coord": [
+          42.3775123,
+          -71.0662287
+        ]
+      }
+    ],
+    "salem street avenue": [
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.378101,
+          -71.065917
+        ]
+      },
+      {
+        "name": "Salem Street",
+        "class": "residential",
+        "coord": [
+          42.3775123,
+          -71.0662287
+        ]
+      }
+    ],
+    "samuel morse way": [
+      {
+        "name": "Corey Street",
+        "class": "residential",
+        "coord": [
+          42.3778528,
+          -71.0561655
+        ]
+      },
+      {
+        "name": "Decatur Street",
+        "class": "residential",
+        "coord": [
+          42.3774059,
+          -71.0547817
+        ]
+      }
+    ],
+    "school house court": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3828315,
+          -71.0704442
+        ]
+      },
+      {
+        "name": "Charles Street",
+        "class": "residential",
+        "coord": [
+          42.382755,
+          -71.0704935
+        ]
+      }
+    ],
+    "school street": [
+      {
+        "name": "Bartlett Street",
+        "class": "residential",
+        "coord": [
+          42.3782548,
+          -71.0638966
+        ]
+      },
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3792196,
+          -71.063196
+        ]
+      },
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.377317,
+          -71.0649616
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3765478,
+          -71.0658077
+        ]
+      },
+      {
+        "name": "Summer Street",
+        "class": "residential",
+        "coord": [
+          42.3777037,
+          -71.0644852
+        ]
+      },
+      {
+        "name": "West School Street",
+        "class": "residential",
+        "coord": [
+          42.3765478,
+          -71.0658077
+        ]
+      }
+    ],
+    "second avenue": [
+      {
+        "name": "Third Street",
+        "class": "unclassified",
+        "coord": [
+          42.3738083,
+          -71.0571247
+        ]
+      },
+      {
+        "name": "Thirteenth Street",
+        "class": "residential",
+        "coord": [
+          42.377398,
+          -71.051423
+        ]
+      }
+    ],
+    "seminary street": [
+      {
+        "name": "Austin Street",
+        "class": "secondary",
+        "coord": [
+          42.3751921,
+          -71.0649067
+        ]
+      },
+      {
+        "name": "Lawrence Street",
+        "class": "residential",
+        "coord": [
+          42.3746321,
+          -71.0652095
+        ]
+      }
+    ],
+    "seventh street": [
+      {
+        "name": "First Avenue",
+        "class": "residential",
+        "coord": [
+          42.3752583,
+          -71.0538688
+        ]
+      },
+      {
+        "name": "Third Avenue",
+        "class": "residential",
+        "coord": [
+          42.3758465,
+          -71.0545601
+        ]
+      }
+    ],
+    "sheafe street": [
+      {
+        "name": "Cook Street",
+        "class": "residential",
+        "coord": [
+          42.3803082,
+          -71.0641563
+        ]
+      }
+    ],
+    "sherman street": [
+      {
+        "name": "Arlington Avenue",
+        "class": "residential",
+        "coord": [
+          42.3879559,
+          -71.076147
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "primary",
+        "coord": [
+          42.3860705,
+          -71.0765826
+        ]
+      },
+      {
+        "name": "Temple Street",
+        "class": "residential",
+        "coord": [
+          42.3868012,
+          -71.0766784
+        ]
+      }
+    ],
+    "short street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3828824,
+          -71.0705488
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3837258,
+          -71.0699359
+        ]
+      }
+    ],
+    "sixteenth street": [
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3794555,
+          -71.0520588
+        ]
+      },
+      {
+        "name": "Fifth Avenue",
+        "class": "residential",
+        "coord": [
+          42.3790568,
+          -71.0509879
+        ]
+      },
+      {
+        "name": "First Avenue",
+        "class": "residential",
+        "coord": [
+          42.3779329,
+          -71.0495932
+        ]
+      },
+      {
+        "name": "Third Avenue",
+        "class": "residential",
+        "coord": [
+          42.3785948,
+          -71.0503519
+        ]
+      }
+    ],
+    "sixth street": [
+      {
+        "name": "First Avenue",
+        "class": "residential",
+        "coord": [
+          42.3748039,
+          -71.0545923
+        ]
+      },
+      {
+        "name": "Terry Ring Way",
+        "class": "unclassified",
+        "coord": [
+          42.3748039,
+          -71.0545923
+        ]
+      },
+      {
+        "name": "Third Avenue",
+        "class": "residential",
+        "coord": [
+          42.3754044,
+          -71.0552341
+        ]
+      }
+    ],
+    "soley street": [
+      {
+        "name": "Monument Square",
+        "class": "residential",
+        "coord": [
+          42.3755455,
+          -71.0606904
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "secondary",
+        "coord": [
+          42.3738424,
+          -71.0618856
+        ]
+      }
+    ],
+    "spice street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3835702,
+          -71.0753958
+        ]
+      },
+      {
+        "name": "D Street",
+        "class": "unclassified",
+        "coord": [
+          42.3824068,
+          -71.0744527
+        ]
+      }
+    ],
+    "stacey street": [
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3772894,
+          -71.0667717
+        ]
+      }
+    ],
+    "stack street": [
+      {
+        "name": "Hood Park Drive",
+        "class": "residential",
+        "coord": [
+          42.3798245,
+          -71.0732914
+        ]
+      },
+      {
+        "name": "Supertest Street",
+        "class": "unclassified",
+        "coord": [
+          42.3815061,
+          -71.074439
+        ]
+      }
+    ],
+    "stark street": [
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3822865,
+          -71.0797425
+        ]
+      },
+      {
+        "name": "Roland Street",
+        "class": "residential",
+        "coord": [
+          42.381675,
+          -71.079616
+        ]
+      }
+    ],
+    "sullivan square underpass": [
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.3873084,
+          -71.0723278
+        ]
+      },
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.387513,
+          -71.072404
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3779869,
+          -71.0701548
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3780731,
+          -71.0699035
+        ]
+      }
+    ],
+    "sullivan street": [
+      {
+        "name": "Bartlett Street",
+        "class": "residential",
+        "coord": [
+          42.3788831,
+          -71.0652329
+        ]
+      },
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3798663,
+          -71.0644891
+        ]
+      },
+      {
+        "name": "Cook Street",
+        "class": "residential",
+        "coord": [
+          42.3798663,
+          -71.0644891
+        ]
+      },
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.3783483,
+          -71.0662095
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.377767,
+          -71.0673182
+        ]
+      },
+      {
+        "name": "Russell Street",
+        "class": "residential",
+        "coord": [
+          42.3793303,
+          -71.0649228
+        ]
+      },
+      {
+        "name": "Wall Street",
+        "class": "residential",
+        "coord": [
+          42.3796348,
+          -71.0646904
+        ]
+      },
+      {
+        "name": "Wesley Street",
+        "class": "residential",
+        "coord": [
+          42.3785357,
+          -71.0658455
+        ]
+      }
+    ],
+    "summer street": [
+      {
+        "name": "Elm Street",
+        "class": "residential",
+        "coord": [
+          42.3773253,
+          -71.0638649
+        ]
+      },
+      {
+        "name": "School Street",
+        "class": "residential",
+        "coord": [
+          42.3777037,
+          -71.0644852
+        ]
+      }
+    ],
+    "supertest street": [
+      {
+        "name": "Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.3824269,
+          -71.0728685
+        ]
+      },
+      {
+        "name": "Stack Street",
+        "class": "unclassified",
+        "coord": [
+          42.3815061,
+          -71.074439
+        ]
+      }
+    ],
+    "temple street": [
+      {
+        "name": "Dorrance Street",
+        "class": "residential",
+        "coord": [
+          42.386295,
+          -71.075614
+        ]
+      },
+      {
+        "name": "Sherman Street",
+        "class": "residential",
+        "coord": [
+          42.3868012,
+          -71.0766784
+        ]
+      }
+    ],
+    "terminal street": [
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3808928,
+          -71.0516637
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.3807848,
+          -71.0615923
+        ]
+      }
+    ],
+    "terry ring way": [
+      {
+        "name": "First Avenue",
+        "class": "residential",
+        "coord": [
+          42.3748039,
+          -71.0545923
+        ]
+      },
+      {
+        "name": "Sixth Street",
+        "class": "residential",
+        "coord": [
+          42.3748039,
+          -71.0545923
+        ]
+      }
+    ],
+    "third avenue": [
+      {
+        "name": "Ninth Street",
+        "class": "residential",
+        "coord": [
+          42.3767389,
+          -71.053128
+        ]
+      },
+      {
+        "name": "Seventh Street",
+        "class": "residential",
+        "coord": [
+          42.3758465,
+          -71.0545601
+        ]
+      },
+      {
+        "name": "Sixteenth Street",
+        "class": "residential",
+        "coord": [
+          42.3785948,
+          -71.0503519
+        ]
+      },
+      {
+        "name": "Sixth Street",
+        "class": "residential",
+        "coord": [
+          42.3754044,
+          -71.0552341
+        ]
+      },
+      {
+        "name": "Thirteenth Street",
+        "class": "residential",
+        "coord": [
+          42.377682,
+          -71.05172
+        ]
+      }
+    ],
+    "third street": [
+      {
+        "name": "First Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3733998,
+          -71.0566481
+        ]
+      },
+      {
+        "name": "First Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3734534,
+          -71.0565522
+        ]
+      },
+      {
+        "name": "Second Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3738083,
+          -71.0571247
+        ]
+      }
+    ],
+    "thirteenth street": [
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3787816,
+          -71.0525904
+        ]
+      },
+      {
+        "name": "Fifth Avenue",
+        "class": "residential",
+        "coord": [
+          42.378295,
+          -71.052201
+        ]
+      },
+      {
+        "name": "First Avenue",
+        "class": "residential",
+        "coord": [
+          42.3770428,
+          -71.0510267
+        ]
+      },
+      {
+        "name": "Fourth Avenue",
+        "class": "residential",
+        "coord": [
+          42.377961,
+          -71.052044
+        ]
+      },
+      {
+        "name": "Second Avenue",
+        "class": "residential",
+        "coord": [
+          42.377398,
+          -71.051423
+        ]
+      },
+      {
+        "name": "Third Avenue",
+        "class": "residential",
+        "coord": [
+          42.377682,
+          -71.05172
+        ]
+      }
+    ],
+    "thompson square": [
+      {
+        "name": "Dexter Row",
+        "class": "secondary",
+        "coord": [
+          42.3751099,
+          -71.0637042
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.374989,
+          -71.0639899
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "secondary",
+        "coord": [
+          42.3751099,
+          -71.0637042
+        ]
+      }
+    ],
+    "tibbett's town way": [
+      {
+        "name": "Essex Street",
+        "class": "residential",
+        "coord": [
+          42.378893,
+          -71.069021
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3784809,
+          -71.0681369
+        ]
+      }
+    ],
+    "tremont street": [
+      {
+        "name": "Edgeworth Street",
+        "class": "residential",
+        "coord": [
+          42.3761732,
+          -71.0578605
+        ]
+      },
+      {
+        "name": "Lexington Street",
+        "class": "residential",
+        "coord": [
+          42.3766626,
+          -71.0597082
+        ]
+      },
+      {
+        "name": "Lowney Way",
+        "class": "residential",
+        "coord": [
+          42.3754524,
+          -71.0567146
+        ]
+      },
+      {
+        "name": "Monument Square",
+        "class": "residential",
+        "coord": [
+          42.3766626,
+          -71.0597082
+        ]
+      },
+      {
+        "name": "Prospect Street",
+        "class": "residential",
+        "coord": [
+          42.3763812,
+          -71.0585829
+        ]
+      }
+    ],
+    "trenton street": [
+      {
+        "name": "Bartlett Street",
+        "class": "residential",
+        "coord": [
+          42.377427,
+          -71.0621307
+        ]
+      },
+      {
+        "name": "Bunker Hill Street",
+        "class": "secondary",
+        "coord": [
+          42.3785275,
+          -71.0612601
+        ]
+      }
+    ],
+    "tufts street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "residential",
+        "coord": [
+          42.3770842,
+          -71.0570587
+        ]
+      },
+      {
+        "name": "Medford Street",
+        "class": "secondary",
+        "coord": [
+          42.379147,
+          -71.05671
+        ]
+      },
+      {
+        "name": "O'Reilly Way",
+        "class": "residential",
+        "coord": [
+          42.377567,
+          -71.0569654
+        ]
+      },
+      {
+        "name": "Vine Street",
+        "class": "secondary",
+        "coord": [
+          42.3770842,
+          -71.0570587
+        ]
+      },
+      {
+        "name": "Walford Way",
+        "class": "residential",
+        "coord": [
+          42.3784065,
+          -71.0568335
+        ]
+      }
+    ],
+    "union street": [
+      {
+        "name": "Lawrence Street",
+        "class": "residential",
+        "coord": [
+          42.3741521,
+          -71.0648833
+        ]
+      },
+      {
+        "name": "Lynde Street",
+        "class": "residential",
+        "coord": [
+          42.3734021,
+          -71.0664029
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3745831,
+          -71.0637155
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "residential",
+        "coord": [
+          42.3739844,
+          -71.0653156
+        ]
+      },
+      {
+        "name": "Washington Street",
+        "class": "residential",
+        "coord": [
+          42.3736546,
+          -71.0661997
+        ]
+      }
+    ],
+    "vine street": [
+      {
+        "name": "Bunker Hill Street",
+        "class": "residential",
+        "coord": [
+          42.3770842,
+          -71.0570587
+        ]
+      },
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.376225,
+          -71.055231
+        ]
+      },
+      {
+        "name": "Decatur Street",
+        "class": "residential",
+        "coord": [
+          42.376509,
+          -71.05571
+        ]
+      },
+      {
+        "name": "Hunter Street",
+        "class": "residential",
+        "coord": [
+          42.3767654,
+          -71.0561615
+        ]
+      },
+      {
+        "name": "Moulton Street",
+        "class": "residential",
+        "coord": [
+          42.3769394,
+          -71.0564846
+        ]
+      },
+      {
+        "name": "Tufts Street",
+        "class": "residential",
+        "coord": [
+          42.3770842,
+          -71.0570587
+        ]
+      }
+    ],
+    "walford way": [
+      {
+        "name": "Carney Court",
+        "class": "residential",
+        "coord": [
+          42.3791446,
+          -71.0597039
+        ]
+      },
+      {
+        "name": "Carney Court",
+        "class": "residential",
+        "coord": [
+          42.3793086,
+          -71.0601044
+        ]
+      },
+      {
+        "name": "Corey Street",
+        "class": "residential",
+        "coord": [
+          42.3784031,
+          -71.0560503
+        ]
+      },
+      {
+        "name": "Decatur Street",
+        "class": "residential",
+        "coord": [
+          42.3779016,
+          -71.0542731
+        ]
+      },
+      {
+        "name": "McNulty Court",
+        "class": "residential",
+        "coord": [
+          42.3784475,
+          -71.0577293
+        ]
+      },
+      {
+        "name": "Monument Street",
+        "class": "residential",
+        "coord": [
+          42.3789662,
+          -71.0593525
+        ]
+      },
+      {
+        "name": "Monument Street",
+        "class": "residential",
+        "coord": [
+          42.3789938,
+          -71.0593356
+        ]
+      },
+      {
+        "name": "O'Meara Court",
+        "class": "residential",
+        "coord": [
+          42.3786867,
+          -71.0585606
+        ]
+      },
+      {
+        "name": "Polk Street",
+        "class": "residential",
+        "coord": [
+          42.3796149,
+          -71.0608523
+        ]
+      },
+      {
+        "name": "Tufts Street",
+        "class": "residential",
+        "coord": [
+          42.3784065,
+          -71.0568335
+        ]
+      }
+    ],
+    "walker street": [
+      {
+        "name": "Bartlett Street",
+        "class": "residential",
+        "coord": [
+          42.379362,
+          -71.06665
+        ]
+      },
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.37892,
+          -71.067043
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3782208,
+          -71.0678412
+        ]
+      },
+      {
+        "name": "Russell Street",
+        "class": "residential",
+        "coord": [
+          42.379725,
+          -71.066349
+        ]
+      },
+      {
+        "name": "Wall Street",
+        "class": "residential",
+        "coord": [
+          42.3800475,
+          -71.0661242
+        ]
+      }
+    ],
+    "wall street": [
+      {
+        "name": "Sullivan Street",
+        "class": "residential",
+        "coord": [
+          42.3796348,
+          -71.0646904
+        ]
+      },
+      {
+        "name": "Walker Street",
+        "class": "residential",
+        "coord": [
+          42.3800475,
+          -71.0661242
+        ]
+      }
+    ],
+    "wallace court": [
+      {
+        "name": "Winthrop Street",
+        "class": "residential",
+        "coord": [
+          42.3752349,
+          -71.0603005
+        ]
+      }
+    ],
+    "warren avenue": [
+      {
+        "name": "Charles River Avenue",
+        "class": "unclassified",
+        "coord": [
+          42.3708688,
+          -71.0610292
+        ]
+      },
+      {
+        "name": "Constitution Road",
+        "class": "unclassified",
+        "coord": [
+          42.3708688,
+          -71.0610292
+        ]
+      }
+    ],
+    "warren street": [
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3721283,
+          -71.0604126
+        ]
+      },
+      {
+        "name": "Chelsea Street",
+        "class": "secondary",
+        "coord": [
+          42.3722262,
+          -71.0604775
+        ]
+      },
+      {
+        "name": "Church Court",
+        "class": "residential",
+        "coord": [
+          42.3751015,
+          -71.0636901
+        ]
+      },
+      {
+        "name": "Constitution Plaza",
+        "class": "unclassified",
+        "coord": [
+          42.3717093,
+          -71.060138
+        ]
+      },
+      {
+        "name": "Constitution Road",
+        "class": "residential",
+        "coord": [
+          42.3717093,
+          -71.060138
+        ]
+      },
+      {
+        "name": "Cordis Street",
+        "class": "residential",
+        "coord": [
+          42.3747077,
+          -71.0630975
+        ]
+      },
+      {
+        "name": "Dexter Row",
+        "class": "secondary",
+        "coord": [
+          42.3751099,
+          -71.0637042
+        ]
+      },
+      {
+        "name": "Henley Street",
+        "class": "residential",
+        "coord": [
+          42.3729836,
+          -71.0609542
+        ]
+      },
+      {
+        "name": "Monument Avenue",
+        "class": "residential",
+        "coord": [
+          42.3741217,
+          -71.0622678
+        ]
+      },
+      {
+        "name": "Park Street",
+        "class": "secondary",
+        "coord": [
+          42.3729836,
+          -71.0609542
+        ]
+      },
+      {
+        "name": "Pleasant Street",
+        "class": "residential",
+        "coord": [
+          42.374485,
+          -71.0627722
+        ]
+      },
+      {
+        "name": "Soley Street",
+        "class": "residential",
+        "coord": [
+          42.3738424,
+          -71.0618856
+        ]
+      },
+      {
+        "name": "Thompson Square",
+        "class": "tertiary",
+        "coord": [
+          42.3751099,
+          -71.0637042
+        ]
+      },
+      {
+        "name": "Winthrop Street",
+        "class": "residential",
+        "coord": [
+          42.3736673,
+          -71.0616469
+        ]
+      }
+    ],
+    "washington place": [
+      {
+        "name": "Washington Street",
+        "class": "residential",
+        "coord": [
+          42.3731955,
+          -71.0651623
+        ]
+      }
+    ],
+    "washington street": [
+      {
+        "name": "Arrow Street",
+        "class": "residential",
+        "coord": [
+          42.3727335,
+          -71.0641329
+        ]
+      },
+      {
+        "name": "Cambridge Street",
+        "class": "primary",
+        "coord": [
+          42.3821785,
+          -71.0806813
+        ]
+      },
+      {
+        "name": "Crescent Street",
+        "class": "residential",
+        "coord": [
+          42.3821495,
+          -71.0808776
+        ]
+      },
+      {
+        "name": "Harvard Street",
+        "class": "residential",
+        "coord": [
+          42.3727629,
+          -71.0631796
+        ]
+      },
+      {
+        "name": "Prescott Street",
+        "class": "residential",
+        "coord": [
+          42.3727485,
+          -71.0636473
+        ]
+      },
+      {
+        "name": "Rutherford Avenue",
+        "class": "residential",
+        "coord": [
+          42.3727335,
+          -71.0641329
+        ]
+      },
+      {
+        "name": "Union Street",
+        "class": "residential",
+        "coord": [
+          42.3736546,
+          -71.0661997
+        ]
+      },
+      {
+        "name": "Washington Place",
+        "class": "residential",
+        "coord": [
+          42.3731955,
+          -71.0651623
+        ]
+      }
+    ],
+    "wellington place": [
+      {
+        "name": "Saint Martin Street",
+        "class": "residential",
+        "coord": [
+          42.382888,
+          -71.0679073
+        ]
+      }
+    ],
+    "wesley street": [
+      {
+        "name": "Pearl Street",
+        "class": "residential",
+        "coord": [
+          42.37796,
+          -71.0651585
+        ]
+      },
+      {
+        "name": "Sullivan Street",
+        "class": "residential",
+        "coord": [
+          42.3785357,
+          -71.0658455
+        ]
+      }
+    ],
+    "west school street": [
+      {
+        "name": "Lawrence Street",
+        "class": "residential",
+        "coord": [
+          42.3760027,
+          -71.0663873
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3765478,
+          -71.0658077
+        ]
+      },
+      {
+        "name": "New Rutherford Avenue",
+        "class": "primary",
+        "coord": [
+          42.375097,
+          -71.068052
+        ]
+      },
+      {
+        "name": "School Street",
+        "class": "residential",
+        "coord": [
+          42.3765478,
+          -71.0658077
+        ]
+      }
+    ],
+    "west street": [
+      {
+        "name": "Alford Street",
+        "class": "primary",
+        "coord": [
+          42.3850981,
+          -71.0736888
+        ]
+      },
+      {
+        "name": "Beacham Street",
+        "class": "residential",
+        "coord": [
+          42.3857392,
+          -71.074538
+        ]
+      }
+    ],
+    "winthrop street": [
+      {
+        "name": "Adams Street",
+        "class": "residential",
+        "coord": [
+          42.3748097,
+          -71.0602051
+        ]
+      },
+      {
+        "name": "Common Street",
+        "class": "residential",
+        "coord": [
+          42.374298,
+          -71.060789
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3734105,
+          -71.0623014
+        ]
+      },
+      {
+        "name": "Monument Court",
+        "class": "residential",
+        "coord": [
+          42.375274,
+          -71.0603328
+        ]
+      },
+      {
+        "name": "Monument Square",
+        "class": "residential",
+        "coord": [
+          42.3753645,
+          -71.0604075
+        ]
+      },
+      {
+        "name": "Wallace Court",
+        "class": "residential",
+        "coord": [
+          42.3752349,
+          -71.0603005
+        ]
+      },
+      {
+        "name": "Warren Street",
+        "class": "secondary",
+        "coord": [
+          42.3736673,
+          -71.0616469
+        ]
+      }
+    ],
+    "wood street": [
+      {
+        "name": "High Street",
+        "class": "residential",
+        "coord": [
+          42.376635,
+          -71.0637583
+        ]
+      },
+      {
+        "name": "Main Street",
+        "class": "secondary",
+        "coord": [
+          42.3757494,
+          -71.0647222
+        ]
+      }
+    ]
+  }
+}

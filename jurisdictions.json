@@ -1,7 +1,33 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-22T04:23:42Z",
+  "generated_at": "2026-04-22T05:14:03Z",
   "jurisdictions": [
+    {
+      "slug": "boston-charlestown",
+      "display_name": "Charlestown",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.3694566,
+        -71.0808776,
+        42.39482925300007,
+        -71.04948895299998
+      ],
+      "has_hydrants": true
+    },
+    {
+      "slug": "boston-east-boston",
+      "display_name": "East Boston",
+      "state": "MA",
+      "version": 1,
+      "bbox": [
+        42.35696040300007,
+        -71.04404519299999,
+        42.3946807,
+        -70.9946698
+      ],
+      "has_hydrants": true
+    },
     {
       "slug": "boston-ma",
       "display_name": "Boston",

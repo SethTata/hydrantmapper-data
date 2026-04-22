@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-charlestown",
+  "display_name": "Charlestown",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.3694566,
+    -71.0808776,
+    42.39482925300007,
+    -71.04948895299998
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 118980,
+      "sha256": "7f3c0913b3219a938f666907659fd2e55bc99b26a0d27b20c7b85821ef77e957"
+    },
+    "hydrants.csv": {
+      "size_bytes": 130936,
+      "sha256": "778152d9c857e3bacd304b6fec3f18fa97006667ccd1849e071c63dbd7271387"
+    }
+  }
+}

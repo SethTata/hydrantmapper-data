@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "boston-east-boston",
+  "display_name": "East Boston",
+  "state": "MA",
+  "last_updated": "2026-04-22T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.35696040300007,
+    -71.04404519299999,
+    42.3946807,
+    -70.9946698
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "intersections.json": {
+      "size_bytes": 147395,
+      "sha256": "4ddbc485aca590281c787301c9f10e4cd0fa9bbd9d7a280bb017bb2e00c4ec96"
+    },
+    "hydrants.csv": {
+      "size_bytes": 232508,
+      "sha256": "eaffb57b21e3efc8a682fba6797e53e60422155490971b92776aa3c5d435946c"
+    }
+  }
+}
