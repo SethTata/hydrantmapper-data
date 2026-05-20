@@ -3,8 +3,8 @@
   "jurisdiction": "boston-allston",
   "display_name": "Allston",
   "state": "MA",
-  "last_updated": "2026-04-22T00:00:00Z",
-  "version": 1,
+  "last_updated": "2026-05-20T00:00:00Z",
+  "version": 2,
   "bbox": [
     42.34606098100005,
     -71.147079,
@@ -19,8 +19,8 @@
       "sha256": "f6c79545e03cf90cf513be78b8fa6885c3789c2a5eb56b69f14a6fd0821478de"
     },
     "hydrants.csv": {
-      "size_bytes": 122041,
-      "sha256": "1e1ba267fb743fa9cb8e39d0fc978ef8c61cfa7081d18d00c53ce5d704b5645c"
+      "size_bytes": 195381,
+      "sha256": "8b1409ba971884740efbc4584e85f9fdf2ceebe5b168e2b506149a62e2daa2f2"
     }
   }
 }

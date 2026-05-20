@@ -3,8 +3,8 @@
   "jurisdiction": "boston-hyde-park",
   "display_name": "Hyde Park",
   "state": "MA",
-  "last_updated": "2026-04-22T00:00:00Z",
-  "version": 1,
+  "last_updated": "2026-05-20T00:00:00Z",
+  "version": 2,
   "bbox": [
     42.23222828000007,
     -71.1461315,
@@ -19,8 +19,8 @@
       "sha256": "d1e2628ff46f0e3345fee9f4e27f23ee3829873ed392c1e6426e8e79514b8874"
     },
     "hydrants.csv": {
-      "size_bytes": 283940,
-      "sha256": "41089c11c018f4c496ea081a9bbc5227be2922ac149f7fda3091edd1ffe54af4"
+      "size_bytes": 446804,
+      "sha256": "5c0a862fc4e7e970848160c37b1be570dd348a2e24a2da3732246776bdd1df17"
     }
   }
 }

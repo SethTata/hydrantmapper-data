@@ -3,8 +3,8 @@
   "jurisdiction": "chelsea-ma",
   "display_name": "Chelsea",
   "state": "MA",
-  "last_updated": "2026-04-19T00:00:00Z",
-  "version": 1,
+  "last_updated": "2026-05-20T00:00:00Z",
+  "version": 2,
   "bbox": [
     42.385731,
     -71.0505485,
@@ -12,11 +12,15 @@
     -71.0132127
   ],
   "state_plane_zone": 4151,
-  "has_hydrants": false,
+  "has_hydrants": true,
   "files": {
     "intersections.json": {
       "size_bytes": 155802,
       "sha256": "375c7ad2cf0c5f27079b00c49659f682b89b7e1f42e27e7c15e846d5e2748b16"
+    },
+    "hydrants.csv": {
+      "size_bytes": 286958,
+      "sha256": "94cdde1292dea5812f5c19bdea99d384b99baf31b2b1ff9ed939525b86a26458"
     }
   }
 }

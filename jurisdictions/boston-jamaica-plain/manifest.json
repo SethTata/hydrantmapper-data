@@ -3,8 +3,8 @@
   "jurisdiction": "boston-jamaica-plain",
   "display_name": "Jamaica Plain",
   "state": "MA",
-  "last_updated": "2026-04-22T00:00:00Z",
-  "version": 1,
+  "last_updated": "2026-05-20T00:00:00Z",
+  "version": 2,
   "bbox": [
     42.284526,
     -71.14006217399998,
@@ -19,8 +19,8 @@
       "sha256": "984eaff4ebbf25545308a91f1c67d6474571eee765913b41a406692b57affef1"
     },
     "hydrants.csv": {
-      "size_bytes": 290269,
-      "sha256": "670fe5304d60ddd642002331c6dbf141ca5896c49e3f2f3a0fe1fd783f5ff43a"
+      "size_bytes": 457037,
+      "sha256": "e32e610c3d7a32fa5853d53430de7429018a87005bef90bd90138adaebf2c381"
     }
   }
 }

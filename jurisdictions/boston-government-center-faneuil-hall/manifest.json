@@ -3,8 +3,8 @@
   "jurisdiction": "boston-government-center-faneuil-hall",
   "display_name": "Government Center/Faneuil Hall",
   "state": "MA",
-  "last_updated": "2026-04-22T00:00:00Z",
-  "version": 1,
+  "last_updated": "2026-05-20T00:00:00Z",
+  "version": 2,
   "bbox": [
     42.358275,
     -71.0628639,
@@ -19,8 +19,8 @@
       "sha256": "aea7ff8ac4dc48c2d7f828977920f770737b4521c994723650f101c40f3a6502"
     },
     "hydrants.csv": {
-      "size_bytes": 26803,
-      "sha256": "81d218ab47b3cd5f441b7d8b455eb7ff5ff1c9e0348c580752d300a33515384d"
+      "size_bytes": 43636,
+      "sha256": "c1fdf87acf884029b6ebc8e11c9aa7a859ca6ee3ba275037d78f8586976df4b4"
     }
   }
 }

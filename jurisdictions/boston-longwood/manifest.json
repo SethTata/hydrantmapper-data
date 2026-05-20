@@ -3,8 +3,8 @@
   "jurisdiction": "boston-longwood",
   "display_name": "Longwood",
   "state": "MA",
-  "last_updated": "2026-04-22T00:00:00Z",
-  "version": 1,
+  "last_updated": "2026-05-20T00:00:00Z",
+  "version": 2,
   "bbox": [
     42.3341716,
     -71.1107093,
@@ -19,8 +19,8 @@
       "sha256": "46d23915a7b17c0c5fce5d10d6765de922cac068c335f95acc40c9b112fef622"
     },
     "hydrants.csv": {
-      "size_bytes": 27526,
-      "sha256": "0f001b2f4e57bd0ecd892d59184851ea687961014ca4242a5985e840af8f5200"
+      "size_bytes": 44419,
+      "sha256": "3a38ee1736f69b19b15e1931797657650ad7c0c05c785b92d5d847b5d9957119"
     }
   }
 }

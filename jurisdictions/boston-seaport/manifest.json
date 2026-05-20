@@ -3,8 +3,8 @@
   "jurisdiction": "boston-seaport",
   "display_name": "Seaport",
   "state": "MA",
-  "last_updated": "2026-04-22T00:00:00Z",
-  "version": 1,
+  "last_updated": "2026-05-20T00:00:00Z",
+  "version": 2,
   "bbox": [
     42.3372851,
     -71.0572292,
@@ -19,8 +19,8 @@
       "sha256": "0c6b6f0b9dca9f7112a3a0a9074029780005c544fdb909578f835b853dc1344e"
     },
     "hydrants.csv": {
-      "size_bytes": 96885,
-      "sha256": "9418f8cea85cece85d0a1edca1fa066757a557088261982f1ec32821fb39700c"
+      "size_bytes": 160498,
+      "sha256": "229d93c0dc7095441992bd406368ac2ab6b328cb1b1fefc12be3b488905ed7dd"
     }
   }
 }

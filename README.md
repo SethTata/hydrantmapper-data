@@ -28,8 +28,45 @@ python -m scripts.cli registry
 python -m scripts.cli run-all  # does all three
 ```
 
+## Address enrichment previews
+
+Use `scripts.address_enrichment` to generate reviewed hydrant CSV candidates
+with readable address labels and confidence metadata. Outputs should go under
+`build/address-enrichment/` until the labels are reviewed and promoted into
+jurisdiction packs.
+
+```bash
+python3 -m scripts.address_enrichment enrich-pack \
+  --pack jurisdictions/boston-allston \
+  --source boston-sam \
+  --output build/address-enrichment/boston-allston-hydrants.csv
+
+python3 -m scripts.address_enrichment enrich-csv \
+  --input "/Users/seth/Desktop/HydrantMapper/Hydrant Map Data Collection/hydrant_data/chelsea_addressed.csv" \
+  --source massgis-chelsea \
+  --intersections jurisdictions/chelsea-ma/intersections.json \
+  --bbox 42.385731,-71.0505485,42.4130614,-71.0132127 \
+  --output build/address-enrichment/chelsea-ma-hydrants.csv
+
+python3 -m scripts.address_enrichment enrich-boston-root \
+  --jurisdictions-root jurisdictions \
+  --output-root build/address-enrichment
+
+python3 -m scripts.address_enrichment promote-boston-root \
+  --input-root build/address-enrichment \
+  --jurisdictions-root jurisdictions \
+  --last-updated 2026-05-20T00:00:00Z \
+  --version 2
+
+python3 -m scripts.address_enrichment promote-csv \
+  --input build/address-enrichment/chelsea-ma-hydrants.csv \
+  --pack jurisdictions/chelsea-ma \
+  --last-updated 2026-05-20T00:00:00Z \
+  --version 2
+```
+
 ## Running tests
 
 ```bash
-python -m pytest -v
+python3 -m pytest -v
 ```

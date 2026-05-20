@@ -3,8 +3,8 @@
   "jurisdiction": "boston-dorchester",
   "display_name": "Dorchester",
   "state": "MA",
-  "last_updated": "2026-04-22T00:00:00Z",
-  "version": 1,
+  "last_updated": "2026-05-20T00:00:00Z",
+  "version": 2,
   "bbox": [
     42.2702803,
     -71.0945835,
@@ -19,8 +19,8 @@
       "sha256": "4dce68476d659bfc21a0f3eaf2a4ad87ca20a09e14add9da1e6f5121bde13103"
     },
     "hydrants.csv": {
-      "size_bytes": 711172,
-      "sha256": "208c855e3ee74cc2ccded4660fdc4a0c3cd4aeb4593be27ecda8c99f2e56ba50"
+      "size_bytes": 1119635,
+      "sha256": "2413a782ddbc2671d2197e65cdd4cab9bc9d7ea8bc3dda6af62d929bc2c6b0c3"
     }
   }
 }

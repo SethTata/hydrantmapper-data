@@ -3,8 +3,8 @@
   "jurisdiction": "boston-fenway",
   "display_name": "Fenway",
   "state": "MA",
-  "last_updated": "2026-04-22T00:00:00Z",
-  "version": 1,
+  "last_updated": "2026-05-20T00:00:00Z",
+  "version": 2,
   "bbox": [
     42.3351533,
     -71.1105723,
@@ -19,8 +19,8 @@
       "sha256": "e6ce2daa3a3e37fa7cdc41a9187fbe182f4078e8df0d65e1d63d52fdae7c42ac"
     },
     "hydrants.csv": {
-      "size_bytes": 86200,
-      "sha256": "3e49d915dae3ae3e7549bc21d68878ba1b8cdaa42aa76e73c397c0fd15291161"
+      "size_bytes": 139715,
+      "sha256": "d6f701a17d5d27558a341a6b191625bf8da267c2bd3cdfbef341d1c2287daf19"
     }
   }
 }
