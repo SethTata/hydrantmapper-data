@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "stoneham-ma",
+  "display_name": "Stoneham",
+  "state": "MA",
+  "last_updated": "2026-05-21T00:00:00Z",
+  "version": 1,
+  "bbox": [
+    42.4498082,
+    -71.12168084,
+    42.50209011,
+    -71.07557211
+  ],
+  "state_plane_zone": 4151,
+  "has_hydrants": true,
+  "files": {
+    "hydrants.csv": {
+      "size_bytes": 381423,
+      "sha256": "d7ded0a50b0742286da2508574f846ef1cd47d6d37edafe10ddb143f52ea3fda"
+    }
+  }
+}

@@ -47,6 +47,15 @@ SOURCE_CONFIGS: dict[str, dict[str, str]] = {
             "MASTER_ADDRESS_ID"
         ),
     },
+    "massgis-stoneham": {
+        "endpoint": MASSGIS_MASTER_ADDRESS_ENDPOINT,
+        "where": "GEOGRAPHIC_TOWN = 'STONEHAM'",
+        "out_fields": (
+            "OBJECTID,FULL_NUMBER_STANDARDIZED,STREET_NAME,BUILDING_NAME,"
+            "GEOGRAPHIC_TOWN,COMMUNITY_NAME,PC_NAME,POSTCODE,POINT_TYPE,"
+            "MASTER_ADDRESS_ID"
+        ),
+    },
 }
 
 ENRICHMENT_FIELDS = [
