@@ -3,20 +3,25 @@
   "jurisdiction": "lynn-ma",
   "display_name": "Lynn",
   "state": "MA",
-  "last_updated": "2026-04-19T00:00:00Z",
-  "version": 1,
+  "last_updated": "2026-05-22T00:00:00Z",
+  "version": 2,
   "bbox": [
-    42.443645,
-    -70.9959489,
-    42.511513,
-    -70.9222133
+    42.44667264,
+    -70.99553248,
+    42.51185542,
+    -70.92239327
   ],
   "state_plane_zone": 4151,
-  "has_hydrants": false,
+  "has_hydrants": true,
   "files": {
     "intersections.json": {
       "size_bytes": 622092,
       "sha256": "9ede5df7821342da29978dcff2d9baa5ef6bfbc2455f6b6e0c08605a53ea0f22"
+    },
+    "hydrants.csv": {
+      "size_bytes": 962484,
+      "sha256": "7a1f7b147d75671e29dc741fa8caea8ddeb82ab709537800a7c12fa27fe81ee4"
     }
-  }
+  },
+  "source_note": "LWSC Hydrants.zip received 2026-05-22. Confirm redistribution rights before public publishing."
 }
