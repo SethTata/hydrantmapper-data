@@ -4,7 +4,7 @@
   "display_name": "Lynn",
   "state": "MA",
   "last_updated": "2026-05-22T00:00:00Z",
-  "version": 2,
+  "version": 3,
   "bbox": [
     42.44667264,
     -70.99553248,
@@ -19,9 +19,9 @@
       "sha256": "9ede5df7821342da29978dcff2d9baa5ef6bfbc2455f6b6e0c08605a53ea0f22"
     },
     "hydrants.csv": {
-      "size_bytes": 962484,
-      "sha256": "7a1f7b147d75671e29dc741fa8caea8ddeb82ab709537800a7c12fa27fe81ee4"
+      "size_bytes": 1137529,
+      "sha256": "e5e02083846625b727a28dd2ca5f25526e079ec941d05fee3e29798d61484fa9"
     }
   },
-  "source_note": "LWSC Hydrants.zip received 2026-05-22. Confirm redistribution rights before public publishing."
+  "source_note": "LWSC Hydrants.zip received 2026-05-22. Blank LWSC labels refined with MassGIS Master Address Points."
 }
