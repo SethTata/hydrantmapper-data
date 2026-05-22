@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-22T13:01:47Z",
+  "generated_at": "2026-05-22T13:27:00Z",
   "jurisdictions": [
     {
       "slug": "boston-allston",
@@ -370,7 +370,7 @@
       "slug": "lynn-ma",
       "display_name": "Lynn",
       "state": "MA",
-      "version": 2,
+      "version": 3,
       "bbox": [
         42.44667264,
         -70.99553248,
